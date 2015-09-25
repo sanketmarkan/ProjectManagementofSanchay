@@ -1,0 +1,38 @@
+<Sentence id="18">
+1	((	NP	<fs af='sAWa,nst,m,sg,3,d,,' hlt=false head=sAWa drel=sent-adv:VGF posn=10 name=NP>
+1.1	sAWa	NST	<fs af='sAWa,nst,m,sg,3,d,,' hlt=false name=sAWa posn=10>
+1.2	hI	RP	<fs af='hI,avy,,,,,,' hlt=false name=hI posn=20>
+	))		
+2	((	NP	<fs af='meharA,n,m,sg,3,o,0,0' hlt=false head=meharA drel=k4:VGF posn=30 name=NP2>
+2.1	meharA	NNP	<fs af='meharA,n,m,sg,3,o,0,0' hlt=false name=meharA posn=30>
+2.2	ko	PSP	<fs af='ko,psp,,,,,,' hlt=false name=ko posn=40>
+	))		
+3	((	NP	<fs af='apanA,pn,f,sg,any,o,0,0' hlt=false head=apanI drel=r6:NP4 posn=50 name=NP3>
+3.1	apanI	PRP	<fs af='apanA,pn,f,sg,any,o,0,0' hlt=false name=apanI posn=50>
+	))		
+4	((	NP	<fs af='apIla,n,f,sg,3,o,0,0' hlt=false head=apIla drel=r6:NP5 posn=60 name=NP4>
+4.1	apIla	NN	<fs af='apIla,n,f,sg,3,o,0,0' hlt=false name=apIla posn=60>
+4.2	ke	PSP	<fs af='kA,psp,m,sg,,o,,' hlt=false name=ke posn=70>
+	))		
+5	((	NP	<fs af='samarWana,n,m,sg,3,o,0,0' hlt=false head=samarWana drel=k7:VGNN posn=80 name=NP5>
+5.1	samarWana	NN	<fs af='samarWana,n,m,sg,3,o,0,0' hlt=false name=samarWana posn=80>
+5.2	meM	PSP	<fs af='meM,psp,,,,,,' hlt=false name=meM posn=90>
+	))		
+6	((	NP	<fs af='halaPanAmA,n,m,sg,3,d,0,0' hlt=false head=halaPanAmA drel=k2:VGNN posn=120 name=NP6>
+6.1	eka	QC	<fs af='eka,num,any,any,,any,,' hlt=false name=eka posn=100>
+6.2	awirikwa	JJ	<fs af='awirikwa,adj,any,any,,d,,' hlt=false name=awirikwa posn=110>
+6.3	halaPanAmA	NN	<fs af='halaPanAmA,n,m,sg,3,d,0,0' hlt=false name=halaPanAmA posn=120>
+	))		
+7	((	JJP	<fs af='xAKila,adj,any,any,,,,' hlt=false head=xAKila drel=pof:VGNN posn=130 name=JJP>
+7.1	xAKila	JJ	<fs af='xAKila,adj,any,any,,,,' hlt=false name=xAKila posn=130>
+	))		
+8	((	VGNN	<fs af='kara,v,any,any,any,o,nA,nA' hlt=false head=karane drel=rt:VGF posn=140 name=VGNN>
+8.1	karane	VM	<fs af='kara,v,any,any,any,o,nA,nA' hlt=false name=karane posn=140>
+8.2	ko	PSP	<fs af='ko,psp,,,,,,' hlt=false name=ko2 posn=150>
+	))		
+9	((	VGF	<fs af='kaha,v,m,sg,any,,yA,yA' hlt=false head=kahA stype=declarative posn=160 name=VGF voicetype=active>
+9.1	kahA	VM	<fs af='kaha,v,m,sg,any,,yA,yA' hlt=false name=kahA posn=160>
+9.2	hE	VAUX	<fs af='hE,v,any,sg,3,,hE,hE' hlt=false name=hE posn=170>
+9.3	.	SYM	<fs af='.,punc,,,,,,' hlt=false name=. posn=180>
+	))		
+</Sentence>

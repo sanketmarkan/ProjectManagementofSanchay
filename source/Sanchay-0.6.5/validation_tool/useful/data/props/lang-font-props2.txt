@@ -1,0 +1,24 @@
+Column Names::Language	FontName
+
+#Language codes as per ISO 639-2
+
+#English
+eng-utf8	Helvetica
+
+#Hindi
+hin-utf8	Lohit Hindi
+
+#Bengali
+ben-utf8	Lohit Bengali
+
+#Punjabi
+pan-utf8	Lohit Punjabi
+
+#Gujarati
+guj-utf8	Lohit Gujarati
+
+#Tamil
+tam-utf8	Lohit Tamil
+
+#Telugu
+tel-utf8	Pothana2000

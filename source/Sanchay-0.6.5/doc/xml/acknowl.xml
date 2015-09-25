@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appendix>
+  <title>Acknowledgements</title>
+
+  <subtitle>Academy Award Style: I do academic work, so I might get an Academy
+  Award one day</subtitle>
+
+  <sect1>
+    <title><ulink url="http://ltrc.iiit.net">LTRC</ulink>, <ulink
+    url="http://iiit.net">IIIT, Hyderabad</ulink>, India</title>
+
+    <para>For giving me a place to work and study, allowing me to work on
+    Sanchay and actually using parts of it.</para>
+  </sect1>
+
+  <sect1>
+    <title><ulink url="http://www.gate.ac.uk/">GATE</ulink>, <ulink
+    url="http://opennlp.sourceforge.net/">OpenNLP</ulink> and <ulink
+    url="http://mallet.cs.umass.edu/index.php/Main_Page">Mallet</ulink></title>
+
+    <para>For showing that it is possible to build open source
+    libraries/platforms on on a fairly large scale for researchers. I have
+    also either used them in Sanchay for certain things (like Hindi POS
+    tagger) or plan to use them in the future.</para>
+  </sect1>
+
+  <sect1>
+    <title><ulink url="http://www.javaworld.com/">Java World</ulink>, <ulink
+    url="http://java.sun.com/docs/books/tutorial/">Sun Java Tutorial</ulink>,
+    <ulink url="http://www.jroller.com/page/santhosh/">Santosh Kumar&#39;s
+    Weblog</ulink> and Many Others</title>
+
+    <para>For providing very useful examples with copiable and modifiable
+    code.</para>
+  </sect1>
+
+  <sect1>
+    <title><ulink url="http://www.eclipse.org/">Eclipse</ulink> and <ulink
+    url="http://www.netbeans.org/">Netbeans</ulink></title>
+
+    <para>For making it possible for an individual to build real applications
+    in less than one&#39;s lifetime.</para>
+  </sect1>
+
+  <sect1>
+    <title>All the <ulink
+    url="http://en.wikipedia.org/wiki/Stand_on_the_shoulders_of_giants">Giants</ulink>
+    in History</title>
+
+    <para>On whose shoulders one can stand and see farther.</para>
+  </sect1>
+</appendix>

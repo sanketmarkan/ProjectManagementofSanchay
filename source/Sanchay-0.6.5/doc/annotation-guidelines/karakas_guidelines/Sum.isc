@@ -1,0 +1,315 @@
+                Workshop on Annotation of Hindi Corpus
+                           (5-9 January, 2006)
+                     IIIT Hyderabad.
+
+
+   Participants: Profs. V.R. Jagannathan, K.K. Goswami, Thakur Dass and
+Dr. L.M. Bahuguna
+
+  IIIT, Hyd.: Dr. Dipti m. sent-harma, Prof. Lakshmi Bai, Dr. Shoma Paul,
+            Anil  Kumar sent-ingh and Preeti Agarwal.
+
+ On the basis of the discussions, the following points emerged and the
+ decisions talken:-
+
+1.        A sequence of Adjective/Noun +Verb ( such as ïB³ÏÆÚ / ïBØåÆÚ
+.may be presently treated as ïB³èÏÛÍÚÌŞÑ under the following conditions:-
+     
+	a) A sequence of derived adjectives (such as ÈÏÛÔÏèÂÛÂ, ¨Âè×ÚØÛÂ
+etc) followed by '³ÏÆÚ/ØåÆÚ' ' type of verbs may be treated as a
+'³èÏÛÍÚÌŞÑ'. '¤ÈÌÚÆÛÂ ³ÏÆÚ ', '¨Âè×ÚØÛÂ ³ÏÆÚ', 'ÈÏÛÔÏèÂÛÂ ³ÏÆÚ' are some
+of the examples of this type.For example :
+
+sent-1 : ¨Æ³á ºÜÔÆ Æá ÔÛÄèÍÚÏèÃÛÍå¢ ³å ÊØİÂ [¨Âè×ÚØÛÂ ³ÛÍÚ]
+ 
+      NOTE : A sequence of root adjectives such as '¾Ü³', '¤¸è¹Ú',
+      '×ÉáÄ' etc followed by '³ÏÆÚ/ØåÆÚ' may be left unmarked for the
+      time being. They need further discussion before we arrive at any
+      final decision on how these sequences need to be treated within
+      our framework.
+
+	b) A sequence of noun followed by verb ('³ÏÆÚ/ØåÆÚ' type) may be
+marked as a 'verb' in case the sentence contains a noun which holds
+the 'karma'(k2) relation with this collective unit. The noun holding
+'k2' relation has to be distinct from the noun in the 'noun-karanA'
+sequence. For example, if we take the sequence
+'³èÖÌÚ ³ÏÆÚ' in the following sentence
+
+sent-2 : ïBÏÚºÚ Æá ¤ÈÆá Ì¢ÂèÏÜ ³å ïB[³èÖÌÚ ³Ï ÄÛÍÚ]ê
+ 
+sent-2 above has 'Ì¢ÂèÏÜ' as 'k2' which is distinct from the noun '³èÖÌÚ',
+the noun which co-occurs with '³ÏÆÚ' in '³èÖÌÚ ³Ï ÄÛÍÚ' sequence.
+
+sometimes the 'karma' in such constructions might be marked with the
+vibhakti '³Ú/³á/³Ü'. Therefore, though the vibhakti might be '³Ú/³á/³Ü'
+which normally marks a genitive relation, in such specific constructions
+the drel of this noun unit has to be marked as 'k2'. For example :
+
+sent-3 : ÏÚÌ Æá ÏÔÛ ³Ü ÈèÏÂÜ³èÖÚ ³Ü
+sent-4 : ³ÚÏèÍÕÚÑÚ ³á ÑÛÍá 25 Ñåµå¢ ³Ú ÆÚÌÚ¢³Æ ³ÛÍÚ µÍÚ 
+
+In the above examples, 'ÏÔÛ' in sent-3 and '25 Ñåµå¢' in S4 hold 'karma'
+relation with the respective verbs 'ÈèÏÂÜ³èÖÚ ³Ü' and 'ÆÚÌÚ¢³Æ ³ÛÍÚ
+µÍÚ'. Therefore, they have to be marked as 'k2' and not as 'r6'.
+
+	c) A test that can be applied to confirm the status of such
+sequences as a verb is to see whether the unit can take an adverb
+
+	d)   A sequence of noun followed by verb, for example, ' snAna 
+karanA' may also be treated as  a kriyAmUla in case there is no distinct
+'k2' in the sentence. Following syntactic test may be applied to confirm
+the sequence as a single verbal unit.
+       Try a pariticpial construction using the unit as a verb. Eg
+
+	sent-5(a) : ¦× ¤Ô×Ï ÈÏ ³§ Ñåµå¢ Æá ³ÚÌ ³ÛÍÚ	
+	sent-5(b) : ¦× ¤Ô×Ï ÈÏ ³§ Ñåµå¢ ÄèÔÚÏÚ ³ÛÍá µÍá ³ÚÌ ÊØİÂ È×ÆèÄ ³ÛÍá µÍá
+
+	sent-6(a) : ³İÌèË Ìá¢ ³§ ÑÚ´ Ñåµå¢ Æá ×èÆÚÆ ³ÛÍÚ
+	*sent-6(b) : ³İÌèË Ìá¢ ³§ ÑÚ´ Ñåµå¢ ÄèÔÚÏÚ ³ÛÍá µÍá ×èÆÚÆ ½Ü.ÔÜ. ÈÏ ÄÛ´ÚÍá µÍá.		
+
+               
+2.         Expressions such as 'ïB³ÑÚÂèÌ³ ÔÛ³Ú× ³ÛÍÚ Øâ' in the sentence
+'¦× ÄÛÕÚ Ìá¢ ¨ÆèØå¢Æá ¤ÈÆÜ ÈèÏÂÛËÚ ³Ú ³ÑÚÂèÌ³ ÔÛ³Ú× ³ÛÍÚ Øâ' should be
+analysed in the following way. 'ÔÛ³Ú× ³ÛÍÚ' may be treated as a verb
+since 'ÈèÏÂÛËÚ' is a disticnt 'k2' of 'Ô³Ú× ³ÛÍÚ Øâ'. Once 'ÔÛ³Ú× ³ÛÍÚ
+Øâ' is established as a verb, one needs to mark the appropriate relation
+of '³ÑÚÂèÌ³' with 'ÔÛ³Ú×'. Although '³ÑÚÂèÌ³' is an adjective, in  this
+context it is fucntioning as an adverb and has to be thus marked. The
+underlying sense of '³ÑÚÂèÌ³' is '³ÑÚÂèÌ³ ÏŞÈ ×á'.
+
+Current entry:
+
+(( VG
+ïB³ÑÚÂèÌ³ 
+ïBÔÛ³Ú× 
+ïB³ÛÍÚ 
+ïBØâ 
+))
+
+Corrections to be made:
+
+sent-tep 1
+sent-eparate ïB³ÑÚÂèÌ³ from the rest of the VG.  Thus
+
+((
+ïB³ÑÚÂèÌ³ 
+))
+((
+ïBÔÛ³Ú× ³ÛÍÚ Øâ
+))
+
+sent-tep 2 
+Mark nodes for the separated chunks.
+
+(( RBP
+ïB³ÑÚÂèÌ³
+))
+(( VG
+ïBÔÛ³Ú× 
+ïB³ÛÍÚ Øâ 
+))
+
+sent-tep 3
+Establish relations between the chunks.
+
+(( RBP		<drel=adv:1>
+ïB³ÑÚÂèÌ³
+))
+(( VG		<name=1>
+ïBÔÛ³Ú× 
+ïB³ÛÍÚ Øâ 
+))
+
+
+3. The relations between two nouns can be of the following type :
+
+a) Genitive : which may occur with an explicit vibhakti 'kA/ke/kI'.
+For example : ÌáÏá ÈÛÂÚ ³Ü Äİ³ÚÆ, ÏÚºÚ ³Ú Êá½Ú 
+
+The genitive has to be marked by giving value 'r6' for the attribute
+'drel'. ÌáÏá ÈÛÂÚ ³Ü/r6 Äİ³ÚÆ,  ÏÚºÚ ³Ú/r6 Êá½Ú
+
+b) The two nouns may also have a 'part and whole' relation. For example,
+
+   sent-7 : ¥º ÕÚÌ ×ÚÂ Êºá ¥ÆÚ
+
+In the above example each of the elements '¥º, ÕÚÌ' and '×ÚÂ' is a
+time expression. However, together they form one large time expression
+wherein they are related to each other in terms of 'part-whole'. '¥º'
+is the largest unit and '×ÚÂ Êºá' the smallest of the larger time
+expression ¥º ÕÚÌ ×ÚÂ Êºá.  sent-uch relations have to be marked in the
+following way:
+
+
+(( NP	<drel=k7t:1/ name=2>
+¥º
+))
+(( NP	<drel=r6:2/name=3>
+ÕÚÌ
+))
+(( NP	<drel=r6:3>
+×ÚÂ
+Êºá
+))
+(( VG	<name=1>
+¥ÆÚ
+))
+
+Here the expression '¥º ÕÚÌ ×ÚÂ Êºá' is the '³ÚÑ ¤ÅÛ³ÏÁ' of the verb
+'¥ÆÚ' which is expressed by marking 'k7t' against the head of the
+totaltime expression. The relation of the elements within the expression
+is marked by 'r6' sent-uch a part and whole relation may have an explicit
+vibhakti other than '³Ú/³á/³Ü'. For example:
+
+sent-8 : ØÌÚÏá ¶Ï Ìá¢ Ï×å§ Ìá¢ ºŞÂá ÆØÜ¢ ºÚÂá
+
+(( NP	<drel=k7p:1/name=2>
+ØÌÚÏá
+¶Ï
+Ìá¢
+))
+(( NP	<drel=r6:2/name=3>
+Ï×å§
+Ìá¢
+))
+(( NP	<drel=k1>
+ºŞÂá
+))
+(( VG	<name=1>
+ÆØÜ¢
+ºÚÂá
+))
+
+In the above example, though '¶Ï' and 'Ï×å§' have vibhakti 'Ìá¢' the
+relation of 'Ï×å§' to '¶Ï' is that of 'r6' as 'Ï×å§' is a part of the
+larger place expression '¶Ï'. Therefore, it has been marked as r6.
+
+4.      The anaphora  is not to be marked at this level. For example -
+
+        sent-9 : ïBÌáÏÚ ËÚ§ ÄÛÑèÑÜ ×á ¥ ÏØÚ Øâ ±Ï ÔØ ÍØÚ¡ ÂÜÆ ÄÛÆ ÏØáµÚ ê
+
+In this example, we do not mark any relationship between ïBÌáÏÚ ËÚ§ and
+ïBÔØ or ïBÄÛÑèÑÜ andïB ÍØÚ¡ ê However, in case of relative clauses, the
+relationship between the noun and its relativized noun has to be marked.
+For example
+                 
+	sent-10 : ÌáÏÚ ËÚ§ ºå ÄÛÑèÑÜ ×á ¥ ÏØÚ Øâ, ÍØÚ¡ ÂÜÆ ÄÛÆ ÏØáµÚ ê
+
+(( NP  <name:1>
+ïBÌáÏÚ 
+ïBËÚ§
+))
+(( NP  <coref=1>
+ïBºå
+))
+
+some more examples:
+
+	sent-11 : ¦Æ ÊÚ¡×İÏÛÍå¢ Ìá¢ Ìİ´Ï¢ÅèÏ ïBï0­×á ×èÙÃÚÆå¢ ïBï0ÈÏ ÊÆÚÂá
+              Øâ¢ ïBï0ºØÚ¡ ïBï0ÊÚ¡× ³Ü µÚ¡¾ ØåÂÜ Øâ ê 
+
+(( NP <name:1>
+ïB­×á 
+ïB×èÙÃÚÆå¢ïBï0 
+ïBÈÏ
+))
+(( NP  <coref=1>
+ïBºØÚ¡
+))
+
+
+5.   ïB³Ü ¤Èá³èÖÚ, ³Ü ÂİÑÆÚ Ìá¢, ³á ºâ×Ú etc., may be marked ïB as K*u
+(where the value of * may be k1 or k2, as he case may be. ïB³á ×ÚÃ,
+³á ¤ÑÚÔÚ etc. may be marked as 'ras'.
+
+6.   Discourse connectors (BLK) ïB¦×ÜÑÛ¬, ¦× ÔÛ¸ÚÏ ×á, ÈèÏÚÍ: etc.should
+be shown a relationshiop with the sentence with which they occur.
+The head of the sentence will have a "ccof" relation with the conjunct.
+
+   6 a) Ìâ¢Æá ³ØÚ ³Û ÔØ ÈÚ× Øå ºÚ¬µÚ
+
+   6 b)    CC (that,so that etc.)
+           |
+       ccof|
+           | 
+	ÈÚ× Øå ºÚ¬µÚ
+
+   6 c) 
+	(( NP
+	Ìâ¢Æá
+	))
+	(( VG	<name=1>
+	³ØÚ
+	))
+	(( BLK	<name=2/drel=k2:1>
+	³Û
+	))
+	(( NP
+	ÔØ
+	))
+	(( VG	<drel=ccof:2>
+	ÈÚ×
+	Øå
+	ºÚ¬µÚ
+	))
+
+7. Coordinate constructions (CC) ïB±Ï, ÂÃÚ, ³Û, ÂÚ³Û etc.  are to be
+marked 'ccof' in the following way: 
+          
+    7 a) Ìâ¢ ÊÚºéÚÏ µÍÚ ±Ï Ôá Ñåµ ¶Ï ÈÏ Ïİ³á
+
+    7 b)  CC (and, but etc.)  
+          /\  
+     ccof/  \ ccofïB    
+        /    \
+      µÍÚ    Ïİ³á
+
+    7 c)
+
+
+	(( NP
+	Ìâ¢
+	))
+	(( NP
+	ÊÚºéÚÏ
+	))
+	(( VG	<drel=ccof:1>
+	µÍÚ
+	))
+	(( BLK	<name=1>
+	±Ï
+	))
+	(( NP	
+	ÔØ
+	Ñåµ
+	))
+	(( NP
+	¶Ï
+	ÈÏ
+	))
+	(( VG	<drel=ccof:1>
+	Ïİ³á
+	))
+
+
+8.      sometimes the previously given labels at the POS level or at the
+chunk level might be marked wrongly. Thus, it may require a change in
+the labelling. For instance, take sentence sent-12 below
+   
+	sent-12 : ïBÔØ ×ÚÅÚÏÁ ×á ×ÚÅÚÏÁ Ô×èÂİ Ìá¢ ÔÛÕÛÖè½ µİÁå¢ ³Ü
+	      ïBï0ï2[³ÑèÈÆÚ ³åïBï0ï]]/NP [ïBï0ï2×Ú³ÚÏ ³ÏÆá ³Ü]/NPïBï2
+	      ïBï2¸áÖè½Ú Ìá¢ïBï0ï2 ÑµÚ ê
+
+In sent-12 above '³ÑèÈÆÚ ³å' and '×Ú³ÚÏ ³ÏÆá ³Ü' are marked as NPs. Although
+'×Ú³ÚÏ ³ÏÆá ³Ü' is a nominal form and is also functioning like one,
+it is derived from a verb and it takes its arguments like any other
+verb. In fact '³ÑèÈÆÚ ³å' is 'k2' of '×Ú³ÚÏ ³ÏÆá ³Ü'. In order to 
+capture this relation we have to mark '×Ú³ÚÏ ³ÏÆá ³Ü' as a VG. Thus the
+current annotation will be changed to
+
+	sent-12 b : ÔØ ×ÚÅÚÏÁ ×á ×ÚÅÚÏÁ Ô×èÂİ Ìá¢ ÔÛÕÛÖè½ µİÁå¢ ³Ü
+
+
+	ïBï0ï2[³ÑèÈÆÚ ³åïBï0ï]]/NP [ïBï0ï2×Ú³ÚÏ ³ÏÆá ³Ü]/VGïBï2
+	ïBï2¸áÖè½Ú Ìá¢ïBï0ï2 ÑµÚ ê
+

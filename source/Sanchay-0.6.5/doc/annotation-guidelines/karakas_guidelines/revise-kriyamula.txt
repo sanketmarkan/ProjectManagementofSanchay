@@ -1,0 +1,26 @@
+ADD-Guidelines (23-02-06)
+
+
+A revisit to the  discussion of representating kriyamula verbs in Indian Languages led to the following conclusion 
+
+Since the noun within a kriyamula retaining its nominal property can be modified by an adjective we should be able to represent it in the dependency tree. Current method of representation does not address this problem. Take the following example :
+
+1. mEMne unase eka prashna pUCA
+
+POS : mEMne_PRP unase_PRP eka_QF prashna_NVB  kiyA_VFM
+Chunk : ((meMne_PRP))_NP ((unase_PRP))_NP ((eka_QF))_JJP ((prashna_NVB  kiyA_VFM))_VG
+Dependency tree : ((meMne_PRP))_NP/k1 ((unase_PRP))_NP/k2  ((eka_QF))_JJP/? ((prashna_NVB  kiyA_VFM))_VG
+
+'eka' in the above example is a modifier of 'prashna'. 'prashna' itself is a part of the conjunct verb 'prashna kiyA'. Since 'prashna kiyA' is already grouped as one chunk, it is not possible to establish relation between 'eka' and 'prashna'. To overcome this problem following is proposed.
+
+In the proposed  alternative, we tag the noun of the kriyamula as NN (instead of NVB) at the POS level. Threafter, the noun is grouped  with its preceding ajectival modifiers as  an NP  chunk. The only problem in this approach is that the information of a noun verb sequence being a 'kriyamula' is not captured at the chunk level and the noun of the 'kriyamula' is separated from its verbaliser. Thus,  to show the 'parts-of' relation between the noun and the verbeliser of a kriyamula, a new tag can be introduced.  The new tag can be named as 'vof' (parts of verb). Thus the revised analysis of the above sentence would be :
+
+POS :  mEMne_PRP unase_PRP eka_QF prashna_NN  kiyA_VFM
+Chunk : ((meMne_PRP))_NP ((unase_PRP))_NP ((eka_QF prashna_NN))_NP           (( kiyA_VFM))_VG
+Syntactic level : ((meMne_PRP))_NP/k1 ((unase_PRP))_NP/k2  ((eka_QF prashna_NN))_NP/vof  (( kiyA_VFM))_VG
+
+The advantage of this revision is that :
+
+1) It allows us to show the modifier-modified relation between an adjective such as 'eka' in the above example with its modified noun  'prashna'. 
+2) Since the information of a noun verb sequence being a 'kriyamula' is  crucial at the syntactic level, it is captured at this level by marking the relation between the 'noun' and its verbaliser by an appropriate tag. 
+

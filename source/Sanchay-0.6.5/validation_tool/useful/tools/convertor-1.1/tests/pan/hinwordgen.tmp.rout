@@ -1,0 +1,7 @@
+4	((	NP	<fs af='@ਲਦਦਾਖ,unk,,,,,0_ਕਾ,' head='ਲਦਦਾਖ'  poslcat='NM'>
+4.1	ਲੇਹ	NNP	<fs af='ਲੇਹ,n,f,sg,3,d,,'>
+4.2	ਕਾ	PSP	<fs af='ਕਾ,psp,m,sg,3,,,'>
+
+4.3	-	SYM	<fs af='&ndash;,punc,m,sg,3,,,' poslcat='NM'>
+4.4	@ਲਦਦਾਖ	NN	<fs af='@ਲਦਦਾਖ,unk,m,sg,3,,,' name='ਲਦਦਾਖ'  poslcat='NM'>
+	))

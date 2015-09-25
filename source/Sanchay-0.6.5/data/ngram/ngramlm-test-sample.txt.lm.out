@@ -1,0 +1,72 @@
+\data\
+ngram 1=16
+ngram 2=22
+ngram 3=26
+\1-grams:
+-1.0791812	 <s>	-0.8750613	3
+-1.5185139	 a	-0.6989700	1
+-1.2174839	 possible	-1.0000000	2
+-1.5185139	 reconstruction	-1.0000000	2
+-1.2174839	 of	-1.1760913	3
+-1.0413927	 the	-0.8750613	6
+-1.5185139	 vina	-0.6989700	2
+-1.2174839	 is	-0.6989700	2
+-1.2174839	 given	-1.0000000	2
+-1.5185139	 here	-1.0000000	2
+-1.2174839	 .	-1.1760913	3
+-1.5185139	 </s>	0.0000000	3
+-1.5185139	 region	-0.6989700	1
+-1.5185139	 resembles	-0.6989700	1
+-1.5185139	 yantra	-0.6989700	2
+-1.5185139	 not	-0.6989700	1
+\2-grams:
+-0.5675004	 <s> a	-0.6989700	1
+-0.0903791	 a possible	-0.6989700	1
+-0.0442977	 possible reconstruction	-1.0000000	2
+-0.0428428	 reconstruction of	-1.0000000	2
+-0.0271522	 of the	-0.6989700	3
+-0.5170687	 the vina	-0.6989700	2
+-0.3849750	 vina is	-0.6989700	1
+-0.3849750	 is given	-0.6989700	1
+-0.0442977	 given here	-1.0000000	2
+-0.0428428	 here .	-1.0000000	2
+-0.0290242	 . </s>	0.0000000	3
+-0.2131626	 <s> the	-0.6989700	2
+-0.3849750	 vina of	-0.6989700	1
+-0.8620963	 the region	-0.6989700	1
+-0.0936323	 region resembles	-0.6989700	1
+-0.0871502	 resembles the	-0.6989700	1
+-0.5170687	 the yantra	-0.6989700	2
+-0.3849750	 yantra .	-0.6989700	1
+-0.8495072	 the possible	-0.6989700	1
+-0.3849750	 yantra is	-0.6989700	1
+-0.3914091	 is not	-0.6989700	1
+-0.0903791	 not given	-0.6989700	1
+\3-grams:
+-0.0166334	 <s> a possible	1
+-0.0085054	 a possible reconstruction	1
+-0.0040990	 possible reconstruction of	2
+-0.0026401	 reconstruction of the	2
+-0.4848222	 of the vina	1
+-0.3165709	 the vina is	1
+-0.0543226	 vina is given	1
+-0.0085054	 is given here	1
+-0.0040990	 given here .	2
+-0.0028167	 here . </s>	2
+-0.3364799	 <s> the vina	1
+-0.3165709	 the vina of	1
+-0.0052963	 vina of the	1
+-0.5314438	 of the region	1
+-0.0171808	 the region resembles	1
+-0.0160868	 region resembles the	1
+-0.0650937	 resembles the yantra	1
+-0.3165709	 the yantra .	1
+-0.0056517	 yantra . </s>	1
+-0.3682693	 <s> the possible	1
+-0.0085054	 the possible reconstruction	1
+-0.4848222	 of the yantra	1
+-0.3165709	 the yantra is	1
+-0.0549195	 yantra is not	1
+-0.0166334	 is not given	1
+-0.0085054	 not given here	1
+\end\

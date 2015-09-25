@@ -1,0 +1,11 @@
+1	((	NP	<fs af='parisrabaNa,n,m,p,,0,0,'>
+1.1	parisrabaNa	QF	<fs af='parisrabaNa,n,m,s,,0,,'>
+1.2	parisrabaNa	NN	<fs af='parisrabaNa,n,m,p,,0,0,'>
+	))		
+2	((	NP	<fs af='parisrabaNa,n,f,s,,0,0,'>
+2.1	parisrabaNa	NN	<fs af='parisrabaNa,n,f,s,,0,0,'>
+	))		
+3	((	VGF	<fs af='parisrabaNa,v,m,p,any,,wA_hE,'>
+3.1	parisrabaNa	VM	<fs af='parisrabaNa,v,m,p,any,,wA,'>
+3.2	.	SYM	
+	))		

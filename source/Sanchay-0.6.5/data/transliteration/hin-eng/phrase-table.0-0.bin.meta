@@ -1,0 +1,17 @@
+Destination file (base): /home/anil/sanchay/Sanchay/data/transliteration/hi-en-utf8/phrase-table.0-0.bin
+Command line: -config /home/anil/sanchay/Sanchay/data/transliteration/hi-en-utf8/transliteration-hi-en-phramer.fast.ini
+Vocabulary files preload: false
+Generation start: Sat Jan 16 04:31:47 IST 2010
+URL: memory:sorted:/home/anil/sanchay/Sanchay/data/transliteration/hi-en-utf8/phrase-table.0-0
+ttLimit: 10
+maxPhraseLength: 10
+ttThreshold: 0.0
+ttTresholdWeights: 0.49498387135257477 0.715942408333056 1.0 0.274106299325343 -0.3461411058900711
+hasAlign: false
+Extracting vocabularies/alignment start: Sat Jan 16 04:31:48 IST 2010
+Extracting vocabularies/alignment end: Sat Jan 16 04:31:48 IST 2010
+Conversion start: Sat Jan 16 04:31:48 IST 2010
+Conversion end: Sat Jan 16 04:31:49 IST 2010
+Kept 51231/51957 = 98.6%
+F entries: 36943
+Generation end: Sat Jan 16 04:31:49 IST 2010

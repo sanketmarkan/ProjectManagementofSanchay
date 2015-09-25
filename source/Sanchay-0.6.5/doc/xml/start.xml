@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter>
+  <title>Getting Started</title>
+
+  <sect1>
+    <title>Assumptions</title>
+
+    <para>You can use Sanchay if:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>You have at least 1GHz system with at least 256 MB RAM
+        (preferably 512)</para>
+      </listitem>
+
+      <listitem>
+        <para>Your system has JRE or JDK-1.5 installed on your system</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Otherwise, you will have to install it. It&#39;s not very
+            difficult if you have access to the installation file for your
+            system (computer and operating system)</para>
+          </listitem>
+
+          <listitem>
+            <para>It is free, but you have to get it from somewhere. You can
+            get it from the Interner if you have a reasonable high speed
+            connection (the file size is 50-100 MB for JDK, lesser for JRE)</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>You get a copy the Sanchay tar or zip file</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Getting Sanchay</title>
+
+    <para>You can get Sanchay from <ulink
+    url="http://sourceforge.net/projects/nlp-sanchay/">Sourceforge.net</ulink>.</para>
+  </sect1>
+
+  <sect1>
+    <title>Installing</title>
+
+    <para>If you downloaded the tar file (Sanchay.tar), just untar the tar
+    file in the directory where you want Sanchay:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>On Unix/Linux, type on the console:</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>tar xvzf Sanchay.tar</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>On Windows, better use the zip file</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>If you downloaded the zip file (Sanchay.zip), just unzip the zip
+    file in the directory where you want Sanchay:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>On Unix/Linux, type on the console:</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>unzip Sanchay.zip</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>On Windows, use a program like WinZip to unzip the file</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>There is nothing more to be done for installation.</para>
+  </sect1>
+
+  <sect1>
+    <title>Using Applications</title>
+
+    <para></para>
+  </sect1>
+
+  <sect1>
+    <title>Using APIs</title>
+
+    <para>In Sanchay/dist directory, there is a file called Sanchay.jar.
+    Include it in your classpath and import the classes you want to use in
+    your Java program.</para>
+  </sect1>
+
+  <sect1>
+    <title>Finding Bugs</title>
+
+    <para></para>
+  </sect1>
+
+  <sect1>
+    <title>Contributing</title>
+
+    <para></para>
+  </sect1>
+</chapter>

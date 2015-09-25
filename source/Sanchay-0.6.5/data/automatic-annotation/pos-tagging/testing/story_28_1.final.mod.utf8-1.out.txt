@@ -1,0 +1,3421 @@
+<Meta>
+
+</Meta>
+<Story id="null">
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	कुछ	QF	
+3	सुझाव	NN	
+4	देना	VM	
+5	चाहूँगा	VFM	
+6	कि	CC	
+7	जैसे	RP	
+8	इस	DEM	
+9	वक्‍	VFM	
+10	कर्मचारी	NN	
+11	है	DEM	
+12	,	SYM	
+13	धियाडी	ECH	
+14	पर	PSP	
+15	जो	DEM	
+16	काम	NN	
+17	कर	VM	
+18	रहें	VM	
+19	हैं	VAUX	
+20	पिछले	NST	
+21	तीन	XC	
+22	-	SYM	
+23	चार	XC	
+24	सालों	VFM	
+25	से	NNP	
+26	,	SYM	
+27	उनको	PRP	
+28	नियमित	JJ	
+29	करने	VM	
+30	में	PSP	
+31	काफी	INTF	
+32	परेशानी	NN	
+33	आ	VM	
+34	रही	VAUX	
+35	है	VAUX	
+36	और	CC	
+37	8	QC	
+38	-	SYM	
+39	9	QC	
+40	सालों	NN	
+41	से	PSP	
+42	जो	DEM	
+43	धियाडी	VFM	
+44	पर	PSP	
+45	लगे	VAUX	
+46	हुए	VAUX	
+47	थे	VAUX	
+48	वे	PRP	
+49	भी	RP	
+50	नियमित	JJ	
+51	नहीं	NEG	
+52	हुए	VAUX	
+53	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जो	DEM	
+2	लोग	NN	
+3	बेरोजगार	VFM	
+4	है	DEM	
+5	,	SYM	
+6	उनके	PRP	
+7	बारे	PSP	
+8	में	PSP	
+9	आप	PRP	
+10	किसी	PRP	
+11	एक्सियन	VFM	
+12	से	NNP	
+13	,	SYM	
+14	एस	XC	
+15	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ई	NNP	
+2	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	से	INJ	
+2	बात	NN	
+3	करें	VM	
+4	तो	RP	
+5	वे	PRP	
+6	कहते	VM	
+7	हैं	VAUX	
+8	कि	CC	
+9	हम	PRP	
+10	क्या	WQ	
+11	करें	VAUX	
+12	,	SYM	
+13	हमारे	PRP	
+14	हाथ	NN	
+15	बन्धे	VFM	
+16	हुए	VAUX	
+17	हैं	VAUX	
+18	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सभापति	XC	
+2	:	SYM	
+3	माननीय	JJ	
+4	सदस्य	XC	
+5	,	SYM	
+6	वाईन्डअप	ECH	
+7	करिये	VFM	
+8	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	श्री	INJ	
+2	योगराज	ECH	
+3	:	SYM	
+4	आज	PRP	
+5	सभी	QF	
+6	मेरा	PRP	
+7	वक्त	NST	
+8	लेने	VAUX	
+9	की	PSP	
+10	कोशिश	NN	
+11	कर	VM	
+12	रहे	VAUX	
+13	हैं	VAUX	
+14	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	तो	CC	
+2	मैं	PRP	
+3	कह	VM	
+4	रहा	VAUX	
+5	था	VAUX	
+6	कि	CC	
+7	जो	DEM	
+8	रोजगार	VFM	
+9	मिल	VM	
+10	सकता	VAUX	
+11	था	VAUX	
+12	वह	PRP	
+13	नहीं	NEG	
+14	मिल	VM	
+15	रहा	VAUX	
+16	है	VAUX	
+17	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	अधिकारियों	NN	
+3	से	PSP	
+4	प्रार्थना	NN	
+5	करूँगा	VM	
+6	कि	CC	
+7	ये	DEM	
+8	जो	DEM	
+9	रुकावट	VFM	
+10	किसी	PRP	
+11	वजह	NN	
+12	से	PSP	
+13	आई	UNK	
+14	हुई	VAUX	
+15	है	DEM	
+16	,	SYM	
+17	उसको	PRP	
+18	दूर	NST	
+19	करें	VM	
+20	और	CC	
+21	जिन	DEM	
+22	लोगों	NN	
+23	को	PSP	
+24	डेली	ECH	
+25	-	SYM	
+26	वेजिज	ECH	
+27	पर	PSP	
+28	लगा	VAUX	
+29	सकते	VAUX	
+30	हैं	VAUX	
+31	उनको	PRP	
+32	लगाए	VM	
+33	ताकि	CC	
+34	बेकार	JJ	
+35	लोगों	NN	
+36	को	PSP	
+37	राहत	NN	
+38	मिले	VM	
+39	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सभापति	INJ	
+2	महोदया	ECH	
+3	,	SYM	
+4	मैं	PRP	
+5	एक	QC	
+6	बात	NN	
+7	और	CC	
+8	कहना	VM	
+9	चाहूँगा	VFM	
+10	कि	CC	
+11	अभी	PRP	
+12	सरकार	NN	
+13	ने	PSP	
+14	एक	QC	
+15	स्कीम	VFM	
+16	चलाई	VFM	
+17	है	DEM	
+18	,	SYM	
+19	हरिजनों	NN	
+20	के	PSP	
+21	घरों	NN	
+22	में	PSP	
+23	बिजली	NN	
+24	देने	VM	
+25	के	PSP	
+26	लिए	PSP	
+27	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	लिए	PSP	
+3	मैं	PRP	
+4	सरकार	NN	
+5	को	PSP	
+6	बधाई	VFM	
+7	देता	VAUX	
+8	हूँ	VAUX	
+9	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	बधाई	UNK	
+2	इसलिए	CC	
+3	देना	VM	
+4	चाहता	VAUX	
+5	हूँ	VAUX	
+6	कि	CC	
+7	हरिजनों	NN	
+8	का	PSP	
+9	ख्याल	NN	
+10	सरकार	NN	
+11	बहुत	INTF	
+12	रखती	VM	
+13	है	VAUX	
+14	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जो	DEM	
+2	सुझाव	NN	
+3	मैं	PRP	
+4	देना	VM	
+5	चाहता	VAUX	
+6	हूँ	VAUX	
+7	वह	PRP	
+8	यह	DEM	
+9	है	VAUX	
+10	कि	CC	
+11	इस	DEM	
+12	वक्‍	VFM	
+13	सरकार	NN	
+14	को	PSP	
+15	इस	DEM	
+16	स्कीम	VFM	
+17	के	PSP	
+18	मुताबिक	VFM	
+19	एक	QC	
+20	हरिजन	XC	
+21	के	PSP	
+22	घर	NN	
+23	में	PSP	
+24	एक	QC	
+25	बिजली	NN	
+26	का	PSP	
+27	बल्ब	VFM	
+28	दिया	VAUX	
+29	जाता	VAUX	
+30	है	VAUX	
+31	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	आग्रह	NN	
+3	करूँगा	VM	
+4	कि	CC	
+5	आगे	NST	
+6	बढ़ना	VFM	
+7	चाहिए	VAUX	
+8	और	CC	
+9	कम	QF	
+10	से	PSP	
+11	कम	QF	
+12	दो	QC	
+13	बल्ब	VFM	
+14	प्रति	RP	
+15	घर	NN	
+16	देने	VM	
+17	की	PSP	
+18	कृपा	NN	
+19	करें	VM	
+20	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जो	DEM	
+2	80	QC	
+3	रूपये	NN	
+4	का	PSP	
+5	अनुदान	XC	
+6	इस	DEM	
+7	सम्बन्ध	NN	
+8	में	PSP	
+9	दिया	VAUX	
+10	जाता	VAUX	
+11	है	VAUX	
+12	वह	PRP	
+13	भी	RP	
+14	बढ़ाया	VM	
+15	जाना	VAUX	
+16	चाहिए	VAUX	
+17	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	क्योंकि	CC	
+2	80	QC	
+3	रूपये	NN	
+4	का	PSP	
+5	अनुदान	XC	
+6	काफी	INTF	
+7	साल	NN	
+8	पहले	NST	
+9	तय	JJ	
+10	किया	VM	
+11	हुआ	VAUX	
+12	था	VAUX	
+13	आज	NN	
+14	महंगाई	VFM	
+15	बढ़	VM	
+16	गयी	VAUX	
+17	है	VAUX	
+18	इसलिए	CC	
+19	80	QC	
+20	रूपये	NN	
+21	से	PSP	
+22	बढ़ाकर	VM	
+23	इसको	PRP	
+24	150	QC	
+25	रूपया	VFM	
+26	कर	VM	
+27	देना	VM	
+28	चाहिये	VAUX	
+29	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ताकि	INJ	
+2	सही	JJ	
+3	मायनों	VFM	
+4	में	PSP	
+5	कह	VM	
+6	सकें	VAUX	
+7	कि	CC	
+8	बढ़ती	VM	
+9	हुई	VAUX	
+10	कीमतों	NN	
+11	के	PSP	
+12	समय	NST	
+13	से	PSP	
+14	भी	RP	
+15	हम	PRP	
+16	हरिजनों	NN	
+17	की	PSP	
+18	मदद	NN	
+19	कर	VM	
+20	रहे	VAUX	
+21	हैं	VAUX	
+22	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सभापति	INJ	
+2	महोदया	ECH	
+3	,	SYM	
+4	जो	DEM	
+5	डैम	VFM	
+6	में	PSP	
+7	कर्मचारी	NN	
+8	होते	VM	
+9	हैं	VAUX	
+10	,	SYM	
+11	जिस	DEM	
+12	वक्‍	VFM	
+13	एक	QC	
+14	डैम	VFM	
+15	का	PSP	
+16	कार्य	NN	
+17	पूर्ण	QF	
+18	हो	VM	
+19	जाता	VAUX	
+20	है	VAUX	
+21	तो	RP	
+22	वे	PRP	
+23	बेकार	JJ	
+24	हो	VM	
+25	जाते	VAUX	
+26	हैं	VAUX	
+27	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जैसे	CC	
+2	पौंग	XC	
+3	-	SYM	
+4	डैम	ECH	
+5	के	PSP	
+6	कर्मचारी	NN	
+7	दर	XC	
+8	-	SYM	
+9	दर	XC	
+10	की	PSP	
+11	ठोकरें	VFM	
+12	खा	XC	
+13	रहे	VAUX	
+14	हैं	VAUX	
+15	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	बी	NNP	
+2	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	एस	XC	
+2	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	एल	XC	
+2	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	के	PSP	
+2	कर्मचारी	NN	
+3	भी	RP	
+4	बेकार	JJ	
+5	घूम	VM	
+6	रहे	VAUX	
+7	हैं	VAUX	
+8	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	मुख्य	JJ	
+3	मन्त्री	XC	
+4	महोदय	RP	
+5	और	CC	
+6	चेयरमैन	VFM	
+7	इलैक्ट्रीसिटी	VFM	
+8	बोर्ड	XC	
+9	से	PSP	
+10	अनुरोध	NN	
+11	करूँगा	VM	
+12	कि	CC	
+13	उन	DEM	
+14	कर्मचारियों	NN	
+15	को	PSP	
+16	प्रेफरेन्स	VFM	
+17	दिया	VAUX	
+18	जाए	VAUX	
+19	जो	DEM	
+20	कि	CC	
+21	पहले	NST	
+22	लगाया	VM	
+23	जाए	VAUX	
+24	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ताकि	INJ	
+2	उनकों	VFM	
+3	यह	DEM	
+4	महसूस	JJ	
+5	न	NEG	
+6	हो	VM	
+7	कि	CC	
+8	अगर	CC	
+9	प्रोजेक्ट	VFM	
+10	बन	VM	
+11	गया	VAUX	
+12	तो	RP	
+13	हम	PRP	
+14	भी	RP	
+15	बेकार	JJ	
+16	हो	VM	
+17	गए	VAUX	
+18	प्रोजेक्ट	VFM	
+19	के	PSP	
+20	साथ	NST	
+21	उनके	PRP	
+22	द्वारा	PSP	
+23	की	PSP	
+24	गई	VAUX	
+25	सेवा	NN	
+26	का	PSP	
+27	भी	RP	
+28	ध्यान	NN	
+29	रखना	DEM	
+30	चाहिए	VAUX	
+31	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सभापति	INJ	
+2	महोदया	ECH	
+3	,	SYM	
+4	इन्हीं	DEM	
+5	शब्दों	NN	
+6	के	PSP	
+7	साथ	NST	
+8	यह	DEM	
+9	जो	DEM	
+10	मांगे	VFM	
+11	इन	DEM	
+12	माननीय	VFM	
+13	सदन	NN	
+14	में	PSP	
+15	विद्युत	VFM	
+16	परिषद्	VFM	
+17	से	PSP	
+18	संबन्धित	VFM	
+19	आई	UNK	
+20	है	DEM	
+21	,	SYM	
+22	जिस	DEM	
+23	पर	PSP	
+24	चर्चा	NN	
+25	चल	VM	
+26	रही	VAUX	
+27	है	DEM	
+28	,	SYM	
+29	उनका	PRP	
+30	मैं	PRP	
+31	समर्थन	NN	
+32	करता	VM	
+33	हूँ	VAUX	
+34	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ताकि	INJ	
+2	उनकों	VFM	
+3	यह	DEM	
+4	महसूस	JJ	
+5	न	NEG	
+6	हो	VM	
+7	कि	CC	
+8	अगर	CC	
+9	प्रोजेक्ट	VFM	
+10	बन	VM	
+11	गया	VAUX	
+12	तो	RP	
+13	हम	PRP	
+14	भी	RP	
+15	बेकार	JJ	
+16	हो	VM	
+17	गए	VAUX	
+18	प्रोजेक्ट	VFM	
+19	के	PSP	
+20	साथ	NST	
+21	उनके	PRP	
+22	द्वारा	PSP	
+23	की	PSP	
+24	गई	VAUX	
+25	सेवा	NN	
+26	का	PSP	
+27	भी	RP	
+28	ध्यान	NN	
+29	रखना	DEM	
+30	चाहिए	VAUX	
+31	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सभापति	INJ	
+2	महोदया	ECH	
+3	,	SYM	
+4	इन्हीं	DEM	
+5	शब्दों	NN	
+6	के	PSP	
+7	साथ	NST	
+8	यह	DEM	
+9	जो	DEM	
+10	मांगे	VFM	
+11	इन	DEM	
+12	माननीय	VFM	
+13	सदन	NN	
+14	में	PSP	
+15	विद्युत	VFM	
+16	परिषद्	VFM	
+17	से	PSP	
+18	संबन्धित	VFM	
+19	आई	UNK	
+20	है	DEM	
+21	,	SYM	
+22	जिस	DEM	
+23	पर	PSP	
+24	चर्चा	NN	
+25	चल	VM	
+26	रही	VAUX	
+27	है	DEM	
+28	,	SYM	
+29	उनका	PRP	
+30	मैं	PRP	
+31	समर्थन	NN	
+32	करता	VM	
+33	हूँ	VAUX	
+34	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	श्री	INJ	
+2	सत्य	NN	
+3	प्रकाश	NN	
+4	ठाकुर	NNP	
+5	:	SYM	
+6	माननीय	JJ	
+7	सभापति	XC	
+8	महोदया	ECH	
+9	(	SYM	
+10	श्रीमती	XC	
+11	विप्लव	VFM	
+12	ठाकुर	NNP	
+13	)	SYM	
+14	,	SYM	
+15	ये	DEM	
+16	जो	DEM	
+17	अनुपूरक	VFM	
+18	माँगे	VFM	
+19	और	CC	
+20	बजट	XC	
+21	बिजली	NN	
+22	बोर्ड	XC	
+23	का	PSP	
+24	यहाँ	PRP	
+25	रखा	VAUX	
+26	है	VAUX	
+27	इसके	PRP	
+28	ऊपर	NST	
+29	जो	DEM	
+30	चर्चा	NN	
+31	चल	VM	
+32	रही	VAUX	
+33	है	DEM	
+34	,	SYM	
+35	इसका	PRP	
+36	समर्थन	NN	
+37	करने	VM	
+38	के	PSP	
+39	लिए	PSP	
+40	मैं	PRP	
+41	खड़ा	JJ	
+42	हूँ	VAUX	
+43	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सबसे	INJ	
+2	पहले	NST	
+3	तो	RP	
+4	मैं	PRP	
+5	मुख्य	JJ	
+6	मन्त्री	XC	
+7	जी	INJ	
+8	को	PSP	
+9	बहुत	INTF	
+10	बधाई	VFM	
+11	देना	VM	
+12	चाहूँगा	VFM	
+13	कि	CC	
+14	इन्होंने	VFM	
+15	देश	NN	
+16	में	PSP	
+17	एक	QC	
+18	ऐसी	DEM	
+19	लॉबी	VFM	
+20	तैयार	JJ	
+21	की	PSP	
+22	कि	CC	
+23	जिसके	PRP	
+24	मुताबिक	VFM	
+25	हाईडल	VFM	
+26	पावर	VFM	
+27	प्रोजेक्टा	VFM	
+28	को	PSP	
+29	एक	QC	
+30	पूरा	JJ	
+31	स्थान	NN	
+32	मिला	VM	
+33	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	नहीं	NEG	
+2	तो	RP	
+3	एक	QC	
+4	समय	NST	
+5	था	VAUX	
+6	कि	CC	
+7	हाईडल	VFM	
+8	पावर	VFM	
+9	प्रोजेक्टस	VFM	
+10	के	PSP	
+11	बारे	PSP	
+12	में	PSP	
+13	धारण	NN	
+14	बदल	VM	
+15	गई	VAUX	
+16	थी	VAUX	
+17	और	CC	
+18	थरमल	VFM	
+19	पावर	VFM	
+20	प्रोजक्टस	VFM	
+21	के	PSP	
+22	ऊपर	NST	
+23	जोर	INTF	
+24	डालने	VM	
+25	लगा	VAUX	
+26	था	VAUX	
+27	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	आज	INJ	
+2	खुशी	NN	
+3	हुई	VAUX	
+4	कि	CC	
+5	आज	NN	
+6	का	PSP	
+7	माननीय	VFM	
+8	सदन	NN	
+9	का	PSP	
+10	दिन	NN	
+11	हैं	VAUX	
+12	यह	DEM	
+13	एक	QC	
+14	बधाई	VFM	
+15	दिवस	VFM	
+16	है	VAUX	
+17	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यहाँ	PRP	
+2	पर	PSP	
+3	आरोजीशन	VFM	
+4	की	PSP	
+5	तरफ	NST	
+6	से	PSP	
+7	भी	RP	
+8	और	CC	
+9	सभी	QF	
+10	लोगों	NN	
+11	ने	PSP	
+12	विद्युत	VFM	
+13	बोर्ड	XC	
+14	को	PSP	
+15	भूरि	ECH	
+16	-	SYM	
+17	भूरि	ECH	
+18	प्रशंसा	NN	
+19	की	PSP	
+20	है	VAUX	
+21	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	विशेषकर	INJ	
+2	मुख्य	JJ	
+3	मन्त्री	XC	
+4	जी	INJ	
+5	की	PSP	
+6	जिन्होंने	PRP	
+7	इसमें	PRP	
+8	बहुत	INTF	
+9	बड़ा	RDP	
+10	योगदान	NN	
+11	दिया	VAUX	
+12	है	VAUX	
+13	और	CC	
+14	जिसके	PRP	
+15	कि	CC	
+16	ये	DEM	
+17	बधाई	VFM	
+18	के	PSP	
+19	पात्र	NN	
+20	हैं	VAUX	
+21	इसमें	PRP	
+22	कोई	PRP	
+23	शक	NN	
+24	की	PSP	
+25	बात	NN	
+26	नहीं	NEG	
+27	है	VAUX	
+28	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जहाँ	INJ	
+2	तक	RP	
+3	हिमाचल	NNP	
+4	प्रदेश	NNP	
+5	की	PSP	
+6	विद्युत	VFM	
+7	परियोजनाओं	VFM	
+8	की	PSP	
+9	बात	NN	
+10	है	VAUX	
+11	ठाकुर	NNP	
+12	जगदेव	VFM	
+13	चन्द	VFM	
+14	जी	INJ	
+15	ने	PSP	
+16	ठीक	INJ	
+17	कहा	VM	
+18	कि	CC	
+19	यह	DEM	
+20	एक	QC	
+21	आशा	NN	
+22	की	PSP	
+23	किरण	VFM	
+24	है	VAUX	
+25	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसी	DEM	
+2	से	PSP	
+3	हमारा	PRP	
+4	प्रदेश	NNP	
+5	का	PSP	
+6	आर्थिक	JJ	
+7	ढांचा	NN	
+8	मजबूत	JJ	
+9	होगा	VM	
+10	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	डाक्टर	INJ	
+2	परमार	VFM	
+3	को	PSP	
+4	हम	PRP	
+5	भूल	VM	
+6	नहीं	NEG	
+7	सकते	VAUX	
+8	जो	DEM	
+9	कहते	VM	
+10	थे	VAUX	
+11	कि	CC	
+12	हिमाचल	NNP	
+13	प्रदेश	NNP	
+14	की	PSP	
+15	नदियों	NN	
+16	में	PSP	
+17	यह	DEM	
+18	जो	DEM	
+19	पानी	NN	
+20	है	VAUX	
+21	यह	DEM	
+22	बहता	VM	
+23	सोचा	VM	
+24	है	VAUX	
+25	और	CC	
+26	इसको	PRP	
+27	टेप	VFM	
+28	किया	VM	
+29	जाना	VAUX	
+30	चाहिए	VAUX	
+31	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	और	CC	
+2	उसी	DEM	
+3	प्रकार	NN	
+4	हमारे	PRP	
+5	मुख्य	JJ	
+6	मन्त्री	XC	
+7	राजा	XC	
+8	वीरभद्र	VFM	
+9	सिंह	NNP	
+10	जी	INJ	
+11	उसी	DEM	
+12	मजबूती	VFM	
+13	से	PSP	
+14	जो	DEM	
+15	उनका	PRP	
+16	दिल्ली	NNP	
+17	में	PSP	
+18	रसूक	VFM	
+19	रहा	VAUX	
+20	है	VAUX	
+21	उसकी	PRP	
+22	वजह	NN	
+23	से	PSP	
+24	जो	DEM	
+25	स्वप्न	NN	
+26	था	VAUX	
+27	उसको	PRP	
+28	पूरा	JJ	
+29	करने	VM	
+30	में	PSP	
+31	लगे	VAUX	
+32	हैं	VAUX	
+33	और	CC	
+34	इन्होंने	VFM	
+35	प्रदेश	NNP	
+36	के	PSP	
+37	अन्दर	NST	
+38	स्थाई	JJ	
+39	नेतृत्व	XC	
+40	दिया	VAUX	
+41	है	VAUX	
+42	जिसकी	PRP	
+43	वजह	NN	
+44	से	PSP	
+45	यह	DEM	
+46	कुदरती	VFM	
+47	बात	NN	
+48	है	VAUX	
+49	कि	CC	
+50	हर	QF	
+51	फील्ड	VFM	
+52	में	PSP	
+53	डबल्पमैंट	VFM	
+54	हो	VM	
+55	रही	VAUX	
+56	है	DEM	
+57	,	SYM	
+58	इसमें	PRP	
+59	भी	RP	
+60	यह	DEM	
+61	तभी	PRP	
+62	हुआ	VAUX	
+63	जब	PRP	
+64	एक	QC	
+65	टीम	VFM	
+66	स्प्रिट	VFM	
+67	हो	VM	
+68	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मुख्य	INJ	
+2	मन्त्री	XC	
+3	जी	INJ	
+4	प्रदेश	NNP	
+5	के	PSP	
+6	लीडर	VFM	
+7	भी	RP	
+8	हैं	VAUX	
+9	और	CC	
+10	इनके	PRP	
+11	नीचे	NST	
+12	जैसे	RP	
+13	इन्होंने	VFM	
+14	कहा	VM	
+15	उसके	PRP	
+16	मुताबिक	VFM	
+17	जहाँ	PRP	
+18	इनके	PRP	
+19	पास	NST	
+20	विद्युत	VFM	
+21	विभाग	NN	
+22	भी	RP	
+23	है	DEM	
+24	,	SYM	
+25	उसके	PRP	
+26	राज्य	XC	
+27	मन्त्री	XC	
+28	है	VAUX	
+29	और	CC	
+30	चेयरमैन	VFM	
+31	विद्युत	VFM	
+32	बोर्ड	XC	
+33	हैं	VAUX	
+34	इन्होंने	VFM	
+35	बड़े	INTF	
+36	अच्छे	RDP	
+37	ढंग	NN	
+38	से	PSP	
+39	जैसे	RP	
+40	मुख्य	JJ	
+41	मन्त्री	XC	
+42	जी	INJ	
+43	कहते	VM	
+44	हैं	VAUX	
+45	उसको	PRP	
+46	कार्यरूप	VFM	
+47	देने	VM	
+48	में	PSP	
+49	उनके	PRP	
+50	हर	QF	
+51	शब्द	NN	
+52	को	PSP	
+53	कार्यरूप	VFM	
+54	में	PSP	
+55	की	PSP	
+56	वे	PRP	
+57	कोशिश	NN	
+58	करते	VM	
+59	हैं	VAUX	
+60	और	CC	
+61	की	PSP	
+62	है	VAUX	
+63	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	लिए	PSP	
+3	सभी	QF	
+4	बधाई	VFM	
+5	के	PSP	
+6	पात्र	NN	
+7	है	VAUX	
+8	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जिनमें	INJ	
+2	इंजीनियर्ज	VFM	
+3	भी	RP	
+4	शामिल	JJ	
+5	हैं	VAUX	
+6	और	CC	
+7	दूसरे	QO	
+8	कर्मचारी	NN	
+9	भी	RP	
+10	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ठाकुर	INJ	
+2	जगदेव	VFM	
+3	चन्द्र	VFM	
+4	जी	INJ	
+5	ने	PSP	
+6	आशंका	NN	
+7	वयक्‍	VFM	
+8	की	PSP	
+9	कि	CC	
+10	50	QC	
+11	करोड़	QF	
+12	रूपया	VFM	
+13	देना	VM	
+14	पड़ेगा	VAUX	
+15	सालाना	JJ	
+16	,	SYM	
+17	वह	DEM	
+18	कहाँ	WQ	
+19	से	PSP	
+20	आएगा	VM	
+21	?	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसमें	INJ	
+2	तो	RP	
+3	सीधी	JJ	
+4	सी	RP	
+5	बात	NN	
+6	है	VAUX	
+7	कि	CC	
+8	मुख्य	JJ	
+9	मन्त्री	XC	
+10	जी	INJ	
+11	ने	PSP	
+12	जहाँ	PRP	
+13	इतनी	INTF	
+14	बड़ी	INTF	
+15	परियोजना	VFM	
+16	को	PSP	
+17	बनाने	VM	
+18	का	PSP	
+19	काम	NN	
+20	हाथ	NN	
+21	में	PSP	
+22	ले	VM	
+23	लिया	VAUX	
+24	तो	CC	
+25	50	QC	
+26	करोड़	QF	
+27	की	PSP	
+28	बात	NN	
+29	तो	RP	
+30	पहले	NST	
+31	ही	RP	
+32	सोची	VM	
+33	होगी	VAUX	
+34	जरूर	RB	
+35	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ये	DEM	
+2	तो	RP	
+3	बहुत	INTF	
+4	सारी	QF	
+5	विदयुत	VFM	
+6	परियोजनाओं	VFM	
+7	की	PSP	
+8	बात	NN	
+9	कहते	VM	
+10	है	VAUX	
+11	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	लेकिन	CC	
+2	पहली	QO	
+3	बार	RP	
+4	ऐ	VFM	
+5	सा	RP	
+6	फामला	VFM	
+7	तैयार	JJ	
+8	करवाया	VM	
+9	कि	CC	
+10	जिसके	PRP	
+11	तहत	PSP	
+12	हमें	PRP	
+13	बिजली	NN	
+14	का	PSP	
+15	मुफ्त	VFM	
+16	हिस्सा	NN	
+17	मिला	VM	
+18	और	CC	
+19	उसका	PRP	
+20	जो	DEM	
+21	शेयर	VFM	
+22	किया	VM	
+23	उसका	PRP	
+24	जो	DEM	
+25	शेयर	VFM	
+26	किया	VM	
+27	उसका	PRP	
+28	हिस्सा	NN	
+29	मिला	VM	
+30	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यह	DEM	
+2	ठीक	INJ	
+3	है	VAUX	
+4	कि	CC	
+5	हमारे	PRP	
+6	रिसोर्सिज	VFM	
+7	लिमिटिड	VFM	
+8	हैं	VAUX	
+9	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उसके	PRP	
+2	मुताबिक	VFM	
+3	ही	RP	
+4	हम	PRP	
+5	काम	NN	
+6	कर	VM	
+7	सकते	VAUX	
+8	हैं	VAUX	
+9	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	हमारे	PRP	
+2	यहाँ	PRP	
+3	सहकारी	XC	
+4	बैंक	VFM	
+5	हैं	VAUX	
+6	,	SYM	
+7	दूसरी	QO	
+8	इन्स्टीट्यूशन्ज	VFM	
+9	हैं	VAUX	
+10	उन्होंने	PRP	
+11	भी	RP	
+12	अच्छा	INJ	
+13	रोल	VFM	
+14	अदा	JJ	
+15	किया	VM	
+16	है	VAUX	
+17	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	अनुरोध	NN	
+3	करता	VM	
+4	हूँ	VAUX	
+5	कि	CC	
+6	जहाँ	PRP	
+7	इतना	QF	
+8	बड़ा	RDP	
+9	काम	NN	
+10	किया	VM	
+11	है	DEM	
+12	,	SYM	
+13	जहाँ	PRP	
+14	आपको	PRP	
+15	श्रेय	JJ	
+16	जाता	VAUX	
+17	है	VAUX	
+18	इस	DEM	
+19	चीज	NN	
+20	का	XC	
+21	,	SYM	
+22	जो	DEM	
+23	चीजें	NN	
+24	इस	DEM	
+25	तरह	PSP	
+26	की	PSP	
+27	प्रदेश	NNP	
+28	को	PSP	
+29	जिनसे	PRP	
+30	स्थायित्व	NN	
+31	मिल	VM	
+32	रहा	VAUX	
+33	है	DEM	
+34	,	SYM	
+35	जिससे	CC	
+36	हमारी	PRP	
+37	आदमनी	VFM	
+38	बढ़ेगी	VM	
+39	,	SYM	
+40	वहाँ	PRP	
+41	मैं	PRP	
+42	चाहूँगा	VFM	
+43	कि	CC	
+44	जो	DEM	
+45	बजट	XC	
+46	है	VAUX	
+47	इनमें	PRP	
+48	और	CC	
+49	ज़्यादा	QF	
+50	रखे	VM	
+51	मेहरबानी	NN	
+52	करके	VM	
+53	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	हम	PRP	
+2	आपकी	PRP	
+3	लिमिटेशन्ज	VFM	
+4	को	PSP	
+5	समझते	VM	
+6	हैं	VAUX	
+7	लेकिन	CC	
+8	इसके	PRP	
+9	लिए	PSP	
+10	जो	DEM	
+11	प्रति	RP	
+12	वर्ष	NN	
+13	का	PSP	
+14	जो	DEM	
+15	बजट	XC	
+16	है	VAUX	
+17	ज्यादा	INTF	
+18	स्टेट	VFM	
+19	प्लान	VFM	
+20	में	PSP	
+21	से	PSP	
+22	ज्यादा	INTF	
+23	हो	VM	
+24	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	क्योंकि	CC	
+2	सहकारी	XC	
+3	बैंक	VFM	
+4	तो	RP	
+5	आपके	PRP	
+6	आदेश	NN	
+7	के	PSP	
+8	मुताबिक	VFM	
+9	मदद	NN	
+10	कर	VM	
+11	रहें	VM	
+12	हैं	VAUX	
+13	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	और	CC	
+2	विद्युत	VFM	
+3	बोर्ड	XC	
+4	में	PSP	
+5	सही	JJ	
+6	मायनों	VFM	
+7	में	PSP	
+8	जो	DEM	
+9	घाटा	VFM	
+10	है	VAUX	
+11	वह	PRP	
+12	घाटा	VFM	
+13	नहीं	NEG	
+14	है	VAUX	
+15	वह	PRP	
+16	तो	RP	
+17	कहीं	PRP	
+18	जैसे	RP	
+19	ब्याज	XC	
+20	देना	VM	
+21	पड	VFM	
+22	रहा	VAUX	
+23	है	DEM	
+24	,	SYM	
+25	फ्यूचर	ECH	
+26	इनवेस्‍मैंट	VFM	
+27	है	VAUX	
+28	ऐ	VFM	
+29	सी	RP	
+30	बात	NN	
+31	नहीं	NEG	
+32	है	DEM	
+33	,	SYM	
+34	यह	DEM	
+35	सब	QF	
+36	फायदे	VFM	
+37	की	PSP	
+38	बात	NN	
+39	है	VAUX	
+40	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जहाँ	INJ	
+2	तक	RP	
+3	लारजी	VFM	
+4	प्रोजेक्ट	VFM	
+5	की	PSP	
+6	बात	NN	
+7	है	VAUX	
+8	मैं	PRP	
+9	मुख्यमन्त्री	VFM	
+10	जी	INJ	
+11	का	PSP	
+12	धन्यवाद	RP	
+13	करना	VM	
+14	चाहूँगा	VFM	
+15	कि	CC	
+16	इसमें	PRP	
+17	इसके	PRP	
+18	लिए	PSP	
+19	काम	NN	
+20	किया	VM	
+21	है	VAUX	
+22	काफी	INTF	
+23	लेकिन	CC	
+24	एक	QC	
+25	अनुरोध	NN	
+26	करना	VM	
+27	चाहूँगा	VFM	
+28	कि	CC	
+29	जल्दी	RB	
+30	से	PSP	
+31	जल्दी	RB	
+32	इसका	PRP	
+33	काम	NN	
+34	और	CC	
+35	तेजी	RB	
+36	के	PSP	
+37	साथ	NST	
+38	शुरू	NN	
+39	हो	VM	
+40	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	लिए	PSP	
+3	पिछली	NST	
+4	बार	RB	
+5	5	QC	
+6	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	20	QC	
+2	करोड़	QF	
+3	रु	VFM	
+4	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	रखा	INJ	
+2	गया	VAUX	
+3	था	VAUX	
+4	बजट	XC	
+5	में	PSP	
+6	और	CC	
+7	4	QC	
+8	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	20	QC	
+2	करोड़	QF	
+3	का	PSP	
+4	फिर	RB	
+5	एलाकेशन	VFM	
+6	करनी	VM	
+7	पड़ी	VM	
+8	फाईल	VFM	
+9	इसलिए	CC	
+10	इस	DEM	
+11	बार	RP	
+12	भी	RP	
+13	ज्यादा	INTF	
+14	पैसा	NN	
+15	दिया	VAUX	
+16	जाए	VAUX	
+17	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसी	DEM	
+2	प्रकार	NN	
+3	पार्वती	VFM	
+4	हाईडल	VFM	
+5	प्रोंजैक्‍	VFM	
+6	दो	QC	
+7	हजार	QC	
+8	मैगावाट	VFM	
+9	का	PSP	
+10	है	VAUX	
+11	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	पार्वती	UNK	
+2	के	PSP	
+3	बारे	PSP	
+4	में	PSP	
+5	बहुत	INTF	
+6	ऊँची	NST	
+7	-	SYM	
+8	ऊँची	NST	
+9	बातें	NN	
+10	हुई	VAUX	
+11	हैं	VAUX	
+12	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसका	PRP	
+2	बहुत	INTF	
+3	प्रचार	PRP	
+4	हुआ	VAUX	
+5	है	DEM	
+6	,	SYM	
+7	सही	RDP	
+8	बातें	NN	
+9	भी	RP	
+10	हुई	VAUX	
+11	हैं	VAUX	
+12	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यह	DEM	
+2	एक	QC	
+3	ऐ	VFM	
+4	सा	RP	
+5	प्रोजेक्‍	VFM	
+6	है	VAUX	
+7	जिससे	PRP	
+8	प्रदेश	NNP	
+9	को	PSP	
+10	सबसे	INTF	
+11	ज्यादा	INTF	
+12	फायदा	NN	
+13	हो	VM	
+14	सकता	VAUX	
+15	है	VAUX	
+16	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	समझता	VM	
+3	हूँ	VAUX	
+4	कि	CC	
+5	इसकी	PRP	
+6	जो	DEM	
+7	इन्वैस्टिगेशन	VFM	
+8	है	VAUX	
+9	वह	PRP	
+10	शीघ्र	RB	
+11	ही	RP	
+12	पूरी	JJ	
+13	हो	VM	
+14	जानी	VAUX	
+15	चाहिए	VAUX	
+16	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	(	SYM	
+2	घण्टी	ECH	
+3	)	SYM	
+4	सभापति	XC	
+5	:	SYM	
+6	माननीय	JJ	
+7	सदस्य	NN	
+8	आप	PRP	
+9	संक्षिप्त	VFM	
+10	करिये	VFM	
+11	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	श्री	INJ	
+2	सत्य	NN	
+3	प्रकाश	NN	
+4	ठाकुर	NNP	
+5	:	SYM	
+6	बस	XC	
+7	कर	VM	
+8	रहा	VAUX	
+9	हूँ	VAUX	
+10	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	माननीय	UNK	
+2	सभापति	XC	
+3	महोदया	ECH	
+4	,	SYM	
+5	इसकी	PRP	
+6	इन्वेस्टिगेशन	VFM	
+7	पूरी	JJ	
+8	हो	VM	
+9	जानी	VAUX	
+10	चाहिए	VAUX	
+11	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसकी	INJ	
+2	कई	QF	
+3	वर्षो	NN	
+4	से	PSP	
+5	इन्वेस्टिगेशन	VFM	
+6	चल	VM	
+7	रही	VAUX	
+8	है	VAUX	
+9	तो	RP	
+10	मेरा	PRP	
+11	यह	DEM	
+12	अनुरोध	NN	
+13	है	VAUX	
+14	कि	CC	
+15	इसको	PRP	
+16	शीघ्रता	NN	
+17	से	PSP	
+18	पूरा	JJ	
+19	किया	VM	
+20	जाए	VAUX	
+21	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इलैक्ट्रिसिटी	UNK	
+2	बोर्ड	XC	
+3	की	PSP	
+4	रेवन्यु	VFM	
+5	रसीट	VFM	
+6	काफी	INTF	
+7	बढ़	VM	
+8	रही	VAUX	
+9	है	VAUX	
+10	और	CC	
+11	इससे	PRP	
+12	पता	JJ	
+13	चलता	VM	
+14	है	VAUX	
+15	कि	CC	
+16	हमारा	PRP	
+17	प्रदेश	NNP	
+18	कितने	WQ	
+19	अच्छे	RDP	
+20	ढंग	NN	
+21	काम	NN	
+22	कर	VM	
+23	रहा	VAUX	
+24	है	VAUX	
+25	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	दूसरे	QO	
+2	,	SYM	
+3	कौरपोरेशनज	ECH	
+4	की	PSP	
+5	नुकताचीनी	VFM	
+6	हुई	VAUX	
+7	है	VAUX	
+8	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	आज	INJ	
+2	आप	PRP	
+3	इसकी	PRP	
+4	डीप	VFM	
+5	स्टडी	VFM	
+6	करें	VM	
+7	तो	RP	
+8	आपको	PRP	
+9	पता	JJ	
+10	चल	VM	
+11	जाएगा	VAUX	
+12	कि	CC	
+13	पिछले	NST	
+14	वर्षो	NN	
+15	की	PSP	
+16	तुलना	NN	
+17	में	PSP	
+18	अब	PRP	
+19	कौरपोरेशनों	VFM	
+20	का	PSP	
+21	काम	NN	
+22	;	SYM	
+23	कुछ	RDP	
+24	को	PSP	
+25	छोड़कर	VM	
+26	अच्छा	INJ	
+27	चल	VM	
+28	रहा	VAUX	
+29	है	VAUX	
+30	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	दूरदराज	UNK	
+2	के	PSP	
+3	इलाकों	NN	
+4	में	PSP	
+5	बिजली	NN	
+6	पहुँची	VM	
+7	है	VAUX	
+8	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	माननीय	UNK	
+2	मुख्य	JJ	
+3	मन्त्री	XC	
+4	महोदय	RP	
+5	की	PSP	
+6	कृपा	NN	
+7	से	PSP	
+8	आज	NN	
+9	हर	QF	
+10	घर	NN	
+11	में	PSP	
+12	बिजली	NN	
+13	पहुंची	VM	
+14	है	VAUX	
+15	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अभी	PRP	
+2	कई	QF	
+3	पहाड़ी	JJ	
+4	राज्यों	NN	
+5	में	PSP	
+6	इतना	QF	
+7	बिजली	NN	
+8	नहीं	NEG	
+9	पहुंची	VM	
+10	है	VAUX	
+11	जितनी	QF	
+12	हमारे	PRP	
+13	प्रदेश	NNP	
+14	में	PSP	
+15	पहुंची	VM	
+16	है	VAUX	
+17	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	हमने	INJ	
+2	स्वयं	PRP	
+3	गोहाटी	VFM	
+4	में	PSP	
+5	देखा	VM	
+6	कि	CC	
+7	50	QC	
+8	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	50	QC	
+2	,	SYM	
+3	60	QC	
+4	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	60	QC	
+2	किलोमीटर	QF	
+3	की	PSP	
+4	दूर	NST	
+5	पर	PSP	
+6	कोई	PRP	
+7	बिजली	NN	
+8	नहीं	NEG	
+9	है	DEM	
+10	,	SYM	
+11	इसके	PRP	
+12	लिए	PSP	
+13	मैं	PRP	
+14	मुख्य	JJ	
+15	मन्त्री	XC	
+16	महोदय	RP	
+17	की	PSP	
+18	बधाई	VFM	
+19	देना	VM	
+20	चाहता	VAUX	
+21	हूँ	VAUX	
+22	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	सरकार	NN	
+3	अनुरोध	NN	
+4	करना	VM	
+5	चाहूँगा	VFM	
+6	कि	CC	
+7	दूरदराज	VFM	
+8	के	PSP	
+9	इलाकों	NN	
+10	में	PSP	
+11	वोलटेज	VFM	
+12	की	PSP	
+13	बहुत	INTF	
+14	दिक्कत	VFM	
+15	है	VAUX	
+16	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अत	CC	
+2	:	SYM	
+3	इसके	PRP	
+4	लिए	PSP	
+5	वहाँ	PRP	
+6	पर	PSP	
+7	ट्रा	VFM	
+8	फारमर	VFM	
+9	दिए	VAUX	
+10	जाये	VAUX	
+11	,	SYM	
+12	वहाँ	PRP	
+13	पर	PSP	
+14	स्टाफ	XC	
+15	दिया	VAUX	
+16	जाए	VAUX	
+17	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	और	CC	
+2	जहाँ	PRP	
+3	पर	PSP	
+4	नहीं	NEG	
+5	हैं	VAUX	
+6	,	SYM	
+7	वहाँ	PRP	
+8	पर	PSP	
+9	भेज	VM	
+10	दे	VAUX	
+11	जाये	VAUX	
+12	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इन्हीं	INJ	
+2	शब्दों	NN	
+3	के	PSP	
+4	साथ	NST	
+5	में	PSP	
+6	सरकार	NN	
+7	को	PSP	
+8	बधाई	VFM	
+9	देता	VAUX	
+10	हूँ	VAUX	
+11	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	केवल	RB	
+3	सामने	NST	
+4	की	PSP	
+5	तारीफ	VFM	
+6	करूँगा	VM	
+7	लेकिन	CC	
+8	आने	VM	
+9	वाले	PSP	
+10	समय	NST	
+11	में	PSP	
+12	जो	DEM	
+13	प्रदेश	NNP	
+14	की	PSP	
+15	आर्थिक	JJ	
+16	स्थिति	NN	
+17	सुदृढ़	JJ	
+18	होगी	VAUX	
+19	उससे	PRP	
+20	अपने	PRP	
+21	आप	PRP	
+22	यह	DEM	
+23	सिद्ध	JJ	
+24	हो	VM	
+25	जाएगा	VAUX	
+26	कि	CC	
+27	हमारे	PRP	
+28	प्रदेश	NNP	
+29	की	PSP	
+30	आर्थिक	JJ	
+31	स्थिति	NN	
+32	में	PSP	
+33	कितनी	WQ	
+34	मजबूती	VFM	
+35	आई	UNK	
+36	है	VAUX	
+37	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	साथ	NST	
+3	ही	RP	
+4	मैं	PRP	
+5	माननीय	VFM	
+6	मुख्य	JJ	
+7	मन्त्री	XC	
+8	महोदय	RP	
+9	का	PSP	
+10	धन्यवाद	RP	
+11	करता	VM	
+12	हूँ	VAUX	
+13	तथा	CC	
+14	बिजली	NN	
+15	बोर्ड	XC	
+16	के	PSP	
+17	अधिकारियों	NN	
+18	को	PSP	
+19	और	CC	
+20	कर्मचारियों	NN	
+21	को	PSP	
+22	बधाई	VFM	
+23	देता	VAUX	
+24	हूँ	VAUX	
+25	,	SYM	
+26	धन्यवाद	RP	
+27	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	श्री	INJ	
+2	जोगिन्द्र	VFM	
+3	पाल	XC	
+4	:	SYM	
+5	सभापति	XC	
+6	महोदय	RP	
+7	,	SYM	
+8	आज	PRP	
+9	माननीय	VFM	
+10	मुख्य	JJ	
+11	मन्त्री	XC	
+12	महोदय	RP	
+13	ने	PSP	
+14	हिमाचल	NNP	
+15	प्रदेश	NNP	
+16	राज्य	XC	
+17	विद्युत	VFM	
+18	बोर्ड	XC	
+19	की	PSP	
+20	वार्षिक	JJ	
+21	वित्तीय	JJ	
+22	विवरण	XC	
+23	(	SYM	
+24	आय	XC	
+25	-	SYM	
+26	व्यय	NN	
+27	अनुमान	NN	
+28	)	SYM	
+29	1989	ECH	
+30	-	SYM	
+31	90	QC	
+32	तथा	CC	
+33	वर्ष	NNP	
+34	1988	QC	
+35	-	SYM	
+36	89	QC	
+37	के	PSP	
+38	लिए	PSP	
+39	अनुपूरक	VFM	
+40	NP	VFM	
+41	संशोधित	JJ	
+42	वित्ती	VFM	
+43	विवरण	XC	
+44	पर	PSP	
+45	जो	DEM	
+46	चर्चा	NN	
+47	चल	VM	
+48	रही	VAUX	
+49	है	VAUX	
+50	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उसमें	INJ	
+2	मैं	PRP	
+3	भी	RP	
+4	भाग	NN	
+5	लेने	VAUX	
+6	VG	VFM	
+7	VG	VFM	
+8	लिए	PSP	
+9	शामिल	JJ	
+10	हुआ	VAUX	
+11	हूँ	VAUX	
+12	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसमें	INJ	
+2	कोई	PRP	
+3	शक	NN	
+4	नहीं	NEG	
+5	कि	CC	
+6	हिमाचल	NNP	
+7	में	PSP	
+8	विद्युत	VFM	
+9	बोर्ड	XC	
+10	ने	PSP	
+11	बहुत	INTF	
+12	तरक्की	NN	
+13	की	PSP	
+14	है	VAUX	
+15	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	हिमाचल	INJ	
+2	प्रदेश	NNP	
+3	बहुत	INTF	
+4	बिखरा	VFM	
+5	हुआ	VAUX	
+6	है	VAUX	
+7	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यह	DEM	
+2	पहाड़ी	JJ	
+3	इलाका	VFM	
+4	है	VAUX	
+5	बहुत	INTF	
+6	फैला	VM	
+7	हुआ	VAUX	
+8	है	VAUX	
+9	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	विद्युत	VFM	
+3	बोर्ड	XC	
+4	के	PSP	
+5	अध्यक्ष	NN	
+6	और	CC	
+7	माननीय	VFM	
+8	मुख्य	JJ	
+9	मंत्री	NN	
+10	जी	INJ	
+11	को	PSP	
+12	बधाई	VFM	
+13	देता	VAUX	
+14	हूँ	VAUX	
+15	जिन्होंने	PRP	
+16	विद्युत	VFM	
+17	बोर्ड	XC	
+18	में	PSP	
+19	बहुत	INTF	
+20	अच्छा	INJ	
+21	काम	NN	
+22	किया	VM	
+23	है	VAUX	
+24	और	CC	
+25	दूर	NST	
+26	-	SYM	
+27	दराज	NN	
+28	के	PSP	
+29	इलाकों	NN	
+30	में	PSP	
+31	जहाँ	PRP	
+32	हमारे	PRP	
+33	लोग	NN	
+34	बसे	VM	
+35	हैं	VAUX	
+36	,	SYM	
+37	वहाँ	PRP	
+38	पर	PSP	
+39	बिजली	NN	
+40	पहुंचाई	VFM	
+41	है	VAUX	
+42	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	साथ	NST	
+3	-	SYM	
+4	साथ	NST	
+5	मैं	PRP	
+6	विद्युत	VFM	
+7	बोर्ड	XC	
+8	के	PSP	
+9	कर्मचारियों	NN	
+10	,	SYM	
+11	और	INTF	
+12	अफसरों	VFM	
+13	को	PSP	
+14	और	CC	
+15	अपने	PRP	
+16	बेलदारों	VFM	
+17	को	PSP	
+18	जिन्होंने	PRP	
+19	पहाड़ों	NN	
+20	में	PSP	
+21	काम	NN	
+22	किया	VAUX	
+23	,	SYM	
+24	उनका	PRP	
+25	भी	RP	
+26	बधाई	VFM	
+27	देता	VAUX	
+28	हूँ	VAUX	
+29	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	साथ	NST	
+3	ही	RP	
+4	मैं	PRP	
+5	कुछ	QF	
+6	सुझाव	NN	
+7	देना	VM	
+8	चाहूँगा	VFM	
+9	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ठीक	INJ	
+2	है	VAUX	
+3	कुछ	QF	
+4	खामियां	VFM	
+5	भी	RP	
+6	रह	VAUX	
+7	जाती	VAUX	
+8	है	VAUX	
+9	तो	RP	
+10	मैं	PRP	
+11	जरूर	RB	
+12	माननीय	VFM	
+13	मुख्य	JJ	
+14	मन्त्री	XC	
+15	जी	INJ	
+16	का	PSP	
+17	ध्यान	NN	
+18	में	PSP	
+19	यह	DEM	
+20	लाना	VM	
+21	चाहूँगा	VFM	
+22	कि	CC	
+23	जो	DEM	
+24	अनुपूरक	VFM	
+25	संशोधन	NN	
+26	बजट	XC	
+27	रखा	VAUX	
+28	गया	VAUX	
+29	है	DEM	
+30	,	SYM	
+31	इसमें	PRP	
+32	काफी	INTF	
+33	ज्यादा	INTF	
+34	धन	NN	
+35	जो	DEM	
+36	पहले	NST	
+37	रखा	VAUX	
+38	गया	VAUX	
+39	था	VAUX	
+40	,	SYM	
+41	उससे	PRP	
+42	ज्यादा	INTF	
+43	खर्च	NN	
+44	हुआ	VAUX	
+45	है	VAUX	
+46	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	ज्यादा	INTF	
+3	खर्च	NN	
+4	होने	VM	
+5	के	PSP	
+6	क्या	WQ	
+7	कारण	NN	
+8	हैं	VAUX	
+9	?	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसका	PRP	
+2	पूरा	JJ	
+3	विवरण	XC	
+4	नहीं	NEG	
+5	दिया	VAUX	
+6	गया	VAUX	
+7	है	VAUX	
+8	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अत	CC	
+2	:	SYM	
+3	इसके	PRP	
+4	बारे	PSP	
+5	में	PSP	
+6	पूर्ण	QF	
+7	विवरण	XC	
+8	माननीय	VFM	
+9	सदस्यों	NN	
+10	के	PSP	
+11	सामने	NST	
+12	रखा	VAUX	
+13	जाए	VAUX	
+14	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	और	CC	
+2	आज	NN	
+3	किन	WQ	
+4	कारणों	NN	
+5	से	PSP	
+6	काफी	INTF	
+7	ज्यादा	INTF	
+8	बढ़ोतरी	VFM	
+9	इसमें	PRP	
+10	हुई	VAUX	
+11	है	VAUX	
+12	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	दूसरे	QO	
+2	,	SYM	
+3	हिमाचल	NNP	
+4	प्रदेश	NNP	
+5	विद्युत	VFM	
+6	परिषद	NNP	
+7	भी	RP	
+8	एक	QC	
+9	प्रकार	NN	
+10	की	PSP	
+11	सरकार	NN	
+12	है	VAUX	
+13	इसमें	PRP	
+14	27	QC	
+15	,	SYM	
+16	980	QC	
+17	टोटल	VFM	
+18	कर्मचारी	NN	
+19	हैं	VAUX	
+20	और	CC	
+21	इसके	PRP	
+22	साथ	NST	
+23	कुछ	QF	
+24	दैनिक	JJ	
+25	वेतन	XC	
+26	पर	PSP	
+27	भी	RP	
+28	है	VAUX	
+29	जो	DEM	
+30	कि	CC	
+31	दस	XC	
+32	-	SYM	
+33	दस	XC	
+34	बारह	XC	
+35	-	SYM	
+36	बारह	XC	
+37	सालों	VFM	
+38	से	PSP	
+39	लगे	VAUX	
+40	हैं	VAUX	
+41	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	परन्तु	INJ	
+2	आज	NN	
+3	उनको	PRP	
+4	रेग्युलर	VFM	
+5	नहीं	NEG	
+6	किया	VM	
+7	गया	VAUX	
+8	है	VAUX	
+9	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	तो	CC	
+2	मैं	PRP	
+3	माननीय	VFM	
+4	मुख्य	JJ	
+5	मन्त्री	XC	
+6	जी	INJ	
+7	से	PSP	
+8	अनुरोध	NN	
+9	करूगा	VFM	
+10	कि	CC	
+11	जैसे	RP	
+12	आजकल	NN	
+13	विद्युत	VFM	
+14	बोर्ड	XC	
+15	में	PSP	
+16	आजकल	NN	
+17	इंटरव्यु	VFM	
+18	होने	VM	
+19	जा	VAUX	
+20	रहे	VAUX	
+21	हैं	VAUX	
+22	,	SYM	
+23	उसमें	PRP	
+24	जो	DEM	
+25	दैनिक	JJ	
+26	वेतन	XC	
+27	पर	PSP	
+28	लगे	VAUX	
+29	हैं	VAUX	
+30	,	SYM	
+31	या	CC	
+32	जिनका	PRP	
+33	टाईम	VFM	
+34	पीरियड	VFM	
+35	बहुत	INTF	
+36	ज्यादा	INTF	
+37	है	VAUX	
+38	उनको	PRP	
+39	इसमें	PRP	
+40	ले	VM	
+41	लिया	VAUX	
+42	जाए	VAUX	
+43	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	करसोग	VFM	
+3	क्षेत्र	NN	
+4	के	PSP	
+5	बारे	PSP	
+6	में	PSP	
+7	बात	NN	
+8	करूँगा	VM	
+9	कि	CC	
+10	दैनिक	JJ	
+11	मजदूरी	NN	
+12	पर	PSP	
+13	जो	DEM	
+14	बेलदार	VFM	
+15	थे	VAUX	
+16	,	SYM	
+17	वह	DEM	
+18	बहुत	INTF	
+19	ज्यादा	INTF	
+20	तादाद	VFM	
+21	में	PSP	
+22	निकाले	VM	
+23	गए	VAUX	
+24	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	तो	RP	
+3	निवेदन	NN	
+4	करूगा	VFM	
+5	मुख्य	JJ	
+6	मंत्री	NN	
+7	महोदय	RP	
+8	से	PSP	
+9	कि	CC	
+10	जिन	DEM	
+11	कमचारियों	VFM	
+12	को	PSP	
+13	करसोग	VFM	
+14	डिवीजन	VFM	
+15	से	PSP	
+16	काम	NN	
+17	से	PSP	
+18	निकाला	VM	
+19	गया	VAUX	
+20	है	DEM	
+21	,	SYM	
+22	आज	PRP	
+23	हमारी	PRP	
+24	बहुत	INTF	
+25	परियोजनाओं	VFM	
+26	का	PSP	
+27	काम	NN	
+28	शुरू	NN	
+29	हो	VM	
+30	रहा	VAUX	
+31	है	DEM	
+32	,	SYM	
+33	उन	DEM	
+34	लोगों	NN	
+35	को	PRP	
+36	,	SYM	
+37	उन	DEM	
+38	बेलदारों	VFM	
+39	को	PSP	
+40	वहाँ	PRP	
+41	पर	PSP	
+42	भी	RP	
+43	काम	NN	
+44	करने	VM	
+45	का	PSP	
+46	मौका	NN	
+47	दिया	VAUX	
+48	जाए	VAUX	
+49	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	(	SYM	
+2	घण्टी	ECH	
+3	अभी	PRP	
+4	तो	RP	
+5	शुरू	NN	
+6	हुआ	VAUX	
+7	मुख्य	JJ	
+8	मन्त्री	XC	
+9	महोदय	RP	
+10	के	PSP	
+11	ध्यान	NN	
+12	में	PSP	
+13	एक	QC	
+14	बात	NN	
+15	लाना	VM	
+16	चाहूँगा	VFM	
+17	कि	CC	
+18	करसोग	VFM	
+19	में	PSP	
+20	टीमेटों	VFM	
+21	की	PSP	
+22	पोस्टें	VFM	
+23	खाली	JJ	
+24	पड़ी	VM	
+25	हैं	VAUX	
+26	,	SYM	
+27	पीछे	NST	
+28	भी	RP	
+29	मैंने	PRP	
+30	इस	DEM	
+31	बात	NN	
+32	का	PSP	
+33	जिक्र	NN	
+34	किया	VM	
+35	था	VAUX	
+36	परन्तु	CC	
+37	आज	NN	
+38	तक	RP	
+39	कोई	PRP	
+40	पोस्ट	VFM	
+41	नहीं	NEG	
+42	भरी	RP	
+43	गई	VAUX	
+44	है	DEM	
+45	,	SYM	
+46	उस	DEM	
+47	पर	PSP	
+48	भी	RP	
+49	मैं	PRP	
+50	अध्यक्ष	NN	
+51	महोदय	RP	
+52	का	PSP	
+53	ध्यान	NN	
+54	दिलाना	VFM	
+55	चाहूँगा	VFM	
+56	कि	CC	
+57	इस	DEM	
+58	पोस्टों	VFM	
+59	को	PSP	
+60	भर	RP	
+61	दिया	VAUX	
+62	जाए	VAUX	
+63	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	एक	QC	
+2	बात	NN	
+3	मुझे	PRP	
+4	और	CC	
+5	कहनी	VFM	
+6	है	VAUX	
+7	कि	CC	
+8	इस	DEM	
+9	बोर्ड	XC	
+10	में	PSP	
+11	जहाँ	PRP	
+12	-	SYM	
+13	जहाँ	PRP	
+14	अच्छे	RDP	
+15	काम	NN	
+16	हुए	VAUX	
+17	हैं	VAUX	
+18	वहाँ	PRP	
+19	फिंजूल	VFM	
+20	खर्च	NN	
+21	भी	RP	
+22	हुए	VAUX	
+23	हैं	VAUX	
+24	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	DEM	
+2	फिजूल	VFM	
+3	खर्ची	VFM	
+4	को	PSP	
+5	जिस	DEM	
+6	प्रकार	NN	
+7	से	PSP	
+8	रेस्ट	VFM	
+9	हाऊसिज	VFM	
+10	बनते	VM	
+11	हैं	VAUX	
+12	,	SYM	
+13	या	CC	
+14	फाईव	VFM	
+15	स्टार	VFM	
+16	होटल	NN	
+17	बनते	VM	
+18	हैं	VAUX	
+19	,	SYM	
+20	मैं	PRP	
+21	यह	DEM	
+22	नहीं	NEG	
+23	कहता	VM	
+24	कि	CC	
+25	आप	PRP	
+26	फाईव	VFM	
+27	स्टार	VFM	
+28	होटल	NN	
+29	न	NEG	
+30	बनाइये	VFM	
+31	परन्तु	CC	
+32	अपने	PRP	
+33	सीमित	JJ	
+34	वित्तिय	VFM	
+35	साधनों	NN	
+36	के	PSP	
+37	अनुसार	PSP	
+38	बनाने	VM	
+39	चाहिए	VAUX	
+40	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	DEM	
+2	दिशा	NN	
+3	में	PSP	
+4	सभी	QF	
+5	कदम	RDP	
+6	उठाने	VM	
+7	चाहिए	VAUX	
+8	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	बोर्ड	INJ	
+2	में	PSP	
+3	बहुत	INTF	
+4	सारे	QF	
+5	पदाधिकारी	VFM	
+6	सेवा	XC	
+7	-	SYM	
+8	निवृत	JJ	
+9	है	VAUX	
+10	तो	RP	
+11	मैं	PRP	
+12	चाहूँगा	VFM	
+13	कि	CC	
+14	इस	DEM	
+15	बारे	PSP	
+16	में	PSP	
+17	यह	DEM	
+18	ठीक	INJ	
+19	है	VAUX	
+20	कि	CC	
+21	अभी	PRP	
+22	मुख्य	JJ	
+23	मन्त्री	XC	
+24	महोदय	RP	
+25	ने	PSP	
+26	उनको	PRP	
+27	मौका	NN	
+28	दोबारा	VFM	
+29	दिया	VAUX	
+30	है	DEM	
+31	,	SYM	
+32	मैं	PRP	
+33	चाहूँगा	VFM	
+34	कि	CC	
+35	वे	PRP	
+36	मौके	NN	
+37	हमारे	PRP	
+38	चीफ	VFM	
+39	इंजीनियर	NN	
+40	को	PSP	
+41	मिलना	VM	
+42	चाहिए	VAUX	
+43	,	SYM	
+44	जिनकी	PRP	
+45	अवधि	NN	
+46	पूरी	JJ	
+47	हो	VM	
+48	चुकी	VAUX	
+49	है	DEM	
+50	,	SYM	
+51	उनको	PRP	
+52	पैंशन	VFM	
+53	मिलती	VM	
+54	है	VAUX	
+55	तो	RP	
+56	उनको	PRP	
+57	भी	RP	
+58	मौका	NN	
+59	दिया	VAUX	
+60	जाए	VAUX	
+61	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	श्रीमती	INJ	
+2	विपल्व	VFM	
+3	ठाकुर	NNP	
+4	(	SYM	
+5	सभापति	XC	
+6	)	SYM	
+7	:	SYM	
+8	माननीय	JJ	
+9	सदस्य	XC	
+10	,	SYM	
+11	आप	DEM	
+12	जल्दी	RB	
+13	कीजिए	VM	
+14	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	श्री	INJ	
+2	जोगिन्द्र	VFM	
+3	पाल	XC	
+4	:	SYM	
+5	मैं	PRP	
+6	जल्दी	RB	
+7	कर	VM	
+8	रहा	VAUX	
+9	हूँ	VAUX	
+10	सभापति	XC	
+11	महोदया	ECH	
+12	,	SYM	
+13	एक	QC	
+14	बात	NN	
+15	में	PSP	
+16	और	CC	
+17	कहना	VM	
+18	चाहूँगा	VFM	
+19	कि	CC	
+20	हरिजनों	NN	
+21	के	PSP	
+22	लिए	PSP	
+23	जो	DEM	
+24	एक	QC	
+25	प्वाइन्ट	VFM	
+26	दिया	VAUX	
+27	जाता	VAUX	
+28	है	DEM	
+29	,	SYM	
+30	कई	INTF	
+31	एक	QC	
+32	एप्लीकेशन्ज	VFM	
+33	पैंडिंग	VFM	
+34	पड़ी	VM	
+35	हैं	VAUX	
+36	और	CC	
+37	अभी	PRP	
+38	तक	RP	
+39	उन	DEM	
+40	लोगों	NN	
+41	को	PSP	
+42	जो	DEM	
+43	पैसा	NN	
+44	मिलता	VM	
+45	है	DEM	
+46	,	SYM	
+47	उनको	PRP	
+48	बारबार	VFM	
+49	दफ्तर	NN	
+50	में	PSP	
+51	जाना	VAUX	
+52	पड़ता	VAUX	
+53	है	VAUX	
+54	और	CC	
+55	उनको	PRP	
+56	पैसा	NN	
+57	समय	NST	
+58	पर	PSP	
+59	नहीं	NEG	
+60	मिलता	VM	
+61	है	VAUX	
+62	और	CC	
+63	उनको	PRP	
+64	यह	DEM	
+65	पैसा	NN	
+66	समय	NST	
+67	पर	PSP	
+68	मिलना	VM	
+69	चाहिए	VAUX	
+70	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	और	CC	
+2	दूसरे	QO	
+3	मैं	PRP	
+4	इसमें	PRP	
+5	एक	QC	
+6	बात	NN	
+7	और	CC	
+8	कहना	VM	
+9	चाहूँगा	VFM	
+10	कि	CC	
+11	सिंगल	VFM	
+12	प्वाइन्ट	VFM	
+13	प्रोग्राम	VFM	
+14	है	VAUX	
+15	यह	DEM	
+16	,	SYM	
+17	अगर	RB	
+18	इसमें	PRP	
+19	,	SYM	
+20	जैसा	XC	
+21	कि	CC	
+22	योग	XC	
+23	रोज	NN	
+24	जी	INJ	
+25	ने	PSP	
+26	कहा	VM	
+27	कि	CC	
+28	इसमें	PRP	
+29	दो	RDP	
+30	-	SYM	
+31	तीन	XC	
+32	प्वाइंट	VFM	
+33	देने	VM	
+34	बड़े	INTF	
+35	जरूरी	JJ	
+36	हैं	VAUX	
+37	क्योंकि	CC	
+38	उसके	PRP	
+39	पास	NST	
+40	इतना	QF	
+41	आमदनी	NN	
+42	का	PSP	
+43	साधन	XC	
+44	नहीं	NEG	
+45	है	VAUX	
+46	कि	CC	
+47	वह	PRP	
+48	बिजली	NN	
+49	का	PSP	
+50	किराया	XC	
+51	दे	VAUX	
+52	सके	VAUX	
+53	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	साथ	NST	
+3	हिमाचल	NNP	
+4	प्रदेश	NNP	
+5	में	PSP	
+6	बहुत	INTF	
+7	सी	RP	
+8	परियोजनाएँ	VFM	
+9	लगने	VM	
+10	जा	VAUX	
+11	रही	VAUX	
+12	हैं	VAUX	
+13	,	SYM	
+14	जिसकी	PRP	
+15	शुरूआत	VFM	
+16	भी	RP	
+17	हो	VM	
+18	गई	VAUX	
+19	है	VAUX	
+20	और	CC	
+21	हमारा	PRP	
+22	कोल	VFM	
+23	डैम	VFM	
+24	भी	RP	
+25	लगने	VM	
+26	जा	VAUX	
+27	रहा	VAUX	
+28	है	VAUX	
+29	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैंने	INJ	
+2	पीछे	NST	
+3	भी	RP	
+4	सदन	NN	
+5	में	PSP	
+6	कहा	VM	
+7	था	VAUX	
+8	कि	CC	
+9	वहाँ	PRP	
+10	के	PSP	
+11	जो	DEM	
+12	विस्थापित	VFM	
+13	होंगे	VAUX	
+14	जो	DEM	
+15	लोग	NN	
+16	उजड़ेंगे	ECH	
+17	,	SYM	
+18	उनके	PRP	
+19	बारे	PSP	
+20	में	PSP	
+21	पहले	NST	
+22	सोचा	VM	
+23	जाए	VAUX	
+24	कि	CC	
+25	उनको	PRP	
+26	कहाँ	WQ	
+27	बसाया	VM	
+28	जाए	VAUX	
+29	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	साथ	NST	
+3	हिमाचल	NNP	
+4	प्रदेश	NNP	
+5	में	PSP	
+6	बहुत	INTF	
+7	सी	RP	
+8	परियोजनाएँ	VFM	
+9	लगने	VM	
+10	जा	VAUX	
+11	रही	VAUX	
+12	हैं	VAUX	
+13	,	SYM	
+14	जिसकी	PRP	
+15	शुरूआत	VFM	
+16	भी	RP	
+17	हो	VM	
+18	गई	VAUX	
+19	है	VAUX	
+20	और	CC	
+21	हमारा	PRP	
+22	कोल	VFM	
+23	डैम	VFM	
+24	भी	RP	
+25	लगने	VM	
+26	जा	VAUX	
+27	रहा	VAUX	
+28	है	VAUX	
+29	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैंने	INJ	
+2	पीछे	NST	
+3	भी	RP	
+4	सदन	NN	
+5	में	PSP	
+6	कहा	VM	
+7	था	VAUX	
+8	कि	CC	
+9	वहाँ	PRP	
+10	के	PSP	
+11	जो	DEM	
+12	विस्थापित	VFM	
+13	होंगे	VAUX	
+14	जो	DEM	
+15	लोग	NN	
+16	उजड़ेंगे	ECH	
+17	,	SYM	
+18	उनके	PRP	
+19	बारे	PSP	
+20	में	PSP	
+21	पहले	NST	
+22	सोचा	VM	
+23	जाए	VAUX	
+24	कि	CC	
+25	उनको	PRP	
+26	कहाँ	WQ	
+27	बसाया	VM	
+28	जाए	VAUX	
+29	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जैसे	CC	
+2	कि	CC	
+3	कोल	VFM	
+4	डैम	VFM	
+5	बनने	VM	
+6	जा	VAUX	
+7	रहा	VAUX	
+8	है	VAUX	
+9	तो	RP	
+10	जो	DEM	
+11	तत्तापानी	VFM	
+12	का	PSP	
+13	एरिया	VFM	
+14	हैं	VAUX	
+15	,	SYM	
+16	इसके	PRP	
+17	बारे	PSP	
+18	में	PSP	
+19	मैंने	PRP	
+20	पहले	NST	
+21	भी	RP	
+22	जिक्र	NN	
+23	किया	VAUX	
+24	,	SYM	
+25	अध्यक्ष	NN	
+26	महोदय	RP	
+27	से	PSP	
+28	मैं	PRP	
+29	निवेदन	NN	
+30	करूँगा	VM	
+31	कि	CC	
+32	इस	DEM	
+33	प्रोजैक्ट	VFM	
+34	को	PSP	
+35	थोड़ा	QF	
+36	पीछे	NST	
+37	लगवाने	VFM	
+38	की	PSP	
+39	कोशिश	NN	
+40	करें	VM	
+41	ताकि	CC	
+42	तत्तापानी	VFM	
+43	का	PSP	
+44	नेचुरल	VFM	
+45	ब्यूटी	VFM	
+46	बच	VM	
+47	सके	VAUX	
+48	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	मुख्य	JJ	
+3	मन्त्री	XC	
+4	महोदय	RP	
+5	का	PSP	
+6	बहुत	INTF	
+7	-	SYM	
+8	बहुत	INTF	
+9	धन्यवाद	RP	
+10	करना	VM	
+11	चाहता	VAUX	
+12	हूँ	VAUX	
+13	कि	CC	
+14	इन्होंने	VFM	
+15	परियोजना	VFM	
+16	का	PSP	
+17	काम	NN	
+18	बहुत	INTF	
+19	सही	JJ	
+20	ढंग	NN	
+21	से	PSP	
+22	चलाया	VM	
+23	है	VAUX	
+24	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	प्रोर	UNK	
+2	जो	DEM	
+3	बोर्ड	XC	
+4	के	PSP	
+5	अध्यक्ष	NN	
+6	हैं	VAUX	
+7	,	SYM	
+8	इन्होनें	ECH	
+9	भी	RP	
+10	बहुत	INTF	
+11	अच्छा	INJ	
+12	काम	NN	
+13	चलाया	VM	
+14	है	VAUX	
+15	तो	RP	
+16	मैं	PRP	
+17	इसी	DEM	
+18	के	PSP	
+19	साथ	NST	
+20	मुख्य	JJ	
+21	मन्त्री	XC	
+22	महोदय	RP	
+23	को	PSP	
+24	बधाई	VFM	
+25	देना	VM	
+26	चाहूँगा	VFM	
+27	और	CC	
+28	अध्यक्ष	NN	
+29	महोदया	VFM	
+30	और	CC	
+31	जो	DEM	
+32	बोर्ड	XC	
+33	के	PSP	
+34	छोटे	JJ	
+35	कर्मचारी	NN	
+36	है	DEM	
+37	,	SYM	
+38	उनको	PRP	
+39	भी	RP	
+40	बधाई	VFM	
+41	देता	VAUX	
+42	हूँ	VAUX	
+43	,	SYM	
+44	धन्यवाद	RP	
+45	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	श्री	INJ	
+2	बृज	VFM	
+3	बिहारी	VFM	
+4	लाल	JJ	
+5	बुटेल	ECH	
+6	:	SYM	
+7	माननीय	JJ	
+8	सभापति	XC	
+9	महोदया	ECH	
+10	,	SYM	
+11	मैं	PRP	
+12	विद्युत	VFM	
+13	परिषद	NNP	
+14	1989	QC	
+15	-	SYM	
+16	90	QC	
+17	के	PSP	
+18	अनुपूरक	VFM	
+19	संशोधित	JJ	
+20	अनुमानों	VFM	
+21	के	PSP	
+22	चर्चा	NN	
+23	में	PSP	
+24	भाग	NN	
+25	लेने	VAUX	
+26	के	PSP	
+27	लिए	PSP	
+28	खड़ा	JJ	
+29	हुआ	VAUX	
+30	हूँ	VAUX	
+31	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	सब	QF	
+3	से	PSP	
+4	पहले	NST	
+5	तो	RP	
+6	माननीय	VFM	
+7	मुख्य	JJ	
+8	मंत्री	NN	
+9	महोदय	RP	
+10	को	PSP	
+11	इस	DEM	
+12	बात	NN	
+13	के	PSP	
+14	लिए	PSP	
+15	बधाई	VFM	
+16	देता	VAUX	
+17	हूँ	VAUX	
+18	कि	CC	
+19	उनकी	PRP	
+20	दूरदर्शिता	VFM	
+21	और	CC	
+22	सूझ	XC	
+23	-	SYM	
+24	बूझ	VM	
+25	से	PSP	
+26	हमारे	PRP	
+27	प्रदेश	NNP	
+28	के	PSP	
+29	पन	ECH	
+30	-	SYM	
+31	साधनों	NN	
+32	को	PSP	
+33	परिवर्तित	JJ	
+34	करने	VM	
+35	के	PSP	
+36	लिए	PSP	
+37	इन्होंने	VFM	
+38	जो	DEM	
+39	संकल्प	NN	
+40	लिया	VAUX	
+41	है	DEM	
+42	,	SYM	
+43	उनको	PRP	
+44	आज	NN	
+45	साकार	VFM	
+46	किया	VM	
+47	जा	VAUX	
+48	रहा	VAUX	
+49	है	DEM	
+50	,	SYM	
+51	उनको	PRP	
+52	चालू	JJ	
+53	कार्यकाल	VFM	
+54	अवधि	NN	
+55	में	PSP	
+56	और	CC	
+57	इसके	PRP	
+58	लिए	PSP	
+59	वे	PRP	
+60	बधाई	VFM	
+61	के	PSP	
+62	पात्र	NN	
+63	हैं	VAUX	
+64	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	13	QC	
+2	अप्रैल	NNP	
+3	को	PSP	
+4	माननीय	VFM	
+5	मुख्य	JJ	
+6	मंत्री	NN	
+7	महोदय	RP	
+8	के	PSP	
+9	आह्वान	VFM	
+10	पर	PSP	
+11	हमारे	PRP	
+12	देश	NN	
+13	के	PSP	
+14	प्रधानमंत्री	NN	
+15	यहाँ	PRP	
+16	पर	PSP	
+17	नाथपा	VFM	
+18	झाखड़ी	VFM	
+19	के	PSP	
+20	फाउंडेशन	VFM	
+21	के	PSP	
+22	लिए	PSP	
+23	आए	VM	
+24	और	CC	
+25	हिमाचल	NNP	
+26	में	PSP	
+27	सबसे	INTF	
+28	बड़े	INTF	
+29	प्रोजैक्ट	VFM	
+30	की	PSP	
+31	फाउंडेशन	VFM	
+32	रखी	VM	
+33	गई	VAUX	
+34	यह	DEM	
+35	श्रेय	JJ	
+36	हमारे	PRP	
+37	माननीय	VFM	
+38	मुख्य	JJ	
+39	मंत्री	NN	
+40	महोदय	RP	
+41	को	PSP	
+42	जाता	VAUX	
+43	है	VAUX	
+44	और	CC	
+45	हमारे	PRP	
+46	बोर्ड	XC	
+47	के	PSP	
+48	चेयरमेन	VFM	
+49	श्री	XC	
+50	कैलाश	NNP	
+51	महाजन	VFM	
+52	को	PSP	
+53	जाता	VAUX	
+54	है	VAUX	
+55	और	CC	
+56	उनके	PRP	
+57	सहयोगियों	NN	
+58	को	PSP	
+59	जाता	VAUX	
+60	है	VAUX	
+61	कि	CC	
+62	इन	DEM	
+63	सबसे	INTF	
+64	बड़े	INTF	
+65	प्रोजेक्ट	VFM	
+66	का	PSP	
+67	शिलान्यास	VFM	
+68	कराया	VM	
+69	।	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	आज	INJ	
+2	हम	PRP	
+3	यह	DEM	
+4	देख	VM	
+5	रहे	VAUX	
+6	हैं	VAUX	
+7	कि	CC	
+8	हमारी	PRP	
+9	जितनी	QF	
+10	विद्युत	VFM	
+11	परियोजनाएं	VFM	
+12	हैं	VAUX	
+13	हिमाचल	NNP	
+14	में	PSP	
+15	उनमें	PRP	
+16	जो	DEM	
+17	बढ़ौतरी	VFM	
+18	होता	VM	
+19	जा	VAUX	
+20	रही	VAUX	
+21	है	DEM	
+22	,	SYM	
+23	वह	DEM	
+24	बड़ी	INTF	
+25	सूझ-	VFM	
+26	बूझ	VM	
+27	का	PSP	
+28	प्रमाण	NN	
+29	है	VAUX	
+30	।	SYM	
+	))
+</Sentence>
+
+</Story>

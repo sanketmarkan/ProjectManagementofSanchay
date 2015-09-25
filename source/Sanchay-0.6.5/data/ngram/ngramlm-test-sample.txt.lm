@@ -1,0 +1,77 @@
+\data\
+
+ngram 1=16
+ngram 2=22
+ngram 3=26
+
+\1-grams:
+-1.0791812	<s>	-Infinity	3
+-1.5563025	a	-Infinity	1
+-1.2552725	possible	-Infinity	2
+-1.2552725	reconstruction	-Infinity	2
+-1.0791812	of	-Infinity	3
+-0.7781513	the	-Infinity	6
+-1.2552725	vina	-Infinity	2
+-1.2552725	is	-Infinity	2
+-1.2552725	given	-Infinity	2
+-1.2552725	here	-Infinity	2
+-1.0791812	.	-Infinity	3
+-1.0791812	</s>	-Infinity	3
+-1.5563025	region	-Infinity	1
+-1.5563025	resembles	-Infinity	1
+-1.2552725	yantra	-Infinity	2
+-1.5563025	not	-Infinity	1
+
+\2-grams:
+-0.4771213	<s> a	-Infinity	1
+0	a possible	-Infinity	1
+0	possible reconstruction	-Infinity	2
+0	reconstruction of	-Infinity	2
+0	of the	-Infinity	3
+-0.4771213	the vina	-Infinity	2
+-0.30103	vina is	-Infinity	1
+-0.30103	is given	-Infinity	1
+0	given here	-Infinity	2
+0	here .	-Infinity	2
+0	. </s>	-Infinity	3
+-0.1760913	<s> the	-Infinity	2
+-0.30103	vina of	-Infinity	1
+-0.7781513	the region	-Infinity	1
+0	region resembles	-Infinity	1
+0	resembles the	-Infinity	1
+-0.4771213	the yantra	-Infinity	2
+-0.30103	yantra .	-Infinity	1
+-0.7781513	the possible	-Infinity	1
+-0.30103	yantra is	-Infinity	1
+-0.30103	is not	-Infinity	1
+0	not given	-Infinity	1
+
+\3-grams:
+0	<s> a possible	1
+0	a possible reconstruction	1
+0	possible reconstruction of	2
+0	reconstruction of the	2
+-0.4771213	of the vina	1
+-0.30103	the vina is	1
+0	vina is given	1
+0	is given here	1
+0	given here .	2
+0	here . </s>	2
+-0.30103	<s> the vina	1
+-0.30103	the vina of	1
+0	vina of the	1
+-0.4771213	of the region	1
+0	the region resembles	1
+0	region resembles the	1
+0	resembles the yantra	1
+-0.30103	the yantra .	1
+0	yantra . </s>	1
+-0.30103	<s> the possible	1
+0	the possible reconstruction	1
+-0.4771213	of the yantra	1
+-0.30103	the yantra is	1
+0	yantra is not	1
+0	is not given	1
+0	not given here	1
+
+\end\

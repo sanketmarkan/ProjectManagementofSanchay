@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appendix>
+  <title>Frequently Asked Questions</title>
+
+  <sect1>
+    <title>Why another NLP &#39;platform&#39;?</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>To complement other such platforms or libraries (GATE, OpenNLP,
+        etc.), not to replace them</para>
+      </listitem>
+
+      <listitem>
+        <para>To make it easier to build applications for Indian (actually,
+        South Asian) languages by addressing problems specific to them and
+        taking advantage of their special characteristics</para>
+      </listitem>
+
+      <listitem>
+        <para>To provide a place where independent components can live
+        together without making each others&#39; lives difficult</para>
+      </listitem>
+
+      <listitem>
+        <para>To make available things to researchers and users which were not
+        available till now</para>
+      </listitem>
+
+      <listitem>
+        <para>To make research and development easier for myself</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Why in Java?</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>It is easier and faster to write open source code in Java</para>
+      </listitem>
+
+      <listitem>
+        <para>There are more freely usable libraries (including for NLP) in
+        Java than elsewhere</para>
+      </listitem>
+
+      <listitem>
+        <para>Java may not be the ideal programming language, but it seems to
+        be the best option right now</para>
+      </listitem>
+
+      <listitem>
+        <para>Java allows better engineering than most other languages</para>
+      </listitem>
+
+      <listitem>
+        <para>I am comfortable with Java</para>
+      </listitem>
+
+      <listitem>
+        <para>There are Eclipse and Netbeans for Java</para>
+      </listitem>
+
+      <listitem>
+        <para>Due to all the other advantages of Java and Object Oriented
+        Technology</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Who can use it?</title>
+
+    <para>Anyone: user, developer, researcher</para>
+  </sect1>
+
+  <sect1>
+    <title>For what?</title>
+
+    <para>User:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>For editing in Indian languages</para>
+      </listitem>
+
+      <listitem>
+        <para>For language and encoding identification</para>
+      </listitem>
+
+      <listitem>
+        <para>For annotation (POS tagging, treebank, parallel corpus markup)</para>
+      </listitem>
+
+      <listitem>
+        <para>For smart file splitting, find/replace/extract, etc.</para>
+      </listitem>
+
+      <listitem>
+        <para>For </para>
+      </listitem>
+    </itemizedlist>
+
+    <para>Developer:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>For developing applications (especially for NLP) using the APIs
+        and components like tree, table, etc.</para>
+      </listitem>
+    </itemizedlist>
+
+    <para>Researcher:</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>All of the above</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Can I use or modify the APIs?</title>
+
+    <para>At your own risk. As mentioned in the disclaimers section, the
+    design of Sanchay has not yet stabilised, so it would be better if you
+    wait for some time before making your applications very dependent on
+    Sanchay APIs. You can, of course, use the separately executable
+    applications like the annotation interfaces.</para>
+
+    <para>If you want to modify the APIs for Sanchay itself, read about
+    contributing below.</para>
+  </sect1>
+
+  <sect1>
+    <title>Where can I get the latest version?</title>
+
+    <para>You can get the latest version at <ulink
+    url="https://sourceforge.net/projects/nlp-sanchay">Sourceforge.net</ulink>.
+    You may also want to check out the <ulink
+    url="http://nlp.sanchay.googlepages.com">Sanchay</ulink> home page.</para>
+  </sect1>
+
+  <sect1>
+    <title>How to find what I need?</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Read the Sanchay User Guide</para>
+      </listitem>
+
+      <listitem>
+        <para>Look at the Sanchay home page</para>
+      </listitem>
+
+      <listitem>
+        <para>See the Java API documentation for Sanchay (it&#39;s not very
+        well done at present, it might help)</para>
+      </listitem>
+
+      <listitem>
+        <para>If you have done all the above and were not able to find, ask
+        me.</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Can I contribute?</title>
+
+    <para>Sure. Just get familiar with the Sanchay architecture etc. and if
+    what you build is compatible with Sanchay, it can become a part of
+    Sanchay. Your contribution will be acknowledged (assuming it&#39;s
+    something more than writing a five line program). Of course, you won&#39;t
+    be paid anything because I don&#39;t have anything to pay you with. The
+    financial turnover of Sanchay is <ulink
+    url="http://www.bway.net/~hunger/litigation.html">Rs. 0.0</ulink> (this is
+    an inflated figure).</para>
+  </sect1>
+
+  <sect1>
+    <title>I have already done something in Java. Can it be added to Sanchay?</title>
+
+    <para>The answer is almost the same as above.</para>
+  </sect1>
+
+  <sect1>
+    <title>What is the business model?</title>
+
+    <para><emphasis>x</emphasis><subscript>i</subscript> builds
+    <emphasis>y</emphasis><subscript>m</subscript> and <emphasis>x</emphasis><subscript>j</subscript>
+    uses <emphasis>y</emphasis><subscript>n</subscript> at monetary price
+    <emphasis>p</emphasis></para>
+
+    <itemizedlist>
+      <listitem>
+        <para>where <emphasis>i, j, m</emphasis> and <emphasis>n</emphasis>
+        are random integers from the set <emphasis>{1, 2, 3, ..., N}</emphasis></para>
+
+        <itemizedlist>
+          <listitem>
+            <para><emphasis>N</emphasis> = population of the world at any
+            instant <emphasis>t</emphasis> during building or using</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>and <emphasis>p</emphasis> = 0</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Is the business model likely to change?</title>
+
+    <para>Not if I can help it.</para>
+  </sect1>
+
+  <sect1>
+    <title>Who Owns Sanchay?</title>
+
+    <para>I don&#39;t think anyone does. But since this there is no one else
+    right now to break her or his head on this platform, I am there.</para>
+  </sect1>
+</appendix>

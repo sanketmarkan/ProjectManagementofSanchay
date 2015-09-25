@@ -1,0 +1,60 @@
+\data\
+
+ngram 1=16
+ngram 2=22
+ngram 3=4
+ngram 4=2
+
+\1-grams:
+-1.079181	 .	-0.5642715
+-1.079181	 </s>
+-99	 <s>	-0.3077634
+-1.380211	 a	-0.2730013
+-1.20412	 given	-0.4490925
+-1.20412	 here	-0.4393327
+-1.20412	 is	-0.2532572
+-1.380211	 not	-0.2730013
+-1.079181	 of	-0.5336027
+-1.20412	 possible	-0.4490925
+-1.20412	 reconstruction	-0.4393327
+-1.380211	 region	-0.2825466
+-1.380211	 resembles	-0.2325726
+-0.8361432	 the	-0.2849005
+-1.20412	 vina	-0.2325726
+-1.20412	 yantra	-0.2325726
+
+\2-grams:
+-0.1249387	 . </s>
+-0.69897	 <s> a
+-0.39794	 <s> the
+-0.30103	 a possible
+-0.1760913	 given here	0
+-0.1760913	 here .	0.1249388
+-0.60206	 is given
+-0.60206	 is not
+-0.30103	 not given
+-0.1249387	 of the
+-0.1760913	 possible reconstruction	0
+-0.1760913	 reconstruction of	0.1249388
+-0.30103	 region resembles
+-0.30103	 resembles the
+-1	 the possible
+-1	 the region
+-0.69897	 the vina
+-0.69897	 the yantra
+-0.60206	 vina is
+-0.60206	 vina of
+-0.60206	 yantra .
+-0.60206	 yantra is
+
+\3-grams:
+-0.1760913	 here . </s>
+-0.1760913	 given here .	0
+-0.1760913	 reconstruction of the
+-0.1760913	 possible reconstruction of	0
+
+\4-grams:
+-0.1760913	 given here . </s>
+-0.1760913	 possible reconstruction of the
+
+\end\

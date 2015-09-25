@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN"
+"http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd">
+<article>
+  <title>Building Multilingual NLP Applications in the South Asian Context</title>
+
+  <articleinfo>
+    <date></date>
+
+    <author>
+      <firstname>Anil</firstname>
+
+      <othername>Kumar</othername>
+
+      <surname>Singh</surname>
+
+      <affiliation>
+        <orgname>Language Technologies Research Centre</orgname>
+
+        <orgdiv>International Institute of Information Technology</orgdiv>
+
+        <address>Hyderabad, India <email>anil@research.iiit.net</email></address>
+      </affiliation>
+    </author>
+  </articleinfo>
+
+  <sect1>
+    <title>India as a Linguistic Area</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Actually, South Asia as a linguistic area</para>
+      </listitem>
+
+      <listitem>
+        <para>South Asian convergence</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Whether through unidirectional (Emeneau) or
+            multi-directional (Hock) influence</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Languages belong to many different families</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Still there are a lot of similarities</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Long term contact</para>
+      </listitem>
+
+      <listitem>
+        <para>Migrations of populations</para>
+      </listitem>
+
+      <listitem>
+        <para>As if South Asian languages form a family of their own</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Cuts across different families</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Similarities among South Asian Languages</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Brahmi based scripts used for most of the major Indian languages</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Well organised</para>
+          </listitem>
+
+          <listitem>
+            <para>Alphabetic + syllabic + phonetic</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Overlapping lexicon</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Words of Sanskrit/English/Persian origin</para>
+          </listitem>
+
+          <listitem>
+            <para>Words borrowed from one another</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Free word order</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Use of vibhaktis</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Influence of Sanskrit/English/Persian on more than just the
+        lexicon</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Naturalized translated constructions</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Similar linguistic categories?</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>How much similar?</para>
+          </listitem>
+
+          <listitem>
+            <para>Can be explored</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Similar cultural background of speakers</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Religion and philosophy</para>
+          </listitem>
+
+          <listitem>
+            <para>History</para>
+          </listitem>
+
+          <listitem>
+            <para>Social, political, economical</para>
+          </listitem>
+
+          <listitem>
+            <para>Hindi movies</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Dominance of English</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Previously Persian and Sanskrit</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Linguistic, Technolgical and Practical Issues</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Non-standard fonts/encodings</para>
+      </listitem>
+
+      <listitem>
+        <para>ISCII and UTF-8</para>
+      </listitem>
+
+      <listitem>
+        <para>Non-standard spellings</para>
+      </listitem>
+
+      <listitem>
+        <para>Less standardization in general</para>
+      </listitem>
+
+      <listitem>
+        <para>More dialectal/regional variation</para>
+      </listitem>
+
+      <listitem>
+        <para>Traditional grammars based on the Paninian framework</para>
+      </listitem>
+
+      <listitem>
+        <para>Lack of resources</para>
+      </listitem>
+
+      <listitem>
+        <para>Similar technological challanges</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Multilingual NLP Applications</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>NLP applications which can work across more than one language</para>
+      </listitem>
+
+      <listitem>
+        <para>And/or can be extended to other languages</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>With little or no effort</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Issues</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Linguistic and other assumptions</para>
+          </listitem>
+
+          <listitem>
+            <para>Underlying linguistic theory</para>
+          </listitem>
+
+          <listitem>
+            <para>Language resources required</para>
+          </listitem>
+
+          <listitem>
+            <para>Robustness of NLP techniques for across languages</para>
+          </listitem>
+
+          <listitem>
+            <para>Modularity, flexibility and robustness of design</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Problem Statement</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Focus:</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Exploiting the similarities among Indian (or South Asian)
+            languages</para>
+          </listitem>
+
+          <listitem>
+            <para>As well as phonetic nature of their scripts</para>
+          </listitem>
+
+          <listitem>
+            <para>For building well-engineered applications</para>
+          </listitem>
+
+          <listitem>
+            <para>Which can work across Indian languages</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Deliverables:</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Models to capture similarities as far as possible</para>
+          </listitem>
+
+          <listitem>
+            <para>A framework for building multilingual applications for South
+            Asian languages</para>
+          </listitem>
+
+          <listitem>
+            <para>Some well-designed well-implemented useful applications</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Some resources needed for developing them</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Brahmi Origin (BO) Scripts</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Well-organised script</para>
+      </listitem>
+
+      <listitem>
+        <para>Used for ancient languages like Sanskrit, Pali, etc.</para>
+      </listitem>
+
+      <listitem>
+        <para>Scripts of most major modern Indian languages derived from
+        Brahmi</para>
+      </listitem>
+    </itemizedlist>
+
+    <sect2>
+      <title>Phonetic Nature of BO Scripts</title>
+
+      <itemizedlist>
+        <listitem>
+          <para>In most cases what is read is what is written</para>
+        </listitem>
+
+        <listitem>
+          <para>Vowels and consonants have well-defined phonetic values</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Even the names of letters indicate phonetic values</para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </itemizedlist>
+    </sect2>
+
+    <sect2>
+      <title>Alphabetic Nature of BO Scripts</title>
+
+      <itemizedlist>
+        <listitem>
+          <para>Have an alphabet</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>Organized mainly on phonetic basis</para>
+            </listitem>
+
+            <listitem>
+              <para>Vowels and consonants separated</para>
+            </listitem>
+
+            <listitem>
+              <para>Rectangles can be drawn around consonants to represent
+              articulatory features</para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </itemizedlist>
+    </sect2>
+
+    <sect2>
+      <title>Syllabic (Aaksharik) Nature of BO Scripts</title>
+
+      <itemizedlist>
+        <listitem>
+          <para>A systematic way of combining consonants and vowels to form
+          syllables</para>
+
+          <itemizedlist>
+            <listitem>
+              <para>More accurately, akshars</para>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </itemizedlist>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Computational Modelling of BO Scripts</title>
+
+    <sect2>
+      <title>Phonetic Model</title>
+
+      <para></para>
+    </sect2>
+
+    <sect2>
+      <title>Syllabic Model</title>
+
+      <para></para>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>A Framework for Building Multilingual NLP Applications</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Model of Indian Language Scripts</para>
+      </listitem>
+
+      <listitem>
+        <para>&#39;Trie&#39; Based Lexicon Tool</para>
+      </listitem>
+
+      <listitem>
+        <para>Common Libraries</para>
+      </listitem>
+
+      <listitem>
+        <para>Decoder</para>
+      </listitem>
+
+      <listitem>
+        <para>Generator</para>
+      </listitem>
+
+      <listitem>
+        <para>Individual Applications</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Language Resources</title>
+
+    <sect2>
+      <title>Existing Resources</title>
+
+      <itemizedlist>
+        <listitem>
+          <para>CIIL Monolingual Corpora</para>
+        </listitem>
+
+        <listitem>
+          <para>Aligned Parallel Corpora</para>
+        </listitem>
+
+        <listitem>
+          <para>Shabdaanjali</para>
+        </listitem>
+
+        <listitem>
+          <para>Vrihat Hindi Kosh</para>
+        </listitem>
+      </itemizedlist>
+    </sect2>
+
+    <sect2>
+      <title>New Resources</title>
+
+      <itemizedlist>
+        <listitem>
+          <para>Word Lists</para>
+        </listitem>
+
+        <listitem>
+          <para>Annotated Novels</para>
+        </listitem>
+      </itemizedlist>
+    </sect2>
+  </sect1>
+
+  <sect1>
+    <title>Linguistic Aspect</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Studying relevant similarities</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>From literature</para>
+          </listitem>
+
+          <listitem>
+            <para>From corpora</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Selecting those sources of similarities which can be useful for
+        NLP</para>
+      </listitem>
+
+      <listitem>
+        <para>Collecting/preparing new data where needed</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>NLP Aspect</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Computational modelling of similarities</para>
+      </listitem>
+
+      <listitem>
+        <para>Assumptions which can be made about South Asian languages</para>
+      </listitem>
+
+      <listitem>
+        <para>Algorithms for common modules</para>
+      </listitem>
+
+      <listitem>
+        <para>Algorithms for individual applications</para>
+      </listitem>
+
+      <listitem>
+        <para>Evaluation where applicable</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Engineering Aspect</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Designing a framework</para>
+      </listitem>
+
+      <listitem>
+        <para>Designing individual applications</para>
+      </listitem>
+
+      <listitem>
+        <para>Implementing models</para>
+      </listitem>
+
+      <listitem>
+        <para>Implementing algorithms</para>
+      </listitem>
+
+      <listitem>
+        <para>Implementing interfaces (preferably GUIs)</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Individual Applications</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Text Editor for NLP and South Asian Languages</para>
+      </listitem>
+
+      <listitem>
+        <para>Spell Checker</para>
+      </listitem>
+
+      <listitem>
+        <para>Sentence Alignment Tool</para>
+      </listitem>
+
+      <listitem>
+        <para>Language and Encoding Identification</para>
+      </listitem>
+
+      <listitem>
+        <para>Automatic Generation of Font or Encoding Convertors</para>
+      </listitem>
+
+      <listitem>
+        <para>Multi Word Number Expression Translator</para>
+      </listitem>
+
+      <listitem>
+        <para>Text Normalization</para>
+      </listitem>
+
+      <listitem>
+        <para>Predicting Spelling Variation</para>
+      </listitem>
+
+      <listitem>
+        <para>Studying Regional Variation</para>
+      </listitem>
+
+      <listitem>
+        <para>Morphological Analyzer</para>
+      </listitem>
+
+      <listitem>
+        <para>Automatic Generation of Multilingual Gloss</para>
+      </listitem>
+
+      <listitem>
+        <para>Annotation Interfaces</para>
+      </listitem>
+
+      <listitem>
+        <para>Other Possibilities</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Speech processing based on the aaksharik plus phonetic model
+            of scripts</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Proposal Summary - I</title>
+
+    <para>Tasks to be completed as part of thesis work (tasks marked with *
+    have already been at least partially completed):</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>Surveying literature on similarity among South Asian languages *</para>
+      </listitem>
+
+      <listitem>
+        <para>Identifying linguistic, technical and other issues *</para>
+      </listitem>
+
+      <listitem>
+        <para>Modelling Brahmi origin scripts *</para>
+      </listitem>
+
+      <listitem>
+        <para>Designing a framework for building multilingual NLP applications
+        in the South Asian context *</para>
+      </listitem>
+
+      <listitem>
+        <para>Building &#39;trie&#39; based lexicon tool *</para>
+      </listitem>
+
+      <listitem>
+        <para>Building common libraries *</para>
+      </listitem>
+
+      <listitem>
+        <para>Building a decoder</para>
+      </listitem>
+
+      <listitem>
+        <para>Building a generator</para>
+      </listitem>
+
+      <listitem>
+        <para>Implementing annotation and other interfaces *</para>
+      </listitem>
+
+      <listitem>
+        <para>Building new resources *</para>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+
+  <sect1>
+    <title>Proposal Summary - II</title>
+
+    <para>(Tasks marked with * have already been at least partially completed)</para>
+
+    <itemizedlist>
+      <listitem>
+        <para>Building individual applications</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Text Editor for NLP and South Asian Languages *</para>
+          </listitem>
+
+          <listitem>
+            <para>Spell Checker *</para>
+          </listitem>
+
+          <listitem>
+            <para>Sentence Alignment Tool *</para>
+          </listitem>
+
+          <listitem>
+            <para>Language and Encoding Identification *</para>
+          </listitem>
+
+          <listitem>
+            <para>Automatic Generation of Font or Encoding Convertors</para>
+          </listitem>
+
+          <listitem>
+            <para>Multi Word Number Expression Translator *</para>
+          </listitem>
+
+          <listitem>
+            <para>Text Normalization</para>
+          </listitem>
+
+          <listitem>
+            <para>Predicting Spelling Variation</para>
+          </listitem>
+
+          <listitem>
+            <para>Studying Regional Variation</para>
+          </listitem>
+
+          <listitem>
+            <para>Morphological Analyzer</para>
+          </listitem>
+
+          <listitem>
+            <para>Automatic Generation of Multilingual Gloss</para>
+          </listitem>
+
+          <listitem>
+            <para>Annotation Interfaces *</para>
+          </listitem>
+
+          <listitem>
+            <para>Other Possibilities</para>
+
+            <itemizedlist>
+              <listitem>
+                <para>Speech processing based on the aaksharik plus phonetic
+                model of scripts</para>
+              </listitem>
+            </itemizedlist>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Evaluation</para>
+      </listitem>
+
+      <listitem>
+        <para>Presenting some of the work as research papers</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Could be submitted to IJCAI workshops, for example</para>
+          </listitem>
+
+          <listitem>
+            <para>Or even to ACL, if some really good results can be obtained</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+    </itemizedlist>
+  </sect1>
+</article>

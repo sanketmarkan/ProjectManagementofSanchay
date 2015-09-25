@@ -1,0 +1,10 @@
+###POS ERROR: chunk tag== CCP and POS tag= CC|SYM
+	C.t='CCP' and (D[*].t!='CC' and D[*].t!='SYM')
+###9. chunk tag== RBP and POS tag= RB|WQ
+	C.t='RBP' and (D[*].t!='RB' and D[*].t!='WQ')
+###10. chunk tag== NEGP and POS tag= NEG
+	C.t='NEGP' and D.t!='NEG'
+###11. chunk tag== VGF|VGNF|VGNN|VGINF and POS tag VM
+	C.t~'^VGF$|^VGNF$|^VGNN$|^VGINF$' and D.t!="VM"
+###12. chunk tag= NP and pos tag=NN|NNP|NST|PRP|DEM|WQ|QF|QC
+	C.t='NP' and D[*].t!~'^NN$|^NNP$|^NST$|^PRP$|^DEM$|^WQ$|^QF$|^QC$'

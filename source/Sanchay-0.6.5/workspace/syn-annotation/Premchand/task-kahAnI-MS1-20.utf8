@@ -1,0 +1,24 @@
+Column Names::Property	Value
+CurrentPosition	2
+Language	hin::utf8
+TaskName	kahAnI-MS1-20.utf8
+TaskPropFile	/home/anil/sanchay/Sanchay/workspace/syn-annotation/Premchand/task-kahAnI-MS1-20.utf8
+TaskPropCharset	UTF-8
+SSFPropFile	/home/anil/sanchay/Sanchay/props/ssf-props.txt
+SSFPropCharset	UTF-8
+FSPropFile	/home/anil/sanchay/Sanchay/props/fs-props.txt
+FSPropCharset	UTF-8
+MFeaturesFile	/home/anil/sanchay/Sanchay/props/fs-mandatory-attribs.txt
+OFeaturesFile	/home/anil/sanchay/Sanchay/props/fs-other-attribs.txt
+PAttributesFile	/home/anil/sanchay/Sanchay/props/ps-attribs.txt
+DAttributesFile	/home/anil/sanchay/Sanchay/props/dep-attribs.txt
+SAttributesFile	/home/anil/sanchay/Sanchay/props/sem-attribs.txt
+MFeaturesCharset	UTF-8
+SSFCorpusStoryFile	/home/anil/sanchay/Sanchay/workspace/syn-annotation/Premchand/kahAnI-MS1-20.utf8
+SSFCorpusCharset	UTF-8
+SSFCorpusStoryUTF8File	
+POSTagsFile	/home/anil/sanchay/Sanchay/workspace/syn-annotation/pos-tags.txt
+MorphTagsFile	/home/anil/sanchay/Sanchay/workspace/syn-annotation/morph-tags.txt
+POSTagsCharset	UTF-8
+PhraseNamesFile	/home/anil/sanchay/Sanchay/workspace/syn-annotation/phrase-names.txt
+PhraseNamesCharset	UTF-8

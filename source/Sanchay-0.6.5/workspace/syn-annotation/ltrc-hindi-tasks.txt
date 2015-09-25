@@ -1,0 +1,15 @@
+Column Names::TaskName	TaskKVPropFile	TaskKVPropCharset
+Preeti-1	workspace/syn-annotation/preeti/preeti-task-1.txt	UTF8
+Dhwaj-1	workspace/syn-annotation/dhwaj/dhwaj-task-1.txt	UTF8
+Preeti-2	workspace/syn-annotation/preeti/preeti-task-2.txt	UTF8
+Dhwaj-2	workspace/syn-annotation/dhwaj/dhwaj-task-2.txt	UTF8
+Preeti-3	workspace/syn-annotation/preeti/preeti-task-3.txt	UTF8
+Dhwaj-3	workspace/syn-annotation/dhwaj/dhwaj-task-3.txt	UTF8
+Preeti-4	workspace/syn-annotation/preeti/preeti-task-4.txt	UTF8
+Dhwaj-4	workspace/syn-annotation/dhwaj/dhwaj-task-4.txt	UTF8
+Preeti-5	workspace/syn-annotation/preeti/preeti-task-5.txt	UTF8
+Dhwaj-5	workspace/syn-annotation/dhwaj/dhwaj-task-5.txt	UTF8
+Preeti-6	workspace/syn-annotation/preeti/preeti-task-6.txt	UTF8
+Dhwaj-6	workspace/syn-annotation/dhwaj/dhwaj-task-6.txt	UTF8
+Preeti-7	workspace/syn-annotation/preeti/preeti-task-7.txt	UTF8
+Dhwaj-7	workspace/syn-annotation/dhwaj/dhwaj-task-7.txt	UTF8

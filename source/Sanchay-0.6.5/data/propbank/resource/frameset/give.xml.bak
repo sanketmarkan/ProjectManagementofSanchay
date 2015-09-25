@@ -1,0 +1,8 @@
+<!DOCTYPE frameset SYSTEM "./data/propbank/resource/frameset/frameset.dtd">
+
+<frameset><note>Frameset note</note><predicate lemma="give"><note>Predicate note</note><roleset id="give-1" name="a" vncls="b"><note>Roleset note</note><roles><role descr="provide" f="" n=""><vnrole vncls="1.1" vntheta=""></vnrole></role></roles><example name="sdfdf" src="zxc" type="kjl"><inflection aspect="ns" form="ns" person="ns" tense="ns" voice="ns"></inflection><note>Example note</note><text>Give away
+
+
+
+</text><arg f="" n="">sdfsf</arg></example><note>Roles note</note></roleset></predicate></frameset>
+

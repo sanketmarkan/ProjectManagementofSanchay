@@ -1,0 +1,13 @@
+﻿<Sentence id="1">
+1	((	NP	<fs af='eVwwara,n,m,p,,0,0,'>
+1.1	alli	QF	<fs af='alli,n,m,s,,0,,'>
+1.2	Iga	NN	<fs af='Iga,n,m,p,,0,0,'>
+	))		
+2	((	NP	<fs af='oVMxu,n,f,s,,0,0,'>
+2.1	meleV	NN	<fs af='meleV,n,f,s,,0,0,'>
+	))		
+3	((	VGF	<fs af='nAnu,v,m,p,any,,wA_hE,'>
+3.1	hudugaru	VM	<fs af='hudugaru,v,m,p,any,,wA,'>
+3.2	.	SYM	
+	))		
+</Sentence>		

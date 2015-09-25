@@ -1,0 +1,9 @@
+Column Names::TaskName	TaskKVPropFile	TaskKVPropCharset
+Thakurdas-1	workspace/syn-annotation/thakurdas/thakurdas-task-1.txt	UTF8
+Thakurdas-2	workspace/syn-annotation/thakurdas/thakurdas-task-2.txt	UTF8
+Thakurdas-3	workspace/syn-annotation/thakurdas/thakurdas-task-3.txt	UTF8
+Thakurdas-4	workspace/syn-annotation/thakurdas/thakurdas-task-4.txt	UTF8
+Thakurdas-5	workspace/syn-annotation/thakurdas/thakurdas-task-5.txt	UTF8
+Thakurdas-6	workspace/syn-annotation/thakurdas/thakurdas-task-6.txt	UTF8
+Thakurdas-7	workspace/syn-annotation/thakurdas/thakurdas-task-7.txt	UTF8
+Thakurdas-8	workspace/syn-annotation/thakurdas/thakurdas-task-8.txt	UTF8

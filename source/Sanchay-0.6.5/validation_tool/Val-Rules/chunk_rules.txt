@@ -1,0 +1,14 @@
+###1. Only CCP/NULL__CCP can have a CC(pos tag)
+	C.t='CC' and (A.t!="CCP" and A.t!="NULL__CCP") 
+###2. Verb chunk with a PSP should be VGNN
+	C.t~'^V' and (D[*].t='PSP' and C.t!='VGNN')
+###3. Chunk with nA TAM should be VGNN
+	C.a['tam']='nA' and A.t!='VGNN'
+###4. Chunk with kara/wA_ho+yA TAM should be VGNF
+	(C[*].a['tam']='kara' or C[*].a['tam']='wA_hoyA') and A.t!='VGNF'
+###5. chunk label= NP, if nodes with (postag= PRP , vibhakti=ke|kA|kI) and (postag=NN|NNP) in the same chunk, then chunk needs to be split
+	C.t='NP' and D[*].t='PRP' and D[*].l~'^kA$|^kE$|^kI$' and D[*].t~'^NN$|^NNP$'
+###6. VGF cannot have a PSP
+	C.t='VGF' and D.t=='PSP'
+###7. chunk tag== JJP and POS tag= JJ|QF
+	C.t='JJP' and (D[*].t!='JJ' and D[*].t!='QF')

@@ -1,0 +1,33 @@
+<Sentence id="1">
+0	((	SSF	
+1	((	NP	
+2	arulYmiku	JJ	
+3	nAkarAjar	NNPC	
+4	wirukkoyil	NN	
+5	))		
+6	((	NP	
+7	nAkarkoyil	NN	
+8	))			
+</Sentence>
+<Sentence id="2">
+0	((	SSF	
+1	((	NP	
+2	mUlavar	NN	
+3	:	SYM	
+4	))		
+5	((	NP	
+6	nAkarAjar	NNP	
+7	))		
+</Sentence>			
+
+<Sentence id="3">
+0	((	SSF	
+1	((	NP	
+2	pirYapeVyar	NN	
+3	:	SYM	
+4	))		
+5	((	NP	
+6	nAkarammanY	NNP	
+7	))		
+</Sentence>			
+

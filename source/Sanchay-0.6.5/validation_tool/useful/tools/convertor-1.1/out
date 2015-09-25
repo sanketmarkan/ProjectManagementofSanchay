@@ -1,0 +1,166 @@
+<document @docid=" 
+
+<head> 
+ <caption>वोल्कर para aMwarima riporta wEyAra naI दिल्ली.</caption> 
+ <language>Hindi </language> 
+ <domain_name>News @Articles </domain_name> 
+ <word_count>87</word_count> 
+ <byte_count>11586</byte_count> 
+
+ <availability> 
+  <format>CML/SSF</format> 
+ <sentence_marker>.</sentence_marker> 
+ <normalization>No</normalization> 
+ </availability> 
+
+ <encoding_description> 
+  <original_encoding>ISO 8859</format> 
+  <new_encoding>Unicode UTF8</new_encoding> 
+ </encoding_description> 
+
+ <distributor>LTRC, @IIIT Hyderabad</distributor> 
+ <project_description>NSF @Hindi/@Urdu @Dependency @Treebanking Project</place> 
+
+ <creation> 
+  </raw_corpus @creation_@date=" @institute_@name=" @Hyderabad" 
+  </annotated_corpus @creation_@date=" @institute_@name=" @Hyderabad" 
+ <edition_number>1.0</edition_number> 
+ </creation> 
+
+ <publication> 
+  <place>New Delhi</place> 
+  <date>30/5/2004</date> 
+  <type>Newspaper</type> 
+  <publisher> 
+   <name>Amar Ujala</name> 
+   <url>http://www.amarujala.com</url> 
+  </publisher> 
+ </publication> 
+</head> 
+
+<body> 
+
+<tb @number=" @segment=" @bullet=" 
+<text> 
+<Sentence @id=" 
+1 ( @SSF 
+1.1 ( @NP <fs @drel='  @name=' 
+1.1.1 irAka @NNP <fs @af=' @name='  @posn=' 
+1.1.2 meM @PSP <fs @af=' @name='  @posn=' 
+ ) 
+1.2 ( @NP <fs @drel='  @name=' 
+1.2.1 wela @XC <fs @af=' @name='  @posn=' 
+1.2.2 ke @XC <fs @af=' @name='  @posn=' 
+1.2.3 baxale @XC <fs @af=' @name='  @posn=' 
+1.2.4 anAja @XC <fs @af=' @name='  @posn=' 
+1.2.5 kAryakrama @NNP <fs @af=' @name='  @posn=' 
+1.2.6 meM @PSP <fs @af=' @name='  @posn=' 
+ ) 
+1.3 ( @NP <fs @drel='  @name=' 
+1.3.1 kuCa @QF <fs @af=' @name='  @posn=' 
+1.3.2 logoM @NN <fs @af=' @name='  @posn=' 
+1.3.3 ke @PSP <fs @af=' @name='  @posn=' 
+ ) 
+1.4 ( @NP <fs @drel='  @name=' 
+1.4.1 kaWiwa @JJ <fs @af=' @name='  @posn=' 
+1.4.2 rUpa @NN <fs @af=' @name='  @posn=' 
+1.4.3 se @PSP <fs @af=' @name='  @posn=' 
+ ) 
+1.5 ( @JJP <fs @drel='  @name=' 
+1.5.1 lABAnviwa @JJ <fs @af=' @name='  @posn=' 
+ ) 
+1.6 ( @VGNN <fs @drel='  @name=' 
+1.6.1 hone @VM <fs @af=' @name='  @posn=' 
+1.6.2 ke @PSP <fs @af=' @name='  @posn=' 
+ ) 
+1.7 ( @NP <fs @drel='  @name=' 
+1.7.1 mAmale @NN <fs @af=' @name='  @posn=' 
+1.7.2 meM @PSP <fs @af=' @name='  @posn=' 
+ ) 
+1.8 ( @NP <fs @drel='  @name=' 
+1.8.1 pravarwana @XC <fs @af=' @name='  @posn=' 
+1.8.2 nixeSAlaya @NNP <fs @af=' @name='  @posn=' 
+1.8.3 ne @PSP <fs @af=' @name='  @posn=' 
+ ) 
+1.9 ( @NP <fs @drel='  @name=' 
+1.9.1 aMwarima @JJ <fs @af=' @name='  @posn=' 
+1.9.2 riporta @NN <fs @af=' @name='  @posn=' 
+ ) 
+1.10 ( @JJP <fs @drel='  @name=' 
+1.10.1 wEyAra @JJ <fs @af=' @name='  @posn=' 
+ ) 
+1.11 ( @VGF <fs @voicetype='  @stype='  @name=' 
+1.11.1 kara @VM <fs @af=' @name='  @posn=' 
+1.11.2 lI @VAUX <fs @af=' @name='  @posn=' 
+1.11.3 hE @VAUX <fs @af=' @name='  @posn=' 
+1.11.4 . @SYM <fs @af=' @name='  @posn=' 
+ ) 
+ ) 
+</Sentence> 
+<Sentence @id=" 
+1 ( @SSF 
+1.1 ( @NP <fs @drel='  @name=' 
+1.1.1 nixeSAlaya @NN <fs @af=' @name='  @posn=' 
+1.1.2 kA @PSP <fs @af=' @name='  @posn=' 
+ ) 
+1.2 ( @VGF <fs @voicetype='  @stype='  @name=' 
+1.2.1 kahanA @VM <fs @af=' @name='  @posn=' 
+1.2.2 hE @VAUX <fs @af=' @name='  @posn=' 
+ ) 
+1.3 ( @CCP <fs @drel='  @name=' 
+1.3.1 ki @CC <fs @af=' @name='  @posn=' 
+ ) 
+1.4 ( @NP <fs @drel='  @name=' 
+1.4.1 aMwarima @JJ <fs @af=' @name='  @posn=' 
+1.4.2 riporta @NN <fs @af=' @name='  @posn=' 
+ ) 
+1.5 ( @JJP <fs @drel='  @name=' 
+1.5.1 wEyAra @JJ <fs @af=' @name='  @posn=' 
+ ) 
+1.6 ( @VGF <fs @voicetype='  @drel='  @stype='  @name=' 
+1.6.1 hE @VM <fs @af=' @name='  @posn=' 
+ ) 
+1.7 ( @CCP <fs @drel='  @name=' 
+1.7.1 Ora @CC <fs @af=' @name='  @posn=' 
+ ) 
+1.8 ( @NP <fs @drel='  @name=' 
+1.8.1 ise @PRP <fs @af=' @name='  @posn=' 
+ ) 
+1.9 ( @RBP <fs @drel='  @name=' 
+1.9.1 jalxa @RB <fs @af=' @name='  @posn=' 
+1.9.2 hI @RP <fs @af=' @name='  @posn=' 
+ ) 
+1.10 ( @NP <fs @drel='  @name=' 
+1.10.1 sarakAra @NN <fs @af=' @name='  @posn=' 
+1.10.2 ko @PSP <fs @af=' @name='  @posn=' 
+ ) 
+1.11 ( @VGF <fs @voicetype='  @drel='  @stype='  @name=' 
+1.11.1 sOMpa @VM <fs @af=' @name='  @posn=' 
+1.11.2 xiyA @VAUX <fs @af=' @name='  @posn=' 
+1.11.3 jAegA @VAUX <fs @af=' @name='  @posn=' 
+1.11.4 . @SYM <fs @af=' @name='  @posn=' 
+ ) 
+ ) 
+</Sentence> 
+<Sentence @id=" 
+1 ( @SSF 
+1.1 ( @NP <fs @drel='  @name=' 
+1.1.1 isa @DEM <fs @af=' @name='  @posn=' 
+1.1.2 mAmale @NN <fs @af=' @name='  @posn=' 
+1.1.3 meM @PSP <fs @af=' @name='  @posn=' 
+ ) 
+1.2 ( @NP <fs @drel='  @name=' 
+1.2.1 pUrva @JJ <fs @af=' @name='  @posn=' 
+1.2.2 vixeSa @XC <fs @af=' @name='  @posn=' 
+1.2.3 maMwrI @XC <fs @af=' @name='  @posn=' 
+1.2.4 natavara @XC <fs @af=' @name='  @posn=' 
+1.2.5 siMha @NNP <fs @af=' @name='  @posn=' 
+ ) 
+1.3 ( @CCP <fs @drel='  @name=' 
+1.3.1 , @SYM <fs @af=' @name='  @posn=' 
+ ) 
+1.4 ( @NP <fs @drel='  @name=' 
+1.4.1 unake @PRP <fs @af=' @name='  @posn=' 
+ ) 
+1.5 ( @NP <fs @drel='  @name=' 
+1.5.1 bete @NN <fs @af=' 

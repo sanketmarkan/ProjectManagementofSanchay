@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN"
+"http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" [
+<!ENTITY __intro__epcofnqm SYSTEM "intro.xml">
+<!ENTITY __start__epcpi6g4 SYSTEM "start.xml">
+<!ENTITY __architecture__epcpiel1 SYSTEM "architecture.xml">
+<!ENTITY __indlang__epcpj8ak SYSTEM "indlang.xml">
+<!ENTITY __comp-phonetic-model__epcpuw9x SYSTEM "comp-phonetic-model.xml">
+<!ENTITY __lexicon-trie__epcpvgqd SYSTEM "lexicon-trie.xml">
+<!ENTITY __resources__epcpjusx SYSTEM "resources.xml">
+<!ENTITY __annotation__epcpkq24 SYSTEM "annotation.xml">
+<!ENTITY __syn-annotation__epcpl2tg SYSTEM "syn-annotation.xml">
+<!ENTITY __par-annotation__epcplc7e SYSTEM "par-annotation.xml">
+<!ENTITY __xml-annotation__epcpllnw SYSTEM "xml-annotation.xml">
+<!ENTITY __prop-man__epcpmr5z SYSTEM "prop-man.xml">
+<!ENTITY __lang-modelling__epcpnom4 SYSTEM "lang-modelling.xml">
+<!ENTITY __ibm-smt-models__epcpo3o9 SYSTEM "ibm-smt-models.xml">
+<!ENTITY __lang-enc-identifier__epcpohqw SYSTEM "lang-enc-identifier.xml">
+<!ENTITY __sen-aligner__epcpox6q SYSTEM "sen-aligner.xml">
+<!ENTITY __sim-measures__epcpu7pd SYSTEM "sim-measures.xml">
+<!ENTITY __em-algo__epcpuge6 SYSTEM "em-algo.xml">
+<!ENTITY __basic-decoder__epcpuof6 SYSTEM "basic-decoder.xml">
+<!ENTITY __numex-trans__epcpvwv6 SYSTEM "numex-trans.xml">
+<!ENTITY __fs-api__epcpv54b SYSTEM "fs-api.xml">
+<!ENTITY __ssf-api__epcpwccj SYSTEM "ssf-api.xml">
+<!ENTITY __xml__epcptg09 SYSTEM "xml.xml">
+<!ENTITY __text-editor__epcq12xl SYSTEM "text-editor.xml">
+<!ENTITY __spell-checker__epcpprym SYSTEM "spell-checker.xml">
+<!ENTITY __find-replace-extract__epcpq0k7 SYSTEM "find-replace-extract.xml">
+<!ENTITY __file-splitter__epcpq824 SYSTEM "file-splitter.xml">
+<!ENTITY __tree-vis__epcpqu9r SYSTEM "tree-vis.xml">
+<!ENTITY __tree__epcpr2dl SYSTEM "tree.xml">
+<!ENTITY __table__epcpr9vh SYSTEM "table.xml">
+<!ENTITY __utils__epcpwt32 SYSTEM "utils.xml">
+<!ENTITY __faq__epcuf155 SYSTEM "faq.xml">
+<!ENTITY __contribs__epcti6r2 SYSTEM "contribs.xml">
+<!ENTITY __acknowl__epctehcw SYSTEM "acknowl.xml">
+<!ENTITY __related-work__epctet8g SYSTEM "related-work.xml">
+<!ENTITY __biblio__epctf1q8 SYSTEM "biblio.xml">
+]>
+<book>
+  <title>Sanchay User Guide</title>
+
+  <bookinfo><date></date> <author> <firstname>Anil</firstname>
+  <othername>Kumar</othername> <surname>Singh</surname>
+  <affiliation> <orgname>Language Technologies Research Centre</orgname>
+  <orgdiv>International Institute of Information Technology</orgdiv>
+  <address>Hyderabad, India <email>anil@research.iiit.net</email></address>
+  </affiliation> </author></bookinfo>
+
+  &__intro__epcofnqm;
+
+  <para>*****************************************************************</para>
+
+  &__start__epcpi6g4;
+
+  <para>*****************************************************************</para>
+
+  &__architecture__epcpiel1;
+
+  <para>*****************************************************************</para>
+
+  &__indlang__epcpj8ak;
+
+  <para>*****************************************************************</para>
+
+  &__comp-phonetic-model__epcpuw9x;
+
+  <para>*****************************************************************</para>
+
+  &__lexicon-trie__epcpvgqd;
+
+  <para>*****************************************************************</para>
+
+  &__resources__epcpjusx;
+
+  <para>*****************************************************************</para>
+
+  &__annotation__epcpkq24;
+
+  <para>*****************************************************************</para>
+
+  &__syn-annotation__epcpl2tg;
+
+  <para>*****************************************************************</para>
+
+  &__par-annotation__epcplc7e;
+
+  <para>*****************************************************************</para>
+
+  &__xml-annotation__epcpllnw;
+
+  <para>*****************************************************************</para>
+
+  &__prop-man__epcpmr5z;
+
+  <para>*****************************************************************</para>
+
+  &__lang-modelling__epcpnom4;
+
+  <para>*****************************************************************</para>
+
+  &__ibm-smt-models__epcpo3o9;
+
+  <para>*****************************************************************</para>
+
+  &__lang-enc-identifier__epcpohqw;
+
+  <para>*****************************************************************</para>
+
+  &__sen-aligner__epcpox6q;
+
+  <para>*****************************************************************</para>
+
+  &__sim-measures__epcpu7pd;
+
+  <para>*****************************************************************</para>
+
+  &__em-algo__epcpuge6;
+
+  <para>*****************************************************************</para>
+
+  &__basic-decoder__epcpuof6;
+
+  <para>*****************************************************************</para>
+
+  &__numex-trans__epcpvwv6;
+
+  <para>*****************************************************************</para>
+
+  &__fs-api__epcpv54b;
+
+  <para>*****************************************************************</para>
+
+  &__ssf-api__epcpwccj;
+
+  <para>*****************************************************************</para>
+
+  &__xml__epcptg09;
+
+  <para>*****************************************************************</para>
+
+  &__text-editor__epcq12xl;
+
+  <para>*****************************************************************</para>
+
+  &__spell-checker__epcpprym;
+
+  <para>*****************************************************************</para>
+
+  &__find-replace-extract__epcpq0k7;
+
+  <para>*****************************************************************</para>
+
+  &__file-splitter__epcpq824;
+
+  <para>*****************************************************************</para>
+
+  &__tree-vis__epcpqu9r;
+
+  <para>*****************************************************************</para>
+
+  &__tree__epcpr2dl;
+
+  <para>*****************************************************************</para>
+
+  &__table__epcpr9vh;
+
+  <para>*****************************************************************</para>
+
+  &__utils__epcpwt32;
+
+  <para>*****************************************************************</para>
+
+  &__faq__epcuf155;
+
+  <para>*****************************************************************</para>
+
+  &__contribs__epcti6r2;
+
+  <para>*****************************************************************</para>
+
+  &__acknowl__epctehcw;
+
+  <para>*****************************************************************</para>
+
+  &__related-work__epctet8g;
+
+  <para>*****************************************************************</para>
+
+  &__biblio__epctf1q8;
+
+  <para>*****************************************************************</para>
+</book>

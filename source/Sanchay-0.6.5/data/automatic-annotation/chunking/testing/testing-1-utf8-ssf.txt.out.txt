@@ -1,0 +1,9819 @@
+<Meta>
+
+</Meta>
+<Story id="null">
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	वे	PRP	
+	))
+2	((	NP	
+2.1	परदा	NN	
+	))
+3	((	VGF	
+3.1	करती	VM	
+3.2	थीं	VAUX	
+3.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	बेचारी	JJ	
+1.2	बीमार	JJ	
+1.3	लड़की	NN	
+	))
+2	((	JJP	
+2.1	अकेली	JJ	
+	))
+3	((	VGF	
+3.1	रह	VM	
+3.2	गई	VAUX	
+3.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	झोंपड़ी	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	बाहरी	JJ	
+2.2	भाग	NN	
+	))
+3	((	NP	
+3.1	में	PSP	
+	))
+4	((	NP	
+4.1	उसकी	PRP	
+4.2	चारपाई	NN	
+4.3	थी	VM	
+4.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	गांव	NN	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	रोगी	NN	
+2.2	मैले-कुचैले	JJ	
+2.3	कपड़ों	NN	
+2.4	में	PSP	
+	))
+3	((	VGF	
+3.1	लिपटे	VM	
+3.2	गंदी-से-गंदी	JJ	
+3.3	जगह	NN	
+	))
+4	((	NP	
+4.1	में	PSP	
+	))
+5	((	VGNF	
+5.1	पड़े	VM	
+	))
+6	((	VGF	
+6.1	रहते	VAUX	
+6.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	वही	DEM	
+	))
+2	((	NP	
+2.1	हालत	NN	
+	))
+3	((	NP	
+3.1	उस	DEM	
+3.2	लड़की	NN	
+3.3	की	PSP	
+	))
+4	((	VGF	
+4.1	थी	VM	
+4.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मनु	NNP	
+1.2	उन	DEM	
+1.3	स्त्रियों	NN	
+1.4	को	PSP	
+	))
+2	((	VGNN	
+2.1	समझाने	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	लिए	PSP	
+	))
+4	((	NP	
+4.1	घर	NN	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	भीतर	NST	
+	))
+6	((	VGF	
+6.1	गई	VM	
+6.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	VGF	
+1.1	कहा	VM	
+1.2	,	SYM	
+	))
+2	((	NP	
+2.1	"	SYM	
+2.2	तुम्हारे	PRP	
+2.3	आंगन	NN	
+2.4	में	PSP	
+	))
+3	((	NP	
+3.1	एक	QC	
+3.2	महान	JJ	
+	))
+4	((	NP	
+4.1	संत-पुरुष	NN	
+	))
+5	((	VGF	
+5.1	पधारे	VM	
+5.2	हैं	VAUX	
+5.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	बाहर	NST	
+	))
+2	((	VGNF	
+2.1	आकर	VM	
+	))
+3	((	NP	
+3.1	उनके	PRP	
+	))
+4	((	NP	
+4.1	दर्शन	NN	
+	))
+5	((	NP	
+5.1	तो	RP	
+	))
+6	((	VGF	
+6.1	करो	VM	
+6.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	"	SYM	
+	))
+2	((	CCP	
+2.1	लेकिन	CC	
+	))
+3	((	NP	
+3.1	मनु	NNP	
+3.2	की	PSP	
+	))
+4	((	NP	
+4.1	दृष्टि	NN	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	जो	PRP	
+	))
+6	((	NP	
+6.1	महान	JJ	
+	))
+7	((	NP	
+7.1	पुरुष	NN	
+	))
+8	((	VGF	
+8.1	थे	VM	
+8.2	,	SYM	
+	))
+9	((	NP	
+9.1	वही	PRP	
+	))
+10	((	NP	
+10.1	उनकी	PRP	
+10.2	दृष्टि	NN	
+10.3	में	PSP	
+	))
+11	((	NP	
+11.1	दुश्मन	NN	
+11.2	थे	VM	
+11.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	उनके	PRP	
+1.2	मन	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	गांधीजी	NNP	
+	))
+3	((	NP	
+3.1	के	PSP	
+	))
+4	((	NP	
+4.1	लिए	PSP	
+	))
+5	((	NP	
+5.1	रंचमात्र	JJ	
+5.2	भी	RP	
+	))
+6	((	NP	
+6.1	आदर	NN	
+6.2	नहीं	NEG	
+6.3	था	VM	
+6.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	स्त्रियों	NN	
+1.2	को	PSP	
+	))
+2	((	VGNN	
+2.1	समझाने	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	बाद	NST	
+	))
+4	((	NP	
+4.1	जब	PRP	
+	))
+5	((	NP	
+5.1	मनु	NNP	
+	))
+6	((	NP	
+6.1	बाहर	NST	
+	))
+7	((	VGF	
+7.1	आई	VM	
+	))
+8	((	CCP	
+8.1	तो	CC	
+	))
+9	((	VGF	
+9.1	देखा	VM	
+9.2	,	SYM	
+	))
+10	((	NP	
+10.1	गांधीजी	NNP	
+	))
+11	((	NP	
+11.1	ने	PSP	
+	))
+12	((	NP	
+12.1	लड़की	NN	
+12.2	के	PSP	
+	))
+13	((	NP	
+13.1	बिस्तर	NN	
+13.2	की	PSP	
+	))
+14	((	NP	
+14.1	मैली	JJ	
+	))
+15	((	NP	
+15.1	चादर	NN	
+	))
+16	((	VGNF	
+16.1	हटाकर	VM	
+	))
+17	((	NP	
+17.1	उस	PRP	
+17.2	पर	PSP	
+	))
+18	((	NP	
+18.1	अपनी	PRP	
+18.2	ओढ़ी	VM	
+18.3	हुई	VAUX	
+	))
+19	((	NP	
+19.1	चादर	NN	
+	))
+20	((	VGF	
+20.1	बिछा	VAUX	
+20.2	दी	VAUX	
+20.3	है	VAUX	
+20.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	अपने	PRP	
+1.2	छोटे	JJ	
+1.3	से	PSP	
+	))
+2	((	NP	
+2.1	रूमाल	NN	
+2.2	से	PSP	
+	))
+3	((	NP	
+3.1	उसकी	PRP	
+	))
+4	((	NP	
+4.1	नाक	NN	
+	))
+5	((	JJP	
+5.1	साफ	JJ	
+	))
+6	((	VGF	
+6.1	करदी	VM	
+6.2	है	VAUX	
+6.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	पानी	NN	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	उसका	PRP	
+2.2	मुंह	NN	
+2.3	धो	VM	
+2.4	दिया	VAUX	
+2.5	है	VAUX	
+2.6	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	अपना	PRP	
+1.2	शाल	NN	
+	))
+2	((	NP	
+2.1	उसे	PRP	
+	))
+3	((	VGF	
+3.1	उढ़ा	VM	
+3.2	दिया	VAUX	
+3.3	है	VAUX	
+	))
+4	((	CCP	
+4.1	और	CC	
+	))
+5	((	NP	
+5.1	कड़ाके	JJ	
+5.2	की	PSP	
+	))
+6	((	NP	
+6.1	सर्दी	NN	
+6.2	में	PSP	
+	))
+7	((	NP	
+7.1	खुले	JJ	
+7.2	बदन	NN	
+7.3	खड़े-खड़े	JJ	
+7.4	रोगी	NN	
+7.5	के	PSP	
+	))
+8	((	NP	
+8.1	सिर	NN	
+	))
+9	((	NP	
+9.1	पर	PSP	
+	))
+10	((	NP	
+10.1	प्रेम	NN	
+10.2	से	PSP	
+	))
+11	((	NP	
+11.1	हाथ	NN	
+	))
+12	((	VGF	
+12.1	फेर	VM	
+12.2	रहे	VAUX	
+12.3	हैं	VAUX	
+12.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इतना	PRP	
+	))
+2	((	NP	
+2.1	ही	RP	
+	))
+3	((	VGF	
+3.1	नहीं	NEG	
+3.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	बाद	NST	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	दोपहर	NN	
+2.2	को	PSP	
+	))
+3	((	NP	
+3.1	दो	QC	
+3.2	तीन	QC	
+3.3	बार	RP	
+	))
+4	((	NP	
+4.1	उस	DEM	
+4.2	लड़की	NN	
+4.3	को	PSP	
+	))
+5	((	NP	
+5.1	शहद	NN	
+	))
+6	((	CCP	
+6.1	और	CC	
+	))
+7	((	NP	
+7.1	पानी	NN	
+	))
+8	((	VGF	
+8.1	पिलाने	VM	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	लिए	PSP	
+	))
+10	((	NP	
+10.1	उन्होंने	PRP	
+	))
+11	((	NP	
+11.1	मनु	NNP	
+11.2	को	PSP	
+	))
+12	((	NP	
+12.1	वहां	PRP	
+	))
+13	((	VGF	
+13.1	भेजा	VM	
+13.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	उसके	PRP	
+1.2	पेट	NN	
+	))
+2	((	CCP	
+2.1	और	CC	
+	))
+3	((	NP	
+3.1	सिर	NN	
+	))
+4	((	NP	
+4.1	पर	PSP	
+	))
+5	((	NP	
+5.1	मिट्टी	NN	
+	))
+6	((	NP	
+6.1	की	PSP	
+	))
+7	((	NP	
+7.1	पट्टी	NN	
+7.2	रखने	VM	
+7.3	के	PSP	
+	))
+8	((	NP	
+8.1	लिए	PSP	
+	))
+9	((	NP	
+9.1	भी	RP	
+	))
+10	((	VGF	
+10.1	कहा	VM	
+10.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मनु	NNP	
+1.2	ने	PSP	
+	))
+2	((	NP	
+2.1	ऐसा	PRP	
+	))
+3	((	NP	
+3.1	ही	RP	
+	))
+4	((	VGF	
+4.1	किया	VM	
+4.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	उसी	DEM	
+1.2	रात	NN	
+1.3	को	PSP	
+	))
+2	((	NP	
+2.1	उस	DEM	
+2.2	बच्ची	NN	
+2.3	का	PSP	
+	))
+3	((	NP	
+3.1	बुखार	NN	
+	))
+4	((	VGF	
+4.1	उतर	VM	
+4.2	गया	VAUX	
+4.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	अब	PRP	
+	))
+2	((	NP	
+2.1	उस	DEM	
+2.2	घर	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	व्यक्ति	NN	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	जो	PRP	
+	))
+5	((	NP	
+5.1	गांधीजी	NNP	
+	))
+6	((	NP	
+6.1	को	PSP	
+	))
+7	((	NP	
+7.1	अपना	PRP	
+7.2	दुश्मन	NN	
+7.3	समझ	VM	
+7.4	रहे	VAUX	
+7.5	थे	VAUX	
+7.6	,	SYM	
+	))
+8	((	NP	
+8.1	अत्यंत	JJ	
+8.2	भक्तिभाव	NN	
+8.3	से	PSP	
+	))
+9	((	NP	
+9.1	उन्हें	PRP	
+	))
+10	((	NP	
+10.1	प्रणाम	NN	
+	))
+11	((	VGNN	
+11.1	करने	VM	
+11.2	आये	VAUX	
+11.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	VGF	
+1.1	बोले	VM	
+1.2	,	SYM	
+	))
+2	((	NP	
+2.1	"	SYM	
+	))
+3	((	NP	
+3.1	आप	PRP	
+	))
+4	((	RBP	
+4.1	सचमुच	RB	
+	))
+5	((	NP	
+5.1	खुदा	NN	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	फरिश्ते	NN	
+6.2	हैं	VM	
+6.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	हमारी	PRP	
+	))
+2	((	NP	
+2.1	बेटी	NN	
+	))
+3	((	NP	
+3.1	के	PSP	
+	))
+4	((	NP	
+4.1	लिए	PSP	
+	))
+5	((	NP	
+5.1	आपने	PRP	
+	))
+6	((	NP	
+6.1	जो	PRP	
+	))
+7	((	NP	
+7.1	कुछ	QF	
+7.2	किया	VM	
+7.3	,	SYM	
+	))
+8	((	NP	
+8.1	उसके	PRP	
+8.2	बदले	PSP	
+8.3	में	PSP	
+	))
+9	((	NP	
+9.1	हम	PRP	
+	))
+10	((	NP	
+10.1	आपकी	PRP	
+	))
+11	((	NP	
+11.1	क्या	WQ	
+	))
+12	((	NP	
+12.1	खिदमत	NN	
+	))
+13	((	VGF	
+13.1	कर	VM	
+13.2	सकते	VAUX	
+13.3	हैं	VAUX	
+13.4	?	SYM	
+13.5	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	गांधीजी	NNP	
+1.2	ने	PSP	
+	))
+2	((	NP	
+2.1	उत्तर	NN	
+	))
+3	((	VGF	
+3.1	दिया	VM	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	"	SYM	
+	))
+5	((	NP	
+5.1	मैं	PRP	
+	))
+6	((	VGF	
+6.1	न	NEG	
+	))
+7	((	NP	
+7.1	फरिश्ता	NN	
+	))
+8	((	VGF	
+8.1	हूं	VM	
+	))
+9	((	CCP	
+9.1	और	CC	
+	))
+10	((	VGF	
+10.1	न	NEG	
+10.2	पैगम्बर	NN	
+10.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मैं	PRP	
+	))
+2	((	NP	
+2.1	तो	RP	
+	))
+3	((	NP	
+3.1	एक	QC	
+3.2	छोटा-सा	JJ	
+3.3	सेवक	NN	
+	))
+4	((	VGF	
+4.1	हूं	VM	
+4.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस	DEM	
+1.2	बच्ची	NN	
+1.3	का	PSP	
+	))
+2	((	NP	
+2.1	बुखार	NN	
+	))
+3	((	VGF	
+3.1	उतर	VM	
+3.2	गया	VAUX	
+3.3	,	SYM	
+	))
+4	((	NP	
+4.1	इसका	PRP	
+	))
+5	((	NP	
+5.1	श्रेय	NN	
+	))
+6	((	NP	
+6.1	मुझे	PRP	
+	))
+7	((	VGF	
+7.1	नहीं	NEG	
+7.2	है	VM	
+7.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मैंने	PRP	
+	))
+2	((	NP	
+2.1	इसकी	PRP	
+	))
+3	((	NP	
+3.1	सफाई	NN	
+	))
+4	((	VGF	
+4.1	की	VM	
+4.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इसके	PRP	
+1.2	पेट	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	ताकत	NN	
+	))
+3	((	VGNN	
+3.1	देने	VM	
+3.2	वाली	VAUX	
+	))
+4	((	NP	
+4.1	थोड़ी	QF	
+4.2	सी	RP	
+	))
+5	((	NP	
+5.1	खुराक	NN	
+	))
+6	((	VGF	
+6.1	गई	VM	
+6.2	,	SYM	
+	))
+7	((	CCP	
+7.1	इसीलिए	CC	
+	))
+8	((	RBP	
+8.1	शायद	RB	
+	))
+9	((	NP	
+9.1	बुखार	NN	
+	))
+10	((	VGF	
+10.1	उतरा	VM	
+10.2	है	VAUX	
+10.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	अगर	CC	
+	))
+2	((	NP	
+2.1	आप	PRP	
+	))
+3	((	NP	
+3.1	बदला	NN	
+	))
+4	((	VGF	
+4.1	चुकाना	VM	
+4.2	चाहते	VAUX	
+4.3	हैं	VAUX	
+	))
+5	((	CCP	
+5.1	तो	CC	
+	))
+6	((	JJP	
+6.1	निडर	JJ	
+	))
+7	((	VGF	
+7.1	बनिये	VM	
+	))
+8	((	CCP	
+8.1	और	CC	
+	))
+9	((	NP	
+9.1	दूसरों	PRP	
+9.2	को	PSP	
+	))
+10	((	NP	
+10.1	भी	RP	
+	))
+11	((	JJP	
+11.1	निडर	JJ	
+	))
+12	((	VGF	
+12.1	बनाइये	VM	
+12.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यह	PRP	
+	))
+2	((	NP	
+2.1	दुनिया	NN	
+2.2	खुदा	NN	
+2.3	की	PSP	
+	))
+3	((	VGF	
+3.1	है	VM	
+3.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	हम	PRP	
+	))
+2	((	NP	
+2.1	सब	QF	
+2.2	उसके	PRP	
+2.3	बच्चे	NN	
+2.4	हैं	VM	
+2.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मेरी	PRP	
+1.2	यही	DEM	
+	))
+2	((	NP	
+2.1	विनती	NN	
+	))
+3	((	VGF	
+3.1	है	VM	
+	))
+4	((	CCP	
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	अपने	PRP	
+5.2	मन	NN	
+5.3	में	PSP	
+	))
+6	((	NP	
+6.1	तुम	PRP	
+	))
+7	((	NP	
+7.1	यही	DEM	
+7.2	भाव	NN	
+	))
+8	((	JJP	
+8.1	पैदा	JJ	
+	))
+9	((	VGF	
+9.1	करो	VM	
+	))
+10	((	CCP	
+10.1	कि	CC	
+	))
+11	((	NP	
+11.1	इस	PRP	
+11.2	दुनिया	NN	
+11.3	में	PSP	
+	))
+12	((	NP	
+12.1	सभी	PRP	
+	))
+13	((	NP	
+13.1	को	PSP	
+	))
+14	((	NP	
+14.1	जीने-मरने	NN	
+14.2	का	PSP	
+	))
+15	((	NP	
+15.1	समान	JJ	
+	))
+16	((	NP	
+16.1	अधिकार	NN	
+	))
+17	((	VGF	
+17.1	है	VM	
+17.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मैं	PRP	
+	))
+2	((	NP	
+2.1	तुम्हारा	PRP	
+	))
+3	((	NP	
+3.1	चेला	NN	
+	))
+4	((	VGF	
+4.1	बनता	VM	
+4.2	हूं	VAUX	
+4.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	आगाखां	XC	
+1.2	महल	NNP	
+	))
+2	((	NP	
+2.1	से	PSP	
+	))
+3	((	VGF	
+3.1	छूटकर	VM	
+	))
+4	((	NP	
+4.1	गांधीजी	NNP	
+	))
+5	((	NP	
+5.1	पर्णकुटी	NN	
+5.2	में	PSP	
+	))
+6	((	VGNF	
+6.1	आकर	VM	
+	))
+7	((	VGF	
+7.1	ठहरे	VM	
+7.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	उनकी	PRP	
+1.2	चप्पलें	NN	
+	))
+2	((	NP	
+2.1	कई	QF	
+2.2	दिन	NN	
+	))
+3	((	NP	
+3.1	पहले	NST	
+	))
+4	((	NP	
+4.1	ही	RP	
+	))
+5	((	VGF	
+5.1	टूटी	VM	
+5.2	थीं	VAUX	
+5.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मनु	NNP	
+1.2	ने	PSP	
+	))
+2	((	NP	
+2.1	वे	DEM	
+2.2	टूटी	JJ	
+2.3	चप्पलें	NN	
+	))
+3	((	NP	
+3.1	उनसे	PRP	
+	))
+4	((	NEGP	
+4.1	बिना	NEG	
+	))
+5	((	VGF	
+5.1	पूछे	VM	
+	))
+6	((	NP	
+6.1	मरम्मत	NN	
+	))
+7	((	VGNN	
+7.1	करने	VM	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	लिए	PSP	
+	))
+9	((	NP	
+9.1	मोची	NN	
+9.2	को	PSP	
+	))
+10	((	VGF	
+10.1	दे	VM	
+10.2	दीं	VAUX	
+10.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	VGNF	
+1.1	देकर	VM	
+	))
+2	((	VGF	
+2.1	लौटी	VM	
+	))
+3	((	CCP	
+3.1	तो	CC	
+	))
+4	((	VGF	
+4.1	देखा	VM	
+	))
+5	((	CCP	
+5.1	कि	CC	
+	))
+6	((	NP	
+6.1	गांधीजी	NNP	
+	))
+7	((	NP	
+7.1	अपनी	PRP	
+7.2	चप्पलें	NN	
+	))
+8	((	VGF	
+8.1	ढूंढ़	VM	
+8.2	रहे	VAUX	
+8.3	हैं	VAUX	
+8.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मनु	NNP	
+1.2	को	PSP	
+	))
+2	((	VGNF	
+2.1	देखकर	VM	
+	))
+3	((	NP	
+3.1	उन्होंने	PRP	
+	))
+4	((	VGF	
+4.1	पूछा	VM	
+4.2	"	SYM	
+	))
+5	((	NP	
+5.1	तूने	PRP	
+	))
+6	((	NP	
+6.1	मेरी	PRP	
+6.2	चप्पलें	NN	
+	))
+7	((	NP	
+7.1	कहां	PRP	
+	))
+8	((	VGF	
+8.1	रख	VM	
+8.2	दी	VAUX	
+8.3	हैं	VAUX	
+8.4	?	SYM	
+8.5	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मनु	NNP	
+1.2	ने	PSP	
+	))
+2	((	VGF	
+2.1	कहा	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	"	SYM	
+3.2	बापूजी	NN	
+3.3	,	SYM	
+	))
+4	((	NP	
+4.1	वे	PRP	
+	))
+5	((	NP	
+5.1	तो	RP	
+	))
+6	((	NP	
+6.1	मैं	PRP	
+	))
+7	((	NP	
+7.1	मरम्मत	NN	
+	))
+8	((	NP	
+8.1	के	PSP	
+	))
+9	((	NP	
+9.1	लिए	PSP	
+	))
+10	((	NP	
+10.1	मोची	NN	
+10.2	को	PSP	
+	))
+11	((	VGF	
+11.1	दे	VM	
+11.2	आई	VAUX	
+11.3	हूं	VAUX	
+11.4	?डट	SYM	
+11.5	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मनु	NNP	
+1.2	ने	PSP	
+	))
+2	((	NP	
+2.1	जवाब	NN	
+	))
+3	((	VGF	
+3.1	दिया	VM	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	"	SYM	
+4.2	आठ	QC	
+4.3	आने	NN	
+	))
+5	((	NP	
+5.1	मजदूरी	NN	
+	))
+6	((	VGF	
+6.1	ठहराई	VM	
+6.2	है	VAUX	
+6.3	,	SYM	
+	))
+7	((	NP	
+7.1	बापूजी	NN	
+7.2	?डट	SYM	
+7.3	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	गांधीजी	NNP	
+1.2	बोले	VM	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	"	SYM	
+	))
+3	((	CCP	
+3.1	लेकिन	CC	
+	))
+4	((	NP	
+4.1	तू	PRP	
+	))
+5	((	NP	
+5.1	तो	RP	
+	))
+6	((	NP	
+6.1	एक	QC	
+6.2	कौड़ी	NN	
+6.3	भी	RP	
+	))
+7	((	VGF	
+7.1	नहीं	NEG	
+7.2	कमाती	VM	
+	))
+8	((	CCP	
+8.1	और	CC	
+	))
+9	((	VGF	
+9.1	न	NEG	
+	))
+10	((	NP	
+10.1	मैं	PRP	
+	))
+11	((	VGF	
+11.1	कमाता	VM	
+11.2	हूं	VAUX	
+11.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	तब	PRP	
+	))
+2	((	NP	
+2.1	मजदूरी	NN	
+	))
+3	((	NP	
+3.1	के	PSP	
+	))
+4	((	NP	
+4.1	आठ	QC	
+4.2	आने	NN	
+	))
+5	((	NP	
+5.1	कौन	WQ	
+	))
+6	((	VGF	
+6.1	देगा	VM	
+6.2	?	SYM	
+6.3	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मनु	NNP	
+1.2	सोच	NN	
+1.3	में	PSP	
+	))
+2	((	VGF	
+2.1	पड़	VM	
+2.2	गयी	VAUX	
+2.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	RBP	
+1.1	आखिर	RB	
+	))
+2	((	NP	
+2.1	मोची	NN	
+2.2	से	PSP	
+	))
+3	((	NP	
+3.1	चप्पलें	NN	
+	))
+4	((	NP	
+4.1	वापस	NN	
+	))
+5	((	VGNN	
+5.1	लाने	VM	
+5.2	का	PSP	
+	))
+6	((	NP	
+6.1	निर्णय	NN	
+	))
+7	((	NP	
+7.1	उसे	PRP	
+	))
+8	((	VGF	
+8.1	करना	VM	
+8.2	पड़ा	VAUX	
+8.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	लेकिन	CC	
+	))
+2	((	NP	
+2.1	उस	PRP	
+2.2	बेचारे	NN	
+2.3	को	PSP	
+	))
+3	((	NP	
+3.1	तो	RP	
+	))
+4	((	NP	
+4.1	सवेरे-सवेरे	NN	
+4.2	यही	DEM	
+	))
+5	((	NP	
+5.1	मजदूरी	NN	
+	))
+6	((	VGF	
+6.1	मिली	VM	
+6.2	थी	VAUX	
+6.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	इसीलिए	CC	
+	))
+2	((	NP	
+2.1	वह	PRP	
+	))
+3	((	VGF	
+3.1	बोला	VM	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	"	SYM	
+4.2	सवेरे	NN	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	समय	NN	
+	))
+6	((	NP	
+6.1	मेरी	PRP	
+6.2	यह	DEM	
+6.3	पहली-पहली	QO	
+6.4	बोहनी	NN	
+	))
+7	((	VGF	
+7.1	है	VM	
+7.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	चप्पलें	NN	
+	))
+2	((	NP	
+2.1	तो	RP	
+	))
+3	((	NP	
+3.1	मैं	PRP	
+	))
+4	((	NP	
+4.1	अब	PRP	
+	))
+5	((	NP	
+5.1	वापस	NN	
+	))
+6	((	VGF	
+6.1	नहीं	NEG	
+6.2	दूंगा	VM	
+6.3	?डट	SYM	
+6.4	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मनु	NN	
+1.2	ने	PSP	
+	))
+2	((	JJP	
+2.1	लाचार	JJ	
+	))
+3	((	VGNF	
+3.1	होकर	VM	
+	))
+4	((	NP	
+4.1	उससे	PRP	
+	))
+5	((	VGF	
+5.1	कहा	VM	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	"	SYM	
+6.2	ये	DEM	
+6.3	चप्पलें	NN	
+	))
+7	((	NP	
+7.1	महात्मा	XC	
+7.2	गांधी	NNP	
+7.3	की	PSP	
+	))
+8	((	VGF	
+8.1	हैं	VM	
+8.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	तुम	PRP	
+	))
+2	((	NP	
+2.1	इन्हें	PRP	
+	))
+3	((	VGF	
+3.1	लौटा	VM	
+3.2	दो	VAUX	
+3.3	भाई	NN	
+	))
+4	((	VGF	
+4.1	?डट	SYM	
+4.2	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यह	PRP	
+	))
+2	((	VGNF	
+2.1	सुनकर	VM	
+	))
+3	((	NP	
+3.1	मोची	NN	
+	))
+4	((	NP	
+4.1	गर्व	NN	
+	))
+5	((	NP	
+5.1	से	PSP	
+	))
+6	((	VGF	
+6.1	भर	VM	
+6.2	उठा	VAUX	
+6.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	VGF	
+1.1	बोला	VM	
+1.2	,	SYM	
+	))
+2	((	NP	
+2.1	"	SYM	
+	))
+3	((	NP	
+3.1	तब	PRP	
+	))
+4	((	NP	
+4.1	तो	RP	
+	))
+5	((	NP	
+5.1	मैं	PRP	
+	))
+6	((	JJP	
+6.1	बड़ा	INTF	
+6.2	भाग्यवान	JJ	
+6.3	हूं	VM	
+6.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	ऐसा	PRP	
+	))
+2	((	NP	
+2.1	मौका	NN	
+	))
+3	((	NP	
+3.1	मुझे	PRP	
+	))
+4	((	RBP	
+4.1	बार-बार	RB	
+	))
+5	((	RBP	
+5.1	थोड़े	RB	
+	))
+6	((	NP	
+6.1	ही	RP	
+	))
+7	((	VGNN	
+7.1	मिलने	VM	
+7.2	वाला	VAUX	
+	))
+8	((	VGF	
+8.1	है	VAUX	
+8.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मैं	PRP	
+	))
+2	((	NEGP	
+2.1	बिना	NEG	
+	))
+3	((	NP	
+3.1	मजदूरी	NN	
+	))
+4	((	NP	
+4.1	लिये	PSP	
+	))
+5	((	NP	
+5.1	ही	RP	
+	))
+6	((	VGF	
+6.1	बना	VM	
+6.2	दूंगा	VAUX	
+6.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	लेकिन	CC	
+	))
+2	((	NP	
+2.1	चप्पलें	NN	
+	))
+3	((	VGF	
+3.1	लौटाऊंगा	VM	
+3.2	नहीं	NEG	
+3.3	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	काफी	QF	
+1.2	वाद-विवाद	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	बाद	NST	
+	))
+3	((	NP	
+3.1	मनु	NNP	
+3.2	चप्पलें	NN	
+	))
+4	((	CCP	
+4.1	और	CC	
+	))
+5	((	NP	
+5.1	मोची	NN	
+	))
+6	((	NP	
+6.1	दोनों	PRP	
+	))
+7	((	NP	
+7.1	को	PSP	
+	))
+8	((	VGNF	
+8.1	लेकर	VM	
+	))
+9	((	NP	
+9.1	गांधीजी	NNP	
+	))
+10	((	NP	
+10.1	के	PSP	
+	))
+11	((	NP	
+11.1	पास	NST	
+	))
+12	((	VGF	
+12.1	पहुंची	VM	
+	))
+13	((	CCP	
+13.1	और	CC	
+	))
+14	((	NP	
+14.1	उन्हें	PRP	
+	))
+15	((	NP	
+15.1	सारी	QF	
+15.2	कहानी	NN	
+	))
+16	((	VGF	
+16.1	सुनाई	VM	
+16.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	गांधीजी	NNP	
+1.2	ने	PSP	
+	))
+2	((	NP	
+2.1	मोची	NN	
+2.2	से	PSP	
+	))
+3	((	VGF	
+3.1	कहा	VM	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	"	SYM	
+4.2	तुम्हें	PRP	
+	))
+5	((	NP	
+5.1	तुम्हारा	PRP	
+	))
+6	((	NP	
+6.1	भाग	NN	
+	))
+7	((	NP	
+7.1	ही	RP	
+	))
+8	((	NP	
+8.1	तो	RP	
+	))
+9	((	VGF	
+9.1	चाहिए	VM	
+9.2	न	RP	
+9.3	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	तुम	PRP	
+	))
+2	((	NP	
+2.1	मेरे	PRP	
+2.2	गुरु	NN	
+	))
+3	((	VGF	
+3.1	बनो	VM	
+3.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मैं	PRP	
+	))
+2	((	NP	
+2.1	तुम्हारा	PRP	
+	))
+3	((	NP	
+3.1	चेला	NN	
+	))
+4	((	VGF	
+4.1	बनता	VM	
+4.2	हूं	VAUX	
+4.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मुझे	PRP	
+	))
+2	((	VGF	
+2.1	सिखाओ	VM	
+	))
+3	((	CCP	
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	चप्पलों	NN	
+4.2	की	PSP	
+	))
+5	((	NP	
+5.1	मरम्मत	NN	
+	))
+6	((	RBP	
+6.1	कैसे	WQ	
+	))
+7	((	VGF	
+7.1	की	VM	
+7.2	जाती	VAUX	
+7.3	है	VAUX	
+7.4	?	SYM	
+7.5	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	और	CC	
+	))
+2	((	NP	
+2.1	गांधीजी	NNP	
+	))
+3	((	RBP	
+3.1	सचमुच	RB	
+	))
+4	((	NP	
+4.1	उस	DEM	
+4.2	मैले-कुचेले	JJ	
+4.3	मोची	NN	
+4.4	को	PSP	
+	))
+5	((	NP	
+5.1	गुरु	NN	
+	))
+6	((	VGF	
+6.1	बना	VM	
+6.2	कर	VAUX	
+	))
+7	((	NP	
+7.1	चप्पल	NN	
+7.2	सीने	VM	
+7.3	की	PSP	
+	))
+8	((	NP	
+8.1	कला	NN	
+8.2	सीखने	VM	
+8.3	लगे	VAUX	
+8.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	वे	PRP	
+	))
+2	((	NP	
+2.1	अपने	PRP	
+2.2	मिलने	VM	
+2.3	वालों	PSP	
+2.4	से	PSP	
+	))
+3	((	NP	
+3.1	बातें	NN	
+	))
+4	((	NP	
+4.1	भी	RP	
+	))
+5	((	VGF	
+5.1	करते	VM	
+5.2	जाते	VAUX	
+5.3	थे	VAUX	
+	))
+6	((	CCP	
+6.1	और	CC	
+	))
+7	((	VGF	
+7.1	सीखते	VM	
+7.2	भी	RP	
+	))
+8	((	VGF	
+8.1	जाते	VAUX	
+8.2	थे	VAUX	
+8.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	गुरु-चेले	NN	
+1.2	का	PSP	
+	))
+2	((	NP	
+2.1	यह	DEM	
+	))
+3	((	NP	
+3.1	दृष्य	NN	
+	))
+4	((	VGNF	
+4.1	देखकर	VM	
+	))
+5	((	NP	
+5.1	मुलाकाती	NN	
+	))
+6	((	JJP	
+6.1	चकित	JJ	
+	))
+7	((	VGF	
+7.1	रह	VM	
+7.2	गये	VAUX	
+7.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	उन्होंने	PRP	
+	))
+2	((	VGF	
+2.1	जानना	VM	
+2.2	चाहा	VM	
+	))
+3	((	CCP	
+3.1	कि	CC	
+	))
+4	((	NP	
+4.1	बात	NN	
+	))
+5	((	NP	
+5.1	क्या	WQ	
+	))
+6	((	VGF	
+6.1	है	VM	
+6.2	?	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	गांधीजी	NNP	
+1.2	बोले	VM	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	"	SYM	
+2.2	यह	DEM	
+2.3	लड़की	NN	
+	))
+3	((	NP	
+3.1	मुझसे	PRP	
+	))
+4	((	NEGP	
+4.1	बिना	NEG	
+	))
+5	((	VGF	
+5.1	पूछे	VM	
+5.2	मेरी	PRP	
+5.3	चप्पलें	NN	
+	))
+6	((	NP	
+6.1	मरम्मत	NN	
+	))
+7	((	VGNN	
+7.1	करने	VM	
+7.2	दे	VAUX	
+	))
+8	((	VGF	
+8.1	आई	VM	
+	))
+9	((	VGF	
+9.1	थी	VAUX	
+9.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	इसलिए	CC	
+	))
+2	((	NP	
+2.1	इसको	PRP	
+	))
+3	((	NP	
+3.1	मुझे	PRP	
+	))
+4	((	NP	
+4.1	सबक	NN	
+	))
+5	((	VGF	
+5.1	सिखाना	VM	
+5.2	है	VAUX	
+	))
+6	((	CCP	
+6.1	और	CC	
+	))
+7	((	NP	
+7.1	इस	DEM	
+7.2	मोची	NN	
+7.3	को	PSP	
+	))
+8	((	NP	
+8.1	इसका	PRP	
+	))
+9	((	NP	
+9.1	भाग	NN	
+	))
+10	((	VGF	
+10.1	चाहिए	VM	
+10.2	,	SYM	
+	))
+11	((	CCP	
+11.1	इसलिए	CC	
+	))
+12	((	NP	
+12.1	मैंने	PRP	
+	))
+13	((	NP	
+13.1	इसे	PRP	
+	))
+14	((	NP	
+14.1	अपना	PRP	
+14.2	गुरु	NN	
+	))
+15	((	VGF	
+15.1	बना	VM	
+15.2	लिया	VAUX	
+15.3	है	VAUX	
+15.4	?डट	SYM	
+15.5	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	RBP	
+1.1	फिर	RB	
+	))
+2	((	VGNF	
+2.1	हंसते	VM	
+2.2	हुए	VAUX	
+	))
+3	((	NP	
+3.1	उन्होंने	PRP	
+	))
+4	((	VGF	
+4.1	कहा	VM	
+4.2	,	SYM	
+	))
+5	((	BLK	
+5.1	'	SYM	
+5.2	देखते	VM	
+5.3	हैं	VAUX	
+5.4	न	RP	
+	))
+6	((	NP	
+6.1	आप	PRP	
+	))
+7	((	NP	
+7.1	महात्माओं	NN	
+7.2	का	PSP	
+	))
+8	((	NP	
+8.1	मजा	NN	
+	))
+9	((	VGF	
+9.1	!	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	ऐसी	PRP	
+	))
+2	((	NP	
+2.1	सफाई	NN	
+	))
+3	((	NP	
+3.1	हमें	PRP	
+	))
+4	((	VGF	
+4.1	रखनी	VM	
+4.2	चाहिए	VAUX	
+4.3	?डट	UT	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यरवदा-जेल	NNP	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	गांधीजी	NNP	
+	))
+3	((	NP	
+3.1	सवेरे	NN	
+	))
+4	((	NP	
+4.1	नौ	QC	
+4.2	बजे	NN	
+	))
+5	((	NP	
+5.1	सोडा	NN	
+	))
+6	((	CCP	
+6.1	और	CC	
+	))
+7	((	NP	
+7.1	नीबू	NN	
+7.2	लेते	VM	
+7.3	थे	VAUX	
+7.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	उन	DEM	
+1.2	दिनों	NN	
+	))
+2	((	NP	
+2.1	सरदार	XC	
+2.2	वल्लभभाई	XC	
+2.3	पटेल	NNP	
+	))
+3	((	NP	
+3.1	उनके	PRP	
+3.2	साथ	NST	
+	))
+4	((	VGF	
+4.1	थे	VM	
+4.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	वही	PRP	
+	))
+2	((	NP	
+2.1	उनका	PRP	
+	))
+3	((	NP	
+3.1	यह	DEM	
+3.2	पेय	NN	
+	))
+4	((	JJP	
+4.1	तैयार	JJ	
+	))
+5	((	VGF	
+5.1	करते	VM	
+5.2	थे	VAUX	
+5.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	एक	QC	
+1.2	दिन	NN	
+	))
+2	((	NP	
+2.1	जब	PRP	
+	))
+3	((	NP	
+3.1	वे	PRP	
+	))
+4	((	NP	
+4.1	यह	DEM	
+4.2	पेय	NN	
+	))
+5	((	JJP	
+5.1	तेयार	JJ	
+	))
+6	((	VGF	
+6.1	कर	VM	
+6.2	रहे	VAUX	
+6.3	थे	VAUX	
+	))
+7	((	CCP	
+7.1	तो	CC	
+	))
+8	((	RBP	
+8.1	सहसा	RB	
+	))
+9	((	NP	
+9.1	गांधीजी	NNP	
+	))
+10	((	NP	
+10.1	ने	PSP	
+	))
+11	((	VGF	
+11.1	कहा	VM	
+11.2	,	SYM	
+	))
+12	((	NP	
+12.1	"	SYM	
+	))
+13	((	NP	
+13.1	आपको	PRP	
+	))
+14	((	NP	
+14.1	नर्सिंग	NN	
+14.2	का	PSP	
+	))
+15	((	NP	
+15.1	एक	QC	
+15.2	कोर्स	NN	
+15.3	लेने	VM	
+15.4	की	VAUX	
+	))
+16	((	NP	
+16.1	जरूरत	NN	
+	))
+17	((	VGF	
+17.1	नहीं	NEG	
+17.2	है	VM	
+17.3	?	SYM	
+17.4	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सरदार	NN	
+1.2	ने	PSP	
+	))
+2	((	VGF	
+2.1	अचकचा	VM	
+2.2	कर	VAUX	
+	))
+3	((	NP	
+3.1	उनकी	PRP	
+3.2	ओर	PSP	
+	))
+4	((	VGF	
+4.1	देखा	VM	
+4.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	गांधीजी	NNP	
+1.2	उसी	PRP	
+1.3	तरह	PSP	
+	))
+2	((	VGF	
+2.1	बोले	VM	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	"	SYM	
+3.2	देखिये	VM	
+3.3	तो	RP	
+	))
+4	((	VGF	
+4.1	,	SYM	
+	))
+5	((	NP	
+5.1	आपने	PRP	
+	))
+6	((	NP	
+6.1	चम्मच	NN	
+6.2	ऊपर	NST	
+	))
+7	((	NP	
+7.1	से	PSP	
+	))
+8	((	VGF	
+8.1	पकड़ने	VM	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	बजाये	PSP	
+	))
+10	((	NP	
+10.1	ठैठ	JJ	
+10.2	मुंह	NN	
+10.3	के	PSP	
+	))
+11	((	NP	
+11.1	पास	NST	
+	))
+12	((	NP	
+12.1	से	PSP	
+	))
+13	((	VGF	
+13.1	पकड़ा	VM	
+13.2	है	VAUX	
+13.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यह	PRP	
+	))
+2	((	NP	
+2.1	सारा	QF	
+2.2	चम्मच	NN	
+2.3	गिलास	NN	
+2.4	में	PSP	
+	))
+3	((	VGF	
+3.1	जायेगा	VM	
+3.2	,	SYM	
+	))
+4	((	CCP	
+4.1	इसलिए	CC	
+	))
+5	((	NP	
+5.1	उस	DEM	
+5.2	जगह	NN	
+	))
+6	((	NP	
+6.1	उसको	PRP	
+	))
+7	((	NP	
+7.1	हाथ	NN	
+	))
+8	((	NP	
+8.1	से	PSP	
+	))
+9	((	VGF	
+9.1	नहीं	NEG	
+9.2	छूना	VM	
+9.3	चाहिए	VAUX	
+	))
+10	((	CCP	
+10.1	और	CC	
+	))
+11	((	NP	
+11.1	जिस	DEM	
+11.2	रूमाल	NN	
+11.3	से	PSP	
+	))
+12	((	NP	
+12.1	आप	PRP	
+	))
+13	((	NP	
+13.1	अपना	PRP	
+13.2	मुंह	NN	
+13.3	पोंछते	VM	
+13.4	हैं	VAUX	
+13.5	,	SYM	
+	))
+14	((	NP	
+14.1	उसी	PRP	
+14.2	से	PSP	
+	))
+15	((	NP	
+15.1	आपने	PRP	
+	))
+16	((	NP	
+16.1	इस	DEM	
+16.2	चम्मच	NN	
+16.3	को	PSP	
+	))
+17	((	JJP	
+17.1	साफ	JJ	
+	))
+18	((	VGF	
+18.1	किया	VM	
+18.2	है	VAUX	
+18.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यह	PRP	
+	))
+2	((	NP	
+2.1	भी	RP	
+	))
+3	((	VGF	
+3.1	नहीं	NEG	
+3.2	होना	VM	
+3.3	चाहिए	VAUX	
+3.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	आप	PRP	
+	))
+2	((	NP	
+2.1	तो	RP	
+	))
+3	((	VGF	
+3.1	जानते	VM	
+3.2	हैं	VAUX	
+	))
+4	((	CCP	
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	नर्स	NN	
+	))
+6	((	NP	
+6.1	आपरेशन	NN	
+	))
+7	((	NP	
+7.1	के	PSP	
+	))
+8	((	NP	
+8.1	कमरे	NN	
+8.2	में	PSP	
+	))
+9	((	NP	
+9.1	किसी	PRP	
+9.2	भी	RP	
+	))
+10	((	NP	
+10.1	चीज	NN	
+	))
+11	((	NP	
+11.1	को	PSP	
+	))
+12	((	NP	
+12.1	हाथ	NN	
+	))
+13	((	VGF	
+13.1	नहीं	NEG	
+13.2	लगा	VM	
+13.3	सकती	VAUX	
+13.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सब	QF	
+1.2	चीजों	NN	
+1.3	को	PSP	
+	))
+2	((	NP	
+2.1	वह	PRP	
+	))
+3	((	NP	
+3.1	चिमटी	NN	
+	))
+4	((	CCP	
+4.1	या	CC	
+	))
+5	((	NP	
+5.1	संडसी	NN	
+5.2	से	PSP	
+	))
+6	((	NP	
+6.1	ही	RP	
+	))
+7	((	VGF	
+7.1	उठाती	VM	
+7.2	है	VAUX	
+7.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	हाथ	NN	
+1.2	से	PSP	
+	))
+2	((	VGF	
+2.1	ले	VM	
+	))
+3	((	CCP	
+3.1	तो	CC	
+	))
+4	((	NP	
+4.1	उसे	PRP	
+	))
+5	((	JJP	
+5.1	बर्खास्त	JJ	
+	))
+6	((	VGF	
+6.1	कर	VM	
+6.2	दिया	VAUX	
+6.3	जाता	VAUX	
+6.4	है	VAUX	
+6.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	ऐसी	DEM	
+1.2	ही	RP	
+	))
+2	((	NP	
+2.1	सफाई	NN	
+	))
+3	((	NP	
+3.1	हमें	PRP	
+	))
+4	((	NP	
+4.1	भी	RP	
+	))
+5	((	VGF	
+5.1	रखनी	VM	
+5.2	चाहिए	VAUX	
+5.3	?डट	SYM	
+5.4	"	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	एक	QC	
+1.2	क्षण	NN	
+	))
+2	((	VGF	
+2.1	रुककर	VM	
+	))
+3	((	NP	
+3.1	वे	PRP	
+	))
+4	((	RBP	
+4.1	फिर	RB	
+	))
+5	((	VGF	
+5.1	बोले	VM	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	"	SYM	
+	))
+7	((	CCP	
+7.1	और	CC	
+	))
+8	((	VGNN	
+8.1	पीने	VM	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	बाद	NST	
+	))
+10	((	NP	
+10.1	गिलास	NN	
+	))
+11	((	RBP	
+11.1	यों	RB	
+	))
+12	((	NP	
+12.1	ही	RP	
+	))
+13	((	JJP	
+13.1	औंधे	JJ	
+	))
+14	((	VGF	
+14.1	नहीं	NEG	
+14.2	रख	VM	
+14.3	देने	VAUX	
+14.4	चाहिए	VAUX	
+14.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	हम	PRP	
+	))
+2	((	RBP	
+2.1	शायद	RB	
+	))
+3	((	RBP	
+3.1	ऐसा	RB	
+	))
+4	((	NP	
+4.1	इस	PRP	
+4.2	आशा	NN	
+4.3	से	PSP	
+	))
+5	((	VGF	
+5.1	करते	VM	
+5.2	हैं	VAUX	
+	))
+6	((	CCP	
+6.1	कि	CC	
+	))
+7	((	NP	
+7.1	वे	PRP	
+	))
+8	((	VGF	
+8.1	धुल	VM	
+8.2	जाते	VAUX	
+8.3	होंगे	VAUX	
+8.4	,	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यातायात	XC	
+1.2	किराया	XC	
+1.3	दर	NN	
+	))
+2	((	CCP	
+2.1	एवं	CC	
+	))
+3	((	NP	
+3.1	दूरी	NN	
+3.2	--	SYM	
+	))
+4	((	NP	
+4.1	किराया	XC	
+4.2	दर	NN	
+4.3	पर	PSP	
+	))
+5	((	NP	
+5.1	दूरी	NN	
+5.2	का	PSP	
+	))
+6	((	NP	
+6.1	प्रभाव	NN	
+	))
+7	((	VGF	
+7.1	पड़ता	VM	
+7.2	है	VAUX	
+7.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	किराया	XC	
+1.2	दर	NN	
+1.3	बढ़ती	VM	
+1.4	हुई	VAUX	
+	))
+2	((	NP	
+2.1	दूरी	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	साथ	NST	
+	))
+4	((	NP	
+4.1	प्रति	RP	
+4.2	टन	QF	
+4.3	किलोमीटर	QF	
+	))
+5	((	RBP	
+5.1	अपेक्षाकृत	RB	
+	))
+6	((	JJP	
+6.1	कम	QF	
+	))
+7	((	VGF	
+7.1	होती	VM	
+7.2	जाती	VAUX	
+7.3	है	VAUX	
+7.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस	PRP	
+1.2	दृष्टि	NN	
+1.3	से	PSP	
+	))
+2	((	NP	
+2.1	किराया	NN	
+	))
+3	((	VGF	
+3.1	घटता	VM	
+3.2	हुआ	VAUX	
+3.3	बढ़ता	VM	
+3.4	है	VAUX	
+3.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	वैसे	PRP	
+	))
+2	((	NP	
+2.1	अन्तिम	JJ	
+2.2	स्टेशन	NN	
+2.3	पर	PSP	
+	))
+3	((	NP	
+3.1	खर्च	NN	
+	))
+4	((	JJP	
+4.1	अधिक	JJ	
+	))
+5	((	VGF	
+5.1	आता	VM	
+5.2	है	VAUX	
+	))
+6	((	CCP	
+6.1	क्योंकि	CC	
+	))
+7	((	NP	
+7.1	वहाँ	PRP	
+	))
+8	((	NP	
+8.1	वस्तु	NN	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	रख-रखाव	NN	
+9.2	,	SYM	
+	))
+10	((	NP	
+10.1	भण्डारण	NN	
+10.2	,	SYM	
+	))
+11	((	VGNN	
+11.1	उतारने	VM	
+11.2	आदि	RP	
+11.3	का	PSP	
+	))
+12	((	NP	
+12.1	खर्च	NN	
+	))
+13	((	JJP	
+13.1	सम्मिलित	JJ	
+	))
+14	((	VGF	
+14.1	होता	VM	
+14.2	है	VAUX	
+14.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	व्यवहारिक	JJ	
+1.2	रूप	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	किराया	NN	
+	))
+3	((	NP	
+3.1	सीढ़ी	XC	
+3.2	दर	XC	
+3.3	सीढ़ी	NN	
+	))
+4	((	NP	
+4.1	ऊपर	NST	
+	))
+5	((	NP	
+5.1	की	PSP	
+	))
+6	((	NP	
+6.1	ओर	PSP	
+	))
+7	((	VGF	
+7.1	जाता	VM	
+7.2	है	VAUX	
+7.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	VGF	
+1.1	बढ़ती	VM	
+1.2	हुई	VAUX	
+	))
+2	((	NP	
+2.1	दूरी	NN	
+2.2	के	PSP	
+	))
+3	((	RBP	
+3.1	साथ-साथ	RB	
+	))
+4	((	NP	
+4.1	यातायात	NN	
+	))
+5	((	NP	
+5.1	किराया	NN	
+	))
+6	((	VGF	
+6.1	घटता	VM	
+6.2	हुआ	VAUX	
+6.3	बढ़ता	VM	
+6.4	है	VAUX	
+6.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	अतः	CC	
+	))
+2	((	NP	
+2.1	लम्बी	JJ	
+2.2	दूरी	NN	
+2.3	इतनी	INTF	
+2.4	अधिक	QF	
+2.5	खर्चीली	JJ	
+2.6	नहीं	NEG	
+2.7	होती	VM	
+2.8	है	VAUX	
+2.9	जितनी	QF	
+2.10	होनी	VM	
+2.11	चाहिये	VAUX	
+2.12	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यातायात	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	साधन	NN	
+	))
+3	((	NP	
+3.1	पर	PSP	
+	))
+4	((	NP	
+4.1	वस्तु	NN	
+4.2	लदान	XC	
+	))
+5	((	NP	
+5.1	खर्च	NN	
+	))
+6	((	NP	
+6.1	के	PSP	
+	))
+7	((	NP	
+7.1	पश्चात्	PSP	
+	))
+8	((	NP	
+8.1	उसकी	PRP	
+8.2	दूरी	NN	
+8.3	ही	RP	
+	))
+9	((	NP	
+9.1	तो	RP	
+	))
+10	((	JJP	
+10.1	तय	JJ	
+	))
+11	((	VGF	
+11.1	करनी	VM	
+11.2	पड़ती	VAUX	
+11.3	है	VAUX	
+11.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यातायात	NN	
+1.2	बदलने	VM	
+1.3	की	PSP	
+	))
+2	((	NP	
+2.1	स्थिति	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	अधिक	QF	
+	))
+4	((	NP	
+4.1	खर्च	NN	
+	))
+5	((	VGF	
+5.1	करना	VM	
+5.2	पड़ता	VAUX	
+5.3	है	VAUX	
+5.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	जैसे	CC	
+	))
+2	((	NP	
+2.1	माल	NN	
+2.2	ट्रक	NN	
+2.3	से	PSP	
+	))
+3	((	NP	
+3.1	रेल	NN	
+3.2	में	PSP	
+	))
+4	((	CCP	
+4.1	या	CC	
+	))
+5	((	NP	
+5.1	समुद्री	JJ	
+5.2	मार्ग	NN	
+5.3	से	PSP	
+	))
+6	((	VGNN	
+6.1	जाने	VM	
+6.2	के	PSP	
+	))
+7	((	NP	
+7.1	कारण	NN	
+	))
+8	((	NP	
+8.1	स्थल	XC	
+8.2	यातायात	NN	
+8.3	से	PSP	
+	))
+9	((	NP	
+9.1	जहाज़	NN	
+9.2	में	PSP	
+	))
+10	((	VGF	
+10.1	लादना	VM	
+10.2	होता	VM	
+10.3	है	VAUX	
+10.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	ऐसी	PRP	
+1.2	स्थिति	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	माल	NN	
+2.2	उतार	VM	
+2.3	लें	VAUX	
+	))
+3	((	CCP	
+3.1	एवं	CC	
+	))
+4	((	VGF	
+4.1	लादने	VM	
+4.2	का	PSP	
+	))
+5	((	NP	
+5.1	खर्च	NN	
+	))
+6	((	VGF	
+6.1	होता	VM	
+6.2	है	VAUX	
+6.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	राष्ट्रीय	JJ	
+1.2	सीमाओं	NN	
+1.3	को	PSP	
+	))
+2	((	NP	
+2.1	कृत्रिम	JJ	
+	))
+3	((	NP	
+3.1	अवरोधक	NN	
+	))
+4	((	VGF	
+4.1	माना	VM	
+4.2	जाता	VAUX	
+4.3	है	VAUX	
+4.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	ऐसी	PRP	
+1.2	सीमाओं	NN	
+1.3	को	PSP	
+	))
+2	((	NP	
+2.1	पार	NN	
+	))
+3	((	VGF	
+3.1	करते	VM	
+3.2	समय	NN	
+	))
+4	((	CCP	
+4.1	यद्यपि	CC	
+	))
+5	((	NP	
+5.1	यातायात	NN	
+5.2	का	PSP	
+	))
+6	((	NP	
+6.1	साधन	NN	
+	))
+7	((	NP	
+7.1	वही	PRP	
+	))
+8	((	VGF	
+8.1	होता	VM	
+8.2	है	VAUX	
+	))
+9	((	RBP	
+9.1	फिर	RB	
+	))
+10	((	NP	
+10.1	भी	RP	
+	))
+11	((	NP	
+11.1	यातायात	XC	
+11.2	दर	NN	
+11.3	इस	PRP	
+11.4	प्रकार	NN	
+11.5	ली	VM	
+11.6	जाती	VAUX	
+11.7	है	VAUX	
+	))
+12	((	CCP	
+12.1	जैसे	CC	
+	))
+13	((	NP	
+13.1	कि	PSP	
+	))
+14	((	NP	
+14.1	यात्रा	NN	
+14.2	उसी	DEM	
+14.3	बिन्दु	NN	
+14.4	से	PSP	
+	))
+15	((	NP	
+15.1	प्रारम्भ	NN	
+	))
+16	((	VGF	
+16.1	हो	VM	
+16.2	रही	VAUX	
+16.3	है	VAUX	
+16.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस	PRP	
+1.2	सन्दर्भ	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	लम्बी	JJ	
+2.2	दूरी	NN	
+2.3	का	PSP	
+	))
+3	((	NP	
+3.1	लाभ	NN	
+	))
+4	((	JJP	
+4.1	कम	QF	
+	))
+5	((	NP	
+5.1	ही	RP	
+	))
+6	((	VGF	
+6.1	मिल	VM	
+6.2	पाता	VAUX	
+6.3	है	VAUX	
+6.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यही	PRP	
+	))
+2	((	VGF	
+2.1	नहीं	NEG	
+2.2	उस	DEM	
+	))
+3	((	NP	
+3.1	खर्च	NN	
+	))
+4	((	NP	
+4.1	में	PSP	
+	))
+5	((	NP	
+5.1	सीमा	XC	
+5.2	कर	NN	
+5.3	आदि	RP	
+5.4	और	RB	
+5.5	भी	RP	
+	))
+6	((	VGF	
+6.1	जोड़	VM	
+6.2	दिये	VAUX	
+6.3	जाते	VAUX	
+6.4	हैं	VAUX	
+6.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस	PRP	
+1.2	प्रकार	NN	
+1.3	का	PSP	
+	))
+2	((	VGF	
+2.1	बढ़ता	VM	
+	))
+3	((	NP	
+3.1	खर्च	NN	
+	))
+4	((	NP	
+4.1	सीमान्त	NN	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	दोनों	QF	
+5.2	देशों	NN	
+5.3	को	PSP	
+	))
+6	((	NP	
+6.1	अधिक	QF	
+6.2	देना	VM	
+6.3	पड़ता	VAUX	
+6.4	है	VAUX	
+6.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	कई	QF	
+1.2	बार	PRP	
+	))
+2	((	NP	
+2.1	स्थानीय	JJ	
+2.2	नियम	NN	
+	))
+3	((	CCP	
+3.1	अथवा	CC	
+	))
+4	((	NP	
+4.1	सरकार	NN	
+4.2	द्वारा	PSP	
+	))
+5	((	NP	
+5.1	राष्ट्रीय	JJ	
+5.2	निर्णय	NN	
+	))
+6	((	NP	
+6.1	के	PSP	
+	))
+7	((	NP	
+7.1	कारण	NN	
+	))
+8	((	NP	
+8.1	यातायात	XC	
+	))
+9	((	NP	
+9.1	खर्च	NN	
+	))
+10	((	NP	
+10.1	पर	PSP	
+	))
+11	((	NP	
+11.1	प्रभाव	NN	
+	))
+12	((	VGF	
+12.1	पड़ता	VM	
+12.2	है	VAUX	
+12.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	संयुक्त	XC	
+1.2	राज्य	XC	
+1.3	अमेरिका	NNP	
+1.4	में	PSP	
+	))
+2	((	NP	
+2.1	आधार	XC	
+2.2	बिन्दु	XC	
+2.3	प्रणाली	NN	
+2.4	के	PSP	
+	))
+3	((	JJP	
+3.1	अन्तर्गत	JJ	
+	))
+4	((	JJP	
+4.1	निर्धारित	JJ	
+	))
+5	((	VGF	
+5.1	किया	VM	
+5.2	गया	VAUX	
+5.3	यातायात	XC	
+	))
+6	((	NP	
+6.1	खर्च	NN	
+	))
+7	((	NP	
+7.1	एक	QC	
+7.2	विशिष्ट	JJ	
+7.3	उदाहरण	NN	
+	))
+8	((	VGF	
+8.1	है	VM	
+8.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस्पात	NNP	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	बड़े	JJ	
+2.2	उद्योगपतियों	NN	
+2.3	ने	PSP	
+	))
+3	((	VGF	
+3.1	मिल	VM	
+3.2	कर	VAUX	
+	))
+4	((	NP	
+4.1	वहाँ	PRP	
+	))
+5	((	NP	
+5.1	यह	PRP	
+	))
+6	((	NP	
+6.1	निश्चय	NN	
+	))
+7	((	VGF	
+7.1	किया	VM	
+	))
+8	((	CCP	
+8.1	कि	CC	
+	))
+9	((	NP	
+9.1	देश	NN	
+9.2	में	PSP	
+	))
+10	((	NP	
+10.1	इस्पात	NNP	
+10.2	को	PSP	
+	))
+11	((	NP	
+11.1	पिट्सबर्ग	NNP	
+11.2	की	PSP	
+	))
+12	((	NP	
+12.1	दर	NN	
+12.2	पर	PSP	
+	))
+13	((	NP	
+13.1	ही	RP	
+	))
+14	((	VGF	
+14.1	बेचा	VM	
+14.2	जाए	VAUX	
+14.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	उस	DEM	
+	))
+2	((	NP	
+2.1	खर्च	NN	
+	))
+3	((	NP	
+3.1	में	PSP	
+	))
+4	((	NP	
+4.1	इस्पात	NNP	
+4.2	का	PSP	
+	))
+5	((	RBP	
+5.1	केवल	RB	
+	))
+6	((	NP	
+6.1	यातायात	NN	
+6.2	का	PSP	
+	))
+7	((	NP	
+7.1	खर्च	NN	
+	))
+8	((	NP	
+8.1	ही	RP	
+	))
+9	((	NP	
+9.1	और	JJ	
+9.2	जोड़	VM	
+9.3	दिया	VAUX	
+9.4	जाए	VAUX	
+9.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस्पात	NNP	
+	))
+2	((	NP	
+2.1	कहाँ	WQ	
+	))
+3	((	VGF	
+3.1	बना	VM	
+	))
+4	((	CCP	
+4.1	और	CC	
+	))
+5	((	NP	
+5.1	कहाँ	WQ	
+	))
+6	((	VGF	
+6.1	बिक	VM	
+6.2	रहा	VAUX	
+6.3	है	VAUX	
+6.4	इस	PRP	
+6.5	तथ्य	NN	
+6.6	का	PSP	
+	))
+7	((	NP	
+7.1	दर	NN	
+7.2	पर	PSP	
+	))
+8	((	NP	
+8.1	कोई	PRP	
+	))
+9	((	NP	
+9.1	प्रभाव	NN	
+	))
+10	((	VGF	
+10.1	नहीं	NEG	
+	))
+11	((	VGNF	
+11.1	पड़े	VM	
+	))
+12	((	VGF	
+12.1	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यह	DEM	
+1.2	निर्णय	NN	
+	))
+2	((	NP	
+2.1	वहाँ	PRP	
+	))
+3	((	NP	
+3.1	सन्	NN	
+3.2	1900	NNP	
+3.3	से	PSP	
+	))
+4	((	NP	
+4.1	1924	NNP	
+4.2	तक	RP	
+	))
+5	((	JJP	
+5.1	लागू	JJ	
+	))
+6	((	VGF	
+6.1	रहा	VM	
+6.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	ऐसे	PRP	
+1.2	निर्णय	NN	
+	))
+2	((	NP	
+2.1	के	PSP	
+	))
+3	((	NP	
+3.1	कारण	NN	
+	))
+4	((	NP	
+4.1	इस्पात	NN	
+4.2	उत्पादन	NN	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	नवीन	JJ	
+5.2	केन्दों	NN	
+5.3	के	PSP	
+	))
+6	((	JJP	
+6.1	विकसित	JJ	
+	))
+7	((	VGNN	
+7.1	होने	VM	
+7.2	में	PSP	
+	))
+8	((	NP	
+8.1	बाधा	NN	
+	))
+9	((	JJP	
+9.1	उत्पन्न	JJ	
+	))
+10	((	VGF	
+10.1	हो	VM	
+10.2	गयी	VAUX	
+	))
+11	((	CCP	
+11.1	और	CC	
+	))
+12	((	NP	
+12.1	इस्पात	NNP	
+12.2	का	PSP	
+	))
+13	((	NP	
+13.1	वृहत्तम	JJ	
+13.2	उत्पादन	NN	
+13.3	पिट्सबर्ग	NNP	
+13.4	में	PSP	
+	))
+14	((	NP	
+14.1	ही	RP	
+	))
+15	((	VGNN	
+15.1	होने	VM	
+15.2	लगा	VAUX	
+15.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सन्	NN	
+1.2	1924	NNP	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	इस	DEM	
+2.2	निर्णय	NN	
+	))
+3	((	NP	
+3.1	के	PSP	
+	))
+4	((	NP	
+4.1	स्थान	NN	
+	))
+5	((	NP	
+5.1	पर	PSP	
+	))
+6	((	NP	
+6.1	बह-बिन्दु	NN	
+6.2	आधार	XC	
+6.3	प्रणाली	NN	
+6.4	का	PSP	
+	))
+7	((	NP	
+7.1	निर्धारण	NN	
+7.2	किया	VM	
+7.3	गया	VAUX	
+7.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	RBP	
+1.1	फिर	RB	
+	))
+2	((	NP	
+2.1	भी	RP	
+	))
+3	((	NP	
+3.1	पिट्सबर्ग	NNP	
+3.2	का	PSP	
+	))
+4	((	NP	
+4.1	पक्ष	NN	
+4.2	ही	RP	
+	))
+5	((	JJP	
+5.1	मज़बूत	JJ	
+	))
+6	((	VGF	
+6.1	रहा	VM	
+6.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस	DEM	
+1.2	निर्णय	NN	
+	))
+2	((	NP	
+2.1	के	PSP	
+	))
+3	((	NP	
+3.1	पश्चात्	PSP	
+	))
+4	((	NP	
+4.1	अन्य	JJ	
+4.2	महत्त्वपूर्ण	JJ	
+4.3	केन्द्रों	NN	
+4.4	ने	PSP	
+	))
+5	((	NP	
+5.1	विकास	NN	
+	))
+6	((	NP	
+6.1	तो	RP	
+	))
+7	((	VGF	
+7.1	किया	VM	
+	))
+8	((	RBP	
+8.1	फिर	RB	
+	))
+9	((	NP	
+9.1	भी	RP	
+	))
+10	((	NP	
+10.1	पिट्सबर्ग	NNP	
+10.2	उनके	PRP	
+10.3	मार्ग	NN	
+10.4	में	PSP	
+	))
+11	((	NP	
+11.1	बाधक	JJ	
+11.2	ही	RP	
+	))
+12	((	VGF	
+12.1	रहा	VM	
+12.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सन्	NN	
+1.2	1948	NNP	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	इसे	DEM	
+2.2	अवैधानिक	JJ	
+2.3	करार	NN	
+	))
+3	((	VGF	
+3.1	दे	VM	
+3.2	दिया	VAUX	
+3.3	गया	VAUX	
+3.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	उसके	PRP	
+1.2	पश्चात्	PSP	
+	))
+2	((	NP	
+2.1	अन्य	JJ	
+2.2	इस्पात	NNP	
+2.3	केन्द्रों	NN	
+2.4	का	PSP	
+	))
+3	((	NP	
+3.1	महत्त्व	NN	
+	))
+4	((	RBP	
+4.1	तेज़ी	RB	
+4.2	से	PSP	
+	))
+5	((	VGNN	
+5.1	बढ़ने	VM	
+5.2	लगा	VAUX	
+5.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	औद्योगिक	XC	
+1.2	क्रांति	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	प्रारम्भ	NN	
+	))
+3	((	NP	
+3.1	में	PSP	
+	))
+4	((	NP	
+4.1	यातायात	NN	
+4.2	की	PSP	
+	))
+5	((	NP	
+5.1	सुविधाएँ	NN	
+	))
+6	((	JJP	
+6.1	कम	QF	
+	))
+7	((	VGF	
+7.1	थीं	VM	
+7.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यही	PRP	
+	))
+2	((	VGF	
+2.1	नहीं	NEG	
+2.2	यातायात	NN	
+2.3	की	PSP	
+	))
+3	((	NP	
+3.1	क्षमता	NN	
+	))
+4	((	CCP	
+4.1	व	CC	
+	))
+5	((	NP	
+5.1	स्वरूप	NN	
+	))
+6	((	NP	
+6.1	भी	RP	
+	))
+7	((	JJP	
+7.1	भिन्न	JJ	
+	))
+8	((	VGF	
+8.1	था	VM	
+8.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	संयुक्त	XC	
+1.2	राज्य	XC	
+1.3	अमेरिका	NNP	
+1.4	1952	NNP	
+1.5	तक	RP	
+	))
+2	((	NP	
+2.1	दस	QC	
+	))
+3	((	NP	
+3.1	यातायात-क्षेत्रों	NN	
+	))
+4	((	NP	
+4.1	में	PSP	
+	))
+5	((	JJP	
+5.1	विभाजित	JJ	
+	))
+6	((	VGF	
+6.1	किया	VM	
+6.2	गया	VAUX	
+6.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	प्रत्येक	QF	
+1.2	क्षेत्र	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	आन्तरिक	JJ	
+2.2	यातायात	XC	
+2.3	खर्च	XC	
+2.4	दर	NN	
+2.5	का	PSP	
+	))
+3	((	NP	
+3.1	स्वरूप	NN	
+	))
+4	((	RBP	
+4.1	लगभग	RB	
+	))
+5	((	NP	
+5.1	समान	JJ	
+5.2	रखा	VM	
+5.3	गया	VAUX	
+	))
+6	((	CCP	
+6.1	किन्तु	CC	
+	))
+7	((	NP	
+7.1	एक	QC	
+7.2	क्षेत्र	NN	
+7.3	से	PSP	
+	))
+8	((	NP	
+8.1	दूसरे	QO	
+8.2	क्षेत्र	NN	
+8.3	की	PSP	
+	))
+9	((	NP	
+9.1	दर	NN	
+9.2	में	PSP	
+	))
+10	((	NP	
+10.1	बड़ा	QF	
+10.2	अन्तर	NN	
+	))
+11	((	VGF	
+11.1	था	VM	
+11.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	भारतवर्ष	NNP	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	रेल	XC	
+2.2	यातायात	XC	
+2.3	दर	NN	
+2.4	में	PSP	
+	))
+3	((	NP	
+3.1	विशेष	JJ	
+3.2	अन्तर	NN	
+	))
+4	((	VGF	
+4.1	नहीं	NEG	
+4.2	हैं	VM	
+	))
+5	((	CCP	
+5.1	परन्तु	CC	
+	))
+6	((	NP	
+6.1	ट्रक	NN	
+6.2	यातायात	NN	
+6.3	में	PSP	
+	))
+7	((	NP	
+7.1	दर	NN	
+7.2	का	PSP	
+	))
+8	((	NP	
+8.1	अन्तर	NN	
+	))
+9	((	NP	
+9.1	अधिक	QF	
+9.2	देखने	VM	
+9.3	को	PSP	
+	))
+10	((	VGF	
+10.1	मिलता	VM	
+10.2	है	VAUX	
+10.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सरकार	NN	
+1.2	द्वारा	PSP	
+	))
+2	((	NP	
+2.1	अब	PRP	
+	))
+3	((	NP	
+3.1	राष्ट्रीय	XC	
+3.2	अनुमति	XC	
+3.3	पत्र	NN	
+	))
+4	((	NP	
+4.1	(	SYM	
+4.2	णटिओनल्	JJ	
+4.3	फेर्मिट्	NN	
+4.4	)	SYM	
+	))
+5	((	NP	
+5.1	व्यवस्था	NN	
+	))
+6	((	JJP	
+6.1	लागू	JJ	
+	))
+7	((	VGF	
+7.1	कर	VM	
+7.2	देने	VAUX	
+7.3	के	PSP	
+	))
+8	((	NP	
+8.1	कारण	NN	
+	))
+9	((	NP	
+9.1	यातायात	XC	
+9.2	दर	NN	
+9.3	में	PSP	
+	))
+10	((	NP	
+10.1	कुछ	PRP	
+	))
+11	((	NP	
+11.1	समानताएँ	NN	
+	))
+12	((	VGF	
+12.1	आ	VM	
+12.2	गई	VAUX	
+12.3	हैं	VAUX	
+12.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यातायात	XC	
+	))
+2	((	JJP	
+2.1	प्रभावित	JJ	
+	))
+3	((	NP	
+3.1	उद्योगों	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	लिए	PSP	
+	))
+5	((	NP	
+5.1	आदर्श	JJ	
+5.2	स्थिति	NN	
+5.3	उसी	DEM	
+5.4	स्थान	NN	
+	))
+6	((	NP	
+6.1	पर	PSP	
+	))
+7	((	VGF	
+7.1	होगी	VM	
+	))
+8	((	NP	
+8.1	जहाँ	PRP	
+	))
+9	((	NP	
+9.1	कच्चा	JJ	
+9.2	माल	NN	
+	))
+10	((	NP	
+10.1	एकत्रीकरण	NN	
+	))
+11	((	CCP	
+11.1	एवं	CC	
+	))
+12	((	JJP	
+12.1	तैयार	JJ	
+	))
+13	((	NP	
+13.1	माल	NN	
+	))
+14	((	NP	
+14.1	वितरण	NN	
+	))
+15	((	NP	
+15.1	का	PSP	
+	))
+16	((	NP	
+16.1	खर्च	NN	
+	))
+17	((	NP	
+17.1	न्यूनतम	JJ	
+17.2	हो	VM	
+17.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	अन्य	JJ	
+1.2	बातें	NN	
+	))
+2	((	NP	
+2.1	समान	JJ	
+2.2	रहने	VM	
+2.3	पर	PSP	
+	))
+3	((	NP	
+3.1	उत्पादित	JJ	
+3.2	वस्तु	NN	
+3.3	उसके	PRP	
+3.4	कच्चे	JJ	
+3.5	माल	NN	
+3.6	की	PSP	
+	))
+4	((	NP	
+4.1	तुलना	NN	
+4.2	में	PSP	
+	))
+5	((	RBP	
+5.1	अपेक्षाकृत	RB	
+	))
+6	((	NP	
+6.1	वज़न	NN	
+6.2	में	PSP	
+	))
+7	((	NP	
+7.1	हल्की	JJ	
+	))
+8	((	CCP	
+8.1	एवं	CC	
+	))
+9	((	NP	
+9.1	आकार	NN	
+9.2	में	PSP	
+	))
+10	((	NP	
+10.1	छोटी	JJ	
+10.2	होती	VM	
+10.3	हैं	VAUX	
+10.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस	PRP	
+1.2	स्थिति	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	उद्योग	NN	
+2.2	की	PSP	
+	))
+3	((	NP	
+3.1	स्थापना	NN	
+	))
+4	((	NP	
+4.1	कच्चे	JJ	
+4.2	माल	NN	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	स्रोत	NN	
+	))
+6	((	NP	
+6.1	की	PSP	
+	))
+7	((	NP	
+7.1	ओर	PSP	
+	))
+8	((	NP	
+8.1	ही	RP	
+	))
+9	((	VGF	
+9.1	होगी	VM	
+9.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इसके	PRP	
+1.2	विपरीत	NST	
+	))
+2	((	CCP	
+2.1	यदि	CC	
+	))
+3	((	JJP	
+3.1	तैयार	JJ	
+	))
+4	((	NP	
+4.1	माल	NN	
+4.2	कच्चे	JJ	
+4.3	माल	NN	
+4.4	की	PSP	
+	))
+5	((	NP	
+5.1	तुलना	NN	
+5.2	में	PSP	
+	))
+6	((	RBP	
+6.1	अपेक्षाकृत	RB	
+	))
+7	((	NP	
+7.1	भारी	JJ	
+	))
+8	((	CCP	
+8.1	एवं	CC	
+	))
+9	((	NP	
+9.1	आकार	NN	
+9.2	में	PSP	
+	))
+10	((	NP	
+10.1	बड़ा	JJ	
+10.2	होता	VM	
+10.3	है	VAUX	
+	))
+11	((	CCP	
+11.1	तो	CC	
+	))
+12	((	NP	
+12.1	ऐसी	DEM	
+12.2	स्थिति	NN	
+12.3	में	PSP	
+	))
+13	((	NP	
+13.1	उद्योग	NN	
+13.2	बाज़ार	NN	
+13.3	की	PSP	
+	))
+14	((	NP	
+14.1	ओर	PSP	
+	))
+15	((	JJP	
+15.1	स्थापित	JJ	
+	))
+16	((	VGF	
+16.1	होगा	VM	
+16.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	उन	DEM	
+1.2	उद्योगों	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	जिनमें	PRP	
+	))
+3	((	NP	
+3.1	अनेक	JJ	
+3.2	पदार्थों	NN	
+3.3	का	PSP	
+	))
+4	((	NP	
+4.1	कच्चे	JJ	
+4.2	माल	NN	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	रूप	NN	
+5.2	में	PSP	
+	))
+6	((	NP	
+6.1	उपयोग	NN	
+	))
+7	((	VGF	
+7.1	होता	VM	
+7.2	है	VAUX	
+	))
+8	((	CCP	
+8.1	और	CC	
+	))
+9	((	NP	
+9.1	कोई	PRP	
+9.2	एक	QC	
+9.3	कच्चा	JJ	
+9.4	माल	NN	
+9.5	प्रमुख	JJ	
+9.6	नहीं	NEG	
+9.7	होता	VM	
+9.8	है	VAUX	
+9.9	एक	QC	
+9.10	तुलनात्मक	JJ	
+9.11	दृष्टिकोण	NN	
+9.12	अपनाया	VM	
+9.13	जाता	VAUX	
+9.14	है	VAUX	
+9.15	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	ऐसी	PRP	
+1.2	स्थिति	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	उद्योग	NN	
+2.2	अधिकाधिक	QF	
+2.3	पहुँच	NN	
+2.4	वाले	PSP	
+	))
+3	((	NP	
+3.1	स्थान	NN	
+	))
+4	((	NP	
+4.1	पर	PSP	
+	))
+5	((	JJP	
+5.1	स्थापित	JJ	
+	))
+6	((	VGF	
+6.1	किया	VM	
+6.2	जाएगा	VAUX	
+6.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यातायात	NN	
+1.2	का	PSP	
+	))
+2	((	NP	
+2.1	ऐतिहासिक	JJ	
+	))
+3	((	NP	
+3.1	महत्त्व	NN	
+	))
+4	((	NP	
+4.1	वाणिज्यीय	JJ	
+4.2	,	SYM	
+	))
+5	((	JJP	
+5.1	व्यवसायिक	JJ	
+	))
+6	((	CCP	
+6.1	एवं	CC	
+	))
+7	((	NP	
+7.1	क्षेत्रीय	JJ	
+7.2	विशिष्टीकरण	NN	
+7.3	हेतु	PSP	
+	))
+8	((	NP	
+8.1	सुविकसित	JJ	
+8.2	यातायात	NN	
+8.3	व्यवस्था	NN	
+	))
+9	((	JJP	
+9.1	आवश्यक	JJ	
+	))
+10	((	VGF	
+10.1	होती	VM	
+10.2	है	VAUX	
+10.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	कृषि	NN	
+	))
+2	((	CCP	
+2.1	एवं	CC	
+	))
+3	((	NP	
+3.1	औद्योगिक	JJ	
+	))
+4	((	NP	
+4.1	विकास	NN	
+	))
+5	((	NP	
+5.1	के	PSP	
+	))
+6	((	NP	
+6.1	लाभ	NN	
+	))
+7	((	NP	
+7.1	तभी	PRP	
+	))
+8	((	JJP	
+8.1	प्राप्त	JJ	
+	))
+9	((	VGF	
+9.1	किए	VM	
+9.2	जा	VAUX	
+9.3	सकते	VAUX	
+9.4	हैं	VAUX	
+	))
+10	((	CCP	
+10.1	जबकि	CC	
+	))
+11	((	NP	
+11.1	यातायात	NN	
+11.2	के	PSP	
+	))
+12	((	NP	
+12.1	साधनों	NN	
+12.2	का	PSP	
+	))
+13	((	NP	
+13.1	समुचित	JJ	
+	))
+14	((	NP	
+14.1	विकास	NN	
+	))
+15	((	VGF	
+15.1	हुआ	VM	
+15.2	हो	VAUX	
+	))
+16	((	CCP	
+16.1	और	CC	
+	))
+17	((	NP	
+17.1	यातायात	NN	
+17.2	के	PSP	
+	))
+18	((	NP	
+18.1	क्षेत्रों	NN	
+18.2	में	PSP	
+	))
+19	((	NP	
+19.1	विपुल	JJ	
+19.2	पूंजी	NN	
+19.3	का	PSP	
+	))
+20	((	NP	
+20.1	विनियोजन	NN	
+	))
+21	((	VGF	
+21.1	हुआ	VM	
+21.2	हो	VAUX	
+21.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	औद्योगिक	JJ	
+	))
+2	((	NP	
+2.1	विकास	NN	
+	))
+3	((	NP	
+3.1	की	PSP	
+	))
+4	((	NP	
+4.1	प्रारम्भिक	JJ	
+4.2	अवस्था	NN	
+4.3	में	PSP	
+	))
+5	((	NP	
+5.1	उद्योग	NN	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	स्थानीकरण	NN	
+6.2	में	PSP	
+	))
+7	((	NP	
+7.1	यातायात	NN	
+7.2	कठिनाई	NN	
+7.3	का	PSP	
+	))
+8	((	JJP	
+8.1	बड़ा	INTF	
+8.2	विपरीत	JJ	
+	))
+9	((	NP	
+9.1	प्रभाव	NN	
+	))
+10	((	VGF	
+10.1	पड़ता	VM	
+10.2	था	VAUX	
+10.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	प्रारम्भ	NN	
+	))
+2	((	NP	
+2.1	में	PSP	
+	))
+3	((	NP	
+3.1	सभी	QF	
+3.2	प्रकार	NN	
+3.3	का	PSP	
+	))
+4	((	NP	
+4.1	आन्तरिक	JJ	
+4.2	यातायात	NN	
+4.3	बहुत	INTF	
+	))
+5	((	JJP	
+5.1	कम	QF	
+	))
+6	((	VGF	
+6.1	था	VM	
+	))
+7	((	CCP	
+7.1	और	CC	
+	))
+8	((	NP	
+8.1	साथ	NST	
+	))
+9	((	NP	
+9.1	ही	RP	
+	))
+10	((	JJP	
+10.1	बहुत	INTF	
+10.2	अधिक	QF	
+10.3	खर्चीला	JJ	
+10.4	भी	RP	
+	))
+11	((	VGF	
+11.1	होता	VM	
+11.2	था	VAUX	
+11.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	परिणामस्वरूप	NN	
+	))
+2	((	NP	
+2.1	समुद्रतटीय	JJ	
+2.2	कस्बे	NN	
+2.3	,	SYM	
+	))
+3	((	NP	
+3.1	एस्च्युरी	JJ	
+3.2	कस्बे	NN	
+3.3	,	SYM	
+	))
+4	((	NP	
+4.1	नाव्य	JJ	
+4.2	नदियों	NN	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	किनारे	NN	
+	))
+6	((	VGF	
+6.1	बसे	VM	
+6.2	हुए	VAUX	
+	))
+7	((	NP	
+7.1	कस्बे	NN	
+7.2	,	SYM	
+	))
+8	((	NP	
+8.1	यातायात	NN	
+8.2	के	PSP	
+	))
+9	((	NP	
+9.1	अति	INTF	
+9.2	सुगम	QF	
+9.3	केन्द्र	NN	
+9.4	बने	VM	
+9.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	ऐन्टवर्प	NNP	
+1.2	,	SYM	
+	))
+2	((	NP	
+2.1	लन्दन	NNP	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	ब्रिस्टल	NNP	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	बम्बई	NNP	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	कलकत्ता	NNP	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	टोकियो	NNP	
+6.2	आदि	RP	
+6.3	इस	PRP	
+6.4	सन्दर्भ	NN	
+6.5	में	PSP	
+	))
+7	((	NP	
+7.1	अच्छे	JJ	
+7.2	उदाहरण	NN	
+	))
+8	((	VGF	
+8.1	हैं	VM	
+8.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस	PRP	
+	))
+2	((	NP	
+2.1	कारण	NN	
+	))
+3	((	NP	
+3.1	नहरी	JJ	
+3.2	यातायात	NN	
+3.3	का	PSP	
+	))
+4	((	NP	
+4.1	विकास	NN	
+	))
+5	((	VGF	
+5.1	हुआ	VM	
+5.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	औद्योगिक	JJ	
+1.2	क्रान्ति	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	जनक	NN	
+	))
+3	((	NP	
+3.1	ब्रिटेन	NNP	
+3.2	में	PSP	
+	))
+4	((	NP	
+4.1	औद्योगिक	JJ	
+	))
+5	((	NP	
+5.1	विकास	NN	
+	))
+6	((	NP	
+6.1	हेतु	PSP	
+	))
+7	((	NP	
+7.1	नदी	NN	
+7.2	सुधार	NN	
+	))
+8	((	NP	
+8.1	कार्यक्रम	NN	
+	))
+9	((	NP	
+9.1	तीव्रता	NN	
+	))
+10	((	NP	
+10.1	से	PSP	
+	))
+11	((	NP	
+11.1	हाथ	NN	
+	))
+12	((	NP	
+12.1	में	PSP	
+	))
+13	((	VGF	
+13.1	लिया	VM	
+13.2	गया	VAUX	
+13.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	जहाँ	PRP	
+	))
+2	((	NP	
+2.1	राजस्थान	NNP	
+	))
+3	((	CCP	
+3.1	व	CC	
+	))
+4	((	NP	
+4.1	महाराष्ट्र	NNP	
+4.2	जैसे	PSP	
+	))
+5	((	NP	
+5.1	राज्यों	NN	
+5.2	ने	PSP	
+	))
+6	((	NP	
+6.1	निजी	JJ	
+	))
+7	((	NP	
+7.1	देखरेख	NN	
+	))
+8	((	CCP	
+8.1	व	CC	
+	))
+9	((	NP	
+9.1	कृषि	NN	
+9.2	की	PSP	
+	))
+10	((	NP	
+10.1	जोखिम	NN	
+	))
+11	((	VGNN	
+11.1	उठाने	VM	
+11.2	वाली	PSP	
+	))
+12	((	NP	
+12.1	शर्तों	NN	
+12.2	को	PSP	
+	))
+13	((	JJP	
+13.1	लागू	JJ	
+	))
+14	((	VGF	
+14.1	किया	VM	
+14.2	,	SYM	
+	))
+15	((	NP	
+15.1	वहाँ	PRP	
+	))
+16	((	NP	
+16.1	असम	NNP	
+16.2	ने	PSP	
+	))
+17	((	NP	
+17.1	केवल	RP	
+	))
+18	((	NP	
+18.1	दूसरी	QO	
+18.2	शर्त	NN	
+	))
+19	((	JJP	
+19.1	लागू	JJ	
+	))
+20	((	VGF	
+20.1	की	VM	
+20.2	,	SYM	
+	))
+21	((	CCP	
+21.1	लेकिन	CC	
+	))
+22	((	NP	
+22.1	तीसरी	QO	
+22.2	शर्त	NN	
+	))
+23	((	NP	
+23.1	किसी	PRP	
+23.2	भी	RP	
+	))
+24	((	NP	
+24.1	राज्य	NN	
+24.2	में	PSP	
+	))
+25	((	JJP	
+25.1	लागू	JJ	
+	))
+26	((	VGF	
+26.1	नहीं	NEG	
+26.2	की	VM	
+26.3	जा	VAUX	
+26.4	सकी	VAUX	
+26.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	हाँ	INJ	
+1.2	,	SYM	
+	))
+2	((	NP	
+2.1	दूसरी	QO	
+2.2	शर्त	NN	
+	))
+3	((	NP	
+3.1	के	PSP	
+	))
+4	((	NP	
+4.1	सन्दर्भ	NN	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	भूमि	XC	
+5.2	सुधार	XC	
+5.3	पैनल	NN	
+5.4	का	PSP	
+	))
+6	((	NP	
+6.1	यह	DEM	
+	))
+7	((	NP	
+7.1	सुझाव	NN	
+	))
+8	((	RBP	
+8.1	अवश्य	RB	
+	))
+9	((	VGF	
+9.1	था	VM	
+9.2	,	SYM	
+	))
+10	((	CCP	
+10.1	कि	CC	
+	))
+11	((	NP	
+11.1	जब	PRP	
+	))
+12	((	NP	
+12.1	प्रमुख	JJ	
+12.2	कृषि	XC	
+	))
+13	((	NP	
+13.1	कार्य	NN	
+	))
+14	((	JJP	
+14.1	सम्पादित	JJ	
+	))
+15	((	VGF	
+15.1	हों	VM	
+15.2	,	SYM	
+	))
+16	((	NP	
+16.1	उस	DEM	
+16.2	अवधि	NN	
+16.3	में	PSP	
+	))
+17	((	NP	
+17.1	भूमि	NN	
+17.2	का	PSP	
+	))
+18	((	NP	
+18.1	स्वामी	NN	
+	))
+19	((	NP	
+19.1	गाँव	NN	
+19.2	में	PSP	
+	))
+20	((	CCP	
+20.1	या	CC	
+	))
+21	((	NP	
+21.1	उसके	PRP	
+21.2	आसपास	NST	
+	))
+22	((	RBP	
+22.1	अवश्य	RB	
+	))
+23	((	VGF	
+23.1	रहे	VM	
+23.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	(	SYM	
+1.2	स	SYM	
+1.3	)	SYM	
+	))
+2	((	NP	
+2.1	काश्तकारियों	NN	
+2.2	का	PSP	
+	))
+3	((	NP	
+3.1	पुनर्ग्रहण	NN	
+3.2	-	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	काश्तकारियों	NN	
+1.2	के	PSP	
+	))
+2	((	NP	
+2.1	पुनर्ग्रहण	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	संदर्भ	NN	
+3.2	में	PSP	
+	))
+4	((	NP	
+4.1	राज्यों	NN	
+4.2	को	PSP	
+	))
+5	((	NP	
+5.1	चार	QC	
+5.2	श्रेणियों	NN	
+5.3	में	PSP	
+	))
+6	((	JJP	
+6.1	विभाजित	JJ	
+	))
+7	((	VGF	
+7.1	किया	VM	
+7.2	जा	VAUX	
+7.3	सकता	VAUX	
+7.4	है	VAUX	
+7.5	-	SYM	
+7.6	1	QC	
+	))
+8	((	NP	
+8.1	.	SYM	
+8.2	ऐसे	DEM	
+8.3	राज्य	NN	
+	))
+9	((	NP	
+9.1	जहाँ	PRP	
+	))
+10	((	NP	
+10.1	भू	XC	
+10.2	-	SYM	
+10.3	स्वामी	NN	
+	))
+11	((	NP	
+11.1	को	PSP	
+	))
+12	((	NP	
+12.1	पुनर्ग्रहण	NN	
+12.2	का	PSP	
+	))
+13	((	NP	
+13.1	अधिकार	NN	
+	))
+14	((	VGF	
+14.1	नहीं	NEG	
+14.2	दिया	VM	
+14.3	गया	VAUX	
+14.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	जैसे	CC	
+	))
+2	((	NP	
+2.1	उत्तर	XC	
+2.2	प्रदेश	NNP	
+	))
+3	((	CCP	
+3.1	एवं	CC	
+	))
+4	((	NP	
+4.1	पश्चिमी	XC	
+4.2	बंगाल	NNP	
+4.3	की	PSP	
+	))
+5	((	NP	
+5.1	निम्न	JJ	
+5.2	श्रेणी	NN	
+5.3	की	PSP	
+	))
+6	((	NP	
+6.1	रैयत	NN	
+6.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	2.	QC	
+	))
+2	((	NP	
+2.1	ऐसे	DEM	
+2.2	राज्य	NN	
+	))
+3	((	NP	
+3.1	जहाँ	PRP	
+	))
+4	((	NP	
+4.1	खुद	PRP	
+	))
+5	((	NP	
+5.1	काश्त	NN	
+5.2	करने	VM	
+5.3	के	PSP	
+	))
+6	((	NP	
+6.1	लिए	PSP	
+	))
+7	((	JJP	
+7.1	सीमित	JJ	
+	))
+8	((	NP	
+8.1	क्षेत्र	NN	
+	))
+9	((	NP	
+9.1	ग्रहण	NN	
+	))
+10	((	VGNN	
+10.1	करने	VM	
+10.2	का	PSP	
+	))
+11	((	NP	
+11.1	अधिकार	NN	
+	))
+12	((	NP	
+12.1	इस	DEM	
+12.2	शर्त	NN	
+	))
+13	((	NP	
+13.1	के	PSP	
+	))
+14	((	NP	
+14.1	साथ	NST	
+	))
+15	((	VGF	
+15.1	दिया	VM	
+15.2	गया	VAUX	
+	))
+16	((	CCP	
+16.1	कि	CC	
+	))
+17	((	NP	
+17.1	काश्तकारों	NN	
+17.2	के	PSP	
+	))
+18	((	NP	
+18.1	पास	NST	
+	))
+19	((	NP	
+19.1	एक	QF	
+19.2	न्यूनतम	JJ	
+19.3	भू	XC	
+19.4	-	SYM	
+19.5	जोत	NN	
+19.6	का	PSP	
+	))
+20	((	NP	
+20.1	टुकड़ा	NN	
+	))
+21	((	RBP	
+21.1	अवश्य	RB	
+	))
+22	((	VGF	
+22.1	छोड़	VM	
+22.2	दिया	VAUX	
+22.3	जाये	VAUX	
+22.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	गुजरात	NNP	
+1.2	,	SYM	
+	))
+2	((	NP	
+2.1	केरल	NNP	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	मध्यप्रदेश	NNP	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	बिहार	NNP	
+4.2	,	SYM	
+	))
+5	((	NP	
+5.1	कर्नाटक	NNP	
+5.2	,	SYM	
+	))
+6	((	NP	
+6.1	महाराष्ट्र	NNP	
+6.2	,	SYM	
+	))
+7	((	NP	
+7.1	हिमाचल	XC	
+7.2	प्रदेश	NNP	
+7.3	,	SYM	
+	))
+8	((	NP	
+8.1	उड़ीसा	NNP	
+8.2	,	SYM	
+	))
+9	((	NP	
+9.1	राजस्थान	NNP	
+	))
+10	((	CCP	
+10.1	एवं	CC	
+	))
+11	((	NP	
+11.1	मणिपुर	NNP	
+11.2	में	PSP	
+	))
+12	((	NP	
+12.1	ऐसा	PRP	
+	))
+13	((	NP	
+13.1	ही	RP	
+	))
+14	((	VGF	
+14.1	किया	VM	
+14.2	गया	VAUX	
+14.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	3.	QC	
+	))
+2	((	NP	
+2.1	ऐसे	DEM	
+2.2	राज्य	NN	
+	))
+3	((	NP	
+3.1	जिनमें	PRP	
+	))
+4	((	NP	
+4.1	पुनर्ग्रहण	NN	
+4.2	का	PSP	
+	))
+5	((	NP	
+5.1	अधिकार	NN	
+	))
+6	((	NP	
+6.1	तो	RP	
+	))
+7	((	VGF	
+7.1	दिया	VM	
+7.2	गया	VAUX	
+7.3	,	SYM	
+	))
+8	((	CCP	
+8.1	लेकिन	CC	
+	))
+9	((	NP	
+9.1	यह	DEM	
+9.2	शर्त	NN	
+	))
+10	((	VGF	
+10.1	लगा	VM	
+10.2	दी	VAUX	
+10.3	गई	VAUX	
+	))
+11	((	CCP	
+11.1	कि	CC	
+	))
+12	((	NP	
+12.1	काश्तकारों	NN	
+12.2	को	PSP	
+	))
+13	((	NP	
+13.1	एक	QC	
+	))
+14	((	JJP	
+14.1	निश्चित	JJ	
+	))
+15	((	NP	
+15.1	सीमा	NN	
+15.2	तक	RP	
+	))
+16	((	NP	
+16.1	भूमि	NN	
+	))
+17	((	JJP	
+17.1	प्रदान	JJ	
+	))
+18	((	VGF	
+18.1	की	VM	
+18.2	जायेगी	VAUX	
+18.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	JJP	
+1.1	प्रदान	JJ	
+	))
+2	((	VGF	
+2.1	की	VM	
+2.2	जाने	VAUX	
+2.3	वाली	PSP	
+	))
+3	((	NP	
+3.1	भूमि	NN	
+3.2	की	PSP	
+	))
+4	((	NP	
+4.1	तलाश	NN	
+4.2	राज्य	NN	
+4.3	ही	RP	
+	))
+5	((	VGF	
+5.1	करेगा	VM	
+5.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	पंजाब	NNP	
+	))
+2	((	CCP	
+2.1	व	CC	
+	))
+3	((	NP	
+3.1	असम	NNP	
+3.2	राज्यों	NN	
+3.3	में	PSP	
+	))
+4	((	NP	
+4.1	ऐसा	PRP	
+	))
+5	((	NP	
+5.1	ही	PSP	
+	))
+6	((	VGF	
+6.1	किया	VM	
+6.2	गया	VAUX	
+6.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	4.	QC	
+	))
+2	((	NP	
+2.1	ऐसे	DEM	
+2.2	राज्य	NN	
+	))
+3	((	NP	
+3.1	जिनमें	PRP	
+	))
+4	((	NP	
+4.1	पुनर्ग्रहण	NN	
+4.2	करने	VM	
+4.3	का	PSP	
+	))
+5	((	NP	
+5.1	अधिकार	NN	
+	))
+6	((	NP	
+6.1	सीमा	XC	
+6.2	निर्धारण	NN	
+6.3	के	PSP	
+	))
+7	((	NP	
+7.1	स्तर	NN	
+7.2	तक	RP	
+	))
+8	((	VGF	
+8.1	किया	VM	
+8.2	गया	VAUX	
+	))
+9	((	CCP	
+9.1	और	CC	
+	))
+10	((	NP	
+10.1	काश्तकार	NN	
+10.2	के	PSP	
+	))
+11	((	NP	
+11.1	लिए	PSP	
+	))
+12	((	NP	
+12.1	एक	QC	
+12.2	न्यूनतम	JJ	
+12.3	भूमिक	JJ	
+12.4	क्षेत्र	NN	
+12.5	की	PSP	
+	))
+13	((	NP	
+13.1	व्यवस्था	NN	
+	))
+14	((	VGF	
+14.1	की	VM	
+14.2	गई	VAUX	
+14.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	ऐसा	PRP	
+	))
+2	((	NP	
+2.1	आन्ध्र	XC	
+2.2	प्रदेश	NNP	
+	))
+3	((	CCP	
+3.1	एवं	CC	
+	))
+4	((	NP	
+4.1	तमिलनाडु	NNP	
+4.2	में	PSP	
+	))
+5	((	VGF	
+5.1	किया	VM	
+5.2	गया	VAUX	
+5.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	खुद	PRP	
+	))
+2	((	NP	
+2.1	काश्त	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	लिये	PSP	
+	))
+4	((	NP	
+4.1	भू	XC	
+4.2	-	SYM	
+4.3	स्वामियों	NN	
+4.4	को	PSP	
+	))
+5	((	NP	
+5.1	पुनर्ग्रहण	NN	
+5.2	का	PSP	
+	))
+6	((	NP	
+6.1	अधिकार	NN	
+	))
+7	((	VGNN	
+7.1	मिलने	VM	
+7.2	से	PSP	
+	))
+8	((	NP	
+8.1	काश्तकारों	NN	
+8.2	की	PSP	
+	))
+9	((	NP	
+9.1	सुरक्षा	NN	
+9.2	पर	PSP	
+	))
+10	((	NP	
+10.1	प्रतिकूल	JJ	
+	))
+11	((	NP	
+11.1	प्रभाव	NN	
+	))
+12	((	VGF	
+12.1	पड़ा	VM	
+12.2	है	VAUX	
+12.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	लेकिन	CC	
+	))
+2	((	NP	
+2.1	छोटे	JJ	
+2.2	भू	XC	
+2.3	-	SYM	
+2.4	स्वामियों	NN	
+2.5	के	PSP	
+	))
+3	((	NP	
+3.1	साथ	NST	
+	))
+4	((	NP	
+4.1	विशेष	JJ	
+4.2	रियायतें	NN	
+4.3	होनी	VM	
+4.4	चाहिये	VAUX	
+4.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	आधारभूत	JJ	
+1.2	जोत	NN	
+1.3	से	PSP	
+	))
+2	((	JJP	
+2.1	कम	QF	
+	))
+3	((	NP	
+3.1	के	PSP	
+	))
+4	((	NP	
+4.1	भू	XC	
+4.2	-	SYM	
+4.3	स्वामियों	NN	
+4.4	को	PSP	
+	))
+5	((	NP	
+5.1	समस्त	JJ	
+	))
+6	((	NP	
+6.1	खुद	PRP	
+	))
+7	((	NP	
+7.1	काश्त	NN	
+7.2	करने	VM	
+7.3	की	PSP	
+	))
+8	((	NP	
+8.1	स्वतन्त्रता	NN	
+	))
+9	((	VGF	
+9.1	होनी	VM	
+9.2	चाहिये	VAUX	
+9.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	जिस	DEM	
+1.2	काश्तकार	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	पास	NST	
+	))
+3	((	NP	
+3.1	भूमि	NN	
+3.2	नहीं	NEG	
+3.3	रहे	VM	
+	))
+4	((	CCP	
+4.1	अथवा	CC	
+	))
+5	((	NP	
+5.1	बेसिक	JJ	
+5.2	जोत	NN	
+5.3	से	PSP	
+	))
+6	((	JJP	
+6.1	कम	QF	
+	))
+7	((	VGF	
+7.1	हो	VM	
+7.2	,	SYM	
+	))
+8	((	NP	
+8.1	उसे	PRP	
+	))
+9	((	NP	
+9.1	सरकार	NN	
+9.2	भूमि	NN	
+9.3	देने	VM	
+9.4	की	PSP	
+	))
+10	((	NP	
+10.1	व्यवस्था	NN	
+	))
+11	((	VGF	
+11.1	करे	VM	
+11.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	खुद	PRP	
+	))
+2	((	NP	
+2.1	काश्त	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	लिये	PSP	
+	))
+4	((	NP	
+4.1	भू	XC	
+4.2	-	SYM	
+	))
+5	((	NP	
+5.1	ग्रहण	NN	
+	))
+6	((	VGNN	
+6.1	करने	VM	
+6.2	का	PSP	
+	))
+7	((	NP	
+7.1	कार्य	NN	
+	))
+8	((	NP	
+8.1	एक	QC	
+	))
+9	((	JJP	
+9.1	निश्चित	JJ	
+	))
+10	((	NP	
+10.1	अवधि	NN	
+10.2	तक	RP	
+	))
+11	((	JJP	
+11.1	लागू	JJ	
+	))
+12	((	VGF	
+12.1	किया	VM	
+12.2	जाना	VAUX	
+12.3	चाहिये	VAUX	
+12.4	था	VAUX	
+12.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	ऐसा	PRP	
+	))
+2	((	VGF	
+2.1	न	NEG	
+2.2	होने	VM	
+2.3	पर	PSP	
+	))
+3	((	NP	
+3.1	मध्यम	JJ	
+3.2	श्रेणी	NN	
+3.3	के	PSP	
+	))
+4	((	NP	
+4.1	भू	XC	
+4.2	-	SYM	
+4.3	स्वामी	NN	
+	))
+5	((	NP	
+5.1	भूमि	NN	
+5.2	का	PSP	
+	))
+6	((	NP	
+6.1	हस्तांतरण	NN	
+	))
+7	((	VGF	
+7.1	कर	VM	
+7.2	भू	XC	
+7.3	-	SYM	
+7.4	स्वामी	NN	
+	))
+8	((	VGNN	
+8.1	बनने	VM	
+8.2	का	PSP	
+	))
+9	((	NP	
+9.1	प्रयास	NN	
+	))
+10	((	VGF	
+10.1	करते	VM	
+10.2	हैं	VAUX	
+10.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	स्वेच्छा	NN	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	भूमि	NN	
+2.2	छोड़ने	VM	
+2.3	को	PSP	
+	))
+3	((	NP	
+3.1	तब	PRP	
+	))
+4	((	NP	
+4.1	तक	RP	
+	))
+5	((	NP	
+5.1	नियमानुसार	NN	
+	))
+6	((	VGF	
+6.1	नहीं	NEG	
+6.2	मानना	VM	
+6.3	चाहिये	VAUX	
+	))
+7	((	NP	
+7.1	जब	PRP	
+	))
+8	((	NP	
+8.1	तक	RP	
+	))
+9	((	NP	
+9.1	उन्हें	PRP	
+	))
+10	((	NP	
+10.1	सक्षम	JJ	
+10.2	अधिकारी	NN	
+	))
+11	((	NP	
+11.1	प्रमाणित	JJ	
+11.2	नहीं	NEG	
+11.3	कर	VM	
+11.4	दे	VAUX	
+11.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	व्यक्तिगत	JJ	
+1.2	खेती	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	लिये	PSP	
+	))
+3	((	NP	
+3.1	भू	XC	
+3.2	-	NN	
+3.3	स्वामी	NN	
+	))
+4	((	NP	
+4.1	द्वारा	PSP	
+	))
+5	((	NP	
+5.1	ज़मीन	NN	
+	))
+6	((	JJP	
+6.1	वापिस	JJ	
+	))
+7	((	VGNN	
+7.1	लेने	VM	
+7.2	सम्बन्धी	JJ	
+7.3	प्रावधानों	NN	
+7.4	को	PSP	
+	))
+8	((	NP	
+8.1	इस	DEM	
+8.2	तरह	NN	
+	))
+9	((	NP	
+9.1	संशोधित	JJ	
+9.2	किया	VM	
+9.3	जाना	VAUX	
+9.4	चाहिये	VAUX	
+	))
+10	((	CCP	
+10.1	कि	CC	
+	))
+11	((	NP	
+11.1	उसकी	PRP	
+11.2	अनुपस्थिति	NN	
+11.3	में	PSP	
+	))
+12	((	NP	
+12.1	ज़मींदारी	NN	
+12.2	को	PSP	
+	))
+13	((	NP	
+13.1	प्रोत्साहन	NN	
+	))
+14	((	VGF	
+14.1	मिले	VM	
+14.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	(	SYM	
+1.2	द	SYM	
+1.3	)	SYM	
+	))
+2	((	NP	
+2.1	काश्तकारों	NN	
+2.2	को	PSP	
+	))
+3	((	NP	
+3.1	स्वामित्व	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	अधिकार	NN	
+	))
+5	((	VGNN	
+5.1	देना	VM	
+	))
+6	((	NP	
+6.1	--	SYM	
+	))
+7	((	NP	
+7.1	भारत	NNP	
+7.2	की	PSP	
+	))
+8	((	NP	
+8.1	द्वितीय	XC	
+8.2	पंचवर्षीय	XC	
+8.3	योजना	NNP	
+8.4	में	PSP	
+	))
+9	((	VGF	
+9.1	कहा	VM	
+9.2	गया	VAUX	
+9.3	था	VAUX	
+	))
+10	((	CCP	
+10.1	कि	CC	
+	))
+11	((	NP	
+11.1	जिन	DEM	
+11.2	क्षेत्रों	NN	
+11.3	में	PSP	
+	))
+12	((	NP	
+12.1	काश्तकारी	NN	
+	))
+13	((	NP	
+13.1	पुनर्ग्रहण	NN	
+13.2	न	NEG	
+13.3	किये	VM	
+13.4	गये	VAUX	
+13.5	हों	VAUX	
+13.6	,	SYM	
+	))
+14	((	NP	
+14.1	वहाँ	PRP	
+	))
+15	((	NP	
+15.1	काश्तकारों	NN	
+15.2	को	PSP	
+	))
+16	((	NP	
+16.1	भूमि	NN	
+16.2	का	PSP	
+	))
+17	((	NP	
+17.1	मालिक	NN	
+	))
+18	((	VGF	
+18.1	बना	VM	
+18.2	दिया	VAUX	
+18.3	जाये	VAUX	
+18.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	मालिक	NN	
+	))
+2	((	VGNN	
+2.1	बनाने	VM	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	लिये	PSP	
+	))
+4	((	NP	
+4.1	ऐच्छिक	JJ	
+	))
+5	((	NP	
+5.1	अधिकार	NN	
+	))
+6	((	VGF	
+6.1	नहीं	NEG	
+6.2	दिया	VM	
+6.3	जाना	VAUX	
+6.4	चाहिये	VAUX	
+	))
+7	((	CCP	
+7.1	क्योंकि	CC	
+	))
+8	((	NP	
+8.1	व्यावहारिक	JJ	
+8.2	रूप	NN	
+8.3	में	PSP	
+	))
+9	((	NP	
+9.1	इनका	PRP	
+	))
+10	((	NP	
+10.1	उपयोग	NN	
+	))
+11	((	VGF	
+11.1	नहीं	NEG	
+11.2	हो	VM	
+11.3	पा	VAUX	
+11.4	रहा	VAUX	
+11.5	है	VAUX	
+11.6	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	काश्तकारों	NN	
+1.2	को	PSP	
+	))
+2	((	NP	
+2.1	स्वामित्व	NN	
+2.2	का	PSP	
+	))
+3	((	NP	
+3.1	अधिकार	NN	
+	))
+4	((	VGNN	
+4.1	देने	VM	
+4.2	का	PSP	
+	))
+5	((	NP	
+5.1	कार्य	NN	
+	))
+6	((	NP	
+6.1	तीन	QC	
+6.2	प्रकार	NN	
+6.3	से	PSP	
+	))
+7	((	VGF	
+7.1	किया	VM	
+7.2	गया	VAUX	
+7.3	है	VAUX	
+7.4	:	SYM	
+	))
+8	((	NP	
+8.1	--	SYM	
+	))
+9	((	NP	
+9.1	(	SYM	
+9.2	इ	SYM	
+9.3	)	SYM	
+	))
+10	((	NP	
+10.1	काश्तकारों	NN	
+10.2	को	PSP	
+	))
+11	((	NP	
+11.1	मौलिक	JJ	
+	))
+12	((	JJP	
+12.1	घोषित	JJ	
+	))
+13	((	VGF	
+13.1	कर	VM	
+13.2	दिया	VAUX	
+13.3	गया	VAUX	
+	))
+14	((	CCP	
+14.1	और	CC	
+	))
+15	((	NP	
+15.1	मालिकों	NN	
+15.2	को	PSP	
+	))
+16	((	NP	
+16.1	इन	DEM	
+16.2	काश्तकारों	NN	
+16.3	से	PSP	
+	))
+17	((	JJP	
+17.1	उपयुक्त	JJ	
+	))
+18	((	NP	
+18.1	किस्तों	NN	
+18.2	में	PSP	
+	))
+19	((	NP	
+19.1	मुआवज़ा	NN	
+	))
+20	((	VGNN	
+20.1	दिलाने	VM	
+20.2	की	PSP	
+	))
+21	((	NP	
+21.1	व्यवस्था	NN	
+	))
+22	((	VGF	
+22.1	की	VM	
+22.2	गई	VAUX	
+22.3	माल	XC	
+22.4	गुज़ारी	NN	
+22.5	के	PSP	
+	))
+23	((	NP	
+23.1	बकाया	NN	
+23.2	के	PSP	
+	))
+24	((	NP	
+24.1	रूप	NN	
+24.2	में	PSP	
+	))
+25	((	VGF	
+25.1	न	NEG	
+25.2	चुकाई	VM	
+25.3	गई	VAUX	
+25.4	किस्तों	NN	
+25.5	को	PSP	
+	))
+26	((	JJP	
+26.1	वसूल	JJ	
+	))
+27	((	VGNN	
+27.1	करने	VM	
+27.2	का	PSP	
+	))
+28	((	NP	
+28.1	दायित्व	NN	
+	))
+29	((	NP	
+29.1	सरकार	NN	
+29.2	ने	PSP	
+	))
+30	((	NP	
+30.1	स्वयं	PRP	
+	))
+31	((	NP	
+31.1	पर	PSP	
+	))
+32	((	VGF	
+32.1	लिया	VM	
+32.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	(	SYM	
+1.2	इइ	SYM	
+1.3	)	SYM	
+	))
+2	((	NP	
+2.1	सरकार	NN	
+2.2	ने	PSP	
+	))
+3	((	NP	
+3.1	मुआवज़ा	NN	
+	))
+4	((	VGNF	
+4.1	देकर	VM	
+	))
+5	((	NP	
+5.1	स्वामित्त्व	NN	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	अधिकार	NN	
+	))
+7	((	JJP	
+7.1	प्राप्त	JJ	
+	))
+8	((	VGF	
+8.1	कर	VM	
+8.2	लिये	VAUX	
+	))
+9	((	CCP	
+9.1	और	CC	
+	))
+10	((	NP	
+10.1	काश्तकारों	NN	
+10.2	को	PSP	
+	))
+11	((	NP	
+11.1	भूमि	NN	
+11.2	का	PSP	
+	))
+12	((	NP	
+12.1	मालिक	NN	
+	))
+13	((	VGF	
+13.1	बना	VM	
+13.2	दिया	VAUX	
+13.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	तत्पश्चात्	CC	
+	))
+2	((	NP	
+2.1	उचित	JJ	
+2.2	किस्तों	NN	
+2.3	में	PSP	
+	))
+3	((	NP	
+3.1	मुआवज़ा	NN	
+	))
+4	((	VGF	
+4.1	वसूल	VM	
+4.2	करने	VAUX	
+4.3	की	PSP	
+	))
+5	((	NP	
+5.1	व्यवस्था	NN	
+	))
+6	((	VGF	
+6.1	की	VM	
+6.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	(	SYM	
+1.2	इइइ	SYM	
+1.3	)	SYM	
+	))
+2	((	NP	
+2.1	सरकार	NN	
+2.2	नें	PSP	
+	))
+3	((	NP	
+3.1	भू	XC	
+3.2	-	SYM	
+3.3	स्वामियों	NN	
+3.4	के	PSP	
+	))
+4	((	NP	
+4.1	अधिकार	NN	
+	))
+5	((	JJP	
+5.1	प्राप्त	JJ	
+	))
+6	((	VGF	
+6.1	कर	VM	
+6.2	काश्तकारों	NN	
+6.3	से	PSP	
+	))
+7	((	NP	
+7.1	प्रत्यक्ष	JJ	
+	))
+8	((	NP	
+8.1	अधिकार	NN	
+	))
+9	((	JJP	
+9.1	प्राप्त	JJ	
+	))
+10	((	VGF	
+10.1	कर	VM	
+10.2	लिये	VAUX	
+10.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	काश्तकारों	NN	
+1.2	को	PSP	
+	))
+2	((	NP	
+2.1	यह	DEM	
+	))
+3	((	NP	
+3.1	छूट	NN	
+	))
+4	((	VGF	
+4.1	दी	VM	
+4.2	गई	VAUX	
+	))
+5	((	CCP	
+5.1	कि	CC	
+	))
+6	((	NP	
+6.1	वे	PRP	
+	))
+7	((	NP	
+7.1	सरकार	NN	
+7.2	को	PSP	
+	))
+8	((	NP	
+8.1	उचित	JJ	
+8.2	लगान	NN	
+	))
+9	((	VGNF	
+9.1	देकर	VM	
+	))
+10	((	NP	
+10.1	पूर्व	NST	
+	))
+11	((	NP	
+11.1	की	PSP	
+	))
+12	((	NP	
+12.1	भाँति	PSP	
+	))
+13	((	NP	
+13.1	अपना	PRP	
+	))
+14	((	NP	
+14.1	कार्य	NN	
+	))
+15	((	JJP	
+15.1	ज़ारी	JJ	
+	))
+16	((	VGF	
+16.1	रखें	VM	
+	))
+17	((	CCP	
+17.1	और	CC	
+	))
+18	((	JJP	
+18.1	निर्धारित	JJ	
+	))
+19	((	NP	
+19.1	मुआवज़ा	NN	
+	))
+20	((	VGNF	
+20.1	देकर	VM	
+	))
+21	((	NP	
+21.1	भूमि	NN	
+21.2	के	PSP	
+	))
+22	((	NP	
+22.1	पूर्ण	JJ	
+	))
+23	((	NP	
+23.1	मालिक	NN	
+	))
+24	((	VGF	
+24.1	बन	VM	
+24.2	गये	VAUX	
+24.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सभी	QF	
+1.2	राज्यों	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	काश्तकारों	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	लिये	PSP	
+	))
+4	((	NP	
+4.1	भू	XC	
+4.2	-	SYM	
+	))
+5	((	NP	
+5.1	धारण	NN	
+	))
+6	((	NP	
+6.1	की	PSP	
+	))
+7	((	NP	
+7.1	सुरक्षा	NN	
+7.2	करने	VM	
+7.3	वाले	PSP	
+	))
+8	((	NP	
+8.1	कानून	NN	
+	))
+9	((	VGNN	
+9.1	बनाये	VM	
+9.2	जाने	VAUX	
+9.3	के	PSP	
+	))
+10	((	NP	
+10.1	परिणामस्वरूप	NN	
+	))
+11	((	NP	
+11.1	लगभग	RP	
+11.2	80	QC	
+11.3	लाख	NN	
+11.4	काश्तकारों	NN	
+11.5	,	SYM	
+	))
+12	((	NP	
+12.1	बँटाईदारों	NN	
+12.2	को	PSP	
+	))
+13	((	NP	
+13.1	स्वामित्त्व	NN	
+13.2	के	PSP	
+	))
+14	((	NP	
+14.1	अधिकार	NN	
+	))
+15	((	JJP	
+15.1	प्राप्त	JJ	
+	))
+16	((	VGF	
+16.1	हुये	VM	
+16.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	अब	PRP	
+	))
+2	((	NP	
+2.1	तक	RP	
+	))
+3	((	NP	
+3.1	की	PSP	
+	))
+4	((	NP	
+4.1	प्रगति	NN	
+	))
+5	((	NP	
+5.1	का	PSP	
+	))
+6	((	NP	
+6.1	मूल्यांकन	NN	
+	))
+7	((	VGF	
+7.1	करते	VM	
+7.2	हुये	VAUX	
+	))
+8	((	NP	
+8.1	काश्तकारी	NN	
+	))
+9	((	NP	
+9.1	सुधारों	NN	
+9.2	के	PSP	
+	))
+10	((	NP	
+10.1	संबंध	NN	
+	))
+11	((	NP	
+11.1	में	PSP	
+	))
+12	((	NP	
+12.1	सरकार	NN	
+12.2	निम्न	JJ	
+12.3	तीन	QC	
+12.4	दिशाओं	NN	
+12.5	में	PSP	
+	))
+13	((	NP	
+13.1	कुछ	QF	
+13.2	और	JJ	
+13.3	कदम	NN	
+	))
+14	((	VGNN	
+14.1	उठाने	VM	
+14.2	को	PSP	
+	))
+15	((	VGF	
+15.1	सोच	VM	
+15.2	रही	VAUX	
+15.3	है	VAUX	
+15.4	:	SYM	
+	))
+16	((	NP	
+16.1	--	SYM	
+	))
+17	((	NP	
+17.1	(	SYM	
+17.2	इ	SYM	
+17.3	)	SYM	
+	))
+18	((	NP	
+18.1	कृषिगत	NN	
+	))
+19	((	NP	
+19.1	भूमि	NN	
+19.2	को	PSP	
+	))
+20	((	NP	
+20.1	ग़ैर	JJ	
+20.2	कृषकों	NN	
+20.3	के	PSP	
+	))
+21	((	NP	
+21.1	हाथों	NN	
+21.2	में	PSP	
+	))
+22	((	VGNN	
+22.1	जाने	VM	
+22.2	पर	PSP	
+	))
+23	((	RBP	
+23.1	तुरन्त	RB	
+	))
+24	((	NP	
+24.1	रोक	NN	
+24.2	लगाई	VM	
+24.3	जाये	VAUX	
+24.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	(	SYM	
+1.2	इइ	SYM	
+1.3	)	SYM	
+	))
+2	((	JJP	
+2.1	विशिष्ट	JJ	
+	))
+3	((	NP	
+3.1	श्रेणियों	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	अतिरिक्त	PSP	
+	))
+5	((	NP	
+5.1	भूमि	NN	
+5.2	को	PSP	
+	))
+6	((	NP	
+6.1	लीज़	NN	
+6.2	पर	PSP	
+	))
+7	((	VGNN	
+7.1	देने	VM	
+7.2	की	PSP	
+	))
+8	((	NP	
+8.1	व्यवस्था	NN	
+	))
+9	((	VGF	
+9.1	रोकी	VM	
+9.2	जाये	VAUX	
+9.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	(	SYM	
+1.2	इइइ	SYM	
+1.3	)	SYM	
+	))
+2	((	NP	
+2.1	कुछ	QF	
+2.2	राज्यों	NN	
+2.3	में	PSP	
+	))
+3	((	NP	
+3.1	जहाँ	PRP	
+	))
+4	((	NP	
+4.1	काफी	QF	
+4.2	भूमि	NN	
+4.3	धार्मिक	JJ	
+4.4	संस्थानों	NN	
+4.5	के	PSP	
+	))
+5	((	NP	
+5.1	आधिपत्य	NN	
+5.2	में	PSP	
+	))
+6	((	VGF	
+6.1	है	VM	
+6.2	,	SYM	
+	))
+7	((	NP	
+7.1	इन	DEM	
+7.2	संस्थाओं	NN	
+7.3	के	PSP	
+	))
+8	((	NP	
+8.1	लिये	PSP	
+	))
+9	((	NP	
+9.1	आय	NN	
+9.2	की	PSP	
+	))
+10	((	NP	
+10.1	उचित	JJ	
+10.2	व्यवस्था	NN	
+	))
+11	((	VGNN	
+11.1	करने	VM	
+11.2	के	PSP	
+	))
+12	((	NP	
+12.1	बाद	NST	
+	))
+13	((	NP	
+13.1	इनकी	PRP	
+13.2	भूमि	NN	
+13.3	पर	PSP	
+	))
+14	((	NP	
+14.1	काश्तकारों	NN	
+14.2	को	PSP	
+	))
+15	((	NP	
+15.1	भू	XC	
+15.2	-	SYM	
+15.3	स्वामित्व	XC	
+	))
+16	((	NP	
+16.1	अधिकार	NN	
+	))
+17	((	VGNN	
+17.1	देने	VM	
+17.2	की	PSP	
+	))
+18	((	NP	
+18.1	व्यवस्था	NN	
+	))
+19	((	VGF	
+19.1	की	VM	
+19.2	जाये	VAUX	
+19.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सीमा	XC	
+1.2	निर्धारण	NN	
+1.3	योजनाबद्ध	JJ	
+	))
+2	((	NP	
+2.1	विकास	NN	
+	))
+3	((	NP	
+3.1	के	PSP	
+	))
+4	((	NP	
+4.1	संदर्भ	NN	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	भूमि	XC	
+5.2	सुधारों	NN	
+5.3	की	PSP	
+	))
+6	((	NP	
+6.1	प्रगति	NN	
+	))
+7	((	NP	
+7.1	के	PSP	
+	))
+8	((	NP	
+8.1	साथ	NST	
+	))
+9	((	NP	
+9.1	-	SYM	
+9.2	साथ	RDP	
+	))
+10	((	NP	
+10.1	कुछ	QF	
+10.2	नये	JJ	
+	))
+11	((	NP	
+11.1	प्रश्न	NN	
+	))
+12	((	NP	
+12.1	भी	RP	
+	))
+13	((	JJP	
+13.1	उपस्थित	JJ	
+	))
+14	((	VGF	
+14.1	हुये	VM	
+14.2	हैं	VAUX	
+14.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इनमें	PRP	
+	))
+2	((	NP	
+2.1	एक	QC	
+2.2	दिलचस्प	JJ	
+	))
+3	((	NP	
+3.1	प्रश्न	NN	
+	))
+4	((	VGF	
+4.1	है	VM	
+4.2	भूमि	NN	
+4.3	की	PSP	
+	))
+5	((	NP	
+5.1	सीमा	XC	
+5.2	निर्धारण	NN	
+5.3	का	PSP	
+	))
+6	((	NP	
+6.1	जिस	PRP	
+	))
+7	((	NP	
+7.1	पर	PSP	
+	))
+8	((	NP	
+8.1	द्वितीय	QO	
+8.2	योजना	NN	
+8.3	से	PSP	
+	))
+9	((	NP	
+9.1	ही	RP	
+	))
+10	((	NP	
+10.1	बल	NN	
+	))
+11	((	VGF	
+11.1	दिया	VM	
+11.2	जा	VAUX	
+11.3	रहा	VAUX	
+11.4	है	VAUX	
+11.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सीमा	XC	
+1.2	निर्धारण	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	साथ	NST	
+	))
+3	((	NP	
+3.1	-	SYM	
+3.2	साथ	RDP	
+	))
+4	((	NP	
+4.1	भूमिहीनों	NN	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	भूमि	NN	
+5.2	का	PSP	
+	))
+6	((	NP	
+6.1	वितरण	NN	
+	))
+7	((	NP	
+7.1	भी	RP	
+	))
+8	((	NP	
+8.1	समान	JJ	
+8.2	रुप	NN	
+8.3	से	PSP	
+	))
+9	((	NP	
+9.1	महत्वपूर्ण	JJ	
+9.2	है	VM	
+9.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	"	SYM	
+1.2	सीमा	XC	
+1.3	निर्धारण	NN	
+1.4	"	SYM	
+1.5	शब्द	NN	
+1.6	के	PSP	
+	))
+2	((	NP	
+2.1	अन्तर्गत	PSP	
+	))
+3	((	NP	
+3.1	"	SYM	
+3.2	पारिवारिक	XC	
+3.3	जोत	NN	
+3.4	"	SYM	
+3.5	का	PSP	
+	))
+4	((	NP	
+4.1	तिगुना	QF	
+	))
+5	((	JJP	
+5.1	निश्चित	JJ	
+	))
+6	((	VGNN	
+6.1	करने	VM	
+6.2	का	PSP	
+	))
+7	((	NP	
+7.1	सुझाव	NN	
+	))
+8	((	VGF	
+8.1	दिया	VM	
+8.2	गया	VAUX	
+8.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यहाँ	PRP	
+	))
+2	((	NP	
+2.1	पारिवारिक	XC	
+2.2	जोत	NN	
+2.3	का	PSP	
+	))
+3	((	NP	
+3.1	अर्थ	NN	
+	))
+4	((	NP	
+4.1	एक	QC	
+4.2	औसत	JJ	
+4.3	परिवार	NN	
+4.4	द्वारा	PSP	
+	))
+5	((	NP	
+5.1	पुराने	JJ	
+5.2	औज़ारों	NN	
+5.3	की	PSP	
+	))
+6	((	NP	
+6.1	सहायता	NN	
+	))
+7	((	NP	
+7.1	से	PSP	
+	))
+8	((	NP	
+8.1	जितनी	QF	
+8.2	भूमि	NN	
+8.3	में	PSP	
+	))
+9	((	NP	
+9.1	साधारण	JJ	
+9.2	ढंग	NN	
+9.3	से	PSP	
+	))
+10	((	NP	
+10.1	खेती	NN	
+10.2	कर	VM	
+10.3	सकने	VAUX	
+10.4	वाली	PSP	
+	))
+11	((	NP	
+11.1	भूमि	NN	
+11.2	की	PSP	
+	))
+12	((	NP	
+12.1	मात्रा	NN	
+12.2	से	PSP	
+	))
+13	((	VGF	
+13.1	है	VM	
+13.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सीमा	XC	
+1.2	निर्धारण	XC	
+1.3	कानून	XC	
+1.4	1950	NNP	
+1.5	-	SYM	
+1.6	60	NNP	
+1.7	के	PSP	
+	))
+2	((	NP	
+2.1	दशकों	NN	
+2.2	में	PSP	
+	))
+3	((	VGF	
+3.1	बने	VM	
+	))
+4	((	CCP	
+4.1	और	CC	
+	))
+5	((	NP	
+5.1	1972	NNP	
+5.2	में	PSP	
+	))
+6	((	NP	
+6.1	राष्ट्रीय	JJ	
+6.2	निर्देश	NN	
+	))
+7	((	VGNN	
+7.1	बनाये	VM	
+7.2	गये	VAUX	
+	))
+8	((	CCP	
+8.1	और	CC	
+	))
+9	((	NP	
+9.1	इनके	PRP	
+	))
+10	((	NP	
+10.1	अन्तर्गत	PSP	
+	))
+11	((	NP	
+11.1	29.7	XC	
+11.2	लाख	QC	
+11.3	हेक्टेयर	NN	
+	))
+12	((	NP	
+12.1	भूमि	NN	
+12.2	का	PSP	
+	))
+13	((	NP	
+13.1	अधिग्रहण	NN	
+	))
+14	((	VGF	
+14.1	किया	VM	
+14.2	गया	VAUX	
+	))
+15	((	CCP	
+15.1	तथा	CC	
+	))
+16	((	NP	
+16.1	18.2	XC	
+16.2	लाख	QC	
+16.3	हेक्टेयर	NN	
+	))
+17	((	NP	
+17.1	भूमि	NN	
+17.2	33.7	XC	
+17.3	लाख	QC	
+17.4	लोगों	NN	
+17.5	में	PSP	
+	))
+18	((	JJP	
+18.1	पुनर्वितरित	JJ	
+	))
+19	((	VGF	
+19.1	की	VM	
+19.2	गई	VAUX	
+19.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	11.5	XC	
+1.2	लाख	QC	
+1.3	हेक्टेयर	NN	
+	))
+2	((	NP	
+2.1	ऐसी	DEM	
+2.2	अतिरिक्त	JJ	
+2.3	भूमि	NN	
+2.4	का	PSP	
+	))
+3	((	NP	
+3.1	वितरण	NN	
+	))
+4	((	VGF	
+4.1	नहीं	NEG	
+4.2	किया	VM	
+4.3	जा	VAUX	
+4.4	सका	VAUX	
+4.5	,	SYM	
+	))
+5	((	NP	
+5.1	उसमें	PRP	
+	))
+6	((	NP	
+6.1	से	PSP	
+	))
+7	((	NP	
+7.1	6.6	XC	
+7.2	लाख	QC	
+7.3	हेक्टेयर	NN	
+	))
+8	((	NP	
+8.1	तो	RP	
+	))
+9	((	JJP	
+9.1	विवादग्रस्त	JJ	
+	))
+10	((	VGF	
+10.1	है	VM	
+10.2	,	SYM	
+	))
+11	((	NP	
+11.1	3.5	XC	
+11.2	लाख	QC	
+11.3	हेक्टेयर	NN	
+	))
+12	((	NP	
+12.1	विशेष	JJ	
+12.2	कार्यों	NN	
+12.3	के	PSP	
+	))
+13	((	NP	
+13.1	लिये	PSP	
+	))
+14	((	JJP	
+14.1	आरक्षित	JJ	
+	))
+15	((	VGF	
+15.1	की	VM	
+15.2	गई	VAUX	
+	))
+16	((	CCP	
+16.1	तथा	CC	
+	))
+17	((	NP	
+17.1	1.1	XC	
+17.2	लाख	QC	
+17.3	हेक्टेयर	NN	
+	))
+18	((	NP	
+18.1	कृषि	NN	
+	))
+19	((	JJP	
+19.1	योग्य	JJ	
+	))
+20	((	VGF	
+20.1	नहीं	NEG	
+20.2	पाई	VM	
+20.3	गई	VAUX	
+20.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	भू	XC	
+1.2	-	SYM	
+1.3	दान	NN	
+1.4	के	PSP	
+	))
+2	((	NP	
+2.1	अन्तर्गत	PSP	
+	))
+3	((	JJP	
+3.1	प्राप्त	JJ	
+	))
+4	((	NP	
+4.1	16.8	QC	
+4.2	हेक्टेयर	NN	
+4.3	भूमि	NN	
+4.4	में	PSP	
+	))
+5	((	NP	
+5.1	से	PSP	
+	))
+6	((	NP	
+6.1	5.2	XC	
+6.2	लाख	QC	
+6.3	हेक्टेयर	NN	
+	))
+7	((	NP	
+7.1	का	PSP	
+	))
+8	((	NP	
+8.1	ही	RP	
+	))
+9	((	NP	
+9.1	वितरण	NN	
+	))
+10	((	VGF	
+10.1	किया	VM	
+10.2	जा	VAUX	
+10.3	सका	VAUX	
+10.4	है	VAUX	
+10.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सीमा	XC	
+1.2	निर्धारण	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	दो	QC	
+2.2	पहलू	NN	
+	))
+3	((	VGF	
+3.1	है	VM	
+3.2	-	SYM	
+3.3	अ.	SYM	
+3.4	भावी	JJ	
+3.5	जोतों	NN	
+3.6	पर	PSP	
+	))
+4	((	NP	
+4.1	सीमा	NN	
+4.2	-	SYM	
+4.3	इसके	PRP	
+4.4	अर्न्तगत	PSP	
+	))
+5	((	NP	
+5.1	यह	PRP	
+	))
+6	((	JJP	
+6.1	निश्चित	JJ	
+	))
+7	((	VGF	
+7.1	किया	VM	
+7.2	गया	VAUX	
+	))
+8	((	CCP	
+8.1	कि	CC	
+	))
+9	((	NP	
+9.1	भविष्य	NN	
+9.2	में	PSP	
+	))
+10	((	NP	
+10.1	एक	QC	
+10.2	व्यक्ति	NN	
+	))
+11	((	NP	
+11.1	अधिकाधिक	QF	
+11.2	कितनी	WQ	
+11.3	भूमि	NN	
+	))
+12	((	JJP	
+12.1	प्राप्त	JJ	
+	))
+13	((	VGF	
+13.1	कर	VM	
+13.2	सकेगा	VAUX	
+13.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	विभिन्न	JJ	
+1.2	राज्यों	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	भावी	JJ	
+2.2	जोतों	NN	
+2.3	पर	PSP	
+	))
+3	((	NP	
+3.1	सीमा	NN	
+	))
+4	((	JJP	
+4.1	निर्धारित	JJ	
+	))
+5	((	VGF	
+5.1	की	VM	
+5.2	गई	VAUX	
+5.3	है	VAUX	
+5.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	ब	SYM	
+1.2	.	SYM	
+1.3	वर्तमान	JJ	
+1.4	जोतों	NN	
+1.5	पर	PSP	
+	))
+2	((	NP	
+2.1	--	SYM	
+	))
+3	((	NP	
+3.1	वर्तमान	JJ	
+3.2	जोतों	NN	
+3.3	पर	PSP	
+	))
+4	((	NP	
+4.1	सीमा	XC	
+4.2	निर्धारण	NN	
+4.3	अधिक	INTF	
+4.4	कठिन	JJ	
+	))
+5	((	VGF	
+5.1	है	VM	
+5.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	विभिन्न	JJ	
+1.2	राज्यों	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	सीमा	XC	
+2.2	निर्धारण	NN	
+2.3	के	PSP	
+	))
+3	((	NP	
+3.1	नियम	NN	
+	))
+4	((	JJP	
+4.1	लागू	JJ	
+	))
+5	((	VGF	
+5.1	किये	VM	
+5.2	जा	VAUX	
+5.3	चुके	VAUX	
+5.4	हैं	VAUX	
+5.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	असम	NNP	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	6.74	XC	
+2.2	लाख	QC	
+2.3	हेक्टेयर	NN	
+2.4	,	SYM	
+	))
+3	((	NP	
+3.1	पश्चिमी	XC	
+3.2	बंगाल	NNP	
+3.3	में	PSP	
+	))
+4	((	NP	
+4.1	5.7	XC	
+4.2	लाख	QC	
+4.3	हेक्टेयर	NN	
+	))
+5	((	CCP	
+5.1	तथा	CC	
+	))
+6	((	NP	
+6.1	राजस्थान	NNP	
+6.2	में	PSP	
+	))
+7	((	NP	
+7.1	7.25	QC	
+7.2	से	PSP	
+	))
+8	((	NP	
+8.1	21.85	XC	
+8.2	लाख	QC	
+8.3	हेक्टेयर	NN	
+	))
+9	((	NP	
+9.1	के	PSP	
+	))
+10	((	NP	
+10.1	बीच	NST	
+	))
+11	((	JJP	
+11.1	निर्धारित	JJ	
+	))
+12	((	VGF	
+12.1	की	VM	
+12.2	गई	VAUX	
+12.3	है	VAUX	
+12.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सीलिंग	NN	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	ऊपर	NST	
+	))
+3	((	NP	
+3.1	की	PSP	
+	))
+4	((	NP	
+4.1	भूमि	NN	
+4.2	राज्य	XC	
+4.3	सरकारें	NN	
+	))
+5	((	NP	
+5.1	अपने	PRP	
+	))
+6	((	NP	
+6.1	अधिकार	NN	
+	))
+7	((	NP	
+7.1	में	PSP	
+	))
+8	((	VGF	
+8.1	ले	VM	
+8.2	लेती	VAUX	
+8.3	हैं	VAUX	
+	))
+9	((	CCP	
+9.1	तथा	CC	
+	))
+10	((	NP	
+10.1	इस	DEM	
+10.2	प्रकार	NN	
+10.3	की	PSP	
+	))
+11	((	NP	
+11.1	अतिरिक्त	JJ	
+11.2	भूमि	NN	
+11.3	पर	PSP	
+	))
+12	((	NP	
+12.1	भूमिहीन	JJ	
+12.2	किसानों	NN	
+	))
+13	((	CCP	
+13.1	व	CC	
+	))
+14	((	NP	
+14.1	लघु	JJ	
+14.2	कृषकों	NN	
+14.3	को	PSP	
+	))
+15	((	VGF	
+15.1	बसाने	VM	
+15.2	का	PSP	
+	))
+16	((	NP	
+16.1	कार्यक्रम	NN	
+	))
+17	((	VGF	
+17.1	रखा	VM	
+17.2	जाता	VAUX	
+17.3	है	VAUX	
+17.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	भारत	NNP	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	असमान	JJ	
+	))
+3	((	NP	
+3.1	वितरण	NN	
+	))
+4	((	NP	
+4.1	की	PSP	
+	))
+5	((	NP	
+5.1	समस्या	NN	
+5.2	को	PSP	
+	))
+6	((	NP	
+6.1	हल	NN	
+6.2	करने	VM	
+6.3	,	SYM	
+	))
+7	((	NP	
+7.1	छोटी	JJ	
+7.2	जोतों	NN	
+7.3	पर	PSP	
+	))
+8	((	NP	
+8.1	रोज़गार	NN	
+8.2	की	PSP	
+	))
+9	((	NP	
+9.1	मात्रा	NN	
+9.2	बढ़ाने	VM	
+9.3	,	SYM	
+	))
+10	((	NP	
+10.1	भूमिहीनों	NN	
+10.2	में	PSP	
+	))
+11	((	NP	
+11.1	भूमि	NN	
+11.2	का	PSP	
+	))
+12	((	NP	
+12.1	वितरण	NN	
+	))
+13	((	VGNN	
+13.1	करने	VM	
+13.2	,	PSP	
+	))
+14	((	NP	
+14.1	श्रम	NN	
+14.2	को	PSP	
+	))
+15	((	NP	
+15.1	अनुकूलतम	JJ	
+15.2	रूप	NN	
+15.3	से	PSP	
+	))
+16	((	NP	
+16.1	प्रयोग	NN	
+	))
+17	((	NP	
+17.1	में	PSP	
+	))
+18	((	VGNN	
+18.1	लाने	VM	
+18.2	,	SYM	
+	))
+19	((	NP	
+19.1	सामुदायिक	JJ	
+	))
+20	((	NP	
+20.1	विकास	NN	
+	))
+21	((	CCP	
+21.1	व	CC	
+	))
+22	((	NP	
+22.1	ग्राम	XC	
+22.2	पंचायतों	NN	
+22.3	की	PSP	
+	))
+23	((	NP	
+23.1	प्रगति	NN	
+	))
+24	((	NP	
+24.1	को	PSP	
+	))
+25	((	NP	
+25.1	बढ़ावा	NN	
+	))
+26	((	VGNN	
+26.1	देने	VM	
+	))
+27	((	CCP	
+27.1	एवं	CC	
+	))
+28	((	NP	
+28.1	भूमि	NN	
+28.2	का	PSP	
+	))
+29	((	NP	
+29.1	संकेन्द्रण	NN	
+	))
+30	((	JJP	
+30.1	कम	QF	
+	))
+31	((	VGNN	
+31.1	करने	VM	
+31.2	के	PSP	
+	))
+32	((	NP	
+32.1	दृष्टिकोण	NN	
+32.2	से	PSP	
+	))
+33	((	NP	
+33.1	सीमा	XC	
+33.2	निर्धारण	NN	
+33.3	को	PSP	
+	))
+34	((	NP	
+34.1	सभी	PRP	
+	))
+35	((	NP	
+35.1	ने	PSP	
+	))
+36	((	NP	
+36.1	उचित	JJ	
+36.2	ठहराया	VM	
+36.3	है	VAUX	
+36.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस	DEM	
+1.2	हेतु	NN	
+	))
+2	((	NP	
+2.1	जिनको	PRP	
+	))
+3	((	NP	
+3.1	सीमा	NN	
+3.2	से	PSP	
+	))
+4	((	NP	
+4.1	अधिक	QF	
+4.2	भूमि	NN	
+	))
+5	((	JJP	
+5.1	पुनर्वितरित	JJ	
+	))
+6	((	VGF	
+6.1	की	VM	
+6.2	जाती	VAUX	
+6.3	है	VAUX	
+6.4	,	SYM	
+	))
+7	((	NP	
+7.1	उनको	PRP	
+	))
+8	((	NP	
+8.1	2,500	QC	
+8.2	रुपये	NN	
+8.3	प्रति	RP	
+8.4	हेक्टेयर	NN	
+	))
+9	((	NP	
+9.1	की	PSP	
+	))
+10	((	NP	
+10.1	वित्तीय	JJ	
+	))
+11	((	NP	
+11.1	सहायता	NN	
+	))
+12	((	VGNN	
+12.1	देने	VM	
+12.2	का	PSP	
+	))
+13	((	NP	
+13.1	प्रावधान	NN	
+	))
+14	((	VGF	
+14.1	किया	VM	
+14.2	गया	VAUX	
+14.3	है	VAUX	
+14.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	छठी	QO	
+1.2	योजना	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	इसके	PRP	
+2.2	लिये	PSP	
+	))
+3	((	NP	
+3.1	25.07	XC	
+3.2	करोड़	QC	
+3.3	रुपये	NN	
+	))
+4	((	NP	
+4.1	की	PSP	
+	))
+5	((	NP	
+5.1	राशि	NN	
+	))
+6	((	NP	
+6.1	राज्यों	NN	
+6.2	द्वारा	PSP	
+	))
+7	((	JJP	
+7.1	वितरित	JJ	
+	))
+8	((	VGF	
+8.1	की	VM	
+8.2	गई	VAUX	
+8.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सातवीं	QO	
+1.2	योजना	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	इस	DEM	
+	))
+3	((	NP	
+3.1	कार्य	NN	
+	))
+4	((	NP	
+4.1	के	PSP	
+	))
+5	((	NP	
+5.1	लिये	PSP	
+	))
+6	((	NP	
+6.1	36.71	XC	
+6.2	करोड़	QC	
+6.3	रुपये	NN	
+	))
+7	((	NP	
+7.1	की	PSP	
+	))
+8	((	NP	
+8.1	व्यवस्था	NN	
+	))
+9	((	VGF	
+9.1	की	VM	
+9.2	गई	VAUX	
+9.3	है	VAUX	
+9.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	अनेक	JJ	
+1.2	कारणों	NN	
+1.3	से	PSP	
+	))
+2	((	NP	
+2.1	सीमा	XC	
+2.2	निर्धारण	NN	
+2.3	का	PSP	
+	))
+3	((	NP	
+3.1	मामला	NN	
+	))
+4	((	NP	
+4.1	व्यावहारिक	JJ	
+	))
+5	((	NP	
+5.1	जटिलता	NN	
+	))
+6	((	JJP	
+6.1	उत्पन्न	JJ	
+	))
+7	((	VGF	
+7.1	हो	VM	
+7.2	जाने	VAUX	
+7.3	से	PSP	
+	))
+8	((	NP	
+8.1	इसको	PRP	
+	))
+9	((	JJP	
+9.1	लागू	JJ	
+	))
+10	((	VGNN	
+10.1	करने	VM	
+10.2	में	PSP	
+	))
+11	((	NP	
+11.1	काफी	QF	
+11.2	कठिनाइयाँ	NN	
+	))
+12	((	VGF	
+12.1	आ	VM	
+12.2	रही	VAUX	
+12.3	हैं	VAUX	
+12.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	फलस्वरूप	NN	
+	))
+2	((	NP	
+2.1	अतिरिक्त	JJ	
+2.2	भूमि	NN	
+2.3	की	PSP	
+	))
+3	((	NP	
+3.1	मात्रा	NN	
+	))
+4	((	NP	
+4.1	लक्ष्य	NN	
+	))
+5	((	NP	
+5.1	से	PSP	
+	))
+6	((	JJP	
+6.1	कम	QF	
+	))
+7	((	VGF	
+7.1	मिली	VM	
+7.2	है	VAUX	
+7.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	द्वितीय	QO	
+1.2	कृषि	XC	
+	))
+2	((	NP	
+2.1	संगणना	NN	
+	))
+3	((	NP	
+3.1	1976-77	NNP	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	अनुसार	PSP	
+	))
+5	((	NP	
+5.1	अतिरिक्त	JJ	
+5.2	भूमि	NN	
+5.3	की	PSP	
+	))
+6	((	NP	
+6.1	मात्रा	NN	
+6.2	88.84	QC	
+6.3	होनी	VM	
+6.4	चाहिये	VAUX	
+6.5	थी	VAUX	
+6.6	,	SYM	
+	))
+7	((	CCP	
+7.1	जबकि	CC	
+	))
+8	((	NP	
+8.1	राज्यों	NN	
+8.2	द्वारा	PSP	
+	))
+9	((	NP	
+9.1	29.7	XC	
+9.2	लाख	QC	
+9.3	हेक्टेयर	NN	
+	))
+10	((	NP	
+10.1	भूमि	NN	
+10.2	को	PSP	
+	))
+11	((	NP	
+11.1	अतिरिक्त	JJ	
+	))
+12	((	JJP	
+12.1	घोषित	JJ	
+	))
+13	((	VGF	
+13.1	किया	VM	
+13.2	गया	VAUX	
+13.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	लक्ष्य	NN	
+	))
+2	((	CCP	
+2.1	तथा	CC	
+	))
+3	((	NP	
+3.1	प्राप्ति	NN	
+3.2	के	PSP	
+	))
+4	((	NP	
+4.1	इस	DEM	
+4.2	अन्तर	NN	
+	))
+5	((	NP	
+5.1	का	PSP	
+	))
+6	((	NP	
+6.1	प्रमुख	JJ	
+	))
+7	((	NP	
+7.1	कारण	NN	
+	))
+8	((	NP	
+8.1	भूमि	NN	
+8.2	का	PSP	
+	))
+9	((	NP	
+9.1	बेनामी	JJ	
+	))
+10	((	NP	
+10.1	हस्तांतरण	NN	
+	))
+11	((	VGF	
+11.1	है	VM	
+11.2	,	SYM	
+	))
+12	((	NP	
+12.1	जिसे	PRP	
+	))
+13	((	VGF	
+13.1	न	NEG	
+13.2	रोक	VM	
+13.3	पाने	VAUX	
+13.4	की	PSP	
+	))
+14	((	NP	
+14.1	स्थिति	NN	
+14.2	में	PSP	
+	))
+15	((	NP	
+15.1	ऐसा	PRP	
+	))
+16	((	VGF	
+16.1	हुआ	VM	
+16.2	है	VAUX	
+16.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	कृषि	NN	
+1.2	का	PSP	
+	))
+2	((	NP	
+2.1	पुनर्गठन	NN	
+2.2	कृषि	XC	
+2.3	पुनर्गठन	NN	
+2.4	के	PSP	
+	))
+3	((	NP	
+3.1	अर्न्तगत	PSP	
+	))
+4	((	NP	
+4.1	चकबन्दी	XC	
+4.2	भूमि	NN	
+4.3	के	PSP	
+	))
+5	((	NP	
+5.1	प्रबन्ध	NN	
+	))
+6	((	NP	
+6.1	में	PSP	
+	))
+7	((	NP	
+7.1	सुधार	NN	
+	))
+8	((	VGF	
+8.1	,	SYM	
+	))
+9	((	NP	
+9.1	सहकारी	XC	
+9.2	खेती	NN	
+	))
+10	((	CCP	
+10.1	तथा	CC	
+	))
+11	((	NP	
+11.1	भूमिहीन	JJ	
+11.2	मज़दूरों	NN	
+11.3	को	PSP	
+	))
+12	((	VGF	
+12.1	बसाना	VM	
+	))
+13	((	CCP	
+13.1	एवं	CC	
+	))
+14	((	NP	
+14.1	भू	XC	
+14.2	-	SYM	
+14.3	भूदान	XC	
+14.4	कार्यक्रम	NN	
+	))
+15	((	NP	
+15.1	प्रमुख	JJ	
+15.2	रूप	NN	
+15.3	से	PSP	
+	))
+16	((	JJP	
+16.1	सम्मिलित	JJ	
+	))
+17	((	VGF	
+17.1	किये	VM	
+17.2	जाते	VAUX	
+17.3	हैं	VAUX	
+17.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	भूमि	NN	
+1.2	के	PSP	
+	))
+2	((	VGF	
+2.1	बिखरे	VM	
+2.2	हुये	VAUX	
+2.3	छोटे	JJ	
+2.4	-	SYM	
+2.5	छोटे	RDP	
+2.6	टुकड़ों	NN	
+2.7	को	PSP	
+	))
+3	((	NP	
+3.1	एक	QC	
+3.2	जगह	NN	
+	))
+4	((	JJP	
+4.1	समेकित	JJ	
+	))
+5	((	VGF	
+5.1	करना	VM	
+5.2	चकबन्दी	NN	
+5.3	कहलाता	VM	
+5.4	है	VAUX	
+5.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	अब	PRP	
+	))
+2	((	NP	
+2.1	तक	RP	
+	))
+3	((	NP	
+3.1	विभिन्न	JJ	
+3.2	राज्य	NN	
+3.3	में	PSP	
+	))
+4	((	NP	
+4.1	चकबन्दी	XC	
+4.2	अधिनियम	NN	
+	))
+5	((	JJP	
+5.1	पारित	JJ	
+	))
+6	((	VGF	
+6.1	कर	VM	
+6.2	5.26	XC	
+6.3	करोड़	QC	
+6.4	हेक्टेयर	NN	
+	))
+7	((	NP	
+7.1	भूमि	NN	
+7.2	की	PSP	
+	))
+8	((	NP	
+8.1	चकबन्दी	NN	
+8.2	की	VM	
+8.3	जा	VAUX	
+8.4	चुकी	VAUX	
+8.5	है	VAUX	
+8.6	,	SYM	
+	))
+9	((	NP	
+9.1	जो	PRP	
+	))
+10	((	NP	
+10.1	कुल	QF	
+10.2	कृषिगत	NN	
+10.3	भूमि	NN	
+10.4	का	PSP	
+	))
+11	((	NP	
+11.1	लगभग	RP	
+11.2	33	QC	
+11.3	%	SYM	
+11.4	है	VM	
+11.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	उत्तर	XC	
+1.2	प्रदेश	NNP	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	पंजाब	NNP	
+	))
+3	((	CCP	
+3.1	व	CC	
+	))
+4	((	NP	
+4.1	हरियाणा	NNP	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	चकबन्दी	NN	
+5.2	का	PSP	
+	))
+6	((	NP	
+6.1	कार्य	NN	
+	))
+7	((	RBP	
+7.1	लगभग	RB	
+	))
+8	((	JJP	
+8.1	पूरा	JJ	
+	))
+9	((	VGF	
+9.1	किया	VM	
+9.2	जा	VAUX	
+9.3	चुका	VAUX	
+9.4	है	VAUX	
+9.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	अन्य	JJ	
+1.2	राज्यों	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	इसकी	PRP	
+2.2	प्रगति	NN	
+	))
+3	((	NP	
+3.1	धीमी	JJ	
+3.2	रही	VM	
+3.3	है	VAUX	
+3.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	भूमि	XC	
+1.2	सुधार	NN	
+	))
+2	((	NP	
+2.1	की	PSP	
+	))
+3	((	NP	
+3.1	इस	DEM	
+3.2	पद्धति	NN	
+3.3	का	PSP	
+	))
+4	((	NP	
+4.1	विपरीत	JJ	
+4.2	परिणाम	NN	
+	))
+5	((	NP	
+5.1	यह	PRP	
+	))
+6	((	VGF	
+6.1	हुआ	VM	
+6.2	है	VAUX	
+6.3	,	SYM	
+	))
+7	((	CCP	
+7.1	कि	CC	
+	))
+8	((	NP	
+8.1	इससे	PRP	
+	))
+9	((	NP	
+9.1	काश्तकारों	NN	
+	))
+10	((	CCP	
+10.1	व	CC	
+	))
+11	((	NP	
+11.1	बँटाईदारों	NN	
+11.2	को	PSP	
+	))
+12	((	NP	
+12.1	हानि	NN	
+	))
+13	((	VGF	
+13.1	हुई	VM	
+13.2	है	VAUX	
+13.3	,	SYM	
+	))
+14	((	CCP	
+14.1	क्योंकि	CC	
+	))
+15	((	NP	
+15.1	भू	XC	
+15.2	-	SYM	
+15.3	स्वामी	NN	
+	))
+16	((	NP	
+16.1	बड़े	JJ	
+16.2	खेतों	NN	
+16.3	पर	PSP	
+	))
+17	((	NP	
+17.1	स्वयं	PRP	
+	))
+18	((	NP	
+18.1	खेती	NN	
+18.2	करने	VM	
+18.3	लगे	VAUX	
+18.4	हैं	VAUX	
+18.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	अनेक	JJ	
+1.2	राज्यों	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	भूमि	NN	
+2.2	की	PSP	
+	))
+3	((	NP	
+3.1	न्यूनतम	JJ	
+3.2	सीमा	NN	
+	))
+4	((	JJP	
+4.1	निर्धारित	JJ	
+	))
+5	((	VGF	
+5.1	कर	VM	
+5.2	दी	VAUX	
+5.3	गई	VAUX	
+5.4	है	VAUX	
+	))
+6	((	NP	
+6.1	जिससे	PRP	
+	))
+7	((	JJP	
+7.1	कम	QF	
+	))
+8	((	NP	
+8.1	भूमि	XC	
+8.2	क्षेत्र	NN	
+8.3	का	PSP	
+	))
+9	((	NP	
+9.1	विभाजन	NN	
+9.2	नहीं	NEG	
+9.3	किया	VM	
+9.4	जा	VAUX	
+9.5	सकता	VAUX	
+9.6	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	चकबन्दी	NN	
+1.2	से	PSP	
+	))
+2	((	NP	
+2.1	भूमि	NN	
+2.2	की	PSP	
+	))
+3	((	NP	
+3.1	उत्पादकता	NN	
+3.2	में	PSP	
+	))
+4	((	NP	
+4.1	सुधार	NN	
+	))
+5	((	VGF	
+5.1	हुआ	VM	
+5.2	है	VAUX	
+5.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	भूमिगत	JJ	
+1.2	जल	NN	
+	))
+2	((	CCP	
+2.1	व	CC	
+	))
+3	((	NP	
+3.1	उन्नत	JJ	
+3.2	तकनीक	NN	
+3.3	का	PSP	
+	))
+4	((	NP	
+4.1	उचित	JJ	
+	))
+5	((	NP	
+5.1	लाभ	NN	
+	))
+6	((	JJP	
+6.1	प्राप्त	JJ	
+	))
+7	((	VGNN	
+7.1	करने	VM	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	दृष्टिकोण	NN	
+8.2	से	PSP	
+	))
+9	((	NP	
+9.1	छोटे	JJ	
+9.2	किसानों	NN	
+9.3	को	PSP	
+	))
+10	((	NP	
+10.1	एक	QC	
+10.2	साथ	NST	
+	))
+11	((	NP	
+11.1	चक	NN	
+	))
+12	((	VGF	
+12.1	दिये	VM	
+12.2	जाने	VAUX	
+12.3	के	PSP	
+	))
+13	((	NP	
+13.1	प्रयत्न	NN	
+	))
+14	((	VGF	
+14.1	किये	VM	
+14.2	जा	VAUX	
+14.3	रहे	VAUX	
+14.4	हैं	VAUX	
+14.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	एक	QC	
+1.2	बार	RP	
+	))
+2	((	NP	
+2.1	चकबन्दी	NN	
+2.2	की	VM	
+2.3	गई	VAUX	
+2.4	ज़मीन	NN	
+2.5	को	PSP	
+	))
+3	((	RBP	
+3.1	पुन	RB	
+	))
+4	((	JJP	
+4.1	विभाजित	JJ	
+	))
+5	((	VGNN	
+5.1	होने	VM	
+5.2	से	PSP	
+	))
+6	((	VGNN	
+6.1	रोकने	VM	
+6.2	के	PSP	
+	))
+7	((	NP	
+7.1	कानूनी	JJ	
+7.2	उपायों	NN	
+7.3	पर	PSP	
+	))
+8	((	NP	
+8.1	भी	RP	
+	))
+9	((	NP	
+9.1	विचार	NN	
+	))
+10	((	VGF	
+10.1	किया	VM	
+10.2	जा	VAUX	
+10.3	रहा	VAUX	
+10.4	है	VAUX	
+10.5	,	SYM	
+	))
+11	((	CCP	
+11.1	ताकि	CC	
+	))
+12	((	NP	
+12.1	देखभाल	NN	
+12.2	भी	RP	
+	))
+13	((	NP	
+13.1	अच्छी	JJ	
+13.2	हो	VM	
+	))
+14	((	CCP	
+14.1	और	CC	
+	))
+15	((	NP	
+15.1	उत्पादन	XC	
+15.2	लागत	NN	
+	))
+16	((	NP	
+16.1	भी	RP	
+	))
+17	((	JJP	
+17.1	कम	QF	
+	))
+18	((	VGF	
+18.1	आये	VM	
+18.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	परिचालन	XC	
+1.2	जोतों	NN	
+1.3	पर	PSP	
+	))
+2	((	NP	
+2.1	विहंगम	JJ	
+	))
+3	((	NP	
+3.1	दृष्टिपात	NN	
+	))
+4	((	VGNN	
+4.1	करने	VM	
+4.2	पर	PSP	
+	))
+5	((	JJP	
+5.1	विदित	JJ	
+	))
+6	((	VGF	
+6.1	होगा	VM	
+	))
+7	((	CCP	
+7.1	कि	CC	
+	))
+8	((	NP	
+8.1	1961	QC	
+8.2	से	PSP	
+	))
+9	((	NP	
+9.1	1981	QC	
+9.2	के	PSP	
+	))
+10	((	NP	
+10.1	बीच	NST	
+	))
+11	((	NP	
+11.1	औसत	JJ	
+11.2	जोतों	NN	
+11.3	का	PSP	
+	))
+12	((	NP	
+12.1	क्षेत्रफल	NN	
+	))
+13	((	NP	
+13.1	2.63	QC	
+13.2	हेक्टेयर	NN	
+13.3	से	PSP	
+	))
+14	((	VGF	
+14.1	घटकर	VM	
+14.2	1.82	QC	
+14.3	हेक्टेयर	NN	
+14.4	ही	RP	
+	))
+15	((	VGF	
+15.1	रह	VM	
+15.2	गया	VAUX	
+15.3	,	SYM	
+	))
+16	((	CCP	
+16.1	जबकि	CC	
+	))
+17	((	NP	
+17.1	200	QC	
+17.2	हेक्टेयर	NN	
+17.3	की	PSP	
+	))
+18	((	NP	
+18.1	जोतों	NN	
+18.2	का	PSP	
+	))
+19	((	NP	
+19.1	अनुपात	NN	
+19.2	61.69	QC	
+19.3	%	SYM	
+19.4	से	PSP	
+	))
+20	((	VGNF	
+20.1	बढ़कर	VM	
+	))
+21	((	NP	
+21.1	74.5	QC	
+21.2	%	SYM	
+21.3	हो	VM	
+21.4	गया	VAUX	
+21.5	है	VAUX	
+21.6	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	विभिन्न	JJ	
+1.2	कारणों	NN	
+1.3	से	PSP	
+	))
+2	((	NP	
+2.1	भूमि	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	वितरण	NN	
+	))
+4	((	NP	
+4.1	के	PSP	
+	))
+5	((	NP	
+5.1	साथ	NST	
+	))
+6	((	NP	
+6.1	-	SYM	
+6.2	साथ	RDP	
+	))
+7	((	NP	
+7.1	लोगों	NN	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	गरीब	JJ	
+8.2	होने	VM	
+8.3	के	PSP	
+	))
+9	((	NP	
+9.1	कारण	PSP	
+	))
+10	((	NP	
+10.1	सीमांतीकरण	NN	
+	))
+11	((	VGF	
+11.1	हुआ	VM	
+11.2	है	VAUX	
+11.3	?डट	VAUX	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	दूसरी	QO	
+1.2	ओर	PSP	
+	))
+2	((	NP	
+2.1	1.3	XC	
+2.2	करोड़	QF	
+2.3	हेक्टेयर	NN	
+	))
+3	((	NP	
+3.1	भूमि	NN	
+3.2	का	PSP	
+	))
+4	((	NP	
+4.1	बेनामी	JJ	
+	))
+5	((	CCP	
+5.1	या	CC	
+	))
+6	((	NP	
+6.1	फर्जी	JJ	
+	))
+7	((	NP	
+7.1	हस्तांतरण	NN	
+	))
+8	((	VGF	
+8.1	हुआ	VM	
+8.2	है	VAUX	
+8.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	कुछ	QF	
+1.2	कारणों	NN	
+1.3	से	PSP	
+	))
+2	((	NP	
+2.1	अतिरिक्त	JJ	
+	))
+3	((	JJP	
+3.1	घोषित	JJ	
+	))
+4	((	NP	
+4.1	भूमि	NN	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	अर्न्तगत	PSP	
+	))
+6	((	NP	
+6.1	क्षेत्रफल	NN	
+6.2	कृषि	XC	
+	))
+7	((	NP	
+7.1	गणना	NN	
+	))
+8	((	NP	
+8.1	के	PSP	
+	))
+9	((	NP	
+9.1	अनुसार	PSP	
+	))
+10	((	NP	
+10.1	अतिरिक्त	JJ	
+10.2	निकल	VM	
+10.3	रहे	VAUX	
+10.4	क्षेत्रफल	NN	
+10.5	से	PSP	
+	))
+11	((	JJP	
+11.1	बहुत	INTF	
+	))
+12	((	JJP	
+12.1	कम	JJ	
+	))
+13	((	VGF	
+13.1	आता	VM	
+13.2	है	VAUX	
+13.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	1980	NNP	
+1.2	की	PSP	
+	))
+2	((	NP	
+2.1	कृषि	XC	
+	))
+3	((	NP	
+3.1	गणना	NN	
+	))
+4	((	NP	
+4.1	के	PSP	
+	))
+5	((	NP	
+5.1	आँकड़ों	NN	
+5.2	के	PSP	
+	))
+6	((	NP	
+6.1	अनुसार	PSP	
+	))
+7	((	NP	
+7.1	अतिरिक्त	JJ	
+7.2	भूमि	NN	
+7.3	595	XC	
+7.4	लाख	QC	
+7.5	हेक्टेयर	NN	
+	))
+8	((	VGF	
+8.1	आती	VM	
+8.2	है	VAUX	
+8.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस	DEM	
+1.2	सब	QF	
+1.3	स्थिति	NN	
+1.4	के	PSP	
+	))
+2	((	NP	
+2.1	परिप्रेक्ष्य	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	चकबन्दी	NN	
+3.2	से	PSP	
+	))
+4	((	NP	
+4.1	फसलों	NN	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	प्रारुप	NN	
+5.2	में	PSP	
+	))
+6	((	NP	
+6.1	परिवर्तन	NN	
+	))
+7	((	VGF	
+7.1	हुआ	VM	
+7.2	है	VAUX	
+7.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	व्यापारिक	JJ	
+1.2	फसलों	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	वृद्धि	NN	
+	))
+3	((	NP	
+3.1	से	PSP	
+	))
+4	((	NP	
+4.1	किसानों	NN	
+4.2	की	PSP	
+	))
+5	((	NP	
+5.1	आय	NN	
+5.2	बढ़ी	VM	
+5.3	है	VAUX	
+5.4	,	SYM	
+	))
+6	((	NP	
+6.1	निजी	JJ	
+6.2	तौर	NN	
+6.3	पर	PSP	
+	))
+7	((	NP	
+7.1	सिंचाई	NN	
+7.2	का	PSP	
+	))
+8	((	NP	
+8.1	विस्तार	NN	
+	))
+9	((	VGF	
+9.1	हुआ	VM	
+9.2	है	VAUX	
+9.3	,	SYM	
+	))
+10	((	CCP	
+10.1	तथा	CC	
+	))
+11	((	NP	
+11.1	कृषि	XC	
+11.2	उत्पादन	NN	
+11.3	की	PSP	
+	))
+12	((	NP	
+12.1	लागत	NN	
+	))
+13	((	NP	
+13.1	भी	RP	
+	))
+14	((	VGF	
+14.1	घटी	VM	
+14.2	है	VAUX	
+14.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	भूमि	XC	
+1.2	प्रबंधन	NN	
+1.3	के	PSP	
+	))
+2	((	NP	
+2.1	अर्न्तगत	PSP	
+	))
+3	((	NP	
+3.1	बंजर	JJ	
+3.2	भूमि	NN	
+3.3	का	PSP	
+	))
+4	((	NP	
+4.1	उपयोग	NN	
+	))
+5	((	VGF	
+5.1	,	SYM	
+	))
+6	((	VGF	
+6.1	सुधारे	VM	
+6.2	हुये	VAUX	
+6.3	बीजों	NN	
+	))
+7	((	CCP	
+7.1	तथा	CC	
+	))
+8	((	NP	
+8.1	कीटनाशक	XC	
+8.2	दवाइयों	NN	
+8.3	का	PSP	
+	))
+9	((	NP	
+9.1	प्रयोग	NN	
+	))
+10	((	NP	
+10.1	प्रमुख	JJ	
+10.2	रूप	NN	
+10.3	से	PSP	
+	))
+11	((	JJP	
+11.1	शामिल	JJ	
+	))
+12	((	VGF	
+12.1	किये	VM	
+12.2	जाते	VAUX	
+12.3	हैं	VAUX	
+12.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	प्रथम	QO	
+1.2	दो	QC	
+1.3	पंचवर्षीय	XC	
+1.4	योजनाओं	NN	
+1.5	में	PSP	
+	))
+2	((	NP	
+2.1	इस	PRP	
+2.2	ओर	NST	
+	))
+3	((	NP	
+3.1	पर्याप्त	QF	
+	))
+4	((	NP	
+4.1	बल	NN	
+	))
+5	((	VGF	
+5.1	दिया	VM	
+5.2	गया	VAUX	
+5.3	था	VAUX	
+	))
+6	((	CCP	
+6.1	कि	CC	
+	))
+7	((	NP	
+7.1	सर्वप्रथम	NN	
+	))
+8	((	NP	
+8.1	भूमि	NN	
+8.2	का	PSP	
+	))
+9	((	NP	
+9.1	कुशल	JJ	
+9.2	प्रबंधन	NN	
+	))
+10	((	CCP	
+10.1	व	CC	
+	))
+11	((	NP	
+11.1	प्रयोग	NN	
+	))
+12	((	NP	
+12.1	उन	DEM	
+12.2	क्षेत्रों	NN	
+12.3	में	PSP	
+	))
+13	((	VGF	
+13.1	किया	VM	
+13.2	जाना	VAUX	
+13.3	चाहिये	VAUX	
+	))
+14	((	NP	
+14.1	जहाँ	PRP	
+	))
+15	((	NP	
+15.1	इसके	PRP	
+15.2	लिये	PSP	
+	))
+16	((	NP	
+16.1	अनुकूल	JJ	
+16.2	परिस्थितियाँ	NN	
+	))
+17	((	VGF	
+17.1	हों	VM	
+17.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	वर्तमान	JJ	
+1.2	स्थिति	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	भूमि	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	छोटे	JJ	
+3.2	-	SYM	
+3.3	छोटे	RDP	
+3.4	टुकड़ों	NN	
+3.5	को	PSP	
+	))
+4	((	VGNF	
+4.1	मिलाकर	VM	
+	))
+5	((	NP	
+5.1	संयुक्त	JJ	
+5.2	खेती	NN	
+5.3	करना	VM	
+	))
+6	((	NP	
+6.1	हमारी	PRP	
+	))
+7	((	NP	
+7.1	अर्थव्यवस्था	NN	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	लिये	PSP	
+	))
+9	((	JJP	
+9.1	अत्यन्त	INTF	
+9.2	उपयोगी	NN	
+	))
+10	((	JJP	
+10.1	साबित	JJ	
+	))
+11	((	VGF	
+11.1	हो	VM	
+11.2	सकता	VAUX	
+11.3	है	VAUX	
+11.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सरकार	NN	
+1.2	ने	PSP	
+	))
+2	((	NP	
+2.1	ऐच्छिक	XC	
+2.2	सहकारी	XC	
+2.3	खेती	NN	
+2.4	को	PSP	
+	))
+3	((	NP	
+3.1	बढ़ावा	NN	
+	))
+4	((	VGNN	
+4.1	देने	VM	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	लिये	PSP	
+	))
+6	((	NP	
+6.1	वित्तीय	JJ	
+	))
+7	((	NP	
+7.1	सहायता	NN	
+	))
+8	((	VGF	
+8.1	,	SYM	
+	))
+9	((	NP	
+9.1	लगान	NN	
+	))
+10	((	CCP	
+10.1	एवं	CC	
+	))
+11	((	NP	
+11.1	आय	XC	
+11.2	कर	NN	
+11.3	में	PSP	
+	))
+12	((	NP	
+12.1	रियायतें	NN	
+12.2	भी	RP	
+	))
+13	((	VGF	
+13.1	दी	VM	
+13.2	हैं	VAUX	
+13.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	यह	PRP	
+	))
+2	((	VGNN	
+2.1	देखने	VM	
+2.2	में	PSP	
+	))
+3	((	VGF	
+3.1	आया	VM	
+3.2	है	VAUX	
+3.3	,	SYM	
+	))
+4	((	CCP	
+4.1	कि	CC	
+	))
+5	((	NP	
+5.1	आजकल	NN	
+	))
+6	((	NP	
+6.1	भारत	NNP	
+6.2	में	PSP	
+	))
+7	((	NP	
+7.1	संयुक्त	JJ	
+7.2	कृषि	NN	
+7.3	का	PSP	
+	))
+8	((	NP	
+8.1	प्रयास	NN	
+	))
+9	((	JJP	
+9.1	कम	QF	
+	))
+10	((	VGF	
+10.1	हो	VM	
+10.2	गया	VAUX	
+10.3	है	VAUX	
+10.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	CCP	
+1.1	शायद	CC	
+	))
+2	((	NP	
+2.1	कृषिगत	JJ	
+	))
+3	((	NP	
+3.1	विकास	NN	
+	))
+4	((	NP	
+4.1	नीति	NN	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	इस	PRP	
+5.2	पर	PSP	
+	))
+6	((	JJP	
+6.1	आवश्यक	JJ	
+	))
+7	((	NP	
+7.1	बल	NN	
+	))
+8	((	VGF	
+8.1	नहीं	NEG	
+8.2	दिया	VM	
+8.3	गया	VAUX	
+8.4	है	VAUX	
+8.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	1951	NNP	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	भू	XC	
+2.2	-	XC	
+2.3	दान	XC	
+2.4	आन्दोलन	NNP	
+2.5	,	SYM	
+	))
+3	((	NP	
+3.1	भूमिहीन	JJ	
+3.2	मज़दूरों	NN	
+3.3	को	PSP	
+	))
+4	((	VGF	
+4.1	बसाने	VM	
+4.2	के	PSP	
+	))
+5	((	NP	
+5.1	लिये	PSP	
+	))
+6	((	NP	
+6.1	आरम्भ	NN	
+	))
+7	((	VGF	
+7.1	किया	VM	
+7.2	गया	VAUX	
+7.3	था	VAUX	
+7.4	,	SYM	
+	))
+8	((	NP	
+8.1	जिसके	PRP	
+8.2	अन्तर्गत	PSP	
+	))
+9	((	NP	
+9.1	प्रत्येक	QF	
+9.2	भू	XC	
+9.3	-	SYM	
+9.4	स्वामी	NN	
+	))
+10	((	NP	
+10.1	से	PSP	
+	))
+11	((	NP	
+11.1	उसकी	PRP	
+	))
+12	((	NP	
+12.1	इच्छा	NN	
+	))
+13	((	NP	
+13.1	से	PSP	
+	))
+14	((	BLK	
+14.1	1	QC	
+	))
+15	((	BLK	
+15.1	/	SYM	
+	))
+16	((	NP	
+16.1	6	QC	
+16.2	भूमि	NN	
+	))
+17	((	NP	
+17.1	दान	NN	
+	))
+18	((	NP	
+18.1	में	PSP	
+	))
+19	((	VGF	
+19.1	मांगी	VM	
+19.2	गई	VAUX	
+19.3	थी	VAUX	
+19.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	बाद	NST	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	यह	DEM	
+2.2	आन्दोलन	NN	
+2.3	ग्राम	XC	
+2.4	-	SYM	
+2.5	दान	NN	
+2.6	में	PSP	
+	))
+3	((	JJP	
+3.1	परिवर्तित	JJ	
+	))
+4	((	VGF	
+4.1	हुआ	VM	
+4.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	1952	NST	
+1.2	में	PSP	
+	))
+2	((	NP	
+2.1	श्री	XC	
+2.2	विनोबा	XC	
+2.3	भावे	NNP	
+2.4	द्वारा	PSP	
+	))
+3	((	NP	
+3.1	बिहार	NNP	
+3.2	में	PSP	
+	))
+4	((	NP	
+4.1	पद	XC	
+4.2	यात्रा	NN	
+4.3	कर	VM	
+4.4	8.4	XC	
+4.5	लाख	QC	
+4.6	हेक्टेयर	NN	
+	))
+5	((	NP	
+5.1	भूमि	NN	
+	))
+6	((	JJP	
+6.1	प्राप्त	JJ	
+	))
+7	((	VGNN	
+7.1	करने	VM	
+7.2	के	PSP	
+	))
+8	((	NP	
+8.1	फलस्वरूप	NN	
+	))
+9	((	NP	
+9.1	इस	DEM	
+9.2	आन्दोलन	NN	
+9.3	को	PSP	
+	))
+10	((	NP	
+10.1	गति	NN	
+	))
+11	((	VGF	
+11.1	मिली	VM	
+	))
+12	((	CCP	
+12.1	और	CC	
+	))
+13	((	NP	
+13.1	अब	PRP	
+	))
+14	((	NP	
+14.1	तक	RP	
+	))
+15	((	NP	
+15.1	इसमें	PRP	
+	))
+16	((	NP	
+16.1	42	XC	
+16.2	लाख	QC	
+16.3	हेक्टेयर	NN	
+	))
+17	((	NP	
+17.1	भूमि	NN	
+	))
+18	((	JJP	
+18.1	प्राप्त	JJ	
+	))
+19	((	VGF	
+19.1	की	VM	
+19.2	जा	VAUX	
+19.3	चुकी	VAUX	
+19.4	है	VAUX	
+	))
+20	((	NP	
+20.1	जिसमें	PRP	
+	))
+21	((	NP	
+21.1	से	PSP	
+	))
+22	((	NP	
+22.1	13	XC	
+22.2	लाख	QC	
+22.3	हेक्टेयर	NN	
+	))
+23	((	NP	
+23.1	भूमि	NN	
+23.2	का	PSP	
+	))
+24	((	NP	
+24.1	भूमिहीनों	NN	
+24.2	में	PSP	
+	))
+25	((	NP	
+25.1	आवंटन	NN	
+	))
+26	((	VGF	
+26.1	किया	VM	
+26.2	जा	VAUX	
+26.3	चुका	VAUX	
+26.4	है	VAUX	
+26.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	भू	XC	
+1.2	-	SYM	
+1.3	दान	NN	
+	))
+2	((	CCP	
+2.1	व	CC	
+	))
+3	((	NP	
+3.1	ग्राम	XC	
+3.2	-	SYM	
+3.3	दान	XC	
+3.4	आन्दोलन	NN	
+3.5	,	SYM	
+	))
+4	((	NP	
+4.1	जो	PRP	
+	))
+5	((	NP	
+5.1	अहिंसक	XC	
+5.2	क्रान्ति	NNP	
+5.3	का	PSP	
+	))
+6	((	NP	
+6.1	मार्ग	NN	
+6.2	है	VM	
+6.3	,	SYM	
+	))
+7	((	NP	
+7.1	ने	PSP	
+	))
+8	((	NP	
+8.1	भूमि	XC	
+8.2	सुधार	NN	
+	))
+9	((	NP	
+9.1	के	PSP	
+	))
+10	((	NP	
+10.1	लिये	PSP	
+	))
+11	((	CCP	
+11.1	और	CC	
+	))
+12	((	RBP	
+12.1	विशेषतया	RB	
+	))
+13	((	NP	
+13.1	सहकारी	XC	
+13.2	ग्राम	XC	
+13.3	प्रबंधन	NN	
+13.4	के	PSP	
+	))
+14	((	NP	
+14.1	लिये	PSP	
+	))
+15	((	NP	
+15.1	अनुकूल	JJ	
+15.2	वातावरण	NN	
+	))
+16	((	JJP	
+16.1	तैयार	JJ	
+	))
+17	((	VGF	
+17.1	किया	VM	
+17.2	है	VAUX	
+17.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	भूमि	XC	
+1.2	सुधारों	NN	
+1.3	का	PSP	
+	))
+2	((	NP	
+2.1	मूल्यांकन	NN	
+	))
+3	((	CCP	
+3.1	यद्यपि	CC	
+	))
+4	((	NP	
+4.1	योजनाकाल	NN	
+4.2	में	PSP	
+	))
+5	((	NP	
+5.1	भूमि	XC	
+5.2	सुधार	NN	
+	))
+6	((	NP	
+6.1	संबंधी	JJ	
+6.2	कानूनों	NN	
+6.3	की	PSP	
+	))
+7	((	NP	
+7.1	बाढ़	NN	
+7.2	ही	RP	
+	))
+8	((	VGF	
+8.1	आ	VM	
+8.2	गई	VAUX	
+8.3	,	SYM	
+	))
+9	((	CCP	
+9.1	लेकिन	CC	
+	))
+10	((	NP	
+10.1	इनके	PRP	
+	))
+11	((	NP	
+11.1	आशातीत	JJ	
+11.2	परिणाम	NN	
+	))
+12	((	VGF	
+12.1	नहीं	NEG	
+12.2	मिले	VM	
+12.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	कानूनों	NN	
+1.2	पर	PSP	
+	))
+2	((	NP	
+2.1	पूरी	JJ	
+2.2	तरह	NN	
+	))
+3	((	NP	
+3.1	अमल	NN	
+3.2	नहीं	NEG	
+3.3	हो	VM	
+3.4	पाया	VAUX	
+3.5	है	VAUX	
+3.6	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	कानूनों	NN	
+1.2	में	PSP	
+	))
+2	((	RBP	
+2.1	कहीं	RB	
+	))
+3	((	NP	
+3.1	-	SYM	
+3.2	कहीं	RDP	
+	))
+4	((	NP	
+4.1	ऐसे	DEM	
+	))
+5	((	NP	
+5.1	छिद्र	NN	
+	))
+6	((	VGF	
+6.1	छोड़	VM	
+6.2	दिये	VAUX	
+	))
+7	((	NP	
+7.1	जिनका	PRP	
+	))
+8	((	NP	
+8.1	उपयोग	NN	
+	))
+9	((	NP	
+9.1	निहित	JJ	
+9.2	स्वार्थी	JJ	
+9.3	वर्ग	NN	
+	))
+10	((	NP	
+10.1	ने	PSP	
+	))
+11	((	NP	
+11.1	अपनी	PRP	
+11.2	स्थिति	NN	
+	))
+12	((	JJP	
+12.1	मज़बूत	JJ	
+	))
+13	((	VGNN	
+13.1	करने	VM	
+13.2	में	PSP	
+	))
+14	((	VGF	
+14.1	किया	VM	
+	))
+15	((	CCP	
+15.1	और	CC	
+	))
+16	((	NP	
+16.1	कानूनों	NN	
+16.2	को	PSP	
+	))
+17	((	NP	
+17.1	अदालतों	NN	
+17.2	में	PSP	
+	))
+18	((	NP	
+18.1	चुनौती	NN	
+	))
+19	((	NP	
+19.1	भी	RP	
+	))
+20	((	VGF	
+20.1	दी	VM	
+20.2	गई	VAUX	
+20.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	भूमि	XC	
+1.2	सुधारों	NN	
+1.3	की	PSP	
+	))
+2	((	NP	
+2.1	धीमी	JJ	
+	))
+3	((	NP	
+3.1	गति	NN	
+	))
+4	((	NP	
+4.1	के	PSP	
+	))
+5	((	NP	
+5.1	लिये	PSP	
+	))
+6	((	NP	
+6.1	जाली	JJ	
+6.2	कृषि	XC	
+6.3	सहकारी	XC	
+6.4	साख	XC	
+6.5	समितियाँ	NN	
+6.6	,	SYM	
+	))
+7	((	NP	
+7.1	सीमा	XC	
+7.2	निर्धारण	NN	
+7.3	के	PSP	
+	))
+8	((	NP	
+8.1	क्रियान्वयन	NN	
+8.2	में	PSP	
+	))
+9	((	NP	
+9.1	देरी	NN	
+9.2	,	SYM	
+	))
+10	((	NP	
+10.1	उँचे	JJ	
+10.2	लगान	NN	
+	))
+11	((	CCP	
+11.1	तथा	CC	
+	))
+12	((	NP	
+12.1	भूमि	XC	
+	))
+13	((	NP	
+13.1	वितरण	NN	
+	))
+14	((	NP	
+14.1	में	PSP	
+	))
+15	((	NP	
+15.1	परिवर्तन	NN	
+	))
+16	((	NP	
+16.1	का	PSP	
+	))
+17	((	NP	
+17.1	अभाव	NN	
+17.2	जैसे	RP	
+	))
+18	((	NP	
+18.1	तत्व	NN	
+	))
+19	((	JJP	
+19.1	उत्तरदायी	JJ	
+	))
+20	((	VGF	
+20.1	ठहराये	VM	
+20.2	जा	VAUX	
+20.3	सकते	VAUX	
+20.4	हैं	VAUX	
+20.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	भूमि	XC	
+1.2	सुधारों	NN	
+1.3	को	PSP	
+	))
+2	((	NP	
+2.1	तीव्र	JJ	
+	))
+3	((	NP	
+3.1	गति	NN	
+	))
+4	((	NP	
+4.1	से	PSP	
+	))
+5	((	JJP	
+5.1	क्रियान्वित	JJ	
+	))
+6	((	VGNN	
+6.1	करने	VM	
+6.2	के	PSP	
+	))
+7	((	NP	
+7.1	लिये	PSP	
+	))
+8	((	NP	
+8.1	यह	PRP	
+	))
+9	((	JJP	
+9.1	आवश्यक	JJ	
+	))
+10	((	VGF	
+10.1	है	VM	
+	))
+11	((	CCP	
+11.1	कि	CC	
+	))
+12	((	NP	
+12.1	भूमि	NN	
+12.2	के	PSP	
+	))
+13	((	NP	
+13.1	नवीनतम	JJ	
+13.2	रिकार्ड	NN	
+	))
+14	((	RBP	
+14.1	अविलम्ब	RB	
+	))
+15	((	JJP	
+15.1	तैयार	JJ	
+	))
+16	((	VGF	
+16.1	किये	VM	
+16.2	जाये	VAUX	
+16.3	,	SYM	
+	))
+17	((	NP	
+17.1	कुशल	JJ	
+17.2	प्रशासनिक	XC	
+17.3	मशीनरी	NN	
+17.4	की	PSP	
+	))
+18	((	NP	
+18.1	स्थापना	NN	
+	))
+19	((	NP	
+19.1	की	PSP	
+	))
+20	((	VGF	
+20.1	जाये	VM	
+	))
+21	((	CCP	
+21.1	तथा	CC	
+	))
+22	((	JJP	
+22.1	आवश्यक	JJ	
+	))
+23	((	NP	
+23.1	वित्तीय	XC	
+23.2	व्यवस्था	NN	
+	))
+24	((	VGF	
+24.1	की	VM	
+24.2	जाये	VAUX	
+24.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इसके	PRP	
+1.2	अतिरिक्त	PSP	
+	))
+2	((	NP	
+2.1	ऐसी	DEM	
+2.2	भूमि	XC	
+	))
+3	((	NP	
+3.1	अदालतें	NN	
+	))
+4	((	JJP	
+4.1	स्थापित	JJ	
+	))
+5	((	VGF	
+5.1	की	VM	
+5.2	जायें	VAUX	
+	))
+6	((	CCP	
+6.1	जो	CC	
+	))
+7	((	NP	
+7.1	गरीबों	NN	
+7.2	को	PSP	
+	))
+8	((	RBP	
+8.1	जल्दी	RB	
+	))
+9	((	NP	
+9.1	न्याय	NN	
+	))
+10	((	VGF	
+10.1	दिला	VM	
+10.2	सकें	VAUX	
+10.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	खेतिहर	JJ	
+1.2	श्रमिकों	NN	
+1.3	,	SYM	
+	))
+2	((	NP	
+2.1	काश्तकारों	NN	
+2.2	,	SYM	
+	))
+3	((	NP	
+3.1	बँटाईदारों	NN	
+3.2	,	SYM	
+	))
+4	((	NP	
+4.1	के	PSP	
+	))
+5	((	NP	
+5.1	संगठन	NN	
+	))
+6	((	JJP	
+6.1	स्थापित	JJ	
+	))
+7	((	VGNF	
+7.1	करके	VM	
+	))
+8	((	NP	
+8.1	भी	RP	
+	))
+9	((	NP	
+9.1	भूमि	XC	
+9.2	सुधारों	NN	
+9.3	को	PSP	
+	))
+10	((	NP	
+10.1	तीव्र	JJ	
+	))
+11	((	NP	
+11.1	गति	NN	
+	))
+12	((	NP	
+12.1	से	PSP	
+	))
+13	((	JJP	
+13.1	लागू	JJ	
+	))
+14	((	VGF	
+14.1	किया	VM	
+14.2	जा	VAUX	
+14.3	सकता	VAUX	
+14.4	है	VAUX	
+14.5	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	सातवीं	QO	
+1.2	योजना	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	भूमि	XC	
+2.2	सुधार	NN	
+	))
+3	((	NP	
+3.1	कार्यक्रमों	NN	
+3.2	को	PSP	
+	))
+4	((	NP	
+4.1	गरीबी	XC	
+4.2	उन्मूलन	XC	
+4.3	नीति	NN	
+	))
+5	((	CCP	
+5.1	व	CC	
+	))
+6	((	NP	
+6.1	कार्यक्रम	NN	
+	))
+7	((	NP	
+7.1	का	PSP	
+	))
+8	((	JJP	
+8.1	आवश्यक	JJ	
+	))
+9	((	NP	
+9.1	अंग	NN	
+	))
+10	((	VGF	
+10.1	माना	VM	
+10.2	गया	VAUX	
+10.3	है	VAUX	
+10.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	इस	DEM	
+1.2	योजना	NN	
+1.3	में	PSP	
+	))
+2	((	NP	
+2.1	भूमि	XC	
+2.2	सुधार	NN	
+	))
+3	((	NP	
+3.1	कार्यक्रमों	NN	
+3.2	में	PSP	
+	))
+4	((	NP	
+4.1	निम्न	JJ	
+4.2	बातों	NN	
+4.3	पर	PSP	
+	))
+5	((	NP	
+5.1	ज़ोर	NN	
+	))
+6	((	VGF	
+6.1	दिया	VM	
+6.2	गया	VAUX	
+6.3	है	VAUX	
+6.4	-	VAUX	
+	))
+7	((	BLK	
+7.1	1.	QC	
+	))
+8	((	NP	
+8.1	राज्यों	NN	
+8.2	से	PSP	
+	))
+9	((	VGF	
+9.1	कहा	VM	
+9.2	गया	VAUX	
+9.3	है	VAUX	
+	))
+10	((	CCP	
+10.1	कि	CC	
+	))
+11	((	NP	
+11.1	कानून	NN	
+	))
+12	((	NP	
+12.1	की	PSP	
+	))
+13	((	NP	
+13.1	कमियों	NN	
+13.2	को	PSP	
+	))
+14	((	NP	
+14.1	दूर	NST	
+	))
+15	((	VGF	
+15.1	करें	VM	
+	))
+16	((	CCP	
+16.1	और	CC	
+	))
+17	((	NP	
+17.1	भूमि	XC	
+17.2	सुधार	XC	
+17.3	उपायों	NN	
+17.4	का	PSP	
+	))
+18	((	NP	
+18.1	पुरज़ोर	JJ	
+18.2	तरीके	NN	
+18.3	से	PSP	
+	))
+19	((	NP	
+19.1	कार्यान्वयन	NN	
+	))
+20	((	VGF	
+20.1	करें	VM	
+20.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NP	
+1.1	जिन	DEM	
+1.2	राज्यों	NN	
+1.3	ने	PSP	
+	))
+2	((	NP	
+2.1	कानून	NN	
+	))
+3	((	VGF	
+3.1	नहीं	NEG	
+3.2	बनायें	VM	
+3.3	हैं	VAUX	
+3.4	,	SYM	
+	))
+4	((	NP	
+4.1	वे	PRP	
+	))
+5	((	NP	
+5.1	इस	DEM	
+5.2	योजना	NN	
+5.3	में	PSP	
+	))
+6	((	NP	
+6.1	कानून	NN	
+	))
+7	((	VGF	
+7.1	बनायें	VM	
+7.2	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	2.	QC	
+	))
+2	((	NP	
+2.1	जोतों	NN	
+2.2	की	PSP	
+	))
+3	((	NP	
+3.1	सीमा	NN	
+3.2	घटाकर	VM	
+3.3	सिंचित	JJ	
+3.4	भूमि	NN	
+3.5	के	PSP	
+	))
+4	((	NP	
+4.1	लिए	PSP	
+	))
+5	((	NP	
+5.1	5	QC	
+5.2	हेक्टेयर	NN	
+5.3	,	SYM	
+	))
+6	((	NP	
+6.1	अर्द्धसिचिंत	JJ	
+6.2	भूमि	NN	
+6.3	के	PSP	
+	))
+7	((	NP	
+7.1	लिए	PSP	
+	))
+8	((	NP	
+8.1	7.5	QC	
+8.2	हेक्टेयर	NN	
+	))
+9	((	CCP	
+9.1	तथा	CC	
+	))
+10	((	NP	
+10.1	असिंचित	JJ	
+10.2	भूमि	NN	
+10.3	के	PSP	
+	))
+11	((	NP	
+11.1	लिए	PSP	
+	))
+12	((	NP	
+12.1	12	QC	
+12.2	हेक्टेयर	NN	
+12.3	करने	VM	
+12.4	का	PSP	
+	))
+13	((	NP	
+13.1	सुझाव	NN	
+	))
+14	((	VGF	
+14.1	दिया	VM	
+14.2	गया	VAUX	
+14.3	है	VAUX	
+14.4	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	3.	QC	
+	))
+2	((	NP	
+2.1	सीलिंग	NN	
+2.2	में	PSP	
+	))
+3	((	NP	
+3.1	अधिशेष	NN	
+	))
+4	((	JJP	
+4.1	घोषित	JJ	
+	))
+5	((	NP	
+5.1	भूमि	NN	
+	))
+6	((	CCP	
+6.1	व	CC	
+	))
+7	((	NP	
+7.1	वितरण	NN	
+	))
+8	((	VGF	
+8.1	की	VM	
+8.2	गई	VAUX	
+8.3	भूमि	NN	
+8.4	का	PSP	
+	))
+9	((	NP	
+9.1	अन्तर	NN	
+	))
+10	((	JJP	
+10.1	कम	QF	
+	))
+11	((	VGF	
+11.1	किया	VM	
+11.2	जायेगा	VAUX	
+11.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	BLK	
+1.1	4.	QC	
+	))
+2	((	NP	
+2.1	सीलिंग	NN	
+2.2	के	PSP	
+	))
+3	((	NP	
+3.1	ऊपर	NST	
+	))
+4	((	NP	
+4.1	भूमि	NN	
+	))
+5	((	CCP	
+5.1	व	CC	
+	))
+6	((	NP	
+6.1	अतिरिक्त	JJ	
+6.2	भूमि	NN	
+6.3	जिन	DEM	
+6.4	लोगों	NN	
+6.5	को	PSP	
+	))
+7	((	VGF	
+7.1	मिली	VM	
+7.2	है	VAUX	
+7.3	,	SYM	
+	))
+8	((	NP	
+8.1	उन्हें	PRP	
+	))
+9	((	NP	
+9.1	वित्तीय	JJ	
+	))
+10	((	NP	
+10.1	सहायता	NN	
+	))
+11	((	VGF	
+11.1	दी	VM	
+11.2	जायेगी	VAUX	
+11.3	?डट	SYM	
+	))
+	))
+</Sentence>
+
+</Story>

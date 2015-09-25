@@ -1,0 +1,15 @@
+A Brief Introduction to Sanchay
+-------------------------------
+
+Sanchay is an open source platform for working on languages, especially South Asian languages, using computers and also for developing Natural Language Processing (NLP) or other text processing applications. It consists of various tools and APIs for this purpose. It is still in the development stage and the design has not yet stabilized, but components like a text editor with customizable support for languages and encodings, annotation interfaces, etc. have been released as an experimental version (0.1) on Sourceforge.net.
+
+Sanchay is already being used for annotation etc. at LTRC, IIIT, Hyderabad. It was also made available for the NLPAI ML Contest and will be used for the IJCAI 2007 Workshop on Shallow Parsing. Some of the components in the released version are: Syntactic annotation interface, generalised table and tree components, SSF (Shakti Standard Format) API, feature structure API, parallel corpus markup interface, customizable language and encoding support, Sanchay text editor, language and encoding identification, file splitter and format converter, task setup generator (only for syntactic annotation), a simple but powerful data structure called Properties Manager along with a GUI for common purposes like customization of applications, a find/replace/extract tool, a naive preprocessor for annotation, and a tree visualizer for phrase structure and dependency relations. User documentation has been provided for some of these components. More will be added soon. Some API documentation for programmers will also be provided later.
+
+Many other components are in the pipeline. Hopefully other people will get involved with the development so that Sanchay can provide much needed support for South Asian languages for as many purposes as possible.
+
+Sanchay has an object oriented architecture where the emphasis is on good design based on things like modularity, reusability, extensibility and maintainability. The implementation is purely in Java, which means it is platform independent and can be used on Windows as well as Linux without needing any extra setup except installing JDK or JRE.
+
+------------------------
+
+For bugs and comments, contact: anil@research.iiit.net <Anil Kumar Singh>
+Version-0.1 is available at: http://sourceforge.net/projects/nlp-sanchay

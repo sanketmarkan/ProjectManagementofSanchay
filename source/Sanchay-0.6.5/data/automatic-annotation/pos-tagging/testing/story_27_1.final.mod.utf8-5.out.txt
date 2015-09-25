@@ -1,0 +1,586 @@
+<document id="null">
+<head>
+
+</head>
+<Sentence id="null">
+0	((	SSF	
+1	रजिस्ट्रार	UNK	
+2	एक	QC	
+3	अमरीकी	JJ	
+4	इंडियन	VFM	
+5	महिला	NN	
+6	हैं	VAUX	
+7	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उनके	PRP	
+2	पास	NST	
+3	एक	QC	
+4	काली	JJ	
+5	अमरीकी	JJ	
+6	लड़की	NN	
+7	`	SYM	
+8	रजिस्ट्रेशन	ECH	
+9	'	SYM	
+10	के	XC	
+11	लिए	PSP	
+12	आयी	VM	
+13	है	VAUX	
+14	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	डाक्टर	INJ	
+2	प्रुडेन	VFM	
+3	उसे	PRP	
+4	तुरन्त	RB	
+5	भरती	VM	
+6	करने	VM	
+7	को	PSP	
+8	कहते	VM	
+9	हैं	VAUX	
+10	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	दोनों	QC	
+2	ही	RP	
+3	हमें	PRP	
+4	झुककर	VM	
+5	हाथ	NN	
+6	जोड़कर	VM	
+7	प्रणाम	NN	
+8	करते	VM	
+9	हैं	VAUX	
+10	आखिर	RB	
+11	`	SYM	
+12	यूनिवर्सिटी	NNP	
+13	ऑफ	XC	
+14	ओरिएंटल	VFM	
+15	स्टडीज़	ECH	
+16	'	SYM	
+17	की	XC	
+18	है	VAUX	
+19	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अमेरिकियों	UNK	
+2	की	PSP	
+3	तरह	NST	
+4	`	SYM	
+5	हाय	INJ	
+6	,	SYM	
+7	हाय	INJ	
+8	'	SYM	
+9	नहीं	NEG	
+10	करते	RDP	
+11	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	डाक्टर	INJ	
+2	प्रुडेन	VFM	
+3	कहते	VM	
+4	हैं	VAUX	
+5	कि	CC	
+6	शायद	RB	
+7	आप	PRP	
+8	पहली	QO	
+9	बार	RP	
+10	अमेरिकन	VFM	
+11	इंडियन	VFM	
+12	से	PSP	
+13	बात	NN	
+14	कर	VM	
+15	रहे	VAUX	
+16	हों	VAUX	
+17	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	एक	QC	
+2	बार	RP	
+3	तो	RP	
+4	मैंने	PRP	
+5	सोचा	VM	
+6	फिर	RB	
+7	उन्हें	PRP	
+8	अजूबा	VFM	
+9	दिखाने	VM	
+10	का	PSP	
+11	सुख	XC	
+12	ले	VM	
+13	लेने	VAUX	
+14	दूँ	VFM	
+15	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	फिर	RB	
+2	शायद	RB	
+3	मेरे	PRP	
+4	घुमक्कड़	VFM	
+5	मन	NN	
+6	को	PSP	
+7	यह	DEM	
+8	रास	VFM	
+9	नहीं	NEG	
+10	आया	VM	
+11	मैंने	PRP	
+12	बताया	VM	
+13	कि	CC	
+14	मिनिसोटा	VFM	
+15	राज्य	XC	
+16	में	PSP	
+17	मैंने	PRP	
+18	अमेरिकन	VFM	
+19	इंडियन	VFM	
+20	का	PSP	
+21	माइल	VFM	
+22	लेक	VFM	
+23	रिज़र्वेशन	VFM	
+24	देखा	VM	
+25	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उन्हें	PRP	
+2	जैसे	RP	
+3	झटका	VFM	
+4	लगा	VAUX	
+5	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अमेरिकन	UNK	
+2	इंडियन	VFM	
+3	हर	QF	
+4	किसी	PRP	
+5	संवेदनशील	JJ	
+6	अमेरिकी	VFM	
+7	के	PSP	
+8	लिए	PSP	
+9	एक	QC	
+10	अपराध	XC	
+11	भाव	NN	
+12	जगाता	VFM	
+13	है	VAUX	
+14	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जैसे	CC	
+2	उनके	PRP	
+3	साथ	NST	
+4	ज्यादती	VFM	
+5	हुई	VAUX	
+6	है	VAUX	
+7	उसके	PRP	
+8	यह	DEM	
+9	वारिस	VFM	
+10	हैं	VAUX	
+11	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	डॉ	XC	
+2	.	SYM	
+3	प्रुडेन	ECH	
+4	कहते	VM	
+5	हैं	VAUX	
+6	कि	CC	
+7	वह	PRP	
+8	तो	RP	
+9	असल	NN	
+10	जगह	NN	
+11	है	VAUX	
+12	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अमेरिकन	UNK	
+2	इंडियन	VFM	
+3	तो	RP	
+4	सारे	QF	
+5	अमेरिका	NNP	
+6	में	PSP	
+7	रहे	VAUX	
+8	हैं	VAUX	
+9	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	कैलिफ़ोर्निया	UNK	
+2	में	PSP	
+3	भी	RP	
+4	,	SYM	
+5	किन्तु	CC	
+6	शायद	RB	
+7	बहुत	INTF	
+8	नहीं	NEG	
+9	रहे	VAUX	
+10	यूरोपीयों	VFM	
+11	के	PSP	
+12	आने	VM	
+13	के	PSP	
+14	साथ	NST	
+15	ख़त्म	VFM	
+16	हो	VM	
+17	गये	VAUX	
+18	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	किन्तु	CC	
+2	मिनिसोटा	VFM	
+3	और	CC	
+4	साउथ	XC	
+5	डकोटा	VFM	
+6	में	PSP	
+7	तो	RP	
+8	उनका	PRP	
+9	जमावड़ा	VFM	
+10	है	VAUX	
+11	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जानना	INJ	
+2	चाहते	VM	
+3	हैं	VAUX	
+4	कि	CC	
+5	मैं	PRP	
+6	उन्हें	PRP	
+7	क्यों	WQ	
+8	देखने	VM	
+9	गया?	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	क्या	WQ	
+2	इंडियन	VFM	
+3	का	PSP	
+4	अध्ययन	NN	
+5	करना	VM	
+6	चाहता	VAUX	
+7	हूँ?	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैंने	INJ	
+2	कहा	VM	
+3	कि	CC	
+4	नहीं	NEG	
+5	,	SYM	
+6	बस	XC	
+7	देखने	VM	
+8	की	PSP	
+9	इच्छा	NN	
+10	थी	VAUX	
+11	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अमरीका	INJ	
+2	आया	VM	
+3	तो	RP	
+4	पहले	NST	
+5	यहाँ	PRP	
+6	रेड	VFM	
+7	इंडियन	VFM	
+8	बसते	VFM	
+9	थे	VAUX	
+10	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उन्हें	PRP	
+2	भी	RP	
+3	देखना	VM	
+4	चाहता	VAUX	
+5	था	VAUX	
+6	किन्तु	CC	
+7	वह	PRP	
+8	वैसे	PRP	
+9	नहीं	NEG	
+10	है	VAUX	
+11	जैसे	RP	
+12	टी	XC	
+13	.	SYM	
+14	वी	XC	
+15	.	SYM	
+16	या	CC	
+17	फिल्म	XC	
+18	में	PSP	
+19	देखते	RDP	
+20	हैं	VAUX	
+21	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	न	NEG	
+2	तीर	NN	
+3	-	SYM	
+4	कमान	ECH	
+5	,	SYM	
+6	न	NEG	
+7	सींग	NN	
+8	न	NEG	
+9	लट्ठे	VFM	
+10	के	PSP	
+11	मचान	VFM	
+12	वह	PRP	
+13	तो	RP	
+14	अन्य	JJ	
+15	अमरीकियों	VFM	
+16	जैसे	RP	
+17	मकान	NN	
+18	में	PSP	
+19	रह	VAUX	
+20	रहे	VAUX	
+21	हैं	VAUX	
+22	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	डॉ	XC	
+2	.	SYM	
+3	प्रुडेन	ECH	
+4	कहते	VM	
+5	हैं	VAUX	
+6	कि	CC	
+7	मैक्सिको	VFM	
+8	में	PSP	
+9	अमेरिकन	VFM	
+10	इंडियन	VFM	
+11	अपने	PRP	
+12	मूल	JJ	
+13	रूप	NN	
+14	में	PSP	
+15	शायद	RB	
+16	हैं	VAUX	
+17	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	वैसे	INJ	
+2	तो	RP	
+3	कहीं	PRP	
+4	नहीं	NEG	
+5	हैं	VAUX	
+6	अमरीका	NNP	
+7	में	PSP	
+8	कोई	PRP	
+9	जगह	NN	
+10	ऐसी	DEM	
+11	नहीं	NEG	
+12	है	VAUX	
+13	जहाँ	PRP	
+14	वह	PRP	
+15	टेलीविज़न	VFM	
+16	नहीं	NEG	
+17	देखते	RDP	
+18	और	CC	
+19	बदलते	VM	
+20	नहीं	NEG	
+21	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	कुछ	QF	
+2	जरूर	RB	
+3	ऐसे	DEM	
+4	हैं	VAUX	
+5	जो	DEM	
+6	अंग्रेजी	XC	
+7	नहीं	NEG	
+8	बोलते	VM	
+9	,	SYM	
+10	बोलना	ECH	
+11	नहीं	NEG	
+12	चाहते	VAUX	
+13	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यूरोपीयों	UNK	
+2	के	PSP	
+3	अनुभव	NN	
+4	उनके	PRP	
+5	ऐसे	DEM	
+6	हैं	VAUX	
+7	उनके	PRP	
+8	इलाक़ों	VFM	
+9	में	PSP	
+10	जाना	VAUX	
+11	भी	RP	
+12	खतरनाक	JJ	
+13	है	VAUX	
+14	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	फिर	RB	
+2	जोड़ते	VFM	
+3	हैं	VAUX	
+4	,	SYM	
+5	शायद	RB	
+6	आपके	PRP	
+7	लिए	PSP	
+8	उतना	QF	
+9	कठिन	JJ	
+10	न	NEG	
+11	हो	VM	
+12	जितना	QF	
+13	हमारे	PRP	
+14	लिए	PSP	
+15	है	VAUX	
+16	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	फिर	RB	
+2	मुझसे	PRP	
+3	जानना	VM	
+4	चाहते	VM	
+5	हैं	VAUX	
+6	माइल	VFM	
+7	के	PSP	
+8	लेक	VFM	
+9	रिजर्वेशन	VFM	
+10	में	PSP	
+11	उनके	PRP	
+12	मकान	NN	
+13	कैसे	WQ	
+14	हैं?	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैंने	INJ	
+2	बताया	VM	
+3	कि	CC	
+4	जैसे	RP	
+5	औसत	JJ	
+6	अपार्टमेंट	VFM	
+7	(होते	VFM	
+8	हैं	VAUX	
+9	या	CC	
+10	घर	NN	
+11	होते	VM	
+12	हैं	VAUX	
+13	,	SYM	
+14	वैसे	RB	
+15	ही	RP	
+16	हैं	VAUX	
+17	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	एक	QC	
+2	घर	NN	
+3	में	PSP	
+4	गया	VAUX	
+5	था	VAUX	
+6	वहाँ	PRP	
+7	टी	XC	
+8	.	SYM	
+9	वी	XC	
+10	.	SYM	
+11	,	SYM	
+12	फ्रिज	NN	
+13	,	SYM	
+14	अमरीकी	JJ	
+15	श्‍ेत	VFM	
+16	पत्नी	NN	
+17	सब	QF	
+18	कुछ	QF	
+19	है	VAUX	
+20	.	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	वैसे	INJ	
+2	वह	PRP	
+3	औसत	JJ	
+4	इंडियन	VFM	
+5	नहीं	NEG	
+6	यूनिवर्सिटी	VFM	
+7	ऑव	VFM	
+8	मिनिसोटा	ECH	
+9	,	SYM	
+10	डुलुथ	ECH	
+11	का	PSP	
+12	सोशल	XC	
+13	डेबलपमेंट	VFM	
+14	का	PSP	
+15	एम	UNK	
+16	.	SYM	
+17	ए.	NNP	
+18	का	PSP	
+19	छात्र	NN	
+20	है	VAUX	
+21	.	SYM	
+	))
+</Sentence>
+
+</document>

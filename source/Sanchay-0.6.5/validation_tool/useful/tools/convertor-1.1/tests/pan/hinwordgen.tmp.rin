@@ -1,0 +1,6 @@
+4	((	NP	<fs af='@laxxAKa,unk,,,,,0_kA,' head=laxxAKa poslcat=NM>
+4.1	leha	NNP	<fs af='leha,n,f,sg,3,d,,'>
+4.2	kA	PSP	<fs af='kA,psp,m,sg,3,,,'>
+4.3	-	SYM	<fs af='&ndash;,punc,m,sg,3,,,' poslcat=NM>
+4.4	@laxxAKa	NN	<fs af='@laxxAKa,unk,m,sg,3,,,' name=laxxAKa poslcat=NM>
+	))

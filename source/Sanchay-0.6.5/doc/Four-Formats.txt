@@ -1,0 +1,36 @@
+1. RAW FORMAT
+--------------
+
+Rama is a good boy.
+Shyam is a bad boy.
+
+2. POS TAGGED FORMAT
+--------------------
+
+Rama_NN is_VM a_DT good_JJ boy_NN.
+Shyam_NN is_VM a_DT bad_JJ boy_NN.
+
+
+3. CHUNKED (BRACKET) FORM
+-------------------------
+
+[[ [[Rama_NN]]_NP [[is_VM]]_VP [[a_DT good_JJ boy_NN]]_NP ._SYM ]]_SSF
+[[ [[Shyam_NN]]_NP [[is_VM]]_VP [[a_DT bad_JJ boy_NN]]_NP ._SYM ]]_SSF
+
+4. SSF FORMAT
+-------------
+
+0	((	SSF
+1	((	NP	<af=,,,,,,,,,,/drel=k1/name=2>
+1.1	Rama	NN
+	))
+2	((	NP
+2.1	is	VM
+	))
+3	((	NP
+3.1	a	DT
+3.2	good	JJ
+3.3	boy	NN
+	))
+4	.	SYM
+	))

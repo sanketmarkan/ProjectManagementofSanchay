@@ -1,0 +1,574 @@
+commerce	finance	429.anil.utf8
+commerce	finance	430.anil.utf8
+commerce	finance	431.anil.utf8
+commerce	finance	432.anil.utf8
+commerce	finance	433.anil.utf8
+commerce	finance	434.anil.utf8
+commerce	finance	435.anil.utf8
+commerce	finance	436.anil.utf8
+aesthetics	fine arts	243.naval.utf8
+aesthetics	fine arts	244.naval.utf8
+aesthetics	fine arts	245.naval.utf8
+aesthetics	fine arts	526.nitu.utf8
+aesthetics	fine arts	527.nitu.utf8
+aesthetics	fine arts	528.nitu.utf8
+aesthetics	fine arts	529.utf8
+aesthetics	fine arts	530.nitu.utf8
+aesthetics	fine arts	531.nitu.utf8
+aesthetics	fine arts	532.nitu.utf8
+aesthetics	fine arts	533.nitu.utf8
+aesthetics	fine arts	534.nitu.utf8
+aesthetics	fine arts	535.nitu.utf8
+aesthetics	fine arts	536.nitu.utf8
+aesthetics	fine arts	537.nitu.utf8
+aesthetics	fine arts	538.nitu.utf8
+aesthetics	fine arts	922.anita.utf8
+aesthetics	fine arts	927.anita.utf8
+aesthetics	fine arts	928.anita.utf8
+commerce	industry/handicraft	463.anil.utf8
+commerce	industry/handicraft	464.anil.utf8
+commerce	industry/handicraft	465.anil.utf8
+commerce	industry/handicraft	466.anil.utf8
+commerce	industry/handicraft	974.anita.utf8
+commerce	industry/handicraft	977.anita.utf8
+commerce	industry/handicraft	978.anita.utf8
+commerce	industry/handicraft	979.anita.utf8
+commerce	industry/handicraft	980.anita.utf8
+commerce	industry/handicraft	982.anita.utf8
+aesthetics	literature	597.nitu.utf8
+aesthetics	literature	598.nitu.utf8
+aesthetics	literature	599.nitu.utf8
+aesthetics	literature	6.nandini.utf8
+aesthetics	literature	60.naval.utf8
+aesthetics	literature	600.nitu.utf8
+aesthetics	literature	604.shiven.utf8
+aesthetics	literature	605.utf8
+aesthetics	literature	606.utf8
+aesthetics	literature	607.shiven.utf8
+aesthetics	literature	608.shiven.utf8
+aesthetics	literature	609.shiven.utf8
+aesthetics	literature	61.nitu.utf8
+aesthetics	literature	610.shiven.utf8
+aesthetics	literature	611.shiven.utf8
+aesthetics	literature	612.shiven.utf8
+aesthetics	literature	613.shiven.utf8
+aesthetics	literature	614.shiven.utf8
+aesthetics	literature	615.shiven.utf8
+aesthetics	literature	616.shiven.utf8
+aesthetics	literature	617.nandini.utf8
+aesthetics	literature	618.nandini.utf8
+aesthetics	literature	619.nandini.utf8
+aesthetics	literature	62.naval.utf8
+aesthetics	literature	620.nandini.utf8
+aesthetics	literature	621.nandini.utf8
+aesthetics	literature	622.nandini.utf8
+aesthetics	literature	623.nandini.utf8
+aesthetics	literature	624.nandini.utf8
+aesthetics	literature	625.nandini.utf8
+aesthetics	literature	626.nandini.utf8
+aesthetics	literature	627.nandini.utf8
+aesthetics	literature	628.nandini.utf8
+aesthetics	literature	629.nandini.utf8
+aesthetics	literature	63.nitu.utf8
+aesthetics	literature	630.nandini.utf8
+aesthetics	literature	631.nandini.utf8
+aesthetics	literature	632.nandini.utf8
+aesthetics	literature	633.nandini.utf8
+aesthetics	literature	634.nandini.utf8
+aesthetics	literature	635.nandini.utf8
+aesthetics	literature	636.nandini.utf8
+aesthetics	literature	637.nandini.utf8
+aesthetics	literature	638.nandini.utf8
+aesthetics	literature	639.nandini.utf8
+aesthetics	literature	64.naval.utf8
+aesthetics	literature	640.nandini.utf8
+aesthetics	literature	641.nandini.utf8
+aesthetics	literature	642.nandini.utf8
+aesthetics	literature	643.nandini.utf8
+aesthetics	literature	645.nandini.utf8
+aesthetics	literature	646.nandini.utf8
+aesthetics	literature	647.nandini.utf8
+aesthetics	literature	648.nandini.utf8
+aesthetics	literature	649.nandini.utf8
+aesthetics	literature	65.nitu.utf8
+aesthetics	literature	650.nandini.utf8
+aesthetics	literature	651.nandini.utf8
+aesthetics	literature	652.nandini.utf8
+aesthetics	literature	653.nandini.utf8
+aesthetics	literature	654.nandini.utf8
+aesthetics	literature	655.preeti.utf8
+aesthetics	literature	656.preeti.utf8
+aesthetics	literature	657.preeti.utf8
+aesthetics	literature	658.preeti.utf8
+aesthetics	literature	659.preeti.utf8
+aesthetics	literature	66.naval.utf8
+aesthetics	literature	660.preeti.utf8
+aesthetics	literature	661.preeti.utf8
+aesthetics	literature	662.preeti.utf8
+aesthetics	literature	663.preeti.utf8
+aesthetics	literature	664.preeti.utf8
+aesthetics	literature	665.preeti.utf8
+aesthetics	literature	666.priyanka.utf8
+aesthetics	literature	667.priyanka.utf8
+aesthetics	literature	668.priyanka.utf8
+aesthetics	literature	669.priyanka.utf8
+aesthetics	literature	67.nitu.utf8
+aesthetics	literature	670.priyanka.utf8
+aesthetics	literature	671.priyanka.utf8
+aesthetics	literature	672.priyanka.utf8
+aesthetics	literature	673.priyanka.utf8
+aesthetics	literature	674.priyanka.utf8
+aesthetics	literature	675.priyanka.utf8
+aesthetics	literature	676.priyanka.utf8
+aesthetics	literature	677.priyanka.utf8
+aesthetics	literature	678.priyanka.utf8
+aesthetics	literature	679.priyanka.utf8
+aesthetics	literature	68.naval.utf8
+aesthetics	literature	680.priyanka.utf8
+aesthetics	literature	682.priyanka.utf8
+aesthetics	literature	683.priyanka.utf8
+aesthetics	literature	684.priyanka.utf8
+aesthetics	literature	685.priyanka.utf8
+aesthetics	literature	686.priyanka.utf8
+aesthetics	literature	687.priyanka.utf8
+aesthetics	literature	688.priyanka.utf8
+aesthetics	literature	689.priyanka.utf8
+aesthetics	literature	69.nitu.utf8
+aesthetics	literature	690.priyanka.utf8
+aesthetics	literature	691.nandini.utf8
+aesthetics	literature	692.nandini.utf8
+aesthetics	literature	693.nandini.utf8
+aesthetics	literature	694.nandini.utf8
+aesthetics	literature	695.nandini.utf8
+aesthetics	literature	696.nandini.utf8
+aesthetics	literature	697.nandini.utf8
+aesthetics	literature	698.nandini.utf8
+aesthetics	literature	699.nandini.utf8
+aesthetics	literature	7.nandini.utf8
+aesthetics	literature	70.naval.utf8
+aesthetics	literature	700.nandini.utf8
+aesthetics	literature	702.kamal.utf8
+aesthetics	literature	703.kamal.utf8
+aesthetics	literature	704.kamal.utf8
+aesthetics	literature	705.kamal.utf8
+aesthetics	literature	706.kamal.utf8
+aesthetics	literature	707.kamal.utf8
+aesthetics	literature	708.kamal.utf8
+aesthetics	literature	709.kamal.utf8
+aesthetics	literature	71.nitu.utf8
+aesthetics	literature	710.kamal.utf8
+aesthetics	literature	711.kamal.utf8
+aesthetics	literature	712.kamal.utf8
+aesthetics	literature	713.kamal.utf8
+aesthetics	literature	714.kamal.utf8
+aesthetics	literature	715.kamal.utf8
+aesthetics	literature	716.kamal.utf8
+aesthetics	literature	717.kamal.utf8
+aesthetics	literature	718.kamal.utf8
+aesthetics	literature	719.kamal.utf8
+aesthetics	literature	72.naval.utf8
+aesthetics	literature	720.kamal.utf8
+aesthetics	literature	721.kamal.utf8
+aesthetics	literature	722.kamal.utf8
+aesthetics	literature	723.kamal.utf8
+aesthetics	literature	724.kamal.utf8
+aesthetics	literature	725.kamal.utf8
+aesthetics	literature	726.kamal.utf8
+aesthetics	literature	727.kamal.utf8
+aesthetics	literature	728.kamal.utf8
+aesthetics	literature	729.kamal.utf8
+aesthetics	literature	73.nitu.utf8
+aesthetics	literature	730.kamal.utf8
+aesthetics	literature	731.kamal.utf8
+aesthetics	literature	732.kamal.utf8
+aesthetics	literature	733.kamal.utf8
+aesthetics	literature	734.kamal.utf8
+aesthetics	literature	735.kamal.utf8
+aesthetics	literature	736.kamal.utf8
+aesthetics	literature	738.kamal.utf8
+aesthetics	literature	739.kamal.utf8
+aesthetics	literature	74.naval.utf8
+aesthetics	literature	76.naval.utf8
+aesthetics	literature	77.nitu.utf8
+aesthetics	literature	78.naval.utf8
+aesthetics	literature	79.nitu.utf8
+aesthetics	literature	8.kamal.utf8
+aesthetics	literature	80.naval.utf8
+aesthetics	literature	81.nitu.utf8
+aesthetics	literature	82.naval.utf8
+aesthetics	literature	83.nitu.done.utf8
+aesthetics	literature	84.naval.utf8
+aesthetics	literature	85.nitu.utf8
+aesthetics	literature	86.naval.utf8
+aesthetics	literature	87.nitu.utf8
+aesthetics	literature	88.naval.utf8
+aesthetics	literature	89.nitu.utf8
+aesthetics	literature	9.kamal.utf8
+aesthetics	literature	90.naval.utf8
+aesthetics	literature	91.nitu.utf8
+aesthetics	literature	911.anita.utf8
+aesthetics	literature	912.anita.utf8
+aesthetics	literature	92.naval.utf8
+aesthetics	literature	93.nitu.done.utf8
+aesthetics	literature	932.anita.utf8
+aesthetics	literature	933.anita.utf8
+aesthetics	literature	94.naval.utf8
+aesthetics	literature	941.anita.utf8
+aesthetics	literature	95.nitu.utf8
+aesthetics	literature	952.anita.utf8
+aesthetics	literature	954.anita.utf8
+aesthetics	literature	955.anita.utf8
+aesthetics	literature	956.anita.utf8
+aesthetics	literature	957.anita.utf8
+aesthetics	literature	958.anita.utf8
+aesthetics	literature	959.anita.utf8
+aesthetics	literature	96.naval.utf8
+aesthetics	literature	960.anita.utf8
+aesthetics	literature	961.anita.utf8
+aesthetics	literature	962.anita.utf8
+aesthetics	literature	963.anita.utf8
+aesthetics	literature	964.anita.utf8
+aesthetics	literature	965.anita.utf8
+aesthetics	literature	966.anita.utf8
+aesthetics	literature	967.anita.utf8
+aesthetics	literature	968.anita.utf8
+aesthetics	literature	969.anita.utf8
+aesthetics	literature	97.nitu.utf8
+aesthetics	literature	98.naval.utf8
+aesthetics	literature	99.nitu.utf8
+official and media	administrative/administration	769.kamal.utf8
+official and media	administrative/administration	770.kamal.utf8
+official and media	administrative/administration	771.kamal.utf8
+official and media	administrative/administration	772.kamal.utf8
+official and media	administrative/administration	773.kamal.utf8
+official and media	administrative/administration	774.kamal.utf8
+official and media	administrative/administration	775.kamal.utf8
+official and media	administrative/administration	776.kamal.utf8
+official and media	administrative/administration	777.kamal.utf8
+official and media	administrative/administration	778.kamal.utf8
+official and media	administrative/administration	780.kamal.utf8
+official and media	administrative/administration	781.kamal.utf8
+official and media	administrative/administration	782.kamal.utf8
+official and media	administrative/administration	783.kamal.utf8
+official and media	administrative/administration	784.kamal.utf8
+official and media	administrative/administration	785.kamal.utf8
+official and media	administrative/administration	786.kamal.utf8
+official and media	administrative/administration	787.kamal.utf8
+official and media	administrative/administration	788.kamal.utf8
+official and media	administrative/administration	789.kamal.utf8
+official and media	administrative/administration	790.kamal.utf8
+official and media	administrative/administration	791.kamal.utf8
+official and media	administrative/administration	792.kamal.utf8
+official and media	administrative/administration	793.kamal.utf8
+official and media	administrative/administration	794.kamal.utf8
+official and media	administrative/administration	795.kamal.utf8
+official and media	administrative/administration	796.kamal.utf8
+official and media	administrative/administration	797.kamal.utf8
+official and media	administrative/administration	798.kamal.utf8
+official and media	administrative/administration	799.kamal.utf8
+official and media	administrative/administration	800.kamal.utf8
+official and media	administrative/administration	801.naval.utf8
+official and media	administrative/administration	802.naval.utf8
+official and media	administrative/administration	803.naval.utf8
+official and media	administrative/administration	804.naval.utf8
+official and media	administrative/administration	805.naval.utf8
+official and media	administrative/administration	806.naval.utf8
+official and media	administrative/administration	807.naval.utf8
+official and media	administrative/administration	808.naval.utf8
+official and media	administrative/administration	809.naval.utf8
+official and media	administrative/administration	810.naval.utf8
+official and media	administrative/administration	811.naval.utf8
+official and media	administrative/administration	812.naval.utf8
+official and media	administrative/administration	813.naval.utf8
+official and media	administrative/administration	814.naval.utf8
+official and media	administrative/administration	860.priyanka.utf8
+official and media	administrative/administration	861.priyanka.utf8
+official and media	administrative/administration	868.preeti.utf8
+official and media	administrative/administration	869.preeti.utf8
+official and media	administrative/administration	870.preeti.utf8
+official and media	administrative/administration	871.preeti.utf8
+official and media	administrative/administration	873.preeti.utf8
+official and media	administrative/administration	874.preeti.utf8
+official and media	administrative/administration	877.anita.utf8
+official and media	administrative/administration	897.anita.utf8
+official and media	legal/legislative	182.naval.utf8
+official and media	legal/legislative	183.naval.utf8
+official and media	legal/legislative	184.naval.utf8
+official and media	legal/legislative	185.naval.utf8
+official and media	legal/legislative	186.naval.utf8
+official and media	legal/legislative	207.naval.utf8
+official and media	legal/legislative	208.naval.utf8
+official and media	legal/legislative	209.naval.utf8
+official and media	legal/legislative	210.naval.utf8
+official and media	legal/legislative	211.naval.utf8
+official and media	legal/legislative	212.naval.utf8
+official and media	legal/legislative	213.naval.utf8
+official and media	legal/legislative	215.naval.utf8
+official and media	legal/legislative	216.naval.utf8
+official and media	legal/legislative	217.naval.utf8
+official and media	legal/legislative	218.naval.utf8
+official and media	legal/legislative	219.naval.utf8
+official and media	legal/legislative	220.naval.utf8
+official and media	legal/legislative	221.naval.utf8
+official and media	legal/legislative	222.naval.utf8
+official and media	legal/legislative	224.naval.utf8
+official and media	legal/legislative	225.naval.utf8
+official and media	legal/legislative	226.naval.utf8
+official and media	legal/legislative	227.naval.utf8
+official and media	legal/legislative	228.naval.utf8
+official and media	legal/legislative	229.naval.utf8
+official and media	legal/legislative	230.naval.utf8
+official and media	legal/legislative	231.naval.utf8
+official and media	legal/legislative	237.naval.utf8
+official and media	legal/legislative	238.naval.utf8
+official and media	legal/legislative	239.naval.utf8
+official and media	legal/legislative	240.naval.utf8
+official and media	legal/legislative	241.naval.utf8
+official and media	legal/legislative	262.naval.utf8
+official and media	legal/legislative	263.naval.utf8
+official and media	legal/legislative	264.naval.utf8
+official and media	legal/legislative	313.nitu.utf8
+official and media	legal/legislative	314.nitu.utf8
+official and media	legal/legislative	315.nitu.utf8
+official and media	legal/legislative	316.nitu.utf8
+official and media	legal/legislative	317.nitu.utf8
+official and media	legal/legislative	318.nitu.utf8
+official and media	legal/legislative	319.nitu.utf8
+official and media	legal/legislative	322.nitu.utf8
+official and media	legal/legislative	323.nitu.utf8
+official and media	legal/legislative	324.nitu.utf8
+official and media	legal/legislative	325.nitu.utf8
+official and media	legal/legislative	339.nitu.utf8
+official and media	legal/legislative	340.nitu.utf8
+official and media	legal/legislative	341.nitu.utf8
+official and media	legal/legislative	342.nitu.utf8
+official and media	mass media	1043.priyanka.utf8
+official and media	mass media	1046.priyanka.utf8
+official and media	mass media	1051.priyanka.utf8
+official and media	mass media	1052.priyanka.utf8
+official and media	mass media	1080.priyanka.utf8
+official and media	mass media	1082.priyanka.utf8
+official and media	mass media	1083.priyanka.utf8
+official and media	mass media	1084.priyanka.utf8
+official and media	mass media	1086.priyanka.utf8
+official and media	mass media	1087.priyanka.utf8
+official and media	mass media	1090.priyanka.utf8
+official and media	mass media	1091.priyanka.utf8
+official and media	mass media	1102.preeti.utf8
+official and media	mass media	1112.preeti.utf8
+official and media	mass media	1128.preeti.utf8
+official and media	mass media	1130.preeti.utf8
+official and media	mass media	1132.preeti.utf8
+official and media	mass media	1133.preeti.utf8
+official and media	mass media	1134.preeti.utf8
+official and media	mass media	1138.preeti.utf8
+official and media	mass media	1140.preeti.utf8
+official and media	mass media	1145.preeti.utf8
+official and media	mass media	1149.preeti.utf8
+official and media	mass media	1151.preeti.utf8
+official and media	mass media	1152.preeti.utf8
+official and media	mass media	1153.preeti.utf8
+official and media	mass media	1157.preeti.utf8
+official and media	mass media	1175.preeti.utf8
+official and media	mass media	1182.preeti.utf8
+official and media	mass media	1187.preeti.utf8
+official and media	mass media	1200.preeti.utf8
+official and media	mass media	1204.nandini.utf8
+official and media	mass media	1205.nandini.utf8
+official and media	mass media	1206.nandini.utf8
+official and media	mass media	1208.nandini.utf8
+official and media	mass media	1211.nandini.utf8
+official and media	mass media	1225.nandini.utf8
+official and media	mass media	1227.nandini.utf8
+official and media	mass media	1231.nandini.utf8
+official and media	mass media	740.kamal.utf8
+official and media	mass media	757.kamal.utf8
+official and media	mass media	779.kamal.utf8
+official and media	mass media	815.naval.utf8
+official and media	mass media	816.naval.utf8
+official and media	mass media	817.naval.utf8
+official and media	mass media	818.naval.utf8
+official and media	mass media	819.naval.utf8
+official and media	mass media	820.naval.utf8
+official and media	mass media	821.naval.utf8
+official and media	mass media	822.naval.utf8
+official and media	mass media	824.naval.utf8
+official and media	mass media	825.naval.utf8
+official and media	mass media	826.naval.utf8
+official and media	mass media	827.naval.utf8
+official and media	mass media	828.naval.utf8
+official and media	mass media	829.naval.utf8
+official and media	mass media	830.naval.utf8
+official and media	mass media	831.naval.utf8
+official and media	mass media	832.naval.utf8
+official and media	mass media	833.naval.utf8
+official and media	mass media	834.naval.utf8
+official and media	mass media	835.naval.utf8
+official and media	mass media	836.naval.utf8
+official and media	mass media	837.naval.out.utf8
+official and media	mass media	838.naval.utf8
+official and media	mass media	839.naval.utf8
+official and media	mass media	840.naval.utf8
+official and media	mass media	841.naval.utf8
+official and media	mass media	842.naval.utf8
+official and media	mass media	843.naval.utf8
+official and media	mass media	844.naval.utf8
+official and media	mass media	845.naval.utf8
+official and media	mass media	846.naval.utf8
+official and media	mass media	847.naval.utf8
+official and media	mass media	848.naval.utf8
+official and media	mass media	849.naval.utf8
+official and media	mass media	850.naval.utf8
+official and media	mass media	851.naval.utf8
+official and media	mass media	852.naval.utf8
+official and media	mass media	853.naval.utf8
+official and media	mass media	854.naval.utf8
+official and media	mass media	855.naval.utf8
+official and media	mass media	856.kamal.utf8
+official and media	mass media	857.kamal.utf8
+official and media	mass media	858.priyanka.utf8
+official and media	mass media	882.nandini.utf8
+official and media	mass media	883.nandini.utf8
+official and media	mass media	884.nandini.utf8
+official and media	mass media	886.preeti.utf8
+official and media	mass media	887.preeti.utf8
+official and media	mass media	889.preeti.utf8
+official and media	mass media	890.preeti.utf8
+official and media	mass media	891.preeti.utf8
+official and media	mass media	892.preeti.utf8
+official and media	mass media	893.preeti.utf8
+official and media	mass media	894.preeti.utf8
+official and media	mass media	895.preeti.utf8
+official and media 	mass media 	756.kamal.utf8
+translated material	scientific	938.anita.utf8
+translated material	scientific	939.anita.utf8
+translated material	scientific	940.anita.utf8
+natural, physical and professional sciences	agriculture	474.anil.utf8
+natural, physical and professional sciences	agriculture	475.anil.utf8
+natural, physical and professional sciences	geography	250.naval.utf8
+natural, physical and professional sciences	geography	251.naval.utf8
+natural, physical and professional sciences	geography	320.nitu.utf8
+natural, physical and professional sciences	geography	321.nitu.utf8
+natural, physical and professional sciences	geography	437.anil.utf8
+natural, physical and professional sciences	geology	471.anil.utf8
+natural, physical and professional sciences	geology	472.anil.utf8
+natural, physical and professional sciences	medicine/ayurveda/homeopathy	522.nitu.utf8
+natural, physical and professional sciences	medicine/ayurveda/homeopathy	524.nitu.utf8
+natural, physical and professional sciences	medicine/ayurveda/homeopathy	525.nitu.utf8
+natural, physical and professional sciences	science and society	402.anil.utf8
+natural, physical and professional sciences	science and society	453.anil.utf8
+natural, physical and professional sciences	veterinary	419.anil.utf8
+natural, physical and professional sciences	veterinary	420.anil.utf8
+social sciences	anthropology	416.anil.utf8
+social sciences	anthropology	416.utf8
+social sciences	criminology	371.nitu.utf8
+social sciences	criminology	372.nitu.utf8
+social sciences	criminology	373.nitu.utf8
+social sciences	criminology	374.nitu.utf8
+social sciences	criminology	375.nitu.utf8
+social sciences	culture	510.nitu.utf8
+social sciences	culture	511.nitu.utf8
+social sciences	culture	512.nitu.utf8
+social sciences	culture	513.nitu.utf8
+social sciences	economics	308.nitu.utf8
+social sciences	economics	309.nitu.utf8
+social sciences	economics	310.nitu.utf8
+social sciences	economics	311.nitu.utf8
+social sciences	economics	477.anita.utf8
+social sciences	education	479.anita.utf8
+social sciences	education	480.anita.utf8
+social sciences	education	481.anita.utf8
+social sciences	education	493.anita.utf8
+social sciences	education	495.anita.utf8
+social sciences	education	496.anita.utf8
+social sciences	education	497.anita.utf8
+social sciences	education	514.nitu.utf8
+social sciences	education	515.nitu.utf8
+social sciences	education	516.nitu.utf8
+social sciences	education	517.nitu.utf8
+social sciences	education	518.nitu.utf8
+social sciences	folklore/mythology	361.nitu.utf8
+social sciences	folklore/mythology	362.nitu.utf8
+social sciences	folklore/mythology	363.nitu.utf8
+social sciences	folklore/mythology	364.nitu.utf8
+social sciences	folklore/mythology	365.nitu.utf8
+social sciences	forestry	396.nitu.utf8
+social sciences	forestry	397.nitu.utf8
+social sciences	forestry	413.anil.utf8
+social sciences	health/family welfare	918.anita.utf8
+social sciences	health/family welfare	919.anita.utf8
+social sciences	health/family welfare	920.anita.utf8
+social sciences	health/family welfare	921.anita.utf8
+social sciences	health/family welfare	924.anita.utf8
+social sciences	home science/catering	457.anil.utf8
+social sciences	home science/catering	458.anil.utf8
+social sciences	home science/catering	459.anil.utf8
+social sciences	home science/catering	460.anil.utf8
+social sciences	home science/catering	461.anil.utf8
+social sciences	home science/catering	462.anil.utf8
+social sciences	journalism	382.nitu.utf8
+social sciences	journalism	383.nitu.utf8
+social sciences	journalism	384.nitu.utf8
+social sciences	journalism	385.nitu.utf8
+social sciences	journalism	386.nitu.utf8
+social sciences	library science	288.naval.utf8
+social sciences	library science	289.naval.utf8
+social sciences	library science	290.naval.utf8
+social sciences	library science	291.naval.utf8
+social sciences	linguistics	903.anita.utf8
+social sciences	linguistics	904.anita.utf8
+social sciences	linguistics	905.anita.utf8
+social sciences	linguistics	906.anita.utf8
+social sciences	linguistics	907.anita.utf8
+social sciences	linguistics	908.anita.utf8
+social sciences	linguistics	909.anita.utf8
+social sciences	linguistics	910.anita.utf8
+social sciences	logic	345.nitu.utf8
+social sciences	logic	346.nitu.utf8
+social sciences	logic	347.nitu.utf8
+social sciences	logic	351.nitu.utf8
+social sciences	logic	352.nitu.utf8
+social sciences	physical education/yoga/sports & games	411.anil.utf8
+social sciences	physical education/yoga/sports & games	412.anil.utf8
+social sciences	political science	405.anil.utf8
+social sciences	political science	406.anil.utf8
+social sciences	political science	407.anil.utf8
+social sciences	political science	601.shiven.utf8
+social sciences	political science	602.shiven.utf8
+social sciences	political science	603.shiven.utf8
+social sciences	psychology	161.kamal.utf8
+social sciences	psychology	171.kamal.utf8
+social sciences	psychology	172.kamal.utf8
+social sciences	psychology	173.kamal.utf8
+social sciences	psychology	174.kamal.utf8
+social sciences	psychology	175.kamal.utf8
+social sciences	psychology	176.naval.utf8
+social sciences	psychology	192.naval.utf8
+social sciences	psychology	193.naval.utf8
+social sciences	psychology	194.naval.utf8
+social sciences	psychology	195.naval.utf8
+social sciences	psychology	196.naval.utf8
+social sciences	religion/philosophy	483.anita.utf8
+social sciences	religion/philosophy	485.anita.utf8
+social sciences	religion/philosophy	486.anita.utf8
+social sciences	religion/philosophy	498.anita.utf8
+social sciences	religion/philosophy	501.nitu.utf8
+social sciences	religion/philosophy	502.nitu.utf8
+social sciences	religion/philosophy	503.nitu.utf8
+social sciences	religion/philosophy	504.nitu.utf8
+social sciences	sociology	1072.priyanka.utf8
+social sciences	sociology	1123.preeti.utf8
+social sciences	sociology	1124.preeti.utf8
+social sciences	sociology	1125.preeti.utf8
+social sciences	sociology	1126.preeti.utf8
+social sciences	sociology	1192.preeti.utf8
+social sciences	sociology	1193.preeti.utf8
+social sciences	sociology	1194.preeti.utf8
+social sciences	sociology	1195.preeti.utf8
+social sciences	sociology	1197.preeti.utf8
+social sciences	sociology	1212.nandini.utf8
+social sciences	text books/(school)	170.kamal.utf8
+social sciences	text books/(school)	180.naval.utf8
+social sciences	text books/(school)	181.naval.utf8
+social sciences	text books/(school)	575.nitu.utf8
+social sciences	text books/(school)	576.nitu.utf8

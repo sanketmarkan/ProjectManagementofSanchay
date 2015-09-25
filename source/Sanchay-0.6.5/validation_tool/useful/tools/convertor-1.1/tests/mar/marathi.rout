@@ -1,0 +1,17 @@
+<Sentence id="1">			
+1	((	NP	<fs af='BArawIya,n,m,p,,0,0,'>|<fs af='xAMdI,n,m,p,,0,0,'>
+ERROR: <1.1	gula	QF	<fs af='karaNA,n,m,s,,0,,'>|<fs af='Jela,n,m,s,,0,0,'>|<fs af='Jela,n,m,p,,0,0,' head='baccA'>
+1.2	karUna	NN	<fs af='prasAxa,n,m,p,,0,0,'>
+	))		
+2	((	NP	<fs af='@aXiveSana,n,f,s,,0,0,'>
+2.1	saMmelanApramANeca	NN	<fs af='@tIkelA,n,f,s,,0,0,'>
+	))		
+3	((	VGF	<fs af='karaNyAwa,v,m,p,any,,xAKala,' head="brAhmaNa"  name='Ara'>
+3.1	yAMcyASI	VM	<fs af='aXyakRa,v,m,p,any,,xAKala,'>
+3.2	.	SYM	
+	))
+4	((	VGF	<head='pAcave'>
+4.1	samiwIce	VM	<fs af='vexAcArya,v,m,p,any,,,' head='moreSvara'  name='yAMcyASI'>
+4.2	.	SYM	
+	))		
+</Sentence>			

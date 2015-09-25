@@ -1,0 +1,27 @@
+<Sentence id="3">			
+1	kuJa	unk	<fs af='kuJa,adj,,,,d,,'>|<fs af='kuJa,adv,,,,d,,'>|<fs af='kuJa,pn,any,sg,,d,,'>|<fs af='kuJa,pn,any,pl,,d,,'>
+2	loka	unk	<fs af='loka,n,m,pl,3,d,,'>
+3	usa	unk	<fs af='uha,pn,any,sg,,o,,'>
+4	nUM	unk	<fs af='nUM,psp,,,,d,,'>
+5	mahAna	unk	<fs af='mahAna,adj,,,,d,,'>
+6	SahinaSAha	unk	<fs af='ShinaSAha,n,m,sg,3,d,,'>|<fs af='ShinaSAha,n,m,pl,3,d,,'>
+
+7	,	unk	<fs af='&comma;,punc,,,,,,'>
+8	Xarama	unk	<fs af='Xarama,n,m,sg,3,d,,'>|<fs af='Xarama,n,m,pl,3,d,,'>
+9	nirapaYKa	unk	<fs af='nirapaYKa,adj,,,,d,,'>
+
+10	,	unk	<fs af='&comma;,punc,,,,,,'>
+11	loka	unk	<fs af='loka,n,m,pl,3,d,,'>
+12	rAja	unk	<fs af='rAja,n,m,sg,3,d,,'>|<fs af='rAja,n,m,pl,3,d,,'>
+13	xA	unk	<fs af='xA,psp,m,sg,,d,,'>
+14	samaraWaka	unk	<fs af='samaraWaka,n,m,sg,3,d,,'>|<fs af='samaraWaka,n,m,pl,3,d,,'>
+
+15	,	unk	<fs af='&comma;,punc,,,,,,'>
+16	xiAlU	unk	<fs af='xiAlU,adj,,,,d,,'>
+17	we	unk	<fs af='we,psp,,,,d,,'>|<fs af='we,avy,,,,,,'>
+18	siYKa	unk	<fs af='siYKa,n,m,sg,3,d,,'>|<fs af='siYKa,n,m,pl,3,d,,'>|<fs af='siYKa,v,any,sg,2,,O,O'>
+19	nAika	unk	<fs af='nAika,n,m,sg,3,d,,'>|<fs af='nAika,n,m,pl,3,d,,'>
+20	giNaxe	unk	<fs af='giNa,v,m,pl,any,,xA,ਦਾ'>
+21	hana	unk	<fs af='hE,v,any,pl,3,,,'>
+22	।	unk	<fs af='।,punc,,,,,,'>
+</Sentence>			

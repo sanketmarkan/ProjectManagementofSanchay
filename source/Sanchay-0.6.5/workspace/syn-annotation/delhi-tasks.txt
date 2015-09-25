@@ -1,0 +1,17 @@
+Column Names::TaskName	TaskKVPropFile	TaskKVPropCharset
+Delhi-Task-0	workspace/syn-annotation/delhi-tasks/delhi-task-0.txt	UTF8
+Delhi-Task-1	workspace/syn-annotation/delhi-tasks/delhi-task-1.txt	UTF8
+Delhi-Task-2	workspace/syn-annotation/delhi-tasks/delhi-task-2.txt	UTF8
+Delhi-Task-3	workspace/syn-annotation/delhi-tasks/delhi-task-3.txt	UTF8
+Delhi-Task-4	workspace/syn-annotation/delhi-tasks/delhi-task-4.txt	UTF8
+Delhi-Task-5	workspace/syn-annotation/delhi-tasks/delhi-task-5.txt	UTF8
+Delhi-Task-6	workspace/syn-annotation/delhi-tasks/delhi-task-6.txt	UTF8
+Delhi-Task-7	workspace/syn-annotation/delhi-tasks/delhi-task-7.txt	UTF8
+Delhi-Task-8	workspace/syn-annotation/delhi-tasks/delhi-task-8.txt	UTF8
+Delhi-Task-9	workspace/syn-annotation/delhi-tasks/delhi-task-9.txt	UTF8
+Delhi-Task-10	workspace/syn-annotation/delhi-tasks/delhi-task-10.txt	UTF8
+Delhi-Task-11	workspace/syn-annotation/delhi-tasks/delhi-task-11.txt	UTF8
+Delhi-Task-12	workspace/syn-annotation/delhi-tasks/delhi-task-12.txt	UTF8
+Delhi-Task-13	workspace/syn-annotation/delhi-tasks/delhi-task-13.txt	UTF8
+Delhi-Task-14	workspace/syn-annotation/delhi-tasks/delhi-task-14.txt	UTF8
+Delhi-Task-15	workspace/syn-annotation/delhi-tasks/delhi-task-15.txt	UTF8

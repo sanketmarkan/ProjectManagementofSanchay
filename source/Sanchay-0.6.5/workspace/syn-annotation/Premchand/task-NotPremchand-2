@@ -1,0 +1,24 @@
+Column Names::Property	Value
+MFeaturesCharset	UTF8
+TaskName	NotPremchand-1
+SSFCorpusCharset	UTF8
+SSFPropFile	props/ssf-props.txt
+SSFPropCharset	UTF8
+POSTagsFile	workspace/syn-annotation/pos-tags.txt
+SSFCorpusStoryFile	workspace/syn-annotation/Premchand/poslcat-single-fs-2.txt
+MFeaturesFile	props/fs-mandatory-attribs.txt
+OFeaturesFile	props/fs-other-attribs.txt
+PAttributesFile	props/ps-attribs.txt
+DAttributesFile	props/dep-attribs.txt
+SAttributesFile	props/sem-attribs.txt
+MorphTagsFile	workspace/syn-annotation/morph-tags.txt
+SSFCorpusStoryUTF8File	
+Language	hin::utf8
+PhraseNamesFile	workspace/syn-annotation/phrase-names.txt
+PhraseNamesCharset	UTF8
+TaskPropFile	workspace/syn-annotation/Premchand/task-poslcat-single-fs-2.txt
+FSPropFile	props/fs-props.txt
+POSTagsCharset	UTF8
+TaskPropCharset	UTF8
+CurrentPosition	1
+FSPropCharset	UTF8

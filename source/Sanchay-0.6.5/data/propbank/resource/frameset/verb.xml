@@ -1,0 +1,51 @@
+<!DOCTYPE frameset PUBLIC "-//Sanchay//Frameset//EN" "./data/propbank/resource/frameset/frameset.dtd">
+<frameset>
+<note>
+  Frameset notes.
+</note>
+<predicate lemma="verb">
+<note>
+  Example frames file for 'verb' based on sentences in financial subcorpus.
+  Just a rough template for creating your frameset. The numbers may not refer
+  to actual classes as they are just examples.
+</note>
+
+<roleset id="verb.01" name="verb, action" vncls="33.3.3 33.3">
+<roles>
+  <role descr="agent" n="0">
+	<vnrole vncls="29.2" vntheta="Agent"/>
+        <vnrole vncls="13.5.1" vntheta="Agent"/></role>
+  <role descr="patient" n="1">
+	<vnrole vncls="29.2" vntheta="Predicate"/>
+        <vnrole vncls="13.5.1" vntheta="Theme"/></role>
+</roles>
+
+<example name="just thing done">
+<text>
+    Situation will become so tight that it won't matter what action a
+    doer verbs *trace* -- circumstances will prevent him from
+    gaining any benefit. 
+</text>
+        <arg n="0">a doer</arg>
+        <rel>verbs</rel>
+        <arg n="1">*trace* -&gt;  what action</arg>
+</example>
+
+<example name="with attribute">
+<inflection aspect="perfect" form="participle" person="ns" tense="present" voice="active"/>
+<text>
+    Health and Human Services Secretary Louis Sullivan has done
+    what was expected of him, Bush administration officials said.
+</text>
+        <arg n="0">Health</arg>
+        <rel>done</rel>
+        <arg n="1">what was expected of him</arg>
+</example>
+
+<note>
+Refer to 'perform' for usage of higher #'d args, if they appear.
+</note>
+
+</roleset>
+</predicate>
+</frameset>

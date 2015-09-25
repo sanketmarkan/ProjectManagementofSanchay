@@ -1,0 +1,24 @@
+NP	तो_CC	NP5::16::fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun	Chunk Error: Only CCP/NULL__CCP can have a CC
+NP	तो_CC	NP5::16::fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun	Chunk Error: Invalid POS tags for this particular chunk
+		::2::fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun	General Error: Invalid tree (Hanging nodes)
+VGF		::6::fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun	General Error: Same parent has 2 children which are k1
+	VGF::होंगे_VM__,_SYM	CCP3::5::fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun	Dependency Error: CCP should have children of same type
+r6:NP11	VGNN::रोके_VM__जाने_VAUX__की_PSP---NP::मांग_NN	VGNN2::7::fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun	Dependency Error: pof should have r6-k* attached to it
+VGNF	बिना_NEG__इस_DEM__फार्म_NN__के_PSP__दिए_VM	VGNF::20::sample.ssf	Chunk Error: Verb chunk with a PSP should be VGNN
+VGF		::8::sample.ssf	General Error: Same parent has 2 children which are k2
+		::9::sample.ssf	General Error: Invalid tree (Hanging nodes)
+		::12::sample.ssf	General Error: Invalid tree (Hanging nodes)
+		::13::sample.ssf	General Error: Invalid tree (Hanging nodes)
+		::14::sample.ssf	General Error: Invalid tree (Hanging nodes)
+		::15::sample.ssf	General Error: Invalid tree (Hanging nodes)
+		::16::sample.ssf	General Error: Invalid tree (Hanging nodes)
+		::25::sample.ssf	General Error: Invalid tree (Hanging nodes)
+r6:NP4	NP::आयकर_NNPC__विभाग_NNP__की_PSP---NP::निगाह_NN	NP3::2::sample.ssf	Dependency Error: pof should have r6-k* attached to it
+passive	VGF::रहेगी_VM__।_SYM	VGF::2::sample.ssf	General Error: voicetype cannot be passive
+passive	::कर_VM__दी_VAUX__गई_VAUX__।_SYM	::9::sample.ssf	General Error: voicetype cannot be passive
+passive	::देगा_VM__।_SYM	::13::sample.ssf	General Error: voicetype cannot be passive
+passive	::कर_VM__दिया_VAUX__गया_VAUX__है_VAUX__।_SYM	::16::sample.ssf	General Error: voicetype cannot be passive
+passive	VGF::नहीं_NEG__हो_VM__सकेगी_VAUX__।_SYM	VGF::20::sample.ssf	General Error: voicetype cannot be passive
+passive	VGF::करा_VM__दिया_VAUX__जाएगा_VAUX__।_SYM	VGF::21::sample.ssf	General Error: voicetype cannot be passive
+passive	VGF::भेजा_VM__जाएगा_VAUX__।_SYM	VGF::22::sample.ssf	General Error: voicetype cannot be passive
+passive	VGF::भिजवा_VM__दिया_VAUX__गया_VAUX__है_VAUX__।_SYM	VGF::24::sample.ssf	General Error: voicetype cannot be passive

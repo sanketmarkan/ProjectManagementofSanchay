@@ -1,0 +1,1500 @@
+# Sentence pair (1) source length 10 target length 10 alignment score : 1.68746e-11
+The average annual yield per sheep is about 1.5 kilograms. 
+NULL ({ }) eka ({ }) BedZa ({ }) varRaBara ({ 1 2 3 }) meM ({ }) Osawana ({ 4 5 }) 1.5 ({ 6 8 9 }) kilogrAma ({ 10 }) Una ({ }) xewI ({ }) hE. ({ 7 }) 
+# Sentence pair (2) source length 8 target length 10 alignment score : 4.80158e-15
+They are of medium size and have a compact body. 
+NULL ({ }) inakA ({ 1 }) AkAra ({ 2 3 5 9 }) maXZyama ({ 4 8 10 }) Ora ({ 6 }) SarIra ({ 7 }) sugaTiwa ({ }) howA ({ }) hE. ({ }) 
+# Sentence pair (3) source length 12 target length 8 alignment score : 1.06804e-10
+The average annual clip is about one kilogram. 
+NULL ({ }) varRaBara ({ 1 2 3 }) meM ({ }) Osawana ({ }) lagaBaga ({ 6 }) eka ({ 7 }) kilogrAma ({ }) Una ({ }) eka ({ }) BedZa ({ 8 }) se ({ }) uwarawI ({ 4 }) hE. ({ 5 }) 
+# Sentence pair (4) source length 10 target length 8 alignment score : 2.92276e-12
+The sheep are large-sized and have compact bodies. 
+NULL ({ }) ina ({ }) BedZoM ({ 2 }) kA ({ }) AkAra ({ 3 }) badZA ({ 8 }) howA ({ }) hE ({ }) Ora ({ 5 }) SarIra ({ 1 6 }) sugaTiwa. ({ 4 7 }) 
+# Sentence pair (5) source length 10 target length 9 alignment score : 9.35136e-10
+It is bred in Bandur village of Mandya district. 
+NULL ({ }) ise ({ 1 }) maNZdyA ({ 2 3 }) jile ({ 4 }) ke ({ }) banZxUra ({ 7 }) gAMva ({ 5 6 8 }) meM ({ }) pAlA ({ 9 }) jAwA ({ }) hE. ({ }) 
+# Sentence pair (6) source length 6 target length 7 alignment score : 1.54897e-05
+The brisket should be wide and fleshy. 
+NULL ({ }) aXaravakRa ({ 1 }) cOdZA ({ 2 }) Ora ({ 6 }) mAMsala ({ 5 7 }) honA ({ 4 }) cAhie. ({ 3 }) 
+# Sentence pair (7) source length 9 target length 10 alignment score : 1.49111e-11
+A good ewe should be uniform in its body structure. 
+NULL ({ }) acZCI ({ 1 2 3 }) BedZa ({ }) ke ({ }) SarIra ({ }) kI ({ }) saMracanA ({ }) ekasama ({ 6 7 8 9 10 }) honI ({ 5 }) cAhie. ({ 4 }) 
+# Sentence pair (8) source length 11 target length 7 alignment score : 9.03484e-10
+Ewes mature when about two years old. 
+NULL ({ }) BedZa ({ }) xo ({ 5 }) varRa ({ 4 }) kI ({ }) ho ({ 3 }) jAne ({ }) para ({ }) paripakZva ({ 1 2 6 7 }) ho ({ }) jAwI ({ }) hE. ({ }) 
+# Sentence pair (9) source length 8 target length 6 alignment score : 3.79229e-07
+They should not be bred earlier. 
+NULL ({ }) isase ({ 1 }) pUrva ({ 5 }) inase ({ 6 }) prajanana ({ }) nahIM ({ 3 }) karavAyA ({ }) jAnA ({ 4 }) cAhie. ({ 2 }) 
+# Sentence pair (10) source length 10 target length 12 alignment score : 1.16269e-15
+Ewes, as a rule, give birth to one lamb in a year. 
+NULL ({ }) sAmAnZyawa: ({ 1 }) BedZeM ({ 2 }) varRa ({ }) meM ({ 10 }) eka ({ 3 8 11 }) memanA ({ 9 }) hI ({ }) pExA ({ 4 5 12 }) karawI ({ 6 7 }) hEM. ({ }) 
+# Sentence pair (11) source length 10 target length 9 alignment score : 5.72455e-12
+Begin by brushing the outside of the front teeth. 
+NULL ({ }) Age ({ 1 2 }) ke ({ }) xAzwoM ({ }) kI ({ 6 }) UparI ({ 3 5 8 9 }) sawaha ({ 4 }) ko ({ }) pahale ({ 7 }) braSa ({ }) kareM. ({ }) 
+# Sentence pair (12) source length 10 target length 8 alignment score : 2.8412e-09
+Use gentle, half-tooth wide, back and forth strokes. 
+NULL ({ }) isake ({ 1 }) lie ({ }) Upara-nIce ({ 2 }) calAwe ({ 3 4 5 }) hue ({ 6 }) AXe ({ 7 }) xAzwa ({ 8 }) para ({ }) braSa ({ }) kareM. ({ }) 
+# Sentence pair (13) source length 9 target length 6 alignment score : 9.07654e-07
+Gently guide the floss between teeth. 
+NULL ({ }) 2. ({ 1 }) XAge ({ 2 }) ko ({ }) xAzwa ({ 3 }) ke ({ }) bIca ({ }) XIre ({ 4 5 6 }) se ({ }) GusAeM. ({ }) 
+# Sentence pair (14) source length 12 target length 8 alignment score : 2.64119e-09
+The winter-dew on the grass should be avoided. 
+NULL ({ }) sarxiyoM ({ 1 2 }) meM ({ }) GAsa ({ 3 }) para ({ }) padZI ({ 5 8 }) osa ({ }) BedZa ({ }) ko ({ 4 }) nahIM ({ }) KAne ({ }) xenI ({ 7 }) cAhie. ({ 6 }) 
+# Sentence pair (15) source length 7 target length 7 alignment score : 1.21327e-06
+Sheep by nature are docile and obedient. 
+NULL ({ }) sZvaBAvawa: ({ 1 }) BedZeM ({ }) xabZbU ({ 2 3 }) Ora ({ 6 }) AjFAkArI ({ 5 7 }) howI ({ }) hEM. ({ 4 }) 
+# Sentence pair (16) source length 11 target length 5 alignment score : 4.63207e-06
+They instinctively follow the leader. 
+NULL ({ }) ye ({ 1 }) sahaja ({ }) rUpa ({ }) se ({ }) hI ({ }) apane ({ }) newA ({ 5 }) kA ({ }) anugamana ({ 2 3 4 }) karawI ({ }) hEM. ({ }) 
+# Sentence pair (17) source length 8 target length 10 alignment score : 1.0269e-11
+Sheep love to live as natural a life as possible. 
+NULL ({ }) BedZeM ({ 1 }) yaWAsamZBava ({ 5 9 }) prAkqwika ({ 6 10 }) jIvanayApana ({ 4 8 }) karanA ({ 7 }) pasanZxa ({ 2 }) karawI ({ 3 }) hEM. ({ }) 
+# Sentence pair (18) source length 10 target length 7 alignment score : 9.11979e-07
+They do not need any special facilities. 
+NULL ({ }) inZheM ({ 1 }) kisI ({ 5 }) prakAra ({ }) kI ({ }) viSeRa ({ }) suviXAoM ({ 2 }) kI ({ }) AvaSZyakawA ({ 6 7 }) nahIM ({ 3 }) howI. ({ 4 }) 
+# Sentence pair (19) source length 2 target length 3 alignment score : 0.00115829
+Shearing of Wool 
+NULL ({ }) Una ({ }) uwAranA ({ 1 2 3 }) 
+# Sentence pair (20) source length 12 target length 9 alignment score : 2.42823e-08
+Fleece provides natural protection for sheep against inclement weather. 
+NULL ({ }) KarAba ({ 1 2 }) mOsama ({ 3 }) se ({ }) bacAva ({ 4 }) ke ({ }) lie ({ 5 }) Una ({ }) BedZa ({ }) kA ({ }) sZvABAvika ({ 7 8 9 }) kavaca ({ 6 }) hE. ({ }) 
+# Sentence pair (21) source length 10 target length 6 alignment score : 1.37946e-06
+Sheep are generally washed before shearing. 
+NULL ({ }) Una ({ 1 }) uwArane ({ 2 3 4 }) se ({ }) pahale ({ 5 }) prAya: ({ }) BedZa ({ }) ko ({ }) XoyA ({ 6 }) jAwA ({ }) hE. ({ }) 
+# Sentence pair (22) source length 4 target length 4 alignment score : 4.37863e-05
+Common Diseases of Sheep 
+NULL ({ }) BedZoM ({ 4 }) ke ({ 3 }) sAmAnZya ({ 1 }) roga ({ 2 }) 
+# Sentence pair (23) source length 11 target length 11 alignment score : 1.72691e-10
+The long hair are commonly used for making ropes and numdas. 
+NULL ({ }) lamZbe ({ 1 2 }) bAla ({ 3 4 }) prAya: ({ }) rasZsiyAM ({ 5 6 }) Ora ({ 10 }) namaxA ({ 11 }) banAne ({ 8 9 }) ke ({ }) kAma ({ }) Awe ({ 7 }) hEM. ({ }) 
+# Sentence pair (24) source length 11 target length 11 alignment score : 1.78317e-12
+The horns are pointed at the apex, bending upwards and backwards. 
+NULL ({ }) inake ({ 1 }) nukIle ({ 2 }) sIMga ({ 3 }) Upara ({ 8 }) waWA ({ }) pICe ({ 9 10 11 }) kI ({ }) waraPa ({ 6 }) Juke ({ 4 5 7 }) howe ({ }) hEM. ({ }) 
+# Sentence pair (25) source length 8 target length 7 alignment score : 1.47197e-06
+They have a coarse long hairy coat. 
+NULL ({ }) inakI ({ 1 }) KAla ({ 2 3 }) motI ({ 4 }) Ora ({ }) lamZbe ({ 5 }) bAloMvAlI ({ 6 7 }) howI ({ }) hE. ({ }) 
+# Sentence pair (26) source length 9 target length 8 alignment score : 1.39025e-09
+Their meat is coarse and devoid of fat. 
+NULL ({ }) inakA ({ }) mAMsa ({ }) vasA ({ 5 8 }) rahiwa ({ 6 }) GatiyA ({ 4 }) kisZma ({ 1 2 }) kA ({ 7 }) howA ({ 3 }) hE. ({ }) 
+# Sentence pair (27) source length 7 target length 6 alignment score : 7.26964e-05
+The ears are long and pendulous. 
+NULL ({ }) kAna ({ 1 2 }) lamZbe ({ 4 }) Ora ({ 5 }) JUlawe ({ 6 }) hue ({ }) howe ({ 3 }) hEM. ({ }) 
+# Sentence pair (28) source length 10 target length 10 alignment score : 1.25751e-11
+The coarse hair covers the major portion of the face. 
+NULL ({ }) cehare ({ 1 2 }) kA ({ }) aXikAMSa ({ 3 4 6 }) BAga ({ }) mote ({ 7 }) bAloM ({ 8 }) se ({ }) DakA ({ 5 9 10 }) howA ({ }) hE. ({ }) 
+# Sentence pair (29) source length 9 target length 6 alignment score : 0.000209604
+They have a pronounced Roman nose. 
+NULL ({ }) inakI ({ 1 }) nAka ({ 2 3 }) sZpaRZta ({ 4 }) rUpa ({ }) se ({ }) romana ({ 5 }) jAwIya ({ 6 }) howI ({ }) hE. ({ }) 
+# Sentence pair (30) source length 8 target length 4 alignment score : 0.00136905
+These goats are prolific. 
+NULL ({ }) ina ({ 1 }) bakariyoM ({ 2 }) kI ({ }) saMKZyA ({ }) bahuwa ({ }) jalZxI ({ 3 }) baDZawI ({ 4 }) hE. ({ }) 
+# Sentence pair (31) source length 8 target length 6 alignment score : 3.29507e-08
+They give appreciable quantities of milk. 
+NULL ({ }) ye ({ 1 }) xUXa ({ }) BI ({ }) kAPI ({ 3 4 5 6 }) mAwrA ({ 2 }) meM ({ }) xewI ({ }) hEM. ({ }) 
+# Sentence pair (32) source length 9 target length 10 alignment score : 2.75028e-10
+Marwari goats are bred in the Marwar area of Rajasthan. 
+NULL ({ }) mAravAdZI ({ 1 }) bakariyAM: ({ 2 }) rAjasZWAna ({ 3 10 }) ke ({ 9 }) mAravAdZa ({ 4 }) kRewra ({ 6 7 8 }) meM ({ 5 }) howI ({ }) hEM. ({ }) 
+# Sentence pair (33) source length 9 target length 6 alignment score : 5.86544e-08
+They are popular for their meat. 
+NULL ({ }) ye ({ 1 }) mAMsa ({ 4 5 6 }) ke ({ }) kAraNa ({ 3 }) aXika ({ 2 }) pasanZxa ({ }) kI ({ }) jAwI ({ }) hEM. ({ }) 
+# Sentence pair (34) source length 9 target length 10 alignment score : 2.42769e-11
+The hair of the body are jet black and lustrous. 
+NULL ({ }) SarIra ({ 1 }) ke ({ 3 }) bAla ({ 2 6 }) gahare ({ 4 5 }) kAle ({ 7 8 }) Ora ({ 9 }) camakIle ({ 10 }) howe ({ }) hEM. ({ }) 
+# Sentence pair (35) source length 7 target length 6 alignment score : 4.77109e-06
+These goats are large in size. 
+NULL ({ }) ina ({ 1 }) bakariyoM ({ 2 }) kA ({ }) AkAra ({ 3 }) badZA ({ 4 5 6 }) howA ({ }) hE. ({ }) 
+# Sentence pair (36) source length 12 target length 9 alignment score : 1.39536e-07
+They are considered useful both for milk and meat. 
+NULL ({ }) ye ({ 1 }) xUXa ({ 7 }) Ora ({ 8 }) mAMsa, ({ 9 }) xonoM ({ }) ke ({ }) lie ({ 6 }) hI ({ }) upayogI ({ 4 5 }) mAnI ({ 3 }) jAwI ({ }) hEM. ({ 2 }) 
+# Sentence pair (37) source length 9 target length 5 alignment score : 0.000928513
+These goats are very prolific. 
+NULL ({ }) ina ({ 1 }) bakariyoM ({ 2 }) kI ({ }) saMKZyA ({ }) badZI ({ 3 }) wejI ({ 4 }) se ({ }) baDZawI ({ 5 }) hE. ({ }) 
+# Sentence pair (38) source length 11 target length 8 alignment score : 2.55733e-09
+Barbari goats have slender, small and erect ears. 
+NULL ({ }) ina ({ }) bakariyoM ({ 2 }) ke ({ }) kAna ({ }) pawale, ({ 3 4 5 }) Cote, ({ 1 }) Ora ({ 6 }) sIXe ({ 7 8 }) KadZe ({ }) howe ({ }) hEM. ({ }) 
+# Sentence pair (39) source length 12 target length 11 alignment score : 3.30618e-11
+They have a very fine coat of short and silky hair. 
+NULL ({ }) inakI ({ 1 }) KAla ({ 2 3 }) bahuwa ({ 4 }) umZxA ({ 10 }) va ({ 9 }) Cote ({ 5 6 8 }) Cote ({ }) reSamI ({ 11 }) bAloM ({ 7 }) vAlI ({ }) howI ({ }) hE. ({ }) 
+# Sentence pair (40) source length 12 target length 9 alignment score : 3.22374e-12
+They carry a well rounded udder with medium-sized teats. 
+NULL ({ }) inakA ({ 1 }) ayana ({ 6 }) acZCA ({ }) KAsA ({ 7 8 9 }) gola ({ 5 }) Ora ({ }) Wana ({ 2 3 4 }) maXZyama ({ }) AkAra ({ }) ke ({ }) howe ({ }) hEM. ({ }) 
+# Sentence pair (41) source length 8 target length 6 alignment score : 4.39684e-06
+These goats have an attractive appearance. 
+NULL ({ }) ina ({ 1 }) bakariyoM ({ 2 }) kI ({ }) SakZla ({ 3 }) badZI ({ }) AkarRaka ({ 4 5 6 }) howI ({ }) hE. ({ }) 
+# Sentence pair (42) source length 5 target length 4 alignment score : 1.28541e-05
+The ears are long. 
+NULL ({ }) inake ({ 4 }) kAna ({ 1 2 }) lamZbe ({ }) howe ({ 3 }) hEM. ({ }) 
+# Sentence pair (43) source length 12 target length 11 alignment score : 5.67127e-16
+There is a class of these goats which has no horns. 
+NULL ({ }) ina ({ }) bakariyoM ({ 7 }) meM ({ }) eka ({ 3 }) varga ({ 4 6 8 9 10 11 }) EsA ({ 5 }) BI ({ }) hE ({ 2 }) jisake ({ 1 }) sIMga ({ }) nahIM ({ }) howe. ({ }) 
+# Sentence pair (44) source length 10 target length 10 alignment score : 1.93406e-10
+Bengal goat has been known in Bengal since time immemorial. 
+NULL ({ }) baMgAla ({ 1 }) : ({ 2 3 4 5 }) ananZwa ({ 10 }) kAla ({ 8 9 }) se ({ }) baMgAla ({ 7 }) meM ({ 6 }) pAyI ({ }) jAwI ({ }) hE. ({ }) 
+# Sentence pair (45) source length 6 target length 5 alignment score : 9.51136e-07
+The milk-yield is very low. 
+NULL ({ }) inase ({ }) xUXa ({ }) bahuwa ({ 3 }) kama ({ 1 4 5 }) milawA ({ 2 }) hE. ({ }) 
+# Sentence pair (46) source length 10 target length 7 alignment score : 3.88223e-08
+Bengal goats are very small in size. 
+NULL ({ }) baMgAla ({ 1 }) nasZla ({ }) kI ({ }) bakariyoM ({ 2 }) kA ({ }) AkAra ({ 3 }) bahuwa ({ 4 }) CotA ({ 5 6 7 }) howA ({ }) hE. ({ }) 
+# Sentence pair (47) source length 7 target length 9 alignment score : 6.4368e-09
+The chest is wide and the legs are short. 
+NULL ({ }) CAwI ({ 1 }) cOdZI ({ 2 3 4 }) Ora ({ 5 }) tAMgeM ({ 6 7 }) CotI ({ 8 9 }) howI ({ }) hEM. ({ }) 
+# Sentence pair (48) source length 6 target length 5 alignment score : 6.95632e-07
+The ears are nearly upright. 
+NULL ({ }) kAna ({ 1 2 }) lagaBaga ({ }) sIXe ({ }) KadZe ({ 4 5 }) howe ({ 3 }) hEM. ({ }) 
+# Sentence pair (49) source length 6 target length 7 alignment score : 3.49765e-11
+These animals have a dark black colour. 
+NULL ({ }) inakA ({ }) raMga ({ 4 }) gaharA ({ 1 5 }) kAlA ({ 2 3 6 7 }) howA ({ }) hE. ({ }) 
+# Sentence pair (50) source length 4 target length 4 alignment score : 1.57153e-05
+Selection of Milch Goats 
+NULL ({ }) xuXArU ({ 3 4 }) bakariyoM ({ }) kA ({ }) cayana ({ 1 2 }) 
+# Sentence pair (51) source length 7 target length 7 alignment score : 4.76744e-06
+The neck should be long and slim. 
+NULL ({ }) isakI ({ 1 }) garaxana ({ 2 3 4 }) lamZbI ({ 5 }) Ora ({ 6 }) pawalI ({ 7 }) howI ({ }) hE. ({ }) 
+# Sentence pair (52) source length 8 target length 7 alignment score : 3.89099e-08
+It should be well-attached to the body. 
+NULL ({ }) ise ({ 1 }) SarIra ({ }) se ({ 5 }) acZCI ({ }) waraha ({ }) judZA ({ 4 6 7 }) honA ({ 3 }) cAhie. ({ 2 }) 
+# Sentence pair (53) source length 9 target length 9 alignment score : 3.72708e-09
+The udder should have a soft and spongy texture. 
+NULL ({ }) isakI ({ 1 }) banAvata ({ 2 }) mulAyama ({ 4 5 6 }) Ora ({ 7 }) sZpaMja ({ 8 9 }) ke ({ }) samAna ({ }) honI ({ }) cAhie. ({ 3 }) 
+# Sentence pair (54) source length 7 target length 9 alignment score : 1.33867e-09
+It should have a large, long and deep body. 
+NULL ({ }) usakA ({ 1 2 }) SarIra ({ 3 }) KUba ({ 4 }) lamZbA ({ 5 6 9 }) Ora ({ 7 }) BArI ({ 8 }) ho. ({ }) 
+# Sentence pair (55) source length 9 target length 10 alignment score : 4.72644e-11
+The chest should be prominent and broad, with ribs well-sprung. 
+NULL ({ }) CAwI ({ 1 2 }) uBarI ({ 5 7 8 }) Ora ({ 6 }) cOdZI ({ }) honI ({ 4 }) cAhie ({ 3 }) Ora ({ }) pasaliyAM ({ 9 10 }) sugaTiwa. ({ }) 
+# Sentence pair (56) source length 7 target length 9 alignment score : 2.69115e-07
+The legs should be straight and the feet strong. 
+NULL ({ }) tAMgeM ({ 1 2 }) sIXI ({ 5 }) Ora ({ 6 }) pAMva ({ 7 8 }) majabUwa ({ 9 }) hone ({ 4 }) cAhieM. ({ 3 }) 
+# Sentence pair (57) source length 6 target length 7 alignment score : 6.42179e-09
+The goat gives birth while lying down. 
+NULL ({ }) bakarI ({ 1 2 }) lete ({ 3 }) lete ({ 6 }) prasava ({ 5 7 }) karawI ({ 4 }) hE. ({ }) 
+# Sentence pair (58) source length 10 target length 12 alignment score : 1.75002e-15
+In normal delivery, the whole thing is completed in about 45 minutes. 
+NULL ({ }) sAmAnZya ({ 1 }) prasava ({ }) lagaBaga ({ 10 }) 45 ({ 11 }) minata ({ 8 12 }) meM ({ 9 }) pUrA ({ 2 3 5 6 }) ho ({ }) jAwA ({ 4 }) hE. ({ 7 }) 
+# Sentence pair (59) source length 11 target length 9 alignment score : 1.60646e-09
+The navel of the kid should be disinfected properly. 
+NULL ({ }) memane ({ 1 2 }) kI ({ 3 }) nABi ({ 4 5 }) ko ({ }) TIka ({ }) prakAra ({ }) se ({ }) kqmivihIna ({ 8 9 }) kiyA ({ }) jAnA ({ 7 }) cAhie. ({ 6 }) 
+# Sentence pair (60) source length 7 target length 3 alignment score : 0.00104423
+Treatment options include: 
+NULL ({ }) upacAra ({ }) ke ({ }) kaI ({ }) rAswe ({ 1 }) hEM, ({ 3 }) jEse ({ 2 }) kiH ({ }) 
+# Sentence pair (61) source length 9 target length 9 alignment score : 3.38351e-12
+Minerals constitute an essential part of the goat's ration. 
+NULL ({ }) bakarI ({ 1 }) ke ({ }) Bojana ({ }) meM ({ }) Kanija ({ 6 }) anivArya ({ 7 }) aMSa ({ 2 3 4 5 8 9 }) howA ({ }) hE. ({ }) 
+# Sentence pair (62) source length 7 target length 9 alignment score : 4.84816e-09
+Goats, by nature, are not heavy drinkers of water. 
+NULL ({ }) bakariyAM ({ 1 2 }) pAnI ({ 3 }) aXika ({ 4 }) mAwrA ({ 8 9 }) meM ({ }) nahIM ({ 5 }) pIwIM. ({ 6 7 }) 
+# Sentence pair (63) source length 10 target length 9 alignment score : 1.9533e-10
+Goats love to drink water from a running stream. 
+NULL ({ }) bahawe ({ 1 }) naxI ({ 2 }) nAloM ({ 7 8 9 }) se ({ 6 }) jala ({ 5 }) pInA ({ 4 }) bakariyAM ({ }) pasanZxa ({ 3 }) karawI ({ }) hEM. ({ }) 
+# Sentence pair (64) source length 12 target length 7 alignment score : 2.04334e-07
+Castration also improves the quality of meat. 
+NULL ({ }) baXiyA ({ 1 }) karavA ({ 2 }) xene ({ }) se ({ }) mAMsa ({ 7 }) BI ({ }) baDZiyA ({ 3 }) kisZma ({ }) kA ({ }) prApZwa ({ 4 5 6 }) howA ({ }) hE. ({ }) 
+# Sentence pair (65) source length 10 target length 9 alignment score : 5.72041e-10
+The milk vessels should be clean and properly washed. 
+NULL ({ }) barwana ({ 1 2 3 }) ko ({ }) acZCI ({ }) waraha ({ }) se ({ }) sAPa ({ 5 6 }) karake ({ 7 }) Xo ({ 8 9 }) lenA ({ }) cAhie. ({ 4 }) 
+# Sentence pair (66) source length 10 target length 10 alignment score : 3.46355e-10
+The milking place should always be kept clean and dry. 
+NULL ({ }) xohane ({ 1 2 }) kA ({ }) sZWAna ({ 3 }) saxA ({ }) hI ({ }) sAPa ({ 5 6 7 8 }) Ora ({ 9 }) sUKA ({ 10 }) raKanA ({ }) cAhie. ({ 4 }) 
+# Sentence pair (67) source length 9 target length 11 alignment score : 2.99198e-11
+A goat should be groomed every day with a soft brush. 
+NULL ({ }) bakariyoM ({ }) ko ({ }) prawixina ({ 9 10 11 }) narama ({ 6 7 8 }) bruSa ({ 1 2 }) se ({ }) ragadZA ({ 5 }) jAnA ({ 4 }) cAhie. ({ 3 }) 
+# Sentence pair (68) source length 8 target length 6 alignment score : 2.12125e-06
+This helps to keep them clean. 
+NULL ({ }) isase ({ 1 }) unZheM ({ 3 4 }) sAPa ({ }) raKane ({ 5 6 }) meM ({ }) sahAyawA ({ }) milawI ({ 2 }) hE. ({ }) 
+# Sentence pair (69) source length 4 target length 4 alignment score : 2.53191e-05
+Common Diseases of Goats 
+NULL ({ }) bakariyoM ({ 4 }) ke ({ 3 }) sAmAnZya ({ 1 }) roga ({ 2 }) 
+# Sentence pair (70) source length 10 target length 9 alignment score : 3.13576e-08
+Their milk should not be used for human consumption. 
+NULL ({ }) isakA ({ 1 }) xUXa ({ 2 }) manuRZya ({ 8 9 }) ke ({ }) lie ({ 7 }) isZwemAla ({ 6 }) nahIM ({ 4 }) kiyA ({ }) jAnA ({ 5 }) cAhie. ({ 3 }) 
+# Sentence pair (71) source length 8 target length 9 alignment score : 1.92452e-09
+In India, there were 7.6 million pigs in 1977. 
+NULL ({ }) BArawa ({ 1 2 }) meM ({ }) 1977 ({ 9 }) meM ({ 8 }) 76 ({ 3 }) lAKa ({ 4 5 6 }) sUara ({ }) We. ({ 7 }) 
+# Sentence pair (72) source length 12 target length 10 alignment score : 1.62878e-10
+This has given very encouraging results with the minimum outlay. 
+NULL ({ 8 }) nZyUnawama ({ 1 }) pUMjI ({ 2 }) lagAkara ({ 3 }) BI ({ }) isa ({ }) warIke ({ }) ke ({ }) badZe ({ }) uwZsAhajanaka ({ 4 }) pariNAma ({ 6 7 9 10 }) nikale ({ 5 }) hEM. ({ }) 
+# Sentence pair (73) source length 10 target length 12 alignment score : 3.64764e-16
+The weight of an average sow varies from 175 to 275 kilograms. 
+NULL ({ }) Osawa ({ 1 5 }) sUara ({ 6 7 }) kA ({ }) vajana ({ 2 3 4 }) 175 ({ 9 }) se ({ 8 10 }) 275 ({ 11 }) kilogrAma ({ 12 }) howA ({ }) hE. ({ }) 
+# Sentence pair (74) source length 8 target length 7 alignment score : 2.10061e-10
+It has short head with dished face. 
+NULL ({ }) isakA ({ 1 2 3 }) sira ({ 4 }) CotA ({ 5 7 }) howA ({ }) hE ({ }) Ora ({ }) ceharA ({ }) KoKalA. ({ 6 }) 
+# Sentence pair (75) source length 6 target length 7 alignment score : 1.41097e-07
+The body is long and ribs well-sprung. 
+NULL ({ }) SarIra ({ 1 }) lamZbA, ({ 2 3 }) pasaliyAM ({ 6 7 }) sugaTiwa ({ 4 5 }) howI ({ }) hEM. ({ }) 
+# Sentence pair (76) source length 10 target length 10 alignment score : 2.1366e-08
+Chester White, Duroc, and Hampshire breeds are popular in America. 
+NULL ({ }) cEsZtara ({ 1 }) vAita, ({ 2 }) dyUroka ({ 3 }) Ora ({ 4 }) hEmZpaSAyara ({ 5 6 }) nasZleM ({ }) amerikA ({ 10 }) meM ({ 9 }) lokapriya ({ 8 }) hEM. ({ 7 }) 
+# Sentence pair (77) source length 6 target length 6 alignment score : 5.14497e-06
+Selection and Management of Breeding Boars 
+NULL ({ }) prZajanaka ({ 1 }) sUaroM ({ 5 6 }) kA ({ 4 }) cayana ({ }) Ora ({ 2 }) prabanZXa ({ 3 }) 
+# Sentence pair (78) source length 7 target length 9 alignment score : 2.28473e-11
+A good breeding boar should be masculine in appearance. 
+NULL ({ }) acZCe ({ 1 }) sUara ({ }) kI ({ }) banAvata ({ }) marxAnA ({ 2 3 4 7 8 9 }) honI ({ 6 }) cAhie. ({ 5 }) 
+# Sentence pair (79) source length 12 target length 5 alignment score : 7.94418e-06
+Cements the crown into place. 
+NULL ({ }) waba ({ 1 }) krAuna ({ 3 }) ko ({ }) sImeMta ({ 5 }) xvArA ({ 4 }) apanI ({ }) jagaha ({ }) para ({ }) cipakA ({ 2 }) xiyA ({ }) jAwA ({ }) hE. ({ }) 
+# Sentence pair (80) source length 8 target length 8 alignment score : 7.54465e-05
+Copyright 1993 On Target Media, Inc., Cincinnati, OH 
+NULL ({ }) kApIrAita ({ 1 }) 1993 ({ 2 }) Ana ({ 3 }) tArgeta ({ 4 5 6 }) mIdiyA, ({ 7 }) iMka., ({ 8 }) sinasinEtI, ({ }) ohAyo ({ }) 
+# Sentence pair (81) source length 8 target length 8 alignment score : 7.54465e-05
+Copyright 1993 On Target Media, Inc., Cincinnati, OH 
+NULL ({ }) kApIrAita ({ 1 }) 1993 ({ 2 }) Ana ({ 3 }) tArgeta ({ 4 5 6 }) mIdiyA, ({ 7 }) iMka., ({ 8 }) sinasinEtI, ({ }) ohAyo ({ }) 
+# Sentence pair (82) source length 9 target length 5 alignment score : 1.94503e-05
+The Importance of Regular Visits 
+NULL ({ }) dOYktara ({ 1 2 }) se ({ }) niyamiwa ({ 4 }) rUpa ({ }) se ({ }) milawe ({ }) rahane ({ 5 }) kA ({ }) mahawva ({ 3 }) 
+# Sentence pair (83) source length 11 target length 7 alignment score : 7.31838e-07
+Teeth & gums immediately after dental cleaning. 
+NULL ({ }) xAzwoM ({ 1 }) Ora ({ }) masUdZoM ({ 2 }) kI ({ }) saPAI ({ 3 5 }) karAne ({ 6 }) ke ({ }) wuraMwa ({ 7 }) bAxa ({ }) kI ({ }) avasWA. ({ 4 }) 
+# Sentence pair (84) source length 11 target length 12 alignment score : 6.52982e-14
+It is highly desirable to provide some green feed throughout the year. 
+NULL ({ 11 }) sAre ({ }) varRa ({ }) ise ({ 1 }) harA ({ 8 9 10 }) cArA ({ 12 }) xewe ({ 7 }) rahanA ({ 3 4 6 }) bahuwa ({ 2 }) acZCA ({ }) rahawA ({ 5 }) hE. ({ }) 
+# Sentence pair (85) source length 9 target length 9 alignment score : 6.85388e-10
+Hay from some suitable legume should also be given. 
+NULL ({ }) kisI ({ 2 }) upayukZwa ({ 4 }) PalI ({ 1 5 }) kA ({ }) BUsA ({ 8 9 }) BI ({ 7 }) xewe ({ 3 }) rahanA ({ }) cAhie. ({ 6 }) 
+# Sentence pair (86) source length 11 target length 9 alignment score : 2.43683e-09
+Horse is proverbially known for its robust common sense. 
+NULL ({ }) kahAvawoM ({ 1 }) meM ({ }) wo ({ 2 }) GodZA ({ 3 }) apanI ({ }) sahaja ({ 6 }) buxXi ({ 7 8 9 }) ke ({ }) lie ({ 5 }) prasixXa ({ 4 }) hE. ({ }) 
+# Sentence pair (87) source length 12 target length 12 alignment score : 5.90498e-17
+The head of the Kathiawari is like that of the Arab horse. 
+NULL ({ 4 }) kATiyAvAdZI ({ 5 }) GodZe ({ 6 7 }) kA ({ }) sira ({ }) arabI ({ 8 9 11 12 }) GodZe ({ 10 }) ke ({ }) sira ({ 2 }) ke ({ 3 }) samAna ({ 1 }) howA ({ }) hE. ({ }) 
+# Sentence pair (88) source length 3 target length 4 alignment score : 7.97946e-05
+The Regular Dental Visit 
+NULL ({ }) niyamiwa ({ 1 }) xaMwa ({ 2 3 4 }) parIkRaNa ({ }) 
+# Sentence pair (89) source length 10 target length 8 alignment score : 1.31188e-09
+A regular dental visit may include the following: 
+NULL ({ }) niyamiwa ({ 1 }) xaMwa ({ }) parIkRaNa ({ }) ke ({ }) aMwargawa ({ 2 3 4 }) nimnaliKiwa ({ 7 8 }) cIjeM ({ 6 }) ho ({ }) sakawI ({ }) hEM: ({ 5 }) 
+# Sentence pair (90) source length 5 target length 4 alignment score : 8.53523e-06
+HEAD & NECK EXAMINATION 
+NULL ({ }) sira ({ }) evaM ({ }) gale ({ 1 2 3 4 }) kI ({ }) jAzca ({ }) 
+# Sentence pair (91) source length 12 target length 6 alignment score : 1.08182e-06
+Periodontal Exam- including gingiva, periodontal pockets 
+NULL ({ }) periyodOntala ({ 1 }) jAzca ({ }) - ({ }) jisameM ({ 6 }) masUdZoM ({ }) waWA ({ }) wAlU ({ }) kI ({ }) WEliyAz ({ 2 }) sammiliwa ({ 3 4 5 }) howI ({ }) hEM. ({ }) 
+# Sentence pair (92) source length 3 target length 3 alignment score : 0.00162857
+Mobility of Teeth 
+NULL ({ }) xAzwoM ({ 3 }) kI ({ 2 }) gawiSIlawA ({ 1 }) 
+# Sentence pair (93) source length 12 target length 8 alignment score : 1.39609e-09
+The prevailing colours are chestnut, brown and grey. 
+NULL ({ }) ye ({ }) GodZe ({ }) AmawOra ({ 2 3 }) para ({ }) BUre, ({ 4 5 6 }) lAla ({ }) Ora ({ 7 }) XUsara ({ 8 }) raMga ({ 1 }) ke ({ }) howe ({ }) hEM. ({ }) 
+# Sentence pair (94) source length 10 target length 7 alignment score : 1.11526e-06
+Kathiawari horses look elegant, shapely and majestic. 
+NULL ({ }) kATiyAvAdZI ({ 1 }) GodZe ({ }) bahuwa ({ }) hI ({ }) cusZwa, ({ 2 3 }) sunZxara ({ 4 5 }) Ora ({ 6 }) BavZya ({ 7 }) howe ({ }) hEM. ({ }) 
+# Sentence pair (95) source length 8 target length 8 alignment score : 1.76152e-09
+They are well-known for their pace and speed. 
+NULL ({ }) usakI ({ 1 5 6 }) cAla ({ }) Ora ({ 7 }) vega ({ 4 8 }) kI ({ }) badZI ({ 2 }) KZyAwi ({ 3 }) hE. ({ }) 
+# Sentence pair (96) source length 12 target length 8 alignment score : 5.7556e-11
+The most favoured colours are chestnut and bay. 
+NULL ({ }) ye ({ }) GodZe ({ }) sAmAnZyawa: ({ }) lAlI ({ 6 7 8 }) liye ({ }) BUre ({ }) aWavA ({ }) cesZtanata ({ 2 3 4 }) raMga ({ 1 }) ke ({ }) howe ({ 5 }) hEM. ({ }) 
+# Sentence pair (97) source length 8 target length 7 alignment score : 9.32492e-06
+Marwari horses are majestic, noble and handsome. 
+NULL ({ }) mAravAdZI ({ 1 }) GodZe ({ }) SAhI, ({ 2 3 4 }) kulIna ({ 5 }) Ora ({ 6 }) KUbasUrawa ({ 7 }) howe ({ }) hEM. ({ }) 
+# Sentence pair (98) source length 10 target length 10 alignment score : 3.08981e-10
+They are noted for ease of pace, speed and endurance. 
+NULL ({ }) apanI ({ }) cAla, ({ 5 6 7 8 }) vega ({ }) Ora ({ 9 }) sahanaSakZwi ({ 10 }) ke ({ }) lie ({ 4 }) ve ({ 1 }) viKZyAwa ({ 3 }) hEM. ({ 2 }) 
+# Sentence pair (99) source length 11 target length 10 alignment score : 6.65906e-09
+Manipuri ponies have been bred for many centuries in Manipur. 
+NULL ({ }) maNipurI ({ 1 2 3 }) : ({ }) tattU ({ 5 }) SawAbZxiyoM ({ 4 }) se ({ }) maNipura ({ 6 7 }) rAjZya ({ 10 }) meM ({ }) pAle ({ 8 }) jAwe ({ 9 }) hEM. ({ }) 
+# Sentence pair (100) source length 12 target length 10 alignment score : 3.44388e-13
+The face is long, muzzle fairly broad with well-dilated nostrils. 
+NULL ({ }) ceharA ({ }) lamZbA, ({ 3 }) WuWanI ({ 7 8 9 10 }) kAPI ({ }) cOdZI ({ }) Ora ({ }) PEle ({ 4 }) hue ({ 1 }) naWunoM ({ 2 5 6 }) vAlI ({ }) howI ({ }) hE. ({ }) 
+# Sentence pair (101) source length 7 target length 8 alignment score : 5.09377e-10
+The chest is broad and the ribs well-sprung. 
+NULL ({ 6 }) CAwI ({ 1 }) cOdZI ({ 2 3 4 }) Ora ({ 5 }) pasaliyAM ({ 7 8 }) sugaTiwa ({ }) howI ({ }) hEM. ({ }) 
+# Sentence pair (102) source length 12 target length 6 alignment score : 3.6098e-07
+These animals are sturdy and sure-footed. 
+NULL ({ }) ye ({ 1 }) badZe ({ }) majabUwa ({ }) howe ({ }) hEM ({ }) Ora ({ 5 }) inake ({ }) pAMva ({ }) KUba ({ }) jamakara ({ 4 6 }) padZawe ({ 2 }) hEM. ({ 3 }) 
+# Sentence pair (103) source length 12 target length 12 alignment score : 6.12443e-13
+They are in great demand for polo, racing and for military transport. 
+NULL ({ }) polo, ({ }) GudZaxOdZa ({ 7 8 }) Ora ({ 9 }) sEnika ({ 6 10 12 }) parivahana ({ 11 }) ke ({ }) lie ({ }) inakI ({ 1 }) badZI ({ 2 }) mAMga ({ 3 4 5 }) rahawI ({ }) hE. ({ }) 
+# Sentence pair (104) source length 11 target length 12 alignment score : 7.43408e-14
+They are more difficult to breed and have a longer gestation period. 
+NULL ({ }) unakA ({ 1 }) pAlana ({ 4 6 }) aXika ({ 3 }) kaTina ({ }) hE ({ }) Ora ({ 7 }) unakI ({ 5 8 9 }) garBAvaXi ({ 10 11 12 }) aXika ({ 2 }) lamZbI ({ }) hE. ({ }) 
+# Sentence pair (105) source length 10 target length 8 alignment score : 6.5593e-09
+The oestral cycle in mares averages 21 days. 
+NULL ({ }) GoZdZiyoM ({ 5 6 }) meM ({ 4 }) garmI ({ 1 }) kA ({ }) cakra ({ 2 3 }) Osawana ({ }) 21 ({ 7 }) xina ({ 8 }) kA ({ }) hE. ({ }) 
+# Sentence pair (106) source length 9 target length 10 alignment score : 2.54261e-10
+The duration of heat varies from seven to nine days. 
+NULL ({ }) garmI ({ 1 }) kI ({ 3 }) aZvaXi ({ 2 4 5 }) 7 ({ 7 }) se ({ 6 }) 9 ({ 9 }) xina ({ 10 }) waka ({ 8 }) hE. ({ }) 
+# Sentence pair (107) source length 10 target length 11 alignment score : 4.38282e-15
+As a rule, the mare drops one foal at each birth. 
+NULL ({ }) sAmAnZyawa: ({ 3 }) GodZI ({ 5 }) hara ({ 1 6 }) prasava ({ 2 }) para ({ 4 }) eka ({ }) hI ({ }) baCedZA ({ 8 10 11 }) xewI ({ 7 9 }) hE. ({ }) 
+# Sentence pair (108) source length 9 target length 8 alignment score : 3.58045e-08
+A mare carries her young for 340 days. 
+NULL ({ }) GodZI ({ 1 2 }) ke ({ }) peta ({ 3 4 }) meM ({ }) bacZcA ({ 5 }) 340 ({ 6 7 }) xina ({ 8 }) rahawA ({ }) hE. ({ }) 
+# Sentence pair (109) source length 9 target length 11 alignment score : 2.12296e-13
+The udder of the pregnant mare enlarges during the eleventh month. 
+NULL ({ }) garBiNI ({ 1 }) GodZI ({ }) kA ({ 3 }) ayana ({ 2 }) gZyArahaveM ({ 4 5 6 }) mAsa ({ }) PEla ({ 7 8 10 11 }) jAwA ({ 9 }) hE. ({ }) 
+# Sentence pair (110) source length 10 target length 8 alignment score : 1.33657e-08
+A mare's milk contains 9.42 per cent solids. 
+NULL ({ }) GodZI ({ 1 }) ke ({ }) xUXa ({ 3 }) meM ({ }) 9.42 ({ 2 4 }) prawiSawa ({ 6 7 }) Tosa ({ 5 }) paxArWa ({ 8 }) howe ({ }) hEM. ({ }) 
+# Sentence pair (111) source length 10 target length 8 alignment score : 2.48457e-11
+It is best to give water before feeding. 
+NULL ({ }) xAnA ({ 1 2 3 }) xene ({ 5 6 }) se ({ }) pahale ({ 7 }) GodZe ({ }) ko ({ 4 }) pAnI ({ }) pilAyA ({ 8 }) jAnA ({ }) cAhie. ({ }) 
+# Sentence pair (112) source length 10 target length 9 alignment score : 4.26719e-10
+Bran is rich in phosphorus but deficient in calcium. 
+NULL ({ }) cokara ({ 1 }) meM ({ }) POYsZPorasa ({ 2 }) wo ({ }) aXika ({ }) howA ({ }) hE ({ }) paranZwu ({ 4 5 6 7 8 9 }) kElZSiyama ({ 3 }) kama. ({ }) 
+# Sentence pair (113) source length 10 target length 9 alignment score : 7.61125e-11
+This deficiency can be made up by-providing food hay. 
+NULL ({ }) yaha ({ 1 }) kamI ({ 2 3 }) acZCA ({ }) BUsA ({ 4 }) KilAkara ({ 5 6 7 8 9 }) xUra ({ }) kI ({ }) jA ({ }) sakawI ({ }) hE. ({ }) 
+# Sentence pair (114) source length 9 target length 8 alignment score : 2.16063e-08
+Linseed meal is a protein-rich feed for horses. 
+NULL ({ }) alasI ({ 1 }) GodZoM ({ 2 4 5 6 }) ke ({ }) lie ({ }) protIna ({ 7 }) se ({ }) BarapUra ({ 8 }) KurAka ({ 3 }) hE. ({ }) 
+# Sentence pair (115) source length 12 target length 9 alignment score : 5.94478e-10
+Iodized salt should be added in iodine deficient areas. 
+NULL ({ }) AyodIna ({ 2 }) kI ({ }) kamI ({ }) vAle ({ }) kRewroM ({ 7 }) meM ({ 6 }) AyodIna ({ 8 9 }) miSriwa ({ 1 }) lavaNa ({ }) milAyA ({ 5 }) jAnA ({ 4 }) cAhie. ({ 3 }) 
+# Sentence pair (116) source length 1 target length 1 alignment score : 0.110296
+Exercise 
+NULL ({ }) kasarawa ({ 1 }) 
+# Sentence pair (117) source length 7 target length 8 alignment score : 7.24672e-12
+It also provides a sort of passive exercise. 
+NULL ({ }) yaha ({ 1 }) eka ({ 4 }) waraha ({ }) se ({ }) niSZceRZta ({ 3 5 8 }) kasarawa ({ 2 6 7 }) hE. ({ }) 
+# Sentence pair (118) source length 11 target length 12 alignment score : 2.07093e-17
+At this age the horse is said to have a full mouth. 
+NULL ({ 4 }) isa ({ 1 2 }) umra ({ 3 }) meM ({ }) GodZe ({ 6 }) ko ({ }) pUre ({ }) muMha ({ 5 }) vAlA ({ }) kahA ({ 7 9 10 11 12 }) jAwA ({ 8 }) hE. ({ }) 
+# Sentence pair (119) source length 11 target length 7 alignment score : 2.00241e-07
+The heat-period lasts three to seven days. 
+NULL ({ }) garmI ({ 1 }) kI ({ }) aZvaXi ({ }) 3 ({ 2 3 4 }) se ({ }) 7 ({ 6 }) xina ({ 7 }) waka ({ 5 }) banI ({ }) rahawI ({ }) hE. ({ }) 
+# Sentence pair (120) source length 10 target length 9 alignment score : 5.89629e-11
+The lactation period ranges from 6 to 12 months. 
+NULL ({ }) xUXa ({ 1 }) kI ({ }) avaXi ({ 2 3 4 }) 6 ({ 6 }) se ({ 5 }) 12 ({ 8 }) mAsa ({ 9 }) waka ({ 7 }) rahawI ({ }) hE. ({ }) 
+# Sentence pair (121) source length 12 target length 12 alignment score : 4.17586e-15
+The young one is generally weaned at the age of six months. 
+NULL ({ }) navajAwa ({ 1 2 }) gaXe ({ 3 }) ko ({ }) 6 ({ }) mAsa ({ 11 12 }) kI ({ 10 }) umra ({ 9 }) se ({ }) xUXa ({ }) CudZavAyA ({ 5 6 7 }) jAwA ({ 8 }) hE. ({ 4 }) 
+# Sentence pair (122) source length 10 target length 8 alignment score : 2.6295e-12
+Usually one young is born at a time. 
+NULL ({ }) gaXI ({ 1 }) prAya: ({ }) eka ({ }) samaya ({ }) meM ({ }) eka ({ 7 }) hI ({ 4 }) bacZcA ({ 3 5 8 }) xewI ({ 2 6 }) hE. ({ }) 
+# Sentence pair (123) source length 7 target length 9 alignment score : 8.07954e-12
+The milk of an ass is easy fo digest. 
+NULL ({ }) gaXI ({ 1 }) kA ({ 3 }) xUXa ({ 2 }) badZA ({ }) pAcaka ({ 4 5 7 8 9 }) howA ({ 6 }) hE. ({ }) 
+# Sentence pair (124) source length 11 target length 11 alignment score : 3.0298e-14
+The present number of mules in India is, however, very small. 
+NULL ({ }) waWApi ({ 1 2 3 }) isa ({ }) samaya ({ }) BArawa ({ 7 }) meM ({ 6 }) KacZcaroM ({ 5 8 9 }) kI ({ 4 }) saMKZyA ({ 10 11 }) bahuwa ({ }) kama ({ }) hE. ({ }) 
+# Sentence pair (125) source length 11 target length 10 alignment score : 2.25523e-14
+This system provides nourishment for the cells within the tooth. 
+NULL ({ }) ye ({ }) vyavasWA ({ }) xAzwa ({ 6 }) ke ({ }) aMxara ({ 8 }) ke ({ 9 }) kakRoM ({ 10 }) kA ({ }) poRaNa ({ 1 2 3 4 5 7 }) karawI ({ }) hE. ({ }) 
+# Sentence pair (126) source length 12 target length 11 alignment score : 7.63513e-15
+Some indications of the need for root canal treatment may be: 
+NULL ({ }) rUta ({ 1 }) kanAla ({ 2 5 6 7 8 }) upacAra ({ 9 10 11 }) kI ({ 3 }) AvaSyakawA ({ }) ke ({ }) kuCa ({ 4 }) lakRaNa ({ }) nimna ({ }) ho ({ }) sakawe ({ }) hEM: ({ }) 
+# Sentence pair (127) source length 7 target length 6 alignment score : 2.87042e-05
+Spontaneous pain or throbbing while biting. 
+NULL ({ }) KAne ({ 1 }) ke ({ }) samaya ({ }) ekAeka ({ 5 6 }) xarxa ({ 2 }) yA ({ 3 }) spaMxana. ({ 4 }) 
+# Sentence pair (128) source length 7 target length 6 alignment score : 5.61634e-08
+Sensitivity to hot and cold foods. 
+NULL ({ }) TaMdA ({ 1 }) yA ({ }) garama ({ 2 3 4 5 }) KAne ({ 6 }) ke ({ }) prawi ({ }) saMvexanaSIlawA. ({ }) 
+# Sentence pair (129) source length 10 target length 8 alignment score : 7.98287e-08
+The length of the root canals is determined. 
+NULL ({ }) jadZa ({ 1 }) WElI ({ 2 }) kI ({ 3 }) naliyoM ({ 4 5 6 }) kI ({ }) laMbAI ({ 7 }) niSciwa ({ 8 }) kI ({ }) jAwI ({ }) hE. ({ }) 
+# Sentence pair (130) source length 11 target length 8 alignment score : 1.08379e-11
+Stiffness appears in different parts of the body. 
+NULL ({ }) SarIra ({ }) ke ({ 6 }) BinZna ({ 1 }) BinZna ({ 2 }) BAgoM ({ 7 }) meM ({ 3 }) akadZAhata ({ 4 5 8 }) pExA ({ }) ho ({ }) jAwI ({ }) hE. ({ }) 
+# Sentence pair (131) source length 6 target length 6 alignment score : 8.88817e-07
+Tail is kept raised and quivering. 
+NULL ({ }) xuma ({ }) uTI ({ 3 4 }) Ora ({ 5 }) kAMpawI ({ 1 6 }) rahawI ({ 2 }) hE. ({ }) 
+# Sentence pair (132) source length 11 target length 8 alignment score : 5.43973e-11
+Cold patchy swellings develop all over the body. 
+NULL ({ }) SarIra ({ }) ke ({ }) saBI ({ 4 5 }) BAgoM ({ 6 7 8 }) meM ({ }) WodZI ({ }) WodZI ({ }) sUjana ({ 1 2 3 }) ho ({ }) jAwI ({ }) hE. ({ }) 
+# Sentence pair (133) source length 8 target length 7 alignment score : 5.33093e-10
+Faeces may be passed in small quantities. 
+NULL ({ }) WodZI ({ }) WodZI ({ 1 2 3 4 }) mAwrA ({ }) meM ({ 5 }) mala ({ 6 7 }) karane ({ }) lagawA ({ }) hE. ({ }) 
+# Sentence pair (134) source length 11 target length 10 alignment score : 2.31758e-12
+Camel has earned a special reputation for military transport work. 
+NULL ({ }) UMta ({ 1 }) ne ({ 6 }) sEnika ({ 7 }) parivahana ({ 8 9 10 }) ke ({ }) kAma ({ }) meM ({ }) viSeRa ({ 4 5 }) KZyAwi ({ }) pAyI ({ 2 3 }) hE. ({ }) 
+# Sentence pair (135) source length 10 target length 6 alignment score : 1.99482e-08
+Camel hide is used for saddlery. 
+NULL ({ }) UMta ({ 1 }) kI ({ }) KAla ({ }) kATI ({ 2 6 }) ke ({ }) lie ({ 5 }) isZwemAla ({ 4 }) kI ({ }) jAwI ({ }) hE. ({ 3 }) 
+# Sentence pair (136) source length 10 target length 8 alignment score : 3.9096e-10
+The tooth is sealed with a temporary filling. 
+NULL ({ }) xAzwa ({ 1 }) ko ({ }) asWAyI ({ 3 }) BarAva ({ 5 6 7 }) wawva ({ 2 4 }) se ({ }) Bara ({ 8 }) xiyA ({ }) jAwA ({ }) hE. ({ }) 
+# Sentence pair (137) source length 8 target length 8 alignment score : 7.54465e-05
+Copyright 1993 On Target Media, Inc., Cincinnati, OH 
+NULL ({ }) kApIrAita ({ 1 }) 1993 ({ 2 }) Ana ({ 3 }) tArgeta ({ 4 5 6 }) mIdiyA, ({ 7 }) iMka., ({ 8 }) sinasinEtI, ({ }) ohAyo ({ }) 
+# Sentence pair (138) source length 2 target length 2 alignment score : 0.0106007
+Sensitive Teeth 
+NULL ({ }) saMvexanaSIla ({ 1 2 }) xAzwa ({ }) 
+# Sentence pair (139) source length 4 target length 4 alignment score : 0.000114831
+Indian Breeds of Camels 
+NULL ({ }) UMta ({ }) kI ({ }) BArawIya ({ 1 }) nasZleM ({ 2 3 4 }) 
+# Sentence pair (140) source length 10 target length 11 alignment score : 3.13631e-12
+It has small eyes, short ears, thin skins and small feet. 
+NULL ({ }) AMKeM, ({ 1 2 3 }) kAna ({ }) Ora ({ 9 }) pAMva ({ }) Cote ({ }) waWA ({ 4 5 }) camadZI ({ 6 7 8 }) pawalI ({ 10 11 }) howI ({ }) hE. ({ }) 
+# Sentence pair (141) source length 10 target length 9 alignment score : 1.11338e-08
+The Hill camel is a compact and muscular animal. 
+NULL ({ }) pahAdZI ({ 1 }) UMta ({ 3 }) Tuke ({ 2 }) SarIra ({ 6 }) va ({ 7 }) vikasiwa ({ 8 }) mAMsapeSiyoM ({ 9 }) vAlA ({ }) paSu ({ 5 }) hE. ({ 4 }) 
+# Sentence pair (142) source length 10 target length 11 alignment score : 3.88952e-14
+The legs are short and the feet are round and hard. 
+NULL ({ }) isakI ({ 1 }) tAMgeM ({ 2 }) CotI ({ 3 }) waWA ({ 4 10 }) pAMva ({ 6 }) gola ({ }) Ora ({ 5 }) kaTora ({ 7 9 11 }) howe ({ 8 }) hEM. ({ }) 
+# Sentence pair (143) source length 8 target length 8 alignment score : 1.65359e-08
+The camel has a well-defined season of breeding. 
+NULL ({ }) UMtoM ({ 1 2 }) ke ({ }) prajanana ({ 3 }) kI ({ 7 }) eka ({ }) niSZciwa ({ 5 6 8 }) qwu ({ 4 }) hE. ({ }) 
+# Sentence pair (144) source length 9 target length 8 alignment score : 2.64309e-10
+Gram is considered to be the best feed. 
+NULL ({ }) cane ({ 1 }) ko ({ }) UMta ({ }) kI ({ }) sarvowwama ({ 4 }) KurAka ({ 2 }) mAnA ({ 3 5 7 8 }) jAwA ({ 6 }) hE. ({ }) 
+# Sentence pair (145) source length 12 target length 7 alignment score : 4.32517e-10
+Grains should preferably be fed in the,evenings. 
+NULL ({ }) acZCA ({ 1 }) wo ({ }) yahI ({ }) rahawA ({ }) hE ({ }) ki ({ }) anAja ({ }) sanZXZyA ({ 5 7 }) ke ({ }) samaya ({ 6 }) xiyA ({ 2 4 }) jAye. ({ 3 }) 
+# Sentence pair (146) source length 11 target length 8 alignment score : 1.04693e-12
+Salt is essential for keeping the camel healthy. 
+NULL ({ }) UMta ({ }) ko ({ 6 }) sZvasZWa ({ 5 7 8 }) raKane ({ }) ke ({ }) lie ({ 4 }) ise ({ }) namaka ({ 1 }) xenA ({ 3 }) AvaSZyaka ({ }) hE. ({ 2 }) 
+# Sentence pair (147) source length 12 target length 12 alignment score : 1.42526e-14
+The maximum load in the army is, however, limited to 1.8 quintals. 
+NULL ({ }) senA ({ 6 7 8 }) meM ({ 4 }) UMta ({ 1 }) para ({ 5 }) lAxane ({ 2 3 }) kA ({ }) aXikawama ({ 9 }) vajana ({ }) 1.8 ({ 11 }) kZviMtala ({ 10 12 }) hI ({ }) hE. ({ }) 
+# Sentence pair (148) source length 12 target length 12 alignment score : 1.08649e-14
+An average distance for a day's march is 19 to 24 kilometres. 
+NULL ({ }) eka ({ }) xina ({ }) meM ({ }) calane ({ 1 }) kI ({ }) Osawa ({ 2 }) xUrI ({ 3 4 5 6 }) 19 ({ 10 }) se ({ }) 24 ({ 7 11 12 }) kilomItara ({ 8 9 }) hE. ({ }) 
+# Sentence pair (149) source length 9 target length 11 alignment score : 2.32403e-15
+The act of urination in the male camel takes considerable time. 
+NULL ({ }) UMta ({ 1 8 }) ko ({ 6 }) peSAba ({ 7 9 10 11 }) karane ({ }) meM ({ 5 }) kAPI ({ 3 }) samaya ({ }) lagawA ({ 2 4 }) hE. ({ }) 
+# Sentence pair (150) source length 11 target length 10 alignment score : 1.73327e-10
+The saddle or palan should be squarely and evenly adjusted. 
+NULL ({ }) kATI ({ }) aWavA ({ 3 }) pAlana ({ }) ko ({ }) barAbarI ({ 2 4 }) se ({ }) TIka ({ 1 }) waraha ({ }) jamAyA ({ 7 8 9 10 }) jAnA ({ 6 }) cAhie. ({ 5 }) 
+# Sentence pair (151) source length 11 target length 8 alignment score : 5.41736e-11
+Pace must be practised at an early age. 
+NULL ({ }) cAla ({ 4 5 6 }) kA ({ }) aBZyAsa ({ 7 8 }) isase ({ }) pahale ({ }) kama ({ }) umra ({ }) meM ({ }) karavAyA ({ 1 2 }) jAnA ({ 3 }) cAhie. ({ }) 
+# Sentence pair (152) source length 12 target length 8 alignment score : 3.55047e-10
+The riding camel is seldom ridden at walk. 
+NULL ({ }) savArI ({ 1 }) vAlA ({ }) UMta ({ 3 }) XImI ({ 2 }) cAla ({ 7 }) se ({ }) wo ({ 4 }) prAya: ({ }) cala ({ 5 6 8 }) hI ({ }) nahIM ({ }) pAwA. ({ }) 
+# Sentence pair (153) source length 9 target length 8 alignment score : 1.14877e-06
+After this, it should be allowed sufficient rest. 
+NULL ({ }) isake ({ 1 }) bAxa ({ 2 3 }) hI ({ }) ise ({ }) paryApZwa ({ 7 8 }) viSrAma ({ 6 }) xiyA ({ }) jAnA ({ 5 }) cAhie. ({ 4 }) 
+# Sentence pair (154) source length 4 target length 4 alignment score : 0.000116612
+Seasonal Clipping of Hair 
+NULL ({ }) bAloM ({ 3 4 }) kI ({ }) mOsamI ({ 2 }) katAI ({ 1 }) 
+# Sentence pair (155) source length 10 target length 9 alignment score : 4.04147e-12
+The camels are generally clipped in the spring season. 
+NULL ({ }) UMtoM ({ 1 }) se ({ }) prAya: ({ }) vasanZwa ({ 2 }) qwu ({ 7 }) meM ({ }) bAla ({ }) uwAre ({ 4 5 8 9 }) jAwe ({ 6 }) hEM. ({ 3 }) 
+# Sentence pair (156) source length 6 target length 6 alignment score : 5.02508e-10
+Determining the Age of a Camel 
+NULL ({ }) UMta ({ }) kI ({ }) Ayu ({ 1 3 5 6 }) kA ({ 4 }) pawA ({ }) karanA ({ 2 }) 
+# Sentence pair (157) source length 11 target length 11 alignment score : 3.31931e-12
+At the age of 12 months, there are six temporary incisors. 
+NULL ({ }) bAraha ({ 1 }) mAsa ({ 2 5 }) kI ({ 4 }) umra ({ 3 }) meM ({ }) Ca: ({ 9 10 11 }) asZWAyI ({ 6 }) Cexaka ({ }) xAMwa ({ 7 }) howe ({ 8 }) hEM. ({ }) 
+# Sentence pair (158) source length 11 target length 11 alignment score : 1.65941e-13
+At the age of five years, there are two permanent incisors. 
+NULL ({ 2 }) 5 ({ }) varRa ({ }) kI ({ 4 }) umra ({ 3 }) meM ({ }) xo ({ 9 }) sZWAyI ({ 5 6 10 11 }) Cexaka ({ 1 }) xAMwa ({ 7 }) howe ({ 8 }) hEM. ({ }) 
+# Sentence pair (159) source length 8 target length 8 alignment score : 7.54465e-05
+Copyright 1993 On Target Media, Inc., Cincinnati, OH 
+NULL ({ }) kApIrAita ({ 1 }) 1993 ({ 2 }) Ana ({ 3 }) tArgeta ({ 4 5 6 }) mIdiyA, ({ 7 }) iMka., ({ 8 }) sinasinEtI, ({ }) ohAyo ({ }) 
+# Sentence pair (160) source length 8 target length 8 alignment score : 7.54465e-05
+Copyright 1993 On Target Media, Inc., Cincinnati, OH 
+NULL ({ }) kApIrAita ({ 1 }) 1993 ({ 2 }) Ana ({ 3 }) tArgeta ({ 4 5 6 }) mIdiyA, ({ 7 }) iMka., ({ 8 }) sinasinEtI, ({ }) ohAyo ({ }) 
+# Sentence pair (161) source length 10 target length 9 alignment score : 3.3682e-13
+In females the yield of milk is greatly diminished. 
+NULL ({ 3 }) UMtaniyoM ({ 1 2 4 8 9 }) meM ({ }) xUXa ({ 6 }) kI ({ }) mAwrA ({ 5 }) bahuwa ({ 7 }) kama ({ }) ho ({ }) jAwI ({ }) hE. ({ }) 
+# Sentence pair (162) source length 12 target length 9 alignment score : 2.64585e-12
+The sick animal prefers to stand facing the sun. 
+NULL ({ }) bImAra ({ 1 2 3 4 6 }) UMta ({ }) sUrya ({ 9 }) kI ({ }) waraPa ({ 7 8 }) muKa ({ }) karake ({ }) KadZA ({ }) honA ({ }) pasanZxa ({ 5 }) karawA ({ }) hE. ({ }) 
+# Sentence pair (163) source length 12 target length 7 alignment score : 1.58275e-10
+It rises considerably from dawn to sunset. 
+NULL ({ }) URAkAla ({ 1 2 3 }) se ({ }) sUryAsZwa ({ 4 5 6 7 }) kI ({ }) avaXi ({ }) ke ({ }) bIca ({ }) yaha ({ }) kAPI ({ }) baDZa ({ }) jAwA ({ }) hE. ({ }) 
+# Sentence pair (164) source length 9 target length 9 alignment score : 9.85543e-09
+An ordinary clinical thermometer is used for the purpose. 
+NULL ({ }) isake ({ 1 }) lie ({ 7 }) Ama ({ 9 }) dAkZtarI ({ 2 3 }) WarmAmItara ({ 4 }) isZwemAla ({ 6 }) kiyA ({ }) jAwA ({ 8 }) hE. ({ 5 }) 
+# Sentence pair (165) source length 9 target length 9 alignment score : 6.40667e-11
+The camel sits down and is unable to rise. 
+NULL ({ }) UMta ({ 1 2 }) bETa ({ 7 9 }) jAwA ({ 8 }) hE ({ 6 }) Ora ({ 5 }) KadZA ({ }) nahIM ({ }) ho ({ }) pAwA. ({ 3 4 }) 
+# Sentence pair (166) source length 9 target length 7 alignment score : 1.24152e-09
+Death takes place within a few hours. 
+NULL ({ }) kuCa ({ }) GaNZte ({ }) ke ({ }) BIwara ({ 1 }) hI ({ }) yaha ({ }) mara ({ 2 3 4 5 6 7 }) jAwA ({ }) hE. ({ }) 
+# Sentence pair (167) source length 9 target length 9 alignment score : 6.92242e-09
+In Hindu mythology, Ganesha is depicted as elephant-headed god. 
+NULL ({ }) purANoM ({ 1 2 }) meM ({ }) gaNeSa ({ 3 }) xevawA ({ 4 }) ko ({ }) gajAnana ({ 5 }) bawAyA ({ 6 7 8 9 }) gayA ({ }) hE. ({ }) 
+# Sentence pair (168) source length 12 target length 12 alignment score : 1.47037e-13
+The elephant inhabits the forest districts of India, Sri Lanka and Burma. 
+NULL ({ }) hAWI ({ 1 2 }) BArawa ({ }) ke ({ }) jaMgalI ({ 3 }) praxeSoM, ({ 5 8 9 }) SrIlaMkA ({ 6 7 10 }) Ora ({ 11 }) barmA ({ 12 }) meM ({ }) pAyA ({ }) jAwA ({ 4 }) hE. ({ }) 
+# Sentence pair (169) source length 7 target length 9 alignment score : 1.76951e-09
+Indian cow-elephants, as a rule, do not have tusks. 
+NULL ({ }) sAmAnZyawa: ({ }) BArawIya ({ 1 }) ZhaWiniyoM ({ 2 3 }) ke ({ }) gajaxanZwa ({ 9 }) nahIM ({ 7 }) howe. ({ 4 5 6 8 }) 
+# Sentence pair (170) source length 9 target length 6 alignment score : 4.11861e-06
+These are formidable weapons of offence. 
+NULL ({ }) ye ({ 1 }) AkramaNa ({ 3 }) meM ({ }) kAma ({ }) Ane ({ }) vAle ({ }) BayAvane ({ 5 6 }) SasZwra ({ 4 }) hEM. ({ 2 }) 
+# Sentence pair (171) source length 11 target length 10 alignment score : 1.82168e-13
+They can be brought into use at almost any angle. 
+NULL ({ }) kisI ({ 9 }) BI ({ }) koNa ({ 7 8 10 }) se ({ }) ye ({ 1 }) kAma ({ }) meM ({ }) lAye ({ 4 5 6 }) jA ({ 2 3 }) sakawe ({ }) hEM. ({ }) 
+# Sentence pair (172) source length 11 target length 8 alignment score : 6.12966e-10
+Sometimes, extremely exaggerated ages are attributed to elephants. 
+NULL ({ }) kaBI ({ 7 }) kaBI ({ }) hAWiyoM ({ 5 }) kI ({ }) Ayu ({ }) bahuwa ({ }) baDZA ({ 8 }) caDZAkara ({ 1 }) kahI ({ 2 3 4 6 }) jAwI ({ }) hE. ({ }) 
+# Sentence pair (173) source length 10 target length 11 alignment score : 1.63494e-14
+The average age of a circus elephant is about 35 years. 
+NULL ({ }) sarkasa ({ 5 6 }) ke ({ }) hAWI ({ 1 7 }) kI ({ 4 }) Osawa ({ 2 }) umra ({ 3 }) 35 ({ 10 }) varRa ({ 9 11 }) howI ({ }) hE. ({ 8 }) 
+# Sentence pair (174) source length 9 target length 10 alignment score : 8.17919e-13
+Teeth also afford some rough evidence as to the age. 
+NULL ({ }) xAMwa ({ 1 }) BI ({ 2 }) umra ({ }) kA ({ }) kuCa ({ 8 9 }) anumAna ({ 3 5 6 7 }) xe ({ 10 }) xewe ({ 4 }) hEM. ({ }) 
+# Sentence pair (175) source length 8 target length 6 alignment score : 3.84714e-07
+The tail is even more active. 
+NULL ({ }) xuma ({ 1 2 }) wo ({ 3 }) isase ({ }) BI ({ }) aXika ({ 5 }) hilawI ({ 4 6 }) rahawI ({ }) hE. ({ }) 
+# Sentence pair (176) source length 7 target length 6 alignment score : 1.14148e-07
+The elephant almost invariably remains standing. 
+NULL ({ }) hAWI ({ 1 2 }) prAya: ({ }) saxA ({ 3 5 }) KadZA ({ 4 6 }) hI ({ }) rahawA ({ }) hE. ({ }) 
+# Sentence pair (177) source length 11 target length 9 alignment score : 1.97057e-09
+Elephants are valued according to their age and training. 
+NULL ({ }) hAWiyoM ({ 1 2 }) kA ({ }) mUlZya ({ 3 4 5 }) unakI ({ 6 }) umra ({ 7 }) Ora ({ 8 }) praSikRaNa ({ 9 }) ke ({ }) anusAra ({ }) lagawA ({ }) hE. ({ }) 
+# Sentence pair (178) source length 10 target length 8 alignment score : 7.95264e-08
+What are the most common signs and symptoms? 
+NULL ({ }) bImArI ({ 1 2 }) ke ({ }) sabase ({ 4 }) sAXAraNa ({ 5 }) saMkewa ({ 6 }) va ({ 7 }) roga ({ }) lakRaNa ({ 8 }) kyA ({ }) hEM ({ 3 }) 
+# Sentence pair (179) source length 6 target length 6 alignment score : 4.40488e-08
+Pain is either episodic or persistent. 
+NULL ({ }) xarxa ({ }) hameSA ({ 4 }) yA ({ 5 }) kaBI-kaBI ({ 1 3 6 }) howA ({ 2 }) hE. ({ }) 
+# Sentence pair (180) source length 10 target length 8 alignment score : 2.36811e-10
+Both the males and females have these glands. 
+NULL ({ }) hAWI ({ }) Ora ({ 4 }) haWinI, ({ 5 }) xonoM ({ }) hI, ({ 6 7 8 }) meM ({ }) ye ({ }) graMWiyAM ({ 1 2 3 }) howI ({ }) hEM. ({ }) 
+# Sentence pair (181) source length 10 target length 10 alignment score : 7.88124e-14
+There is seldom any evidence of heat in the cow-elephants. 
+NULL ({ 9 }) haWiniyoM ({ 1 10 }) meM ({ 8 }) wo ({ 2 }) garmI ({ 7 }) ke ({ 6 }) lakRaNa ({ }) kama ({ }) hI ({ }) xIKawe ({ 3 4 5 }) hEM. ({ }) 
+# Sentence pair (182) source length 11 target length 6 alignment score : 7.72289e-10
+Twins among elephants are very uncommon. 
+NULL ({ }) hAWiyoM ({ }) meM ({ }) eka ({ }) sAWa ({ }) xo ({ }) bacZce ({ 1 2 3 6 }) bahuwa ({ 5 }) hI ({ }) kama ({ }) howe ({ 4 }) hEM. ({ }) 
+# Sentence pair (183) source length 12 target length 12 alignment score : 1.77763e-14
+Often a cow-elephant may be seen assuming a recumbent posture during parturition. 
+NULL ({ }) prAya: ({ }) haWinI ({ }) ko ({ }) prasava ({ }) ke ({ }) samaya ({ }) aXaletI ({ 3 4 5 6 7 }) muxrA ({ 1 }) lewe ({ 2 }) xeKA ({ 9 10 11 12 }) gayA ({ 8 }) hE. ({ }) 
+# Sentence pair (184) source length 8 target length 10 alignment score : 2.70756e-13
+The calf is covered with fur all over the body. 
+NULL ({ }) bacZce ({ 1 }) ke ({ }) sAre ({ 7 8 }) SarIra ({ 10 }) para ({ 9 }) Para ({ 2 4 5 6 }) howI ({ }) hE. ({ 3 }) 
+# Sentence pair (185) source length 7 target length 7 alignment score : 1.69769e-07
+The young one suckles with its mouth. 
+NULL ({ }) navajAwa ({ 1 2 }) bacZcA ({ }) muKa ({ 3 }) se ({ }) sZwana ({ 5 6 7 }) cUsawA ({ 4 }) hE. ({ }) 
+# Sentence pair (186) source length 11 target length 6 alignment score : 3.25272e-06
+It soon becomes playful and active. 
+NULL ({ }) vaha ({ 1 }) SIGra ({ 2 }) Kelane ({ 3 4 }) lagawA ({ }) hE ({ }) Ora ({ 5 }) bahuwa ({ }) sakriya ({ 6 }) ho ({ }) jAwA ({ }) hE. ({ }) 
+# Sentence pair (187) source length 12 target length 11 alignment score : 3.14765e-15
+The calf suckles the dam for about two to three years. 
+NULL ({ 4 }) bacZcA ({ }) xo ({ 8 }) se ({ }) wIna ({ 10 }) varRa ({ 11 }) waka ({ 9 }) mAwA ({ }) kA ({ }) xUXa ({ 1 }) ZpIwA ({ 2 3 5 6 7 }) rahawA ({ }) hE. ({ }) 
+# Sentence pair (188) source length 5 target length 4 alignment score : 1.54663e-06
+Composition of Elephant Milk 
+NULL ({ }) haWinI ({ 1 4 }) ke ({ }) xUXa ({ }) kI ({ 2 }) saMracanA ({ 3 }) 
+# Sentence pair (189) source length 10 target length 10 alignment score : 1.2091e-11
+Milk of the elephant possesses a characteristic taste and odour. 
+NULL ({ 3 }) haWinI ({ 1 }) ke ({ 2 }) xUXa ({ }) kA ({ }) viSiRZta ({ 4 5 6 }) sZvAxa ({ 7 8 }) Ora ({ 9 }) ganZXa ({ 10 }) howI ({ }) hE. ({ }) 
+# Sentence pair (190) source length 11 target length 7 alignment score : 5.74806e-09
+Do we know what causes TM problems? 
+NULL ({ }) kyA ({ }) hameM ({ }) mAlUma ({ 1 2 3 4 }) hE ({ }) ki ({ }) tI.ema. ({ 5 }) saMbaMXI ({ 6 }) xikkaweM ({ 7 }) kyoM ({ }) howI ({ }) hEM ({ }) 
+# Sentence pair (191) source length 9 target length 8 alignment score : 1.71057e-10
+What should I do if I experience symptoms? 
+NULL ({ }) roga ({ }) lakRaNa ({ }) mahasUsa ({ 3 4 5 6 7 8 }) hone ({ }) para ({ }) muJe ({ }) kyA ({ 1 }) karanA ({ }) cAhie ({ 2 }) 
+# Sentence pair (192) source length 12 target length 9 alignment score : 3.85607e-11
+Any lasting pain and/or dysfunction should be properly diagnosed. 
+NULL ({ }) kisI ({ }) BI ({ }) sWAyI ({ 8 9 }) xarxa ({ }) aWavA/evaM ({ 7 }) aSakwawA ({ 4 5 6 }) kA ({ }) uciwa ({ 1 }) roga ({ }) nixAna ({ 3 }) karAnA ({ 2 }) cAhie. ({ }) 
+# Sentence pair (193) source length 9 target length 8 alignment score : 8.61137e-09
+The elephant is constitutionally a beast of burden. 
+NULL ({ }) banAvata ({ }) kI ({ 7 }) xQRZti ({ 8 }) se ({ }) wo ({ 3 }) hAWI ({ 1 2 }) BAravAhI ({ 4 6 }) paSu ({ 5 }) hE. ({ }) 
+# Sentence pair (194) source length 11 target length 10 alignment score : 4.49425e-11
+The optimum load may average from 450 to 550 kilograms. 
+NULL ({ }) 450 ({ 7 }) se ({ 6 }) 550 ({ 9 }) kilogrAma ({ 10 }) waka ({ 8 }) kA ({ }) vajana ({ }) KiMcavAnA ({ 2 3 4 5 }) TIka ({ 1 }) rahawA ({ }) hE. ({ }) 
+# Sentence pair (195) source length 12 target length 8 alignment score : 2.65145e-10
+For elephants working in yards, sheds are necessary. 
+NULL ({ }) ahAwoM ({ 1 2 3 5 }) meM ({ 4 }) kAma ({ }) karane ({ }) vAle ({ }) hAWiyoM ({ 7 }) ke ({ }) lie ({ }) ?SEda? ({ 6 }) AvaSZyaka ({ 8 }) howe ({ }) hEM. ({ }) 
+# Sentence pair (196) source length 11 target length 12 alignment score : 4.19732e-12
+During the hot season, a cool and shady place should be provided. 
+NULL ({ }) grIRZma ({ 1 }) qwu ({ 2 3 4 5 }) meM ({ }) TaNZde ({ 6 }) Ora ({ 7 }) CAyAxAra ({ 8 12 }) sZWAna ({ 9 }) meM ({ }) ise ({ }) raKanA ({ 11 }) cAhie. ({ 10 }) 
+# Sentence pair (197) source length 8 target length 6 alignment score : 2.495e-05
+All grain ration should be withheld. 
+NULL ({ }) anAja ({ 1 }) xenA ({ }) bilZkula ({ 2 3 }) banZxa ({ 6 }) kara ({ }) xiyA ({ }) jAnA ({ 5 }) cAhie. ({ 4 }) 
+# Sentence pair (198) source length 10 target length 7 alignment score : 9.04923e-06
+Coarse and dry fodder should be avoided. 
+NULL ({ }) na ({ 1 }) hI ({ }) motA ({ 7 }) Ora ({ 2 }) sUKA ({ 3 }) cArA ({ 4 }) ise ({ }) xiyA ({ }) jAnA ({ 6 }) cAhie. ({ 5 }) 
+# Sentence pair (199) source length 10 target length 11 alignment score : 3.83855e-11
+As far as possible, only freshly-cut green fodder should be given. 
+NULL ({ }) yaWAsamZBava ({ 1 3 }) wAjA ({ 2 4 5 6 }) katA ({ 11 }) harA ({ 7 }) cArA ({ 8 }) hI ({ }) inZheM ({ }) xiyA ({ }) jAnA ({ 10 }) cAhie. ({ 9 }) 
+# Sentence pair (200) source length 4 target length 4 alignment score : 5.67303e-05
+Cominon Diseases of Elephants 
+NULL ({ }) hAWiyoM ({ 4 }) ke ({ 3 }) sAmAnZya ({ 1 }) roga ({ 2 }) 
+# Sentence pair (201) source length 8 target length 8 alignment score : 5.32074e-08
+It is an acute and highly infectious disease. 
+NULL ({ }) yaha ({ 1 }) bahuwa ({ 2 }) hI ({ }) ugra ({ 3 4 }) Ora ({ 5 }) saMkrAmaka ({ 6 7 8 }) roga ({ }) hE. ({ }) 
+# Sentence pair (202) source length 9 target length 10 alignment score : 4.3034e-12
+It provides a ready source of income to the cultivator. 
+NULL ({ 9 }) yaha ({ 1 }) kqRaka ({ 2 3 }) ke ({ 6 }) lie ({ }) SIGra ({ 4 }) Aya ({ 5 }) kA ({ }) sAXana ({ 7 8 10 }) hE. ({ }) 
+# Sentence pair (203) source length 6 target length 6 alignment score : 3.19802e-07
+Present Position of Poultry in India 
+NULL ({ }) BArawa ({ }) meM ({ }) murgIpAlana ({ 4 5 6 }) kI ({ }) varwamAna ({ 3 }) sZWiwi ({ 1 2 }) 
+# Sentence pair (204) source length 10 target length 12 alignment score : 5.21179e-12
+This showed an increase of 29.1 per cent over that of 1977. 
+NULL ({ }) isameM ({ 1 }) 1977 ({ 12 }) kI ({ 11 }) saMKZyA ({ }) se ({ }) 29.1 ({ 9 10 }) prawiSawa ({ 7 8 }) kI ({ 5 }) vqxXi ({ 3 4 6 }) huI. ({ 2 }) 
+# Sentence pair (205) source length 9 target length 8 alignment score : 4.07342e-10
+The plumage is sparse at the breast bone. 
+NULL ({ }) CAwI ({ 1 }) kI ({ }) haddI ({ 5 7 8 }) para ({ 6 }) paMKa ({ 2 4 }) bahuwa ({ 3 }) kama ({ }) howe ({ }) hEM. ({ }) 
+# Sentence pair (206) source length 11 target length 6 alignment score : 3.4801e-08
+The hen is a fair layer. 
+NULL ({ }) isa ({ }) nasZla ({ 3 4 5 }) kI ({ }) murgI ({ 2 6 }) aNZde ({ 1 }) BI ({ }) kAPI ({ }) saMKZyA ({ }) meM ({ }) xewI ({ }) hE. ({ }) 
+# Sentence pair (207) source length 6 target length 6 alignment score : 1.23708e-05
+The throat is loose and baggy. 
+NULL ({ }) galA ({ 1 2 }) DIlADAlA ({ 4 }) Ora ({ 5 }) BArI ({ 6 }) howA ({ 3 }) hE. ({ }) 
+# Sentence pair (208) source length 8 target length 8 alignment score : 3.38067e-06
+The legs are rather long, straight and strong. 
+NULL ({ }) tAMgeM ({ 1 2 }) apekRawayA ({ 3 4 }) lamZbI, ({ 5 }) sIXI ({ 6 }) Ora ({ 7 }) majabUwa ({ 8 }) howI ({ }) hEM. ({ }) 
+# Sentence pair (209) source length 11 target length 11 alignment score : 1.93585e-11
+The usual plumage colouration is red, bay, brown, black and grey. 
+NULL ({ }) paMKoM ({ 2 3 4 }) kA ({ }) raMga ({ 1 }) prAya: ({ 5 }) lAla ({ 6 7 }) bAxAmI, ({ 8 }) kAlA ({ 9 }) Ora ({ 10 }) XUsara ({ 11 }) howA ({ }) hE. ({ }) 
+# Sentence pair (210) source length 8 target length 9 alignment score : 3.25279e-10
+In the villages, this system is considered most convenient. 
+NULL ({ 2 }) gAMvoM ({ 1 3 4 }) meM ({ }) wo ({ }) yahI ({ 8 9 }) praNAlI ({ 7 }) ZsuviXAjanaka ({ 5 }) rahawI ({ 6 }) hE. ({ }) 
+# Sentence pair (211) source length 11 target length 11 alignment score : 1.54529e-11
+A shed of suitable size should be provided in the yard. 
+NULL ({ }) upayukZwa ({ 4 }) AkAra ({ }) kA ({ 3 }) eka ({ }) SEda ({ 1 2 }) ahAwe ({ 5 11 }) meM ({ 9 }) banA ({ 10 }) liyA ({ 8 }) jAnA ({ 7 }) cAhie. ({ 6 }) 
+# Sentence pair (212) source length 11 target length 6 alignment score : 6.9022e-05
+Will my insurance cover TMJ claims? 
+NULL ({ }) kyA ({ }) merI ({ }) svAsWya-bImA ({ 1 }) kaMpanI ({ 2 }) tI.ema.je ({ 3 }) saMbaMXiwa ({ 4 }) xAvoM ({ 5 }) (klemja) ({ 6 }) ko ({ }) svIkAra ({ }) karegI ({ }) 
+# Sentence pair (213) source length 10 target length 8 alignment score : 2.0345e-09
+What research needs to be done on "TMJ"? 
+NULL ({ }) "tI.ema.je" ({ 1 2 }) para ({ }) kisa ({ 8 }) prakAra ({ }) kA ({ }) anusaMXAna ({ 6 7 }) karane ({ 4 5 }) kI ({ }) AvaSyakawA ({ 3 }) hE ({ }) 
+# Sentence pair (214) source length 8 target length 9 alignment score : 2.05301e-09
+The litter should never be allowed to get wet. 
+NULL ({ }) biCAlI ({ 1 2 }) ko ({ }) kaBI ({ 7 9 }) gIlA ({ 6 8 }) nahIM ({ }) hone ({ 5 }) xenA ({ 4 }) cAhie. ({ 3 }) 
+# Sentence pair (215) source length 7 target length 7 alignment score : 1.15117e-08
+This tray is supported on the frame. 
+NULL ({ }) yaha ({ 1 }) tre ({ 2 }) cOKate ({ 3 }) para ({ 5 6 }) raKI ({ 4 7 }) howI ({ }) hE. ({ }) 
+# Sentence pair (216) source length 7 target length 8 alignment score : 2.16814e-08
+Desi hens, as a rule, are ideal mothers. 
+NULL ({ }) sAmAnZyawa: ({ 5 }) xesI ({ 1 2 4 }) murgiyAM ({ 3 }) AxarSa ({ 7 }) mAwAeM ({ 8 }) howI ({ }) hEM. ({ 6 }) 
+# Sentence pair (217) source length 6 target length 5 alignment score : 1.92957e-05
+Mortality rate is very high. 
+NULL ({ }) isameM ({ 1 }) mqwZyu ({ 2 }) xara ({ 3 5 }) bahuwa ({ 4 }) aXika ({ }) hE. ({ }) 
+# Sentence pair (218) source length 10 target length 8 alignment score : 8.04386e-08
+The affected birds huddle together in a corner. 
+NULL ({ }) rogapIdZiwa ({ 1 }) pakRI ({ }) ikatTe ({ 2 }) hokara ({ 3 4 5 }) eka ({ }) kone ({ 7 }) meM ({ }) xubaka ({ 8 }) jAwe ({ 6 }) hEM. ({ }) 
+# Sentence pair (219) source length 10 target length 6 alignment score : 1.95316e-06
+Fowl-pox is a highly contagious disease. 
+NULL ({ }) murga ({ 1 }) cecaka ({ 2 }) (PAula ({ 4 5 }) pOYkZsa) ({ 3 }) : ({ }) yaha ({ }) awZyaXika ({ 6 }) saMkrAmaka ({ }) roga ({ }) hE. ({ }) 
+# Sentence pair (220) source length 12 target length 9 alignment score : 1.17455e-11
+There were 16.24 million ducks in India, in 1982. 
+NULL ({ }) BArawa ({ }) meM ({ 8 }) 1982 ({ 7 9 }) meM ({ 6 }) 1 ({ }) karodZa ({ }) 62 ({ }) lAKa ({ }) 40 ({ 1 }) hajAra ({ 5 }) bawaKeM ({ }) WIM. ({ 2 3 4 }) 
+# Sentence pair (221) source length 9 target length 10 alignment score : 1.37533e-09
+Important breeds of Indian ducks are Sylhet Mete and Nageswari. 
+NULL ({ }) bawaKoM ({ 1 2 }) kI ({ }) pramuKa ({ 3 }) BArawIya ({ 4 }) nasZleM ({ }) hEM-silahata ({ 5 }) mIta ({ 10 }) Ora ({ 9 }) nAgeSZvarI. ({ 6 7 8 }) 
+# Sentence pair (222) source length 8 target length 6 alignment score : 1.6486e-07
+Brush carefully the day after surgery. 
+NULL ({ }) ApareSana ({ 1 2 }) ke ({ 3 }) xUsare ({ 6 }) xina ({ }) sAvaXAnI ({ }) se ({ }) maMjana ({ 4 5 }) kareM. ({ }) 
+# Sentence pair (223) source length 8 target length 8 alignment score : 7.54465e-05
+Copyright 1993 On Target Media, Inc., Cincinnati, OH 
+NULL ({ }) kApIrAita ({ 1 }) 1993 ({ 2 }) Ana ({ 3 }) tArgeta ({ 4 5 6 }) mIdiyA, ({ 7 }) iMka., ({ 8 }) sinasinEtI, ({ }) ohAyo ({ }) 
+# Sentence pair (224) source length 10 target length 12 alignment score : 9.20425e-16
+The average yield of eggs varies from 80 to 150 per duck. 
+NULL ({ }) prawZyeka ({ 1 }) bawaKa ({ }) se ({ }) Osawana ({ }) 80 ({ 8 10 11 12 }) se ({ 7 9 }) 150 ({ 5 6 }) aNZde ({ }) milawe ({ 2 3 4 }) hEM. ({ }) 
+# Sentence pair (225) source length 7 target length 7 alignment score : 8.03676e-10
+The colour of the egg is white. 
+NULL ({ }) isake ({ }) aNZde ({ 1 }) kA ({ }) raMga ({ 2 }) saPexa ({ 3 4 5 7 }) howA ({ 6 }) hE. ({ }) 
+# Sentence pair (226) source length 9 target length 10 alignment score : 3.36481e-11
+The average weight of the egg is about 56 grams. 
+NULL ({ 5 }) aNaq_de ({ 1 }) kA ({ }) Osawa ({ 2 }) vajana ({ 3 4 }) lagaBaga ({ 8 }) 56 ({ 6 9 }) grAma ({ 10 }) howA ({ 7 }) hE. ({ }) 
+# Sentence pair (227) source length 9 target length 7 alignment score : 9.50139e-07
+An adult bird weighs about 1.8 kilograms. 
+NULL ({ }) badZI ({ 1 }) bawaKa ({ 2 3 4 }) kA ({ }) vajana ({ }) lagaBaga ({ 5 }) 1.8 ({ 6 }) kilogrAma ({ 7 }) howA ({ }) hE. ({ }) 
+# Sentence pair (228) source length 11 target length 8 alignment score : 4.72957e-10
+The colour of the egg is pale blue. 
+NULL ({ }) aNZdoM ({ }) kA ({ 3 }) raMga ({ 1 }) nIlA ({ 2 5 6 7 }) waWA ({ }) kuCa ({ 4 }) pIlApana ({ 8 }) liye ({ }) hue ({ }) howA ({ }) hE. ({ }) 
+# Sentence pair (229) source length 9 target length 10 alignment score : 3.81838e-10
+The average weight of an egg is about 56 grams. 
+NULL ({ }) aNZde ({ 1 }) kA ({ }) Osawa ({ 2 }) vajana ({ 3 4 5 }) lagaBaga ({ 8 }) 56 ({ 6 9 }) grAma ({ 10 }) howA ({ 7 }) hE. ({ }) 
+# Sentence pair (230) source length 9 target length 7 alignment score : 1.57713e-09
+An adult bird weighs nearly two kilograms. 
+NULL ({ }) eka ({ }) pakRI ({ 3 4 5 }) kA ({ }) vajana ({ }) lagaBaga ({ 1 }) 2 ({ 2 6 }) kilogrAma ({ 7 }) howA ({ }) hE. ({ }) 
+# Sentence pair (231) source length 12 target length 10 alignment score : 3.53463e-09
+The growing and laying birds should be fed good ration. 
+NULL ({ }) baDZa ({ 1 2 }) rahI ({ 4 }) Ora ({ 3 }) aNZde ({ }) xenevAlI ({ 8 9 10 }) bawaKoM ({ }) ko ({ }) acZCA ({ }) rASana ({ 5 }) xiyA ({ }) jAnA ({ 7 }) cAhie. ({ 6 }) 
+# Sentence pair (232) source length 12 target length 10 alignment score : 7.69942e-14
+Ducks drink a lot of water along with the mash. 
+NULL ({ }) bawaKeM ({ 1 2 }) isa ({ }) mESa ({ 4 7 10 }) ke ({ 9 }) sAWa ({ 8 }) kAPI ({ }) mAwrA ({ 5 }) meM ({ }) jala ({ 6 }) BI ({ }) pIwI ({ 3 }) hEM. ({ }) 
+# Sentence pair (233) source length 11 target length 9 alignment score : 4.0585e-10
+Clean fresh water should always be provided to them. 
+NULL ({ }) inake ({ }) lie ({ }) sAPa ({ }) Ora ({ }) wAje ({ 1 2 }) jala ({ 3 }) kI ({ }) saxEva ({ 8 9 }) vZyavasZWA ({ 5 6 7 }) honI ({ }) cAhie. ({ 4 }) 
+# Sentence pair (234) source length 10 target length 11 alignment score : 5.95594e-13
+Ducks usually lay their eggs at night and in the morning. 
+NULL ({ 10 }) bawaKeM ({ 1 }) aNde ({ 2 3 4 5 }) prAya: ({ 6 }) rAwa ({ 7 }) ke ({ }) samaya ({ }) Ora ({ 8 }) prAwa:kAla ({ 9 11 }) xewI ({ }) hEM. ({ }) 
+# Sentence pair (235) source length 11 target length 10 alignment score : 1.09624e-15
+Eggs of the common duck take 28 days to hatch. 
+NULL ({ }) sAmAnZya ({ 2 }) bawaKa ({ }) ke ({ 3 }) aNZde ({ }) ko ({ 9 }) sene ({ 1 4 5 }) meM ({ }) 28 ({ 6 7 8 10 }) xina ({ }) lagawe ({ }) hEM. ({ }) 
+# Sentence pair (236) source length 12 target length 10 alignment score : 1.44002e-13
+Usually they are incubated the same way as hen eggs. 
+NULL ({ }) sAmAnZyawa: ({ }) ina ({ }) aNZdoM ({ 10 }) ko ({ }) murgI ({ 8 9 }) ke ({ }) aNZdoM ({ }) kI ({ }) waraha ({ }) seyA ({ 1 2 3 4 6 7 }) jAwA ({ 5 }) hE. ({ }) 
+# Sentence pair (237) source length 11 target length 11 alignment score : 6.43004e-13
+An average sized goose can take about fifteen eggs for hatching. 
+NULL ({ }) Osawa ({ 1 2 }) AkAra ({ }) kI ({ }) mAxA ({ 3 4 }) haMsa ({ 5 6 }) lagaBaga ({ 7 }) 15 ({ 8 9 10 11 }) aNZde ({ }) se ({ }) sakawI ({ }) hE. ({ }) 
+# Sentence pair (238) source length 9 target length 7 alignment score : 8.72542e-09
+Respiration per minute is 20 to 25. 
+NULL ({ }) SZvasana ({ 1 }) gawi ({ 2 3 4 }) 20 ({ 5 7 }) se ({ 6 }) 25 ({ }) prawi ({ }) minata ({ }) howI ({ }) hE. ({ }) 
+# Sentence pair (239) source length 10 target length 9 alignment score : 7.17541e-10
+The rate of heart beat is 110 per minute. 
+NULL ({ }) xila ({ 1 2 }) kI ({ }) XadZakana ({ 4 5 7 }) kI ({ }) gawi ({ 8 }) 110 ({ 9 }) prawi ({ 3 }) minata ({ }) rahawI ({ 6 }) hE. ({ }) 
+# Sentence pair (240) source length 9 target length 6 alignment score : 2.01669e-06
+They are mainly reared for meat. 
+NULL ({ }) inZheM ({ 1 }) muKZyawa: ({ 2 3 4 }) mAMsa ({ 6 }) ke ({ }) lie ({ 5 }) hI ({ }) pAlA ({ }) jAwA ({ }) hE. ({ }) 
+# Sentence pair (241) source length 9 target length 9 alignment score : 4.26516e-10
+The management of diabetes is 'art of the possible'. 
+NULL ({ 8 }) maXumeha ({ 1 }) para ({ }) kAbU ({ }) pAna ({ 2 }) ?saMBava ({ 4 }) kI ({ 3 }) kalA? ({ 6 7 9 }) hE ({ 5 }) . ({ }) 
+# Sentence pair (242) source length 4 target length 3 alignment score : 0.00483601
+Your legal rights 
+NULL ({ }) Apa ({ }) ke ({ }) kAnUnI ({ 1 2 }) aXikAra ({ 3 }) 
+# Sentence pair (243) source length 2 target length 2 alignment score : 0.0298564
+Buying goods 
+NULL ({ }) sAmAna ({ 2 }) KZarIxanA ({ 1 }) 
+# Sentence pair (244) source length 11 target length 11 alignment score : 1.35377e-14
+You have the same rights even if you lose your receipt. 
+NULL ({ }) rasIxa ({ 1 }) Kone ({ 2 4 5 6 7 8 }) ke ({ }) bAxa ({ }) BI ({ }) Apake ({ 10 }) vahI ({ 9 11 }) aXikAra ({ }) howe ({ }) hEM ({ 3 }) . ({ }) 
+# Sentence pair (245) source length 12 target length 9 alignment score : 8.53259e-10
+Only the buyer has the statutory rights described earlier. 
+NULL ({ }) pahale ({ }) bawAe ({ 2 }) gaye ({ 8 9 }) kAnUnI ({ }) aXikAra ({ 7 }) sirPa ({ 5 }) KarIxane ({ 3 4 6 }) vAle ({ 1 }) ke ({ }) howe ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (246) source length 2 target length 3 alignment score : 0.00145455
+Making a complaint 
+NULL ({ }) SikAyawa ({ 1 3 }) karanA ({ 2 }) 
+# Sentence pair (247) source length 10 target length 7 alignment score : 9.86922e-09
+These are not available if you rent. 
+NULL ({ }) ye ({ 1 }) qNa ({ 2 }) kirAe ({ 3 4 5 6 }) para ({ }) rahane ({ }) vAloM ({ 7 }) ko ({ }) nahIM ({ }) milawe ({ }) . ({ }) 
+# Sentence pair (248) source length 4 target length 3 alignment score : 0.00146546
+Right to cancel 
+NULL ({ }) raxxa ({ 1 3 }) karane ({ 2 }) kA ({ }) aXikAra ({ }) 
+# Sentence pair (249) source length 9 target length 10 alignment score : 1.69193e-13
+the deal was made within the last few days; and 
+NULL ({ }) samaJOwA ({ 1 2 }) kevala ({ }) kuCa ({ 6 }) xina ({ }) pahale ({ }) banA ({ 3 }) WA ({ 4 5 7 8 }) , ({ 9 10 }) Ora ({ }) 
+# Sentence pair (250) source length 11 target length 8 alignment score : 7.38574e-09
+Act quickly, as there are tight time limits. 
+NULL ({ }) jalxI ({ }) kaxama ({ 2 }) uTAIe ({ 3 4 5 }) kyoMki ({ 6 }) samaya ({ }) sImAez ({ 7 8 }) bahuwa ({ }) sImiwa ({ }) howIM ({ 1 }) hEM ({ }) . ({ }) 
+# Sentence pair (251) source length 9 target length 8 alignment score : 2.70973e-11
+It is the shop's responsibility to collect them. 
+NULL ({ 3 }) unheM ({ }) le ({ }) jAne ({ 6 }) kI ({ }) jZimmexArI ({ 4 5 7 8 }) xukAnaxAra ({ 1 }) kI ({ }) hE ({ 2 }) . ({ }) 
+# Sentence pair (252) source length 7 target length 3 alignment score : 0.00155084
+Credit brokers' fees 
+NULL ({ }) kredita ({ 1 }) brokara ({ 2 }) (karjZA ({ 3 }) xilAne ({ }) vAle) ({ }) kI ({ }) PIsa ({ }) 
+# Sentence pair (253) source length 2 target length 2 alignment score : 0.00900021
+Extra protection 
+NULL ({ }) awirikwa ({ 1 2 }) surakRA ({ }) 
+# Sentence pair (254) source length 8 target length 8 alignment score : 2.95837e-08
+It is sensible to approach the trader first. 
+NULL ({ }) pahale ({ 1 }) vyApArI ({ 2 3 5 }) se ({ }) saMparka ({ 4 }) karanA ({ }) buxGimAnI ({ 7 8 }) hogI ({ 6 }) . ({ }) 
+# Sentence pair (255) source length 3 target length 3 alignment score : 0.00170417
+Settling up early 
+NULL ({ }) jalxI ({ 1 3 }) nipatA ({ 2 }) lenA ({ }) 
+# Sentence pair (256) source length 5 target length 6 alignment score : 1.88537e-07
+Goods on order from a shop 
+NULL ({ }) kisI ({ 1 }) xukAna ({ 2 4 5 }) se ({ }) sAmAna ({ 6 }) mazgavAnA ({ 3 }) 
+# Sentence pair (257) source length 12 target length 11 alignment score : 3.06303e-14
+The law allows you a reasonable time to examine the goods. 
+NULL ({ 10 }) kAnUna ({ 1 2 3 }) Apako ({ 4 }) sAmAna ({ }) jAqcane ({ 6 }) ke ({ }) lie ({ }) vivekapUrNa ({ 5 }) samaya ({ }) praxAna ({ 7 8 9 11 }) karawA ({ }) hE ({ }) . ({ }) 
+# Sentence pair (258) source length 10 target length 6 alignment score : 3.89718e-07
+Keep a copy of your note. 
+NULL ({ }) apane ({ }) isa ({ }) liKiwa ({ }) nota ({ }) kI ({ }) kApI ({ 1 2 3 }) apane ({ 5 }) pAsa ({ 6 }) raKie ({ 4 }) . ({ }) 
+# Sentence pair (259) source length 8 target length 9 alignment score : 1.09491e-09
+There are different uses for different kinds of foods. 
+NULL ({ }) viBinZnZ ({ 1 }) KAxya ({ }) GatakoM ({ 7 9 }) ke ({ 8 }) alaga-alaga ({ 6 }) upayoga ({ 3 4 5 }) howe ({ 2 }) hEM. ({ }) 
+# Sentence pair (260) source length 4 target length 3 alignment score : 0.000444261
+Some problem sectors 
+NULL ({ }) samasyAoM ({ 1 2 3 }) vAle ({ }) kuCa ({ }) kRewra ({ }) 
+# Sentence pair (261) source length 5 target length 5 alignment score : 0.000153897
+Buying new and used cars 
+NULL ({ }) naI ({ 2 }) Ora ({ 3 }) purAnI ({ 4 }) gAdZiyAz ({ 5 }) KZarIxanA ({ 1 }) 
+# Sentence pair (262) source length 1 target length 2 alignment score : 0.0414482
+The price 
+NULL ({ }) xAma ({ 1 2 }) 
+# Sentence pair (263) source length 11 target length 9 alignment score : 3.02343e-13
+Do not be afraid to haggle over the price. 
+NULL ({ }) xAma ({ }) ke ({ }) bAre ({ }) meM ({ }) molaBAva ({ 9 }) karane ({ 5 }) ke ({ 8 }) lie ({ }) mawa ({ 1 2 3 4 6 7 }) hicakie ({ }) . ({ }) 
+# Sentence pair (264) source length 12 target length 10 alignment score : 2.98265e-11
+Get it in writing if you are still not happy. 
+NULL ({ }) agara ({ 1 }) Apa ({ }) isa ({ }) para ({ }) BI ({ }) asaMwuRta ({ 8 9 }) hoM ({ 7 10 }) wo ({ }) liKiwa ({ 2 3 4 }) jAnakArI ({ 6 }) mAzgie ({ 5 }) . ({ }) 
+# Sentence pair (265) source length 3 target length 4 alignment score : 0.000147575
+Buying a new car 
+NULL ({ }) naI ({ 3 4 }) gAdZI ({ 2 }) KZarIxanA ({ 1 }) 
+# Sentence pair (266) source length 10 target length 7 alignment score : 6.07363e-09
+You could ask to see this too. 
+NULL ({ }) Apa ({ 1 }) ise ({ }) xeKane ({ 5 6 7 }) kI ({ }) mAzga ({ 2 3 4 }) BI ({ }) kara ({ }) sakawe ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (267) source length 8 target length 6 alignment score : 0.000113516
+In diabetes, carbohydrates are the key. 
+NULL ({ }) maXumeha ({ 1 }) ke ({ }) saMxarBa ({ 2 }) meM ({ }) kArbohAidreta ({ 3 }) sarvAXika ({ 6 }) mahawZvapUrNa ({ 4 5 }) hEM. ({ }) 
+# Sentence pair (268) source length 5 target length 4 alignment score : 1.90882e-05
+Insulin has several functions. 
+NULL ({ }) iMsulina ({ 1 }) ke ({ }) kaI ({ 2 3 }) kArya ({ 4 }) hEM. ({ }) 
+# Sentence pair (269) source length 8 target length 4 alignment score : 9.67569e-05
+Home maintenance and improvements 
+NULL ({ }) Gara ({ 1 }) kI ({ }) marammawa ({ 2 }) , ({ }) raKaraKAva ({ }) Ora ({ 3 }) suXAra ({ 4 }) kArya ({ }) 
+# Sentence pair (270) source length 2 target length 3 alignment score : 0.0097929
+Choosing a contractor 
+NULL ({ }) TekexAra ({ 3 }) cunnA ({ 1 2 }) 
+# Sentence pair (271) source length 7 target length 5 alignment score : 2.43603e-05
+Choose your contractor with care. 
+NULL ({ }) apane ({ 2 }) TekexAra ({ 3 }) ko ({ }) sAvaXAnI ({ 4 5 }) ke ({ }) cunie ({ 1 }) . ({ }) 
+# Sentence pair (272) source length 4 target length 3 alignment score : 0.0301942
+See pages 27-30. 
+NULL ({ }) pqRTa ({ 2 }) 27-30 ({ 3 }) xeKie ({ 1 }) . ({ }) 
+# Sentence pair (273) source length 4 target length 3 alignment score : 0.0301942
+See pages 42-43 
+NULL ({ }) pqRTa ({ 2 }) 42-43 ({ 3 }) xeKie ({ 1 }) . ({ }) 
+# Sentence pair (274) source length 8 target length 8 alignment score : 7.54465e-05
+Copyright 1993 On Target Media, Inc., Cincinnati, OH 
+NULL ({ }) kApIrAita ({ 1 }) 1993 ({ 2 }) Ana ({ 3 }) tArgeta ({ 4 5 6 }) mIdiyA, ({ 7 }) iMka., ({ 8 }) sinasinEtI, ({ }) ohAyo ({ }) 
+# Sentence pair (275) source length 6 target length 4 alignment score : 5.75085e-06
+building knowledge and skills 
+NULL ({ }) jAnakArI ({ }) Ora ({ 3 }) kOSila ({ 1 2 4 }) vikasiwa ({ }) karanA ({ }) . ({ }) 
+# Sentence pair (276) source length 10 target length 6 alignment score : 9.16448e-06
+Consumer education is a top priority. 
+NULL ({ }) upaBokwA ({ 1 }) SikRA ({ 2 }) ko ({ }) sarvocca ({ 4 5 }) prAWamikawA ({ 6 }) xI ({ }) jA ({ }) rahI ({ }) hE ({ 3 }) . ({ }) 
+# Sentence pair (277) source length 4 target length 3 alignment score : 0.000550664
+Promoting customer service 
+NULL ({ }) upaBokwA ({ 2 }) sevA ({ 3 }) vikasiwa ({ 1 }) karanA ({ }) 
+# Sentence pair (278) source length 5 target length 4 alignment score : 0.000238346
+more help for business 
+NULL ({ }) vyavasAyoM ({ 3 4 }) ko ({ }) aXika ({ 1 }) sahAyawA ({ 2 }) . ({ }) 
+# Sentence pair (279) source length 5 target length 5 alignment score : 0.000155744
+a modern trading standards service 
+NULL ({ }) AXunika ({ 1 }) vyApAra ({ 2 3 }) mAnaka ({ 4 }) sevA ({ 5 }) . ({ }) 
+# Sentence pair (280) source length 12 target length 9 alignment score : 4.4311e-09
+The Government wants consumers to have a powerful voice. 
+NULL ({ }) sarakAra ({ 1 }) cAhawI ({ 2 3 4 }) hE ({ }) ki ({ 6 }) upaBokwAoM ({ 7 }) kI ({ }) AvAja ({ 8 }) ko ({ 5 }) majabUwa ({ }) banAyA ({ 9 }) jAe ({ }) . ({ }) 
+# Sentence pair (281) source length 12 target length 8 alignment score : 1.18312e-08
+It also wants to see effective consumer representation. 
+NULL ({ }) vaha ({ 1 }) upaBokwA ({ 7 }) prawiniXiwva ({ 5 8 }) ko ({ 4 }) BI ({ 2 }) praBAvI ({ 3 }) banAne ({ }) ke ({ }) pakRa ({ 6 }) meM ({ }) hE ({ }) . ({ }) 
+# Sentence pair (282) source length 5 target length 5 alignment score : 4.2479e-05
+The Government will ensure that: 
+NULL ({ }) sarakAra ({ 1 }) suniSciwa ({ 2 4 }) karegI ({ 3 }) kiH ({ 5 }) . ({ }) 
+# Sentence pair (283) source length 11 target length 9 alignment score : 1.22106e-10
+A consumer advisory group will report directly to Ministers 
+NULL ({ }) upaBokwA ({ 2 }) salAha ({ }) kA ({ }) eka ({ }) samUha ({ }) maMwriyoM ({ 1 }) se ({ }) sIXA ({ 4 5 6 7 9 }) saMparka ({ 8 }) raKegA ({ 3 }) . ({ }) 
+# Sentence pair (284) source length 11 target length 8 alignment score : 4.02693e-11
+Why must my child go to school regularly? 
+NULL ({ }) mere ({ 3 }) bacce ({ 4 }) ko ({ }) niyamiwa ({ 5 }) rUpa ({ 2 7 8 }) se ({ 6 }) skUla ({ }) kyoM ({ 1 }) jAnA ({ }) cAhie ({ }) ?. ({ }) 
+# Sentence pair (285) source length 10 target length 10 alignment score : 1.89527e-11
+They may also be drawn into anti-social or criminal behaviour. 
+NULL ({ }) unakA ({ 1 }) apanA ({ }) vyavahAra ({ }) samAja ({ 3 4 }) viroXI ({ 2 }) aWavA ({ 8 }) aparAXiyoM ({ 5 9 }) jEsA ({ 7 10 }) ho ({ }) jAegA. ({ 6 }) 
+# Sentence pair (286) source length 12 target length 7 alignment score : 4.84807e-07
+Education welfare officers work closely with schools. 
+NULL ({ }) ejUkeSana ({ 1 2 }) velPZeyara ({ 3 4 }) aPZsara ({ 5 }) skUloM ({ 7 }) ke ({ }) sAWa ({ 6 }) mila ({ }) kara ({ }) kAma ({ }) karawe ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (287) source length 12 target length 7 alignment score : 7.39204e-08
+WORKING IN EARLY YEARS, CHILDCARE AND PLAYWORK 
+NULL ({ }) prAramBika ({ 1 }) varRoM ({ 2 }) , ({ }) baccoM ({ }) kI ({ }) xeKaBAla ({ 3 4 }) Ora ({ }) plevarka ({ 5 6 7 }) meM ({ }) kAma ({ }) karanA ({ }) . ({ }) 
+# Sentence pair (288) source length 10 target length 6 alignment score : 5.45553e-07
+5 COULD IT BE ME? 6 
+NULL ({ }) kyA ({ }) yaha ({ }) mEM ({ }) ho ({ }) sakawA ({ }) / ({ 3 4 5 }) sakawI ({ 2 }) hUz? ({ 1 }) 6 ({ 6 }) . ({ }) 
+# Sentence pair (289) source length 5 target length 5 alignment score : 8.01193e-06
+WHAT ARE THE OPTIONS? 10 
+NULL ({ }) vikalpa ({ 1 2 3 4 }) kyA ({ }) hEM? ({ }) 10 ({ 5 }) . ({ }) 
+# Sentence pair (290) source length 6 target length 4 alignment score : 0.00115528
+PRE-SCHOOLS AND PLAYGROUPS 14 
+NULL ({ }) prI ({ 1 }) - ({ }) skUljaq ({ 4 }) waWA ({ }) plegrUpsa ({ 2 }) 14 ({ 3 }) 
+# Sentence pair (291) source length 11 target length 8 alignment score : 9.46931e-08
+PLAYWORK: OUT-OF-SCHOOL CLUBS AND HOLIDAY PLAY SCHEMES 18 
+NULL ({ }) plevarka ({ 4 }) - ({ }) Auta ({ 5 }) aOYPZa ({ 2 6 }) skUla ({ }) klabjZa ({ 7 }) waWA ({ }) hOYlide ({ 8 }) ple ({ 1 }) yojanAez ({ 3 }) 18 ({ }) 
+# Sentence pair (292) source length 10 target length 7 alignment score : 6.31992e-09
+WHAT EXPERIENCE AND QUALIFICATIONS DO I NEED? 
+NULL ({ }) muJe ({ }) kisa ({ }) waraha ({ }) kI ({ }) yogyawAoM ({ 6 }) Ora ({ }) anuBava ({ 7 }) kI ({ }) jZarUrawa ({ 2 3 4 5 }) rahegI? ({ 1 }) 
+# Sentence pair (293) source length 5 target length 4 alignment score : 0.00108347
+WHAT WILL I EARN? 
+NULL ({ }) merI ({ 1 }) AmaxanI ({ 2 3 }) kyA ({ }) hogIq ({ 4 }) . ({ }) 
+# Sentence pair (294) source length 7 target length 4 alignment score : 0.00238577
+STILL NOT SURE? 26 
+NULL ({ }) aba ({ 1 }) BI ({ }) nirNaya ({ 2 }) nahIM ({ }) le ({ 4 }) sake?26 ({ 3 }) . ({ }) 
+# Sentence pair (295) source length 6 target length 3 alignment score : 0.000306565
+WHERE NEXT? 28 
+NULL ({ }) aba ({ }) kahAz ({ }) pawA ({ }) kare? ({ 1 2 3 }) 28 ({ }) . ({ }) 
+# Sentence pair (296) source length 6 target length 4 alignment score : 2.9406e-06
+WHY WORK WITH CHILDREN? 
+NULL ({ }) baccoM ({ }) ke ({ }) sAWa ({ }) kAma ({ 1 2 4 }) kyoM ({ }) kareM. ({ 3 }) 
+# Sentence pair (297) source length 10 target length 5 alignment score : 0.000105695
+After all, they're our future. 
+NULL ({ }) AKZira ({ 1 }) , ({ }) hama ({ 2 }) saba ({ }) kA ({ }) BaviRya ({ 3 4 }) unapara ({ 5 }) nirBara ({ }) hE ({ }) . ({ }) 
+# Sentence pair (298) source length 8 target length 4 alignment score : 1.36078e-05
+COULD IT BE ME? 
+NULL ({ }) kyA ({ }) yaha ({ }) mEM ({ }) ho ({ }) sakawA ({ }) / ({ 2 3 4 }) sakawI ({ 1 }) hUz?. ({ }) 
+# Sentence pair (299) source length 3 target length 4 alignment score : 6.16313e-05
+WHAT ARE THE OPTIONS? 
+NULL ({ }) vikalpa ({ 1 2 3 4 }) kyA ({ }) hEM?. ({ }) 
+# Sentence pair (300) source length 12 target length 8 alignment score : 1.21264e-10
+There is variety as well as job satisfaction. 
+NULL ({ }) Apako ({ }) viviXawA ({ 2 }) waWA ({ }) kAma ({ }) se ({ }) saMwoRa ({ }) , ({ }) xonoM ({ 1 }) hI ({ }) prApwa ({ 3 4 5 6 7 8 }) hoMge ({ }) . ({ }) 
+# Sentence pair (301) source length 12 target length 10 alignment score : 2.86509e-11
+There are also nursery classes attached to some primary schools. 
+NULL ({ }) kuCa ({ 7 }) prAimarI ({ 6 8 9 }) (prAWamika) ({ 5 }) skUloM ({ 10 }) se ({ }) , ({ }) narsarI ({ }) klAseM ({ 2 3 4 }) judZI ({ 1 }) howI ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (302) source length 10 target length 7 alignment score : 5.77237e-09
+You'll find them in your telephone directory. 
+NULL ({ }) inake ({ }) samparka ({ 3 }) ke ({ }) vivaraNa ({ 4 }) Apako ({ }) teliPZona ({ }) dAyarEktarI ({ 5 6 7 }) meM ({ }) mila ({ 2 }) sakeMge ({ 1 }) 
+# Sentence pair (303) source length 12 target length 9 alignment score : 9.9311e-12
+One example that you may like to consider is: 
+NULL ({ }) eka ({ }) uxAharaNa ({ 2 3 4 5 }) jisapara ({ 1 }) saMBava ({ 6 8 9 }) hE ({ }) Apa ({ }) socanA ({ }) cAheM ({ 7 }) , ({ }) vaha ({ }) hE ({ }) :. ({ }) 
+# Sentence pair (304) source length 2 target length 2 alignment score : 0.177692
+ISBN 0855229098 
+NULL ({ }) ISBN ({ 1 }) 0855229098 ({ 2 }) 
+# Sentence pair (305) source length 6 target length 5 alignment score : 1.07905e-05
+What every parent should know 
+NULL ({ }) hara ({ }) mAwA-piwA ({ 3 }) ko ({ }) kyA ({ 1 }) jAnanA ({ 2 5 }) cAhie ({ 4 }) 
+# Sentence pair (306) source length 2 target length 1 alignment score : 0.176762
+Primary 
+NULL ({ }) prAyamarI ({ 1 }) (prAWamika) ({ }) 
+# Sentence pair (307) source length 11 target length 8 alignment score : 8.75845e-06
+(reading, spelling, other literacy work and number work) 
+NULL ({ }) (paDZAI ({ 1 }) , ({ }) varNAkRara, ({ 5 }) FAna ({ 4 }) , ({ }) anya ({ 3 }) sAkRarawA ({ 8 }) kArya ({ }) Ora ({ 6 }) saMKyAwmaka ({ 7 }) kArya). ({ 2 }) 
+# Sentence pair (308) source length 12 target length 10 alignment score : 4.73656e-12
+Physical activity seems to make the available insulin work better. 
+NULL ({ 6 }) saMBavawa: ({ 1 2 }) SArIrika ({ 3 }) pariSrama ({ 5 7 8 9 }) se ({ }) iMsulina ({ }) kI ({ }) praBAvI ({ 4 }) kRamawA ({ 10 }) aXika ({ }) ho ({ }) jAwI ({ }) hE. ({ }) 
+# Sentence pair (309) source length 10 target length 10 alignment score : 3.02824e-13
+Good communication between the school and the home is essential. 
+NULL ({ }) skUla ({ }) Ora ({ 6 }) Gara ({ }) ke ({ }) bIca ({ 3 }) acCe ({ 2 }) saMparka-saMbaMXa ({ 5 8 9 }) anivArya ({ 1 4 7 10 }) hEM ({ }) . ({ }) 
+# Sentence pair (310) source length 7 target length 5 alignment score : 2.62086e-05
+How will I be involved? 
+NULL ({ }) mEM ({ }) isameM ({ }) kEse ({ 1 }) SAmila ({ 2 5 }) ho ({ }) pAUzgA/pAUzgI ({ 3 }) ? ({ 4 }) 
+# Sentence pair (311) source length 12 target length 8 alignment score : 1.0998e-08
+Schools will have different ways of consulting you. 
+NULL ({ }) Apase ({ 1 }) vicAra-vimarSa ({ 2 3 }) karane ({ }) ke ({ }) lie ({ }) skUloM ({ }) ke ({ 6 }) alaga-alaga ({ 4 }) Ora ({ }) warIke ({ 7 8 }) hoMge ({ 5 }) . ({ }) 
+# Sentence pair (312) source length 8 target length 6 alignment score : 7.87862e-07
+You might want to think about: 
+NULL ({ }) Apa ({ 1 }) SAyaxa ({ 2 }) ina ({ }) viRayoM ({ 3 6 }) para ({ }) socanA ({ 5 }) cAheM ({ 4 }) : ({ }) 
+# Sentence pair (313) source length 8 target length 6 alignment score : 1.53014e-08
+what you expect from the school; 
+NULL ({ }) Apa ({ 1 }) skUla ({ 2 }) se ({ }) kyA ({ }) apekRA ({ 3 4 }) karawe ({ 6 }) hEM ({ 5 }) ; ({ }) 
+# Sentence pair (314) source length 12 target length 11 alignment score : 4.51721e-15
+what should the school expect from you, and from your child; 
+NULL ({ }) skUla ({ 1 }) ko ({ 3 }) Apase ({ }) Ora ({ 8 }) Apake ({ 6 10 11 }) bacce ({ }) se ({ }) kyA ({ }) apekRA ({ 5 9 }) karanI ({ 4 7 }) cAhie ({ 2 }) ; ({ }) 
+# Sentence pair (315) source length 12 target length 11 alignment score : 1.40598e-13
+what the school tells you and what you need to know; 
+NULL ({ }) skUla ({ 1 2 3 }) Apako ({ 5 8 }) kyA ({ }) bawAwA ({ 4 }) hE ({ }) Ora ({ 6 }) Apa ({ 7 }) kyA ({ }) jAnanA ({ }) cAhawe ({ 11 }) hEM ({ 10 }) L ({ 9 }) 
+# Sentence pair (316) source length 9 target length 12 alignment score : 1.18301e-12
+National Year of Reading - A little reading goes a long way 
+NULL ({ }) rARtrIya ({ 1 2 4 }) paDZAI ({ 5 }) varRa-WodZI ({ 6 }) -sI ({ 7 }) paDZAI ({ 8 }) kA ({ 3 }) xIrGakAlIna ({ 9 10 11 }) mahawva ({ 12 }) . ({ }) 
+# Sentence pair (317) source length 4 target length 2 alignment score : 0.0100105
+And finally... 
+NULL ({ }) Ora ({ }) aMwa ({ 2 }) meM ({ }) ... ({ 1 }) 
+# Sentence pair (318) source length 9 target length 8 alignment score : 4.59595e-08
+It is important that you have your say. 
+NULL ({ }) yaha ({ 1 }) mahawvapUrNa ({ 3 4 5 }) hE ({ 2 }) ki ({ 6 }) Apa ({ }) apanI ({ }) bAwa ({ 8 }) kaheM ({ 7 }) . ({ }) 
+# Sentence pair (319) source length 4 target length 3 alignment score : 0.000646306
+PO Box 5050 
+NULL ({ }) P ({ 1 }) O ({ 2 3 }) Box ({ }) 5050 ({ }) 
+# Sentence pair (320) source length 3 target length 3 alignment score : 0.0695902
+Tel: 0845 6022260 
+NULL ({ }) telIqonaH ({ 1 }) 0845 ({ 2 }) 6022260 ({ 3 }) 
+# Sentence pair (321) source length 3 target length 3 alignment score : 0.0672067
+Fax: 0845 6033360 
+NULL ({ }) qEksaH ({ 1 }) 0845 ({ 2 }) 6033360 ({ 3 }) 
+# Sentence pair (322) source length 3 target length 3 alignment score : 0.0703095
+Minicom: 0845 6055560 
+NULL ({ }) minikOYmaH ({ 1 }) 0845 ({ 2 }) 6055560 ({ 3 }) 
+# Sentence pair (323) source length 6 target length 4 alignment score : 0.000131601
+Please quote ref: PPY986 
+NULL ({ }) kqpayA ({ 1 }) ulleKa ({ 2 3 }) kareM ({ }) ref ({ 4 }) H ({ }) PPY986H ({ }) 
+# Sentence pair (324) source length 1 target length 1 alignment score : 0.852604
+PP3/D14/36231/1298/55 
+NULL ({ }) PP3/D14/36231/1298/55 ({ 1 }) 
+# Sentence pair (325) source length 5 target length 5 alignment score : 0.000199725
+ISBN 0 85522 909 8 
+NULL ({ }) ISBN ({ 1 }) 0 ({ 2 }) 85522 ({ 3 4 }) 909 ({ 5 }) 8 ({ }) 
+# Sentence pair (326) source length 7 target length 5 alignment score : 2.19455e-07
+Helping with your children's reading 
+NULL ({ }) apane ({ 1 2 3 }) bacce ({ 4 }) kI ({ }) paDZAI ({ 5 }) meM ({ }) maxaxa ({ }) . ({ }) 
+# Sentence pair (327) source length 3 target length 3 alignment score : 0.000313164
+Learning at Home 
+NULL ({ }) Gara ({ 2 3 }) meM ({ }) sIKanA. ({ 1 }) 
+# Sentence pair (328) source length 2 target length 2 alignment score : 0.0519201
+First Steps 
+NULL ({ }) pahalA ({ 1 }) kaxama. ({ 2 }) 
+# Sentence pair (329) source length 12 target length 5 alignment score : 0.00013063
+Babies love words and language. 
+NULL ({ }) Cote ({ }) baccoM ({ }) (SiSuoM) ({ 2 }) kA ({ }) SabxoM ({ 3 }) Ora ({ 4 }) BARA ({ 5 }) se ({ }) lagAva ({ 1 }) howA ({ }) hE ({ }) . ({ }) 
+# Sentence pair (330) source length 11 target length 12 alignment score : 3.50415e-13
+Children often want to listen to the same story again and again. 
+NULL ({ }) bacce ({ }) prAyaH ({ 8 }) eka ({ }) hI ({ }) kahAnI ({ 9 }) bAra ({ 10 11 12 }) bAra ({ }) sunanA ({ 2 3 4 5 6 }) cAhawe ({ 1 }) hEM ({ 7 }) . ({ }) 
+# Sentence pair (331) source length 9 target length 4 alignment score : 0.000508781
+Join your local library 
+NULL ({ }) apane ({ }) sWAnIya ({ 2 }) puswakAlaya ({ }) (lAibrerI) ({ 4 }) kA ({ }) saxasya ({ 3 }) bana ({ }) jAeM ({ 1 }) . ({ }) 
+# Sentence pair (332) source length 2 target length 3 alignment score : 0.00136997
+Learning to read 
+NULL ({ }) paDZanA ({ 3 }) sIKanA. ({ 1 2 }) 
+# Sentence pair (333) source length 10 target length 7 alignment score : 3.35295e-06
+They learn the sounds that letters make. 
+NULL ({ }) ve ({ 1 }) XvaniyoM ({ 4 5 }) ko ({ }) sIKawe ({ 2 }) hEM ({ }) jo ({ }) akRara ({ 6 }) banAwe ({ 7 }) hEM ({ 3 }) . ({ }) 
+# Sentence pair (334) source length 8 target length 6 alignment score : 2.02933e-06
+Words don't just belong in books. 
+NULL ({ }) Sabxa ({ 1 }) kevala ({ 2 3 4 }) kiwAboM ({ 6 }) meM ({ 5 }) nahIM ({ }) howe ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (335) source length 3 target length 3 alignment score : 0.000762065
+Help and encouragement 
+NULL ({ }) sahAyawA ({ }) Ora ({ 2 }) prowsAhana. ({ 1 3 }) 
+# Sentence pair (336) source length 2 target length 3 alignment score : 0.00262665
+The next step 
+NULL ({ }) agalA ({ 1 3 }) kaxama. ({ 2 }) 
+# Sentence pair (337) source length 9 target length 7 alignment score : 2.23474e-06
+Buy books as presents instead of toys. 
+NULL ({ }) KilOnoM ({ 1 2 }) ke ({ }) bajAya ({ 7 }) kiwAbeM ({ 6 }) upahArasvarupa ({ 4 5 }) KarIxa ({ 3 }) kara ({ }) xeM ({ }) . ({ }) 
+# Sentence pair (338) source length 9 target length 6 alignment score : 2.82191e-07
+Children are often eager to write. 
+NULL ({ }) bacce ({ }) aksara ({ 3 }) liKane ({ 4 5 6 }) ke ({ }) lie ({ }) uwsuka ({ 1 }) howe ({ 2 }) hEM ({ }) . ({ }) 
+# Sentence pair (339) source length 11 target length 8 alignment score : 8.11105e-10
+You can help them by doing the following: 
+NULL ({ }) nimnaliKiwa ({ 7 }) kA ({ }) anusaraNa ({ 4 5 6 8 }) karake ({ }) Apa ({ 1 }) una ({ }) kI ({ }) maxaxa ({ 3 }) kara ({ }) sakawe ({ }) hEMH. ({ 2 }) 
+# Sentence pair (340) source length 4 target length 2 alignment score : 0.0148654
+Word banks 
+NULL ({ }) Sabxa ({ }) BaMdAra ({ 2 }) (varda ({ }) bEMksa). ({ 1 }) 
+# Sentence pair (341) source length 9 target length 6 alignment score : 8.73101e-08
+Lots of children find spelling hard. 
+NULL ({ }) kaq ({ 1 2 }) baccoM ({ 3 }) ko ({ }) svaravarNa ({ 4 5 6 }) vinyAsa ({ }) kaTina ({ }) lagawe ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (342) source length 12 target length 8 alignment score : 6.8742e-10
+You can help them by doing the following: 
+NULL ({ }) nimnaliKiwa ({ 7 }) kA ({ }) prayoga ({ 4 5 6 8 }) karake ({ }) Apa ({ 1 }) una ({ }) kI ({ }) maxaxa ({ 3 }) kara ({ 2 }) sakawe ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (343) source length 8 target length 6 alignment score : 2.06321e-07
+Play games with lists of words. 
+NULL ({ }) SabxoM ({ }) kI ({ 5 }) sUciyoM ({ 4 6 }) ke ({ }) sAWa ({ 3 }) Kela ({ 2 }) KeMle ({ 1 }) . ({ }) 
+# Sentence pair (344) source length 6 target length 4 alignment score : 0.000370064
+Start with simple words. 
+NULL ({ }) sarala ({ 1 }) SabxoM ({ }) se ({ }) AraMBa ({ 3 4 }) kareM ({ 2 }) . ({ }) 
+# Sentence pair (345) source length 9 target length 5 alignment score : 2.62625e-06
+No book handy? Don't worry! 
+NULL ({ }) kyA ({ }) koI ({ }) kiwAba ({ 3 4 5 }) sulaBa ({ 2 }) nahIM ({ }) hEM?. ({ 1 }) ciMwA ({ }) na ({ }) kareM. ({ }) 
+# Sentence pair (346) source length 3 target length 3 alignment score : 0.0913804
+Questions and answers 
+NULL ({ }) praSna ({ 1 }) Ora ({ 2 }) uwwara. ({ 3 }) 
+# Sentence pair (347) source length 11 target length 10 alignment score : 2.72475e-12
+2 My grand-daughter keeps losing her place on the page. 
+NULL ({ }) 2 ({ }) merI ({ }) powI ({ 6 7 }) panne ({ 5 }) para ({ 8 9 }) apanI ({ 10 }) jagaha ({ }) KowI ({ 1 2 3 4 }) rahawI ({ }) hE ({ }) . ({ }) 
+# Sentence pair (348) source length 9 target length 5 alignment score : 1.13171e-05
+5 My son is left-handed. 
+NULL ({ }) 5 ({ 1 }) merA ({ }) betA ({ 2 3 }) bAez ({ }) hAWa ({ }) se ({ }) liKawA ({ 5 }) hE ({ 4 }) . ({ }) 
+# Sentence pair (349) source length 12 target length 8 alignment score : 3.66031e-08
+Use lines with wide spaces to start with. 
+NULL ({ }) SurU ({ 1 2 }) meM ({ }) una ({ }) reKAoM ({ }) kA ({ }) prayoga ({ }) kareM ({ 3 }) jinake ({ 4 }) maXya ({ 5 6 }) xUriyAz ({ 7 8 }) hoM ({ }) . ({ }) 
+# Sentence pair (350) source length 3 target length 4 alignment score : 4.46372e-05
+What can I do? 
+NULL ({ }) mEM ({ 3 }) kyA ({ }) karUz?. ({ 1 2 4 }) 
+# Sentence pair (351) source length 6 target length 3 alignment score : 0.000143671
+Does this matter? 
+NULL ({ }) kyA ({ }) yaha ({ }) ciMwA ({ 1 2 3 }) kA ({ }) viRaya ({ }) hE?. ({ }) 
+# Sentence pair (352) source length 5 target length 3 alignment score : 0.000612749
+Their address is: 
+NULL ({ }) una ({ 1 2 }) kA ({ }) pawA ({ 3 }) hEH ({ }) . ({ }) 
+# Sentence pair (353) source length 3 target length 3 alignment score : 0.0140193
+45 East Hill, 
+NULL ({ }) 45 ({ 1 }) East ({ 2 }) Hill, ({ 3 }) 
+# Sentence pair (354) source length 6 target length 4 alignment score : 0.000718666
+Tel: 0181 516 2977 
+NULL ({ }) telIPZona ({ 1 }) H ({ }) 0181 ({ 2 3 }) 516 ({ 4 }) 2977 ({ }) . ({ }) 
+# Sentence pair (355) source length 5 target length 3 alignment score : 0.000612749
+Their address is: 
+NULL ({ }) una ({ 1 2 }) kA ({ }) pawA ({ 3 }) hEH ({ }) . ({ }) 
+# Sentence pair (356) source length 10 target length 8 alignment score : 2.49205e-07
+the Government spending over 50 million each year. 
+NULL ({ }) prawyeka ({ 1 }) sAla ({ 2 }) 50 ({ }) miliyana ({ 4 5 6 }) pAunda ({ 8 }) se ({ }) aXika ({ }) kA ({ }) sarakArI ({ 3 }) Karca ({ 7 }) 
+# Sentence pair (357) source length 11 target length 6 alignment score : 4.9657e-07
+You can help your child's teacher. 
+NULL ({ }) Apa ({ 1 }) apane ({ }) bacce ({ 4 }) kI ({ }) SikRaka ({ 5 6 }) kI ({ }) maxaxa ({ 3 }) kara ({ 2 }) sakawe ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (358) source length 3 target length 4 alignment score : 0.00015367
+National Year of Reading 
+NULL ({ }) rARtrIya ({ 1 2 4 }) paDZAI ({ }) varRa. ({ 3 }) 
+# Sentence pair (359) source length 8 target length 8 alignment score : 2.20683e-06
+These run from September 1998 to August 1999. 
+NULL ({ }) ye ({ 1 }) siwaMbara ({ 2 }) 1998 ({ 7 }) se ({ }) agaswa ({ 4 5 }) 1999 ({ 8 }) waka ({ 6 }) caleMge ({ 3 }) 
+# Sentence pair (360) source length 6 target length 3 alignment score : 0.00647557
+Parents as partners 
+NULL ({ }) sAWI ({ 1 }) ke ({ }) rupa ({ 3 }) meM ({ }) mAwA ({ }) -piwA ({ 2 }) 
+# Sentence pair (361) source length 3 target length 2 alignment score : 0.0193454
+This leaflet: 
+NULL ({ }) yaha ({ 1 }) lIPaleta ({ 2 }) : ({ }) 
+# Sentence pair (362) source length 4 target length 5 alignment score : 2.76584e-06
+Learning to read and write 
+NULL ({ }) paDZanA ({ 3 }) va ({ 4 }) liKanA ({ 5 }) sIKanA ({ 1 2 }) 
+# Sentence pair (363) source length 3 target length 3 alignment score : 0.000252009
+learn new words 
+NULL ({ }) naye ({ 1 2 3 }) Sabxa ({ }) sIKanA ({ }) 
+# Sentence pair (364) source length 4 target length 4 alignment score : 0.00136846
+read and write confidently 
+NULL ({ }) viSvAsapUrvaka ({ 4 }) paDZanA ({ 1 }) va ({ 2 }) liKanA ({ 3 }) 
+# Sentence pair (365) source length 12 target length 11 alignment score : 1.55092e-12
+the shapes of letters and words (that they recognise by sight) 
+NULL ({ }) akRaroM ({ 1 2 4 }) Ora ({ 5 }) SabxoM ({ 6 }) ke ({ }) AkAra ({ }) (jisase ({ 3 }) ki ({ }) ve ({ }) xeKakara ({ 11 }) unheM ({ }) pahacAna ({ 8 9 10 }) sakeM) ({ 7 }) 
+# Sentence pair (366) source length 7 target length 6 alignment score : 4.21383e-05
+the meaning (what will come next...) 
+NULL ({ }) BAvArWa. ({ 1 }) arWa ({ 2 }) (Age ({ 3 4 }) kyA ({ }) Ane ({ 6 }) vAlA ({ }) hE...) ({ 5 }) 
+# Sentence pair (367) source length 11 target length 10 alignment score : 1.74434e-10
+There is a literacy hour every day of the week. 
+NULL ({ }) litaresi ({ 3 }) Avara ({ 4 }) sapwAha ({ 5 }) ke ({ 8 }) prawyeka ({ 9 }) xinoM ({ 6 7 10 }) ke ({ }) lie ({ }) nirXAriwa ({ 1 }) hE ({ 2 }) . ({ }) 
+# Sentence pair (368) source length 8 target length 7 alignment score : 2.92584e-08
+It is usually divided into four parts. 
+NULL ({ }) pramuKawayA ({ }) yaha ({ 1 }) cAra ({ 5 6 7 }) BAgoM ({ }) meM ({ }) viBAjiwa ({ 3 4 }) howA ({ }) hE ({ 2 }) 
+# Sentence pair (369) source length 10 target length 7 alignment score : 4.22673e-06
+Whole class - shared reading and writing 
+NULL ({ }) pUri ({ 1 2 }) kakRA ({ 3 4 }) kA ({ }) - ({ }) paDZAI ({ 5 }) va ({ 6 }) liKAI ({ 7 }) meM ({ }) BAga ({ }) lenA ({ }) 
+# Sentence pair (370) source length 8 target length 3 alignment score : 0.00269248
+Questions might be: 
+NULL ({ }) praSna ({ 1 }) isa ({ }) prakAra ({ 2 3 }) se ({ }) ho ({ }) sakawe ({ }) hEM ({ }) H ({ }) 
+# Sentence pair (371) source length 5 target length 7 alignment score : 1.21527e-08
+Where is the title of the book? 
+NULL ({ }) kiwAba ({ }) kA ({ }) SirRaka ({ 1 2 3 }) kahAz ({ 4 5 7 }) hE? ({ 6 }) 
+# Sentence pair (372) source length 5 target length 5 alignment score : 2.65891e-05
+Why was that part funny? 
+NULL ({ }) vaha ({ }) BAga ({ 3 }) rocaka ({ 2 5 }) kyoM ({ 1 }) WA? ({ 4 }) 
+# Sentence pair (373) source length 10 target length 8 alignment score : 4.04225e-09
+What do you think it will be about? 
+NULL ({ }) wumhArI ({ 1 }) soca ({ 2 3 4 5 }) ke ({ }) anusAra ({ 6 }) yaha ({ }) kisa ({ }) viRaya ({ 8 }) meM ({ }) hogA ({ }) ? ({ 7 }) 
+# Sentence pair (374) source length 5 target length 5 alignment score : 4.40547e-05
+to recognise letters and words 
+NULL ({ }) akRaroM ({ 3 }) Ora ({ 4 }) SabxoM ({ 5 }) ko ({ 1 }) pahacAnanA ({ 2 }) 
+# Sentence pair (375) source length 4 target length 6 alignment score : 1.89228e-07
+to hear the sounds of letters 
+NULL ({ }) akRaroM ({ 6 }) kI ({ 5 }) Xvani ({ 2 3 4 }) sunanA ({ 1 }) 
+# Sentence pair (376) source length 11 target length 7 alignment score : 6.54949e-07
+to recognise words or sounds that rhyme 
+NULL ({ }) una ({ }) SabxoM ({ 3 }) Ora ({ }) XvaniyoM ({ 5 6 }) ko ({ }) pahacAnanA ({ 2 }) jinameM ({ 7 }) CaMxa ({ 1 }) / ({ }) wukAnwa ({ 4 }) ho ({ }) 
+# Sentence pair (377) source length 2 target length 2 alignment score : 0.0246214
+Group work 
+NULL ({ }) sAmUhika ({ 1 2 }) kArya ({ }) 
+# Sentence pair (378) source length 2 target length 2 alignment score : 0.0125928
+Whole group 
+NULL ({ }) pUrA ({ 1 }) samUha ({ 2 }) 
+# Sentence pair (379) source length 6 target length 5 alignment score : 1.19598e-05
+Why have a literacy hour? 
+NULL ({ }) litaresi ({ 3 }) Avara ({ 4 5 }) kI ({ }) AvaSyakawA ({ 2 }) kyoM ({ 1 }) hE? ({ }) 
+# Sentence pair (380) source length 10 target length 8 alignment score : 1.08549e-07
+When will the teacher hear my child read? 
+NULL ({ }) aXyApaka ({ 1 2 }) / ({ }) aXyApikA ({ 4 5 }) kaba ({ }) mere ({ 6 }) bacce ({ 7 }) ko ({ }) paDZawe ({ 8 }) hue ({ }) suneMge/suneMgI? ({ 3 }) 
+# Sentence pair (381) source length 9 target length 9 alignment score : 3.23449e-12
+What do older children do in the literacy hour? 
+NULL ({ }) litaresi ({ }) Avara ({ 8 9 }) ke ({ 7 }) samaya ({ 6 }) badZe ({ 3 4 }) bacce ({ }) kyA ({ 1 }) karawe ({ }) hEM? ({ 2 5 }) 
+# Sentence pair (382) source length 10 target length 6 alignment score : 1.95276e-07
+They work on more complex books. 
+NULL ({ }) ve ({ 1 }) Ora ({ }) BI ({ }) kaTina ({ 2 3 4 5 }) kiwAboM ({ 6 }) para ({ }) kAma ({ }) karawe ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (383) source length 12 target length 10 alignment score : 3.84093e-13
+Will my child learn reading and writing at other times? 
+NULL ({ }) kyA ({ 1 }) merA ({ 2 }) baccA ({ 3 }) /merI ({ 4 5 8 10 }) baccI ({ 7 }) anya ({ 9 }) samaya ({ }) para ({ }) paDZanA ({ }) va ({ 6 }) liKanA ({ }) sIKegA/sIKegI? ({ }) 
+# Sentence pair (384) source length 3 target length 1 alignment score : 0.241977
+Yes. 
+NULL ({ }) jI ({ }) hAz ({ 1 }) . ({ }) 
+# Sentence pair (385) source length 12 target length 9 alignment score : 2.04695e-08
+They use their reading and writing in other lessons. 
+NULL ({ }) ve ({ 1 }) anya ({ 8 }) aXyayana ({ 2 3 9 }) para ({ }) paDZAI ({ 4 }) va ({ 5 }) liKAI ({ 6 }) kA ({ }) kAma ({ }) karawe ({ 7 }) hEM ({ }) . ({ }) 
+# Sentence pair (386) source length 6 target length 5 alignment score : 3.21466e-05
+She will also set targets. 
+NULL ({ }) ve ({ }) lakRya ({ 4 }) BI ({ 3 }) nirXAriwa ({ 1 5 }) kareMge/kareMgI ({ 2 }) . ({ }) 
+# Sentence pair (387) source length 6 target length 7 alignment score : 6.89892e-08
+to learn five letters of the alphabet 
+NULL ({ }) alPZAbeta ({ 1 }) (varNamAlA) ({ 2 3 }) ke ({ 5 }) pAzca ({ 6 7 }) akRara ({ 4 }) sIKanA ({ }) 
+# Sentence pair (388) source length 7 target length 5 alignment score : 8.78987e-06
+to leave spaces between words 
+NULL ({ }) SabxoM ({ 1 }) ke ({ }) bIca ({ }) meM ({ }) rikwa ({ 3 5 }) sWAna ({ 4 }) CodZanA ({ 2 }) 
+# Sentence pair (389) source length 7 target length 8 alignment score : 7.12286e-11
+to tell the story in their own words. 
+NULL ({ 3 }) apane ({ }) hI ({ }) SabxoM ({ 1 }) meM ({ 5 }) kahAnI ({ 4 }) varNana ({ 2 6 7 8 }) karanA ({ }) 
+# Sentence pair (390) source length 9 target length 10 alignment score : 5.09944e-13
+to explain what a person in a story is like 
+NULL ({ }) kahAnI ({ 1 }) kA ({ }) vyakwi ({ 2 3 10 }) viSeRa ({ }) kEsA ({ 7 }) hE ({ 9 }) isakI ({ }) vyAKyA ({ 5 6 8 }) karanA ({ 4 }) 
+# Sentence pair (391) source length 3 target length 4 alignment score : 4.38993e-05
+to write in paragraphs 
+NULL ({ }) paricCexoM ({ 1 4 }) meM ({ 3 }) liKanA ({ 2 }) 
+# Sentence pair (392) source length 8 target length 9 alignment score : 1.67409e-10
+to learn how to spell a number of words 
+NULL ({ }) kaq ({ 8 }) SabxoM ({ 9 }) kA ({ }) varNa ({ 6 }) - ({ }) vinyAsa ({ }) hyaspeliMga ({ 1 2 3 4 5 }) hqkaranA ({ 7 }) 
+# Sentence pair (393) source length 9 target length 8 alignment score : 2.65514e-09
+to take notes as they watch a video. 
+NULL ({ }) jaba ({ 1 }) ve ({ }) vIdio ({ 3 4 5 6 }) xeKawe ({ 2 }) hEM ({ }) usa ({ }) samaya ({ 7 }) tipaNNI ({ 8 }) liKanA ({ }) 
+# Sentence pair (394) source length 11 target length 6 alignment score : 3.37309e-09
+praising them when they reach it. 
+NULL ({ }) jaba ({ }) ve ({ }) usa ({ 4 }) waka ({ }) pahuzca ({ 5 6 }) jAwe ({ }) hEM ({ }) waba ({ 1 }) unakI ({ }) praSaMsA ({ 2 3 }) karanA ({ }) 
+# Sentence pair (395) source length 10 target length 6 alignment score : 7.96742e-08
+ask parents to help in school 
+NULL ({ }) mAwA-piwA ({ }) ko ({ }) skUla ({ 6 }) meM ({ 5 }) maxaxa ({ 4 }) karane ({ 3 }) ko ({ }) kaha ({ 1 2 }) sakawI ({ }) hEM ({ }) 
+# Sentence pair (396) source length 5 target length 5 alignment score : 6.40069e-07
+Reading and Writing at Home 
+NULL ({ }) Gara ({ 1 3 4 5 }) meM ({ }) paDZanA ({ }) va ({ 2 }) liKanA ({ }) 
+# Sentence pair (397) source length 12 target length 10 alignment score : 8.52699e-10
+They learn to talk and listen to what you say. 
+NULL ({ }) Apa ({ }) jo ({ }) kahawe ({ 8 9 10 }) hEM ({ }) ve ({ 1 }) usase ({ 3 7 }) sanunA ({ 4 }) va ({ 5 }) bolanA ({ 6 }) sIKawe ({ 2 }) hEM ({ }) . ({ }) 
+# Sentence pair (398) source length 6 target length 6 alignment score : 2.44755e-06
+With young children it helps to: 
+NULL ({ }) Cote ({ }) baccoM ({ 2 3 4 }) ko ({ }) maxaxa ({ 6 }) milawI ({ 5 }) hEH ({ 1 }) 
+# Sentence pair (399) source length 9 target length 5 alignment score : 1.74373e-07
+talk about the story together 
+NULL ({ }) sAWa ({ }) milakara ({ 3 }) kahAnI ({ 4 }) ke ({ }) bAre ({ 2 }) meM ({ }) bAweM ({ 1 5 }) karane ({ }) se ({ }) 
+# Sentence pair (400) source length 8 target length 7 alignment score : 5.87128e-07
+let them see you reading and writing 
+NULL ({ }) unheM ({ }) Apako ({ 4 }) paDaqwe ({ 5 }) va ({ 6 }) liKawe ({ 7 }) hue ({ }) xeKane ({ 3 }) xeM. ({ 1 2 }) 
+# Sentence pair (401) source length 2 target length 2 alignment score : 0.0539774
+You could: 
+NULL ({ }) Apa ({ 1 }) kaxApiH ({ 2 }) 
+# Sentence pair (402) source length 8 target length 5 alignment score : 3.75646e-06
+read the word for them. 
+NULL ({ }) unako ({ 1 2 3 }) vaha ({ }) Sabxa ({ 4 }) paDZa ({ 5 }) kara ({ }) bawA ({ }) sakawe ({ }) hEM ({ }) 
+# Sentence pair (403) source length 7 target length 6 alignment score : 3.93908e-06
+You could read along with them. 
+NULL ({ }) Apa ({ 1 }) unake ({ 2 3 4 }) sAWa-sAWa ({ 5 }) paDZa ({ 6 }) sakawe ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (404) source length 8 target length 5 alignment score : 1.37146e-05
+If they are stuck, first: 
+NULL ({ }) yaxi ({ 1 }) ve ({ }) ataka ({ 3 4 5 }) jAwe ({ }) hEM ({ }) , ({ }) wo ({ }) pahaleH ({ 2 }) 
+# Sentence pair (405) source length 3 target length 2 alignment score : 0.0743442
+pause, then 
+NULL ({ }) Wama/rUka ({ 1 }) jAez, ({ }) wawpaScAw ({ 2 }) 
+# Sentence pair (406) source length 4 target length 2 alignment score : 0.00756332
+prompt, then, 
+NULL ({ }) Sabxa ({ }) suJAez ({ 1 2 }) , ({ }) Pira ({ }) 
+# Sentence pair (407) source length 6 target length 6 alignment score : 4.77956e-06
+With older children it helps to: 
+NULL ({ }) badZe ({ 2 3 }) baccoM ({ 4 }) ko ({ }) maxaxa ({ 6 }) milawI ({ 5 }) hEH ({ 1 }) 
+# Sentence pair (408) source length 9 target length 4 alignment score : 9.99631e-05
+Teaching Children Road Safety 
+NULL ({ }) baccoM ({ }) ko ({ }) sadaka ({ 4 }) surakRA ({ 3 }) ke ({ }) bAre ({ }) meM ({ }) sIKAnA ({ 1 2 }) . ({ }) 
+# Sentence pair (409) source length 2 target length 1 alignment score : 0.40997
+Parents! 
+NULL ({ }) pAlaka ({ 1 }) ! ({ }) 
+# Sentence pair (410) source length 1 target length 1 alignment score : 0.100289
+Why? 
+NULL ({ }) kyoM ({ 1 }) 
+# Sentence pair (411) source length 10 target length 8 alignment score : 3.85837e-09
+Your child is out and about with you. 
+NULL ({ }) Apa ({ }) kA ({ }) baccA ({ 1 2 }) Apa ({ }) ke ({ }) sAWa ({ 7 }) bAhara ({ 4 5 6 8 }) rahawA ({ }) hE ({ 3 }) . ({ }) 
+# Sentence pair (412) source length 9 target length 6 alignment score : 1.98664e-08
+They must always think for themselves. 
+NULL ({ }) unheM ({ }) hameSA ({ }) una ({ }) ke ({ }) bAre ({ }) meM ({ }) socanA ({ 4 5 6 }) cAhiye ({ 1 2 3 }) . ({ }) 
+# Sentence pair (413) source length 5 target length 4 alignment score : 0.000171902
+Road safety at school 
+NULL ({ }) pATaSAlA ({ 3 4 }) meM ({ }) sadaka ({ 2 }) surakRA ({ 1 }) . ({ }) 
+# Sentence pair (414) source length 7 target length 8 alignment score : 3.14799e-09
+1. Stop at the kerb at the crossing. 
+NULL ({ }) 1 ({ 1 }) sadaka ({ }) ke ({ }) moda ({ 8 }) para ({ }) ruka ({ 2 3 5 6 }) jAye ({ 4 7 }) 
+# Sentence pair (415) source length 11 target length 8 alignment score : 4.14413e-09
+Teach your child to be a good passenger. 
+NULL ({ }) Apa ({ }) ke ({ }) bacce ({ 2 3 }) ko ({ }) acCA ({ 4 }) pravAsI ({ 6 7 8 }) hone ({ 5 }) ke ({ }) lie ({ }) sIKAiye ({ 1 }) . ({ }) 
+# Sentence pair (416) source length 12 target length 9 alignment score : 1.74544e-13
+This will help to protect them from serious injury. 
+NULL ({ }) isa ({ }) ke ({ }) kAraNa ({ }) unheM ({ }) gaMBIra ({ 9 }) xurGatanA ({ 3 5 6 8 }) se ({ 4 7 }) bacAyA ({ 1 2 }) jA ({ }) sakawA ({ }) hE ({ }) . ({ }) 
+# Sentence pair (417) source length 4 target length 3 alignment score : 0.0010336
+1. Think first 
+NULL ({ }) 1 ({ }) pahale ({ }) vicAra ({ 1 }) karIye ({ 2 3 }) 
+# Sentence pair (418) source length 9 target length 6 alignment score : 1.43736e-07
+3. Use your eyes and ears 
+NULL ({ }) 3 ({ }) Apa ({ }) ke ({ }) kAna ({ 6 }) Ora ({ 5 }) AzKoM ({ 3 4 }) kA ({ }) iswemAla ({ 1 2 }) kareM ({ }) 
+# Sentence pair (419) source length 9 target length 6 alignment score : 1.30004e-06
+Traffic could come from any direction. 
+NULL ({ }) trEPIka ({ 1 }) kisI ({ 4 }) BI ({ }) ora ({ 5 6 }) se ({ }) A ({ 2 3 }) sakawA ({ }) hE ({ }) . ({ }) 
+# Sentence pair (420) source length 7 target length 4 alignment score : 0.000801247
+look all around again 
+NULL ({ }) Pira ({ 1 }) se ({ }) saba ({ 3 }) jagaha ({ 4 }) xeKa ({ 2 }) leM ({ }) . ({ }) 
+# Sentence pair (421) source length 9 target length 6 alignment score : 2.7184e-05
+Look all around again and listen. 
+NULL ({ }) Pira ({ 1 }) se ({ }) saba ({ 3 }) jagaha ({ 4 }) xeKa ({ 2 }) leM ({ }) Ora ({ 5 }) sunIe ({ 6 }) . ({ }) 
+# Sentence pair (422) source length 9 target length 5 alignment score : 8.32269e-05
+5. Look and listen again 
+NULL ({ }) 5 ({ 1 }) iqra ({ 2 }) se ({ }) saba ({ }) jagaha ({ 5 }) xeKa ({ }) leM ({ }) Ora ({ 3 }) sune. ({ 4 }) 
+# Sentence pair (423) source length 11 target length 10 alignment score : 4.94016e-10
+The placement of a single-tooth endosteal implant is illustrated below: 
+NULL ({ }) nIce ({ 1 2 }) Apake ({ }) lie ({ }) eka ({ }) akelA ({ 5 6 7 }) iMdostiyala ({ 3 }) iMplAMta ({ 8 }) ciwriwa ({ 9 10 }) kiyA ({ }) gayA ({ 4 }) hEH ({ }) 
+# Sentence pair (424) source length 9 target length 5 alignment score : 6.59743e-06
+Bone grows around the anchor. 
+NULL ({ }) isa ({ }) sWiraka ({ 3 }) ke ({ }) cAroM ({ 4 }) ora ({ }) haddI ({ }) ugane ({ 2 5 }) lagawI ({ 1 }) hE. ({ }) 
+# Sentence pair (425) source length 6 target length 8 alignment score : 8.52382e-08
+When will the LEA make the final statement? 
+NULL ({ }) Ela.I.e ({ 5 }) aMwima ({ 7 }) stetamEMta ({ 8 }) kaba ({ 1 }) wEyAra ({ 3 4 6 }) karegI ({ 2 }) 
+# Sentence pair (426) source length 7 target length 6 alignment score : 6.92263e-08
+How long does a statement last? 
+NULL ({ }) stetamEMta ({ 1 2 }) avaXi ({ 3 5 }) kiwane ({ 6 }) samaya ({ 4 }) kI ({ }) howI ({ }) hE?. ({ }) 
+# Sentence pair (427) source length 11 target length 10 alignment score : 1.13971e-13
+Can you ask for your child to be assessed again? 
+NULL ({ }) kyA ({ }) mEM ({ }) apane ({ 5 }) bacce ({ 6 }) ke ({ }) xObAra-nirXAraNa ({ 4 8 9 10 }) kI ({ }) mAzga ({ 1 2 3 }) kara ({ }) sakawA/sakawI ({ 7 }) hUz?. ({ }) 
+# Sentence pair (428) source length 2 target length 4 alignment score : 0.000311126
+SEN Code of Practice 
+NULL ({ }) vyavahAra ({ 1 4 }) niyamAvalI. ({ 2 3 }) 
+# Sentence pair (429) source length 5 target length 4 alignment score : 6.15974e-05
+Special Educational Needs Tribunal 
+NULL ({ }) viSeRa ({ 1 }) SEkRaNika ({ }) jZarurawoM ({ 4 }) prawi ({ }) nyAyaSAlA. ({ 2 3 }) 
+# Sentence pair (430) source length 2 target length 3 alignment score : 0.00289579
+Special educational provision 
+NULL ({ }) viSeRa ({ 1 }) skUla. ({ 2 3 }) 
+# Sentence pair (431) source length 6 target length 5 alignment score : 1.30167e-05
+Statement of special educational needs 
+NULL ({ }) viSeRa ({ 3 }) SEkRaNika ({ 4 }) jZarurawoM ({ 5 }) prawi ({ 1 2 }) stetamEMta ({ }) . ({ }) 
+# Sentence pair (432) source length 6 target length 5 alignment score : 2.23352e-05
+If you need more help 
+NULL ({ }) yaxi ({ 1 }) Apako ({ 2 3 }) aXika ({ 4 }) sahAyawA ({ 5 }) cAhie ({ }) . ({ }) 
+# Sentence pair (433) source length 11 target length 5 alignment score : 6.16517e-08
+Others offer more general advice. 
+NULL ({ }) kaI ({ }) Ora ({ }) hEM ({ }) jo ({ }) sAXAraNa ({ }) salAha ({ 1 }) - ({ }) maSavarA ({ 2 3 4 5 }) xewI ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (434) source length 4 target length 4 alignment score : 4.38213e-06
+Is the tribunal independent? 
+NULL ({ }) kyA ({ }) tribyUnala ({ 2 3 4 }) svawaMwra ({ }) hE?. ({ 1 }) 
+# Sentence pair (435) source length 4 target length 3 alignment score : 0.00065323
+We are independent. 
+NULL ({ }) tribyUnala ({ }) svawaMwra ({ 1 2 3 }) hE ({ }) . ({ }) 
+# Sentence pair (436) source length 3 target length 3 alignment score : 0.000716184
+How to appeal 
+NULL ({ }) apIla ({ 2 3 }) kEse ({ 1 }) kareM. ({ }) 
+# Sentence pair (437) source length 7 target length 8 alignment score : 5.06765e-11
+Why might I need to make an appeal? 
+NULL ({ }) apIla ({ 5 }) karanA ({ }) AvaSyaka ({ 2 3 4 6 7 8 }) kyoM ({ 1 }) ho ({ }) sakawA ({ }) hE?. ({ }) 
+# Sentence pair (438) source length 8 target length 7 alignment score : 7.01705e-08
+When can I appeal to the tribunal? 
+NULL ({ }) mEM ({ 3 }) tribyUnala ({ }) se ({ }) kaba ({ 1 }) apIla ({ 4 5 }) kara ({ 2 }) sakawA/sakawI ({ 7 }) hUz?. ({ 6 }) 
+# Sentence pair (439) source length 9 target length 9 alignment score : 3.71014e-12
+Is there a time limit for making an appeal? 
+NULL ({ }) apIla ({ }) karane ({ }) ke ({ }) lie ({ 6 }) kyA ({ }) koI ({ 2 7 8 }) samaya ({ 3 }) maryAxA ({ 4 5 9 }) hE?. ({ 1 }) 
+# Sentence pair (440) source length 5 target length 5 alignment score : 1.11796e-05
+Who will hear my appeal? 
+NULL ({ }) merA ({ }) mAmalA ({ 3 }) kOna ({ 1 }) sunegA ({ 2 5 }) ?. ({ 4 }) 
+# Sentence pair (441) source length 9 target length 9 alignment score : 4.50572e-11
+A tribunal panel is made up of three people. 
+NULL ({ }) tribyUnala ({ 1 2 }) ke ({ }) pEnela ({ 3 9 }) meM ({ }) wIna ({ 7 8 }) loga ({ 4 5 6 }) howe ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (442) source length 7 target length 6 alignment score : 5.42167e-07
+Will the hearing be in private? 
+NULL ({ }) kyA ({ 1 }) sunavAI ({ 2 }) ekAnwa ({ 3 }) meM ({ 5 }) sunI ({ 6 }) jAegI ({ 4 }) ?. ({ }) 
+# Sentence pair (443) source length 6 target length 8 alignment score : 6.5534e-10
+Do I have to come to the hearing? 
+NULL ({ }) kyA ({ }) muJe ({ 2 }) sunavAI ({ 7 8 }) meM ({ }) AnA ({ 4 6 }) hogA?. ({ 1 3 5 }) 
+# Sentence pair (444) source length 4 target length 6 alignment score : 3.36482e-09
+The three members of the tribunal. 
+NULL ({ }) tribyUnala ({ }) ke ({ 5 }) wIna ({ 2 4 }) saxasya. ({ 1 3 6 }) 
+# Sentence pair (445) source length 9 target length 5 alignment score : 1.58702e-06
+What happens during the hearing? 
+NULL ({ }) jaba ({ }) mEM ({ }) sunavAI ({ 4 5 }) meM ({ }) pahucUzgA ({ 2 3 }) /pahucUzgI ({ 1 }) wo ({ }) kyA ({ }) hogA?. ({ }) 
+# Sentence pair (446) source length 12 target length 10 alignment score : 1.47402e-12
+What if the LEA doesn't carry out the tribunal's decision? 
+NULL ({ }) punarIkRaNa ({ 1 2 }) , ({ }) hAI ({ 3 4 }) korta ({ 5 6 7 8 9 }) se ({ }) apIla ({ }) karane ({ }) kAsWAna ({ 10 }) nahIM ({ }) le ({ }) sakawA ({ }) . ({ }) 
+# Sentence pair (447) source length 2 target length 1 alignment score : 0.517436
+Definitions 
+NULL ({ }) pariBARA ({ 1 }) . ({ }) 
+# Sentence pair (448) source length 7 target length 7 alignment score : 2.12745e-07
+If A Blood Sample Is Being Taken 
+NULL ({ }) yaxi ({ 1 }) KUna ({ 2 3 4 }) kA ({ }) namUnA ({ 6 7 }) liyA ({ }) jAwA ({ }) hE... ({ 5 }) 
+# Sentence pair (449) source length 10 target length 7 alignment score : 5.3413e-08
+Health diagnosis which can save your life 
+NULL ({ }) sehawa ({ 1 }) jAMca ({ }) jo ({ }) ki ({ }) ApakA ({ 2 }) jIvana ({ 3 }) bacA ({ 4 5 6 7 }) sakawI ({ }) hE ({ }) . ({ }) 
+# Sentence pair (450) source length 5 target length 3 alignment score : 0.00360472
+Cervical smear test 
+NULL ({ }) saravIkala ({ 1 }) samIyara ({ 2 }) parIkRaNa ({ }) (CERVICAL ({ 3 }) SMEAR) ({ }) 
+# Sentence pair (451) source length 7 target length 5 alignment score : 0.000163986
+What is a smear test? 
+NULL ({ }) samIyara ({ 1 }) tEsta ({ 2 3 }) (Smear ({ 4 }) Test) ({ 5 }) kyA ({ }) hE ({ }) ? ({ }) 
+# Sentence pair (452) source length 7 target length 5 alignment score : 0.000119364
+Who needs to be tested? 
+NULL ({ }) parIkRaNa ({ }) karavAne ({ 1 }) ki ({ 3 }) kinheM ({ 5 }) AvaSyakawA ({ 2 }) hE ({ }) ? ({ 4 }) 
+# Sentence pair (453) source length 12 target length 8 alignment score : 2.05078e-08
+Be aware that abnormal cells can be treated. 
+NULL ({ }) yAxa ({ 1 }) raheH ({ 2 }) aprasAmAnya ({ 3 }) (ebanArmala) ({ 4 8 }) koSANuoM ({ 5 6 7 }) kA ({ }) ilAja ({ }) kiyA ({ }) jA ({ }) sakawA ({ }) hE ({ }) . ({ }) 
+# Sentence pair (454) source length 11 target length 9 alignment score : 1.16044e-08
+Your treatment will be continue as an out patient. 
+NULL ({ }) ilAja ({ 1 2 3 }) bAharI ({ 5 6 }) rogI ({ 7 }) (AUta ({ 8 }) pESanta) ({ 9 }) kI ({ }) waraha ({ }) se ({ }) kiyA ({ 4 }) jAegA ({ }) . ({ }) 
+# Sentence pair (455) source length 2 target length 2 alignment score : 0.0317226
+Any questions? 
+NULL ({ }) koI ({ }) praSna? ({ 1 2 }) 
+# Sentence pair (456) source length 8 target length 5 alignment score : 0.00036196
+Ask your doctor or nurse. 
+NULL ({ }) apane ({ }) dAktara ({ 3 }) yA ({ 4 }) prEktIsa ({ 5 }) narsa ({ 2 }) se ({ }) pUCeM ({ 1 }) . ({ }) 
+# Sentence pair (457) source length 7 target length 6 alignment score : 7.24395e-07
+What do you know about breasts? 
+NULL ({ }) vakRa ({ 1 }) ke ({ }) bAre ({ 5 }) meM ({ }) jAnakArI ({ 3 6 }) kayA ({ 2 4 }) hE? ({ }) 
+# Sentence pair (458) source length 6 target length 6 alignment score : 2.4612e-07
+When I should check my breasts? 
+NULL ({ }) muJe ({ }) apanA ({ 4 }) parIkRaNa ({ 3 5 6 }) kaba ({ 1 }) karanA ({ }) cAhie? ({ 2 }) 
+# Sentence pair (459) source length 7 target length 4 alignment score : 1.23353e-05
+It depends on you. 
+NULL ({ }) yaha ({ 1 }) Apa ({ }) para ({ 3 }) nirBara ({ 2 4 }) karawA ({ }) hE ({ }) . ({ }) 
+# Sentence pair (460) source length 6 target length 6 alignment score : 3.52511e-09
+How do I do a check? 
+NULL ({ }) muJe ({ 3 }) jAzca ({ 2 4 5 6 }) kisa ({ }) waraha ({ }) karanI ({ }) cAhie? ({ 1 }) 
+# Sentence pair (461) source length 4 target length 4 alignment score : 0.000528235
+is at right temperature; 
+NULL ({ }) usakA ({ }) wApamAna ({ 3 4 }) sahI ({ 2 }) hE ({ 1 }) 
+# Sentence pair (462) source length 9 target length 5 alignment score : 0.000213606
+looks appetising and tastes good; 
+NULL ({ }) BUKa ({ 1 }) jagAne ({ 2 }) vAlA ({ }) xiKAI ({ }) xewA ({ 5 }) hE ({ }) Ora ({ 3 }) svAxiRta ({ 4 }) hE ({ }) 
+# Sentence pair (463) source length 7 target length 4 alignment score : 3.4697e-05
+gives value for money; 
+NULL ({ }) Xana ({ 1 }) kA ({ }) uciwa ({ 2 3 }) mUlya ({ 4 }) praxAna ({ }) karawA ({ }) hE ({ }) 
+# Sentence pair (464) source length 6 target length 5 alignment score : 0.00108425
+Biological; eg salmonella in chicken; 
+NULL ({ }) bAyolojIkala ({ 1 2 }) (jEvika); ({ 4 }) jEse ({ }) murge ({ 5 }) meM ({ }) semonelA ({ 3 }) 
+# Sentence pair (465) source length 11 target length 8 alignment score : 1.6628e-08
+Physical; eg glass in food of any kind; 
+NULL ({ }) PijZIKadZa ({ 1 }) (sWUla) ({ 2 3 }) ;jEse ({ }) KAxya ({ 5 6 }) meM ({ 4 }) kisI ({ }) prakAra ({ }) ke ({ }) SISe ({ 8 }) ke ({ }) tukadZe ({ 7 }) 
+# Sentence pair (466) source length 7 target length 6 alignment score : 7.48336e-07
+Stage 4 For each catering step: 
+NULL ({ }) steja ({ 1 }) 4 ({ }) prawyeka ({ 4 }) ketariMga ({ 3 5 6 }) caraNa ({ 2 }) ke ({ }) liye ({ }) 
+# Sentence pair (467) source length 5 target length 3 alignment score : 0.00435395
+1) list hazards 
+NULL ({ }) a) ({ 1 }) hEjZarda ({ 2 }) kI ({ }) sUcI ({ 3 }) banAnA ({ }) 
+# Sentence pair (468) source length 6 target length 3 alignment score : 0.00770657
+2) identify controls 
+NULL ({ }) b) ({ 1 }) niyanwraNoM ({ 2 }) (kantrolajZa) ({ 3 }) kI ({ }) pahacAna ({ }) karanA ({ }) 
+# Sentence pair (469) source length 7 target length 5 alignment score : 3.62197e-05
+3) determine critical control points 
+NULL ({ }) c) ({ 1 2 }) kritikala ({ 3 }) kantrola ({ 4 }) pAiMtasa ({ 5 }) ko ({ }) suniSciwa ({ }) karanA ({ }) 
+# Sentence pair (470) source length 3 target length 4 alignment score : 0.000110483
+5) put into action 
+NULL ({ }) e) ({ 1 4 }) kAryavAhI ({ 2 3 }) karanA ({ }) 
+# Sentence pair (471) source length 3 target length 2 alignment score : 0.0399606
+6) check 
+NULL ({ }) f) ({ 1 }) jAMca ({ 2 }) karanA ({ }) 
+# Sentence pair (472) source length 6 target length 5 alignment score : 2.98781e-05
+Stage 6 Full screen check 
+NULL ({ }) steja ({ 1 }) 6 ({ 2 }) pUre ({ 3 }) sistama ({ 5 }) kI ({ }) jAMca ({ 4 }) 
+# Sentence pair (473) source length 8 target length 5 alignment score : 6.65464e-06
+Stage 4(a): Listing the hazards. 
+NULL ({ }) steja ({ 1 }) 4 ({ }) hyaahq ({ 2 3 5 }) H ({ }) hEjaqrdajaq ({ 4 }) kI ({ }) sUcI ({ }) banAnA ({ }) 
+# Sentence pair (474) source length 8 target length 6 alignment score : 2.10181e-05
+Stage 4(b): Identify the control measures. 
+NULL ({ }) steja ({ 1 }) 4 ({ }) hyabhq ({ 2 }) H ({ }) niyanwraNa ({ 3 }) sAXanoM ({ 5 6 }) kI ({ }) pahacAne. ({ 4 }) 
+# Sentence pair (475) source length 7 target length 5 alignment score : 0.000771637
+Stage 4(c): Critical control points 
+NULL ({ }) steja ({ 1 }) 4 ({ }) hyachq ({ 2 }) H ({ }) iqtikala ({ 3 }) kantrola ({ 4 }) pAintasa ({ 5 }) 
+# Sentence pair (476) source length 8 target length 7 alignment score : 2.43402e-07
+Stage 4(e): Putting the system into action 
+NULL ({ }) steja ({ 1 }) 4 ({ 4 }) hyaehq ({ 2 3 7 }) H ({ }) sistama ({ 5 }) ko ({ }) iqyASIla ({ 6 }) karanA ({ }) 
+# Sentence pair (477) source length 6 target length 5 alignment score : 0.00015906
+What is to be done; 
+NULL ({ }) kyA ({ 1 }) karane ({ 3 }) kI ({ }) jarUrawa ({ 4 5 }) hE ({ 2 }) ; ({ }) 
+# Sentence pair (478) source length 7 target length 6 alignment score : 3.0434e-05
+How it is to be done; 
+NULL ({ }) unheM ({ 2 }) kEse ({ 1 }) karane ({ 4 }) kI ({ }) jarurawa ({ 5 6 }) hE ({ 3 }) ; ({ }) 
+# Sentence pair (479) source length 7 target length 6 alignment score : 4.88674e-05
+When it is to be done; 
+NULL ({ }) unheM ({ 2 }) kaba ({ 1 }) karane ({ 4 }) kI ({ }) jarUrawa ({ 5 6 }) hE ({ 3 }) ; ({ }) 
+# Sentence pair (480) source length 7 target length 6 alignment score : 7.56291e-06
+Where it is to be done; 
+NULL ({ }) unheM ({ 2 }) kahAM ({ 1 }) karane ({ 4 }) kI ({ }) jarUrawa ({ 5 6 }) hE ({ 3 }) ; ({ }) 
+# Sentence pair (481) source length 5 target length 5 alignment score : 3.42953e-05
+Who is to do it. 
+NULL ({ }) unheM ({ }) kOna ({ 1 }) karane ({ 3 }) vAlA ({ 4 5 }) hE ({ 2 }) 
+# Sentence pair (482) source length 8 target length 5 alignment score : 4.9276e-05
+Stage 4(f): Checking the system 
+NULL ({ }) steja ({ 1 }) 4 ({ 4 }) hyafhq ({ 2 3 }) H ({ }) sistama ({ 5 }) kI ({ }) jAMca ({ }) karanA ({ }) 
+# Sentence pair (483) source length 8 target length 9 alignment score : 3.64601e-11
+The checking of the critical control points is satisfactory. 
+NULL ({ 4 }) kritikala ({ 1 2 5 }) kantrola ({ 6 }) pAiMtasa ({ 7 }) kI ({ 3 }) jAMca ({ }) sanwoRajanaka ({ 9 }) hE ({ 8 }) . ({ }) 
+# Sentence pair (484) source length 7 target length 5 alignment score : 0.000237524
+Stage 6: Full system check 
+NULL ({ }) steja ({ 1 }) 6 ({ 2 }) H ({ }) pUre ({ 3 }) sistama ({ 4 }) kI ({ }) jAMca ({ 5 }) 
+# Sentence pair (485) source length 7 target length 6 alignment score : 4.77747e-07
+Being checked as often as necessary; 
+NULL ({ }) AvaSyakawAnusAra ({ 1 2 3 4 5 }) una ({ }) kI ({ }) jAMca ({ 6 }) howI ({ }) hE ({ }) ; ({ }) 
+# Sentence pair (486) source length 8 target length 4 alignment score : 9.81634e-05
+Accompanied by adequate instructions. 
+NULL ({ }) unake ({ }) sAWa ({ }) paryApwa ({ 3 4 }) anuxeSa ({ 1 }) xiye ({ 2 }) gaye ({ }) hEM ({ }) . ({ }) 
+# Sentence pair (487) source length 7 target length 5 alignment score : 0.000131405
+Stage 7: Full system review 
+NULL ({ }) steja ({ 1 }) 7 ({ }) H ({ }) pUre ({ 3 }) sistama ({ 4 }) kA ({ }) sarvekRaNa ({ 2 5 }) 
+# Sentence pair (488) source length 7 target length 4 alignment score : 1.64191e-05
+Reviews may be needed: 
+NULL ({ }) punarvilokana ({ 1 2 4 }) kI ({ }) jarUrawa ({ 3 }) ho ({ }) sakawI ({ }) hE ({ }) H ({ }) 
+# Sentence pair (489) source length 10 target length 6 alignment score : 6.95773e-08
+What should I know before deciding? 
+NULL ({ }) PEsalA ({ 6 }) lene ({ }) se ({ }) pahale ({ 5 }) muJe ({ 3 }) kyA ({ }) jAnanA ({ 2 4 }) jarurI ({ 1 }) hE ({ }) ? ({ }) 
+# Sentence pair (490) source length 6 target length 4 alignment score : 0.000222453
+Should I ask questions? 
+NULL ({ }) kyA ({ }) mEM ({ 2 }) savAla ({ 3 }) puzCa ({ 1 4 }) sakawA ({ }) hUz? ({ }) 
+# Sentence pair (491) source length 6 target length 4 alignment score : 0.000222453
+Should I ask questions? 
+NULL ({ }) kyA ({ }) mEM ({ 2 }) savAla ({ 3 }) puzCa ({ 1 4 }) sakawA ({ }) hUz? ({ }) 
+# Sentence pair (492) source length 9 target length 5 alignment score : 7.99414e-07
+Always ask anything you want. 
+NULL ({ }) hameSA ({ }) Apa ({ }) ko ({ }) ciMwA ({ }) vAlI ({ }) sArI ({ 1 }) cIjeM ({ }) pUzCe ({ 2 3 4 5 }) . ({ }) 
+# Sentence pair (493) source length 11 target length 7 alignment score : 7.93945e-09
+Is there anything I should tell people? 
+NULL ({ }) isa ({ }) meM ({ }) kyA ({ }) hE ({ }) jo ({ }) mEM ({ 4 }) logoM ({ 5 6 7 }) ko ({ }) bawA ({ 1 2 3 }) sakawA ({ }) hUz? ({ }) 
+# Sentence pair (494) source length 11 target length 8 alignment score : 5.99236e-09
+Can I find out more about giving consent? 
+NULL ({ }) kyA ({ }) mEM ({ 2 }) paravAnagI ({ 7 8 }) ke ({ }) bAre ({ 6 }) meM ({ }) aXika ({ 5 }) jAnakArI ({ }) DuMDa ({ 1 3 }) sakawA ({ }) huz? ({ 4 }) 
+# Sentence pair (495) source length 4 target length 4 alignment score : 0.000174015
+Who is treating me? 
+NULL ({ }) merA ({ }) upacAra ({ }) kOna ({ 1 }) karegA? ({ 2 3 4 }) 
+# Sentence pair (496) source length 5 target length 4 alignment score : 0.00220575
+Will samples be taken? 
+NULL ({ }) kyA ({ }) namune ({ 2 }) liye ({ 1 }) jAeMge ({ 4 }) ? ({ 3 }) 
+# Sentence pair (497) source length 12 target length 9 alignment score : 7.70612e-10
+You would always be told about this in advance. 
+NULL ({ }) Apa ({ 1 }) ko ({ }) isa ({ 7 }) ke ({ }) bAre ({ 6 }) meM ({ 8 }) hameSA ({ 9 }) pUrva ({ }) sUciwa ({ 2 3 }) kiyA ({ 4 }) jAegA ({ 5 }) . ({ }) 
+# Sentence pair (498) source length 10 target length 7 alignment score : 1.31326e-07
+What if things don't go as expected? 
+NULL ({ }) kyA ({ 1 }) hogA ({ 2 }) agara ({ }) kAma ({ }) anumAna ({ }) kI ({ }) waraha ({ }) nahI ({ 5 6 7 }) huA ({ 3 }) wo? ({ 4 }) 
+# Sentence pair (499) source length 9 target length 7 alignment score : 3.35904e-09
+What are the key things to remember? 
+NULL ({ }) kOna ({ }) sI ({ 2 }) mahawvapUrNa ({ }) bAweM ({ }) XyAna ({ 4 5 6 7 }) meM ({ }) raKanA ({ }) jarurI ({ 1 }) hE? ({ 3 }) 
+# Sentence pair (500) source length 10 target length 12 alignment score : 7.95811e-15
+When am I likely to be able to get back to work? 
+NULL ({ }) mEM ({ }) wakarIbana ({ 2 }) kaba ({ 1 }) kAma ({ }) jAne ({ 5 8 11 }) ke ({ }) lAyaka ({ 6 7 9 10 }) bana ({ 4 12 }) sakawA ({ 3 }) hUz? ({ }) 

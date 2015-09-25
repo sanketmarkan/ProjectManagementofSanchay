@@ -1,0 +1,50 @@
+# load the translation table from the binary file
+[ttable-file]
+#memory:sorted:data/transliteration/hin-eng-utf8/phrase-table.0-0
+nio:data/transliteration/hin-eng-utf8/phrase-table.0-0.bin
+
+# uses a fast implementation, optimized for 3-gram language models
+# also, loads it binary
+[lmodel-file]
+fast:nocache:memory:vocabulary:binary:data/transliteration/hin-eng-utf8/transliteration.eng.blm
+
+[ttable-limit]
+10
+
+[weight-d]
+#0.2
+0.9130741588037923
+
+[weight-l]
+#0.3
+0.932737212192068
+
+[weight-t]
+0.49498387135257477
+0.715942408333056
+1.0
+0.274106299325343
+-0.3461411058900711
+#0.2
+#0.2
+#0.2
+#0.2
+#0.2
+
+[weight-w]
+#0
+-0.8091850074987235
+
+# assumes pLM + pT + pW + pX <= 0 (in logarithm) and pLM + pX <= 0 (in logarithm)
+[x-level-good-probabilities]
+2
+
+#[wenc]
+#UTF-8
+
+[ttenc]
+UTF-8
+
+[lmenc]
+UTF-8
+

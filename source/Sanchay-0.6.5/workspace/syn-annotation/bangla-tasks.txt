@@ -1,0 +1,5 @@
+Column Names::TaskName	TaskKVPropFile	TaskKVPropCharset
+Bangla-1	workspace/syn-annotation/bangla/bangla-task-1.txt	UTF8
+Bangla-2	workspace/syn-annotation/bangla/bangla-task-2.txt	UTF8
+Bangla-3	workspace/syn-annotation/bangla/bangla-task-3.txt	UTF8
+Bangla-4	workspace/syn-annotation/bangla/bangla-task-4.txt	UTF8

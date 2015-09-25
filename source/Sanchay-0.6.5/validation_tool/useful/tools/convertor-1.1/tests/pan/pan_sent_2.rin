@@ -1,0 +1,24 @@
+<Sentence id="3">
+1	ਕੁਝ	unk	<fs af='ਕੁਝ,adj,,,,d,,'>|<fs af='ਕੁਝ,adv,,,,d,,'>|<fs af='ਕੁਝ,pn,any,sg,,d,,'>|<fs af='ਕੁਝ,pn,any,pl,,d,,'>
+2	ਲੋਕ	unk	<fs af='ਲੋਕ,n,m,pl,3,d,,'>
+3	ਉਸ	unk	<fs af='ਉਹ,pn,any,sg,,o,,'>
+4	ਨੂੰ	unk	<fs af='ਨੂੰ,psp,,,,d,,'>
+5	ਮਹਾਨ	unk	<fs af='ਮਹਾਨ,adj,,,,d,,'>
+6	ਸ਼ਹਿਨਸ਼ਾਹ	unk	<fs af='ਸ਼ਹਿਨਸ਼ਾਹ,n,m,sg,3,d,,'>|<fs af='ਸ਼ਹਿਨਸ਼ਾਹ,n,m,pl,3,d,,'>
+7	,	unk	<fs af='&comma;,punc,,,,,,'>
+8	ਧਰਮ	unk	<fs af='ਧਰਮ,n,m,sg,3,d,,'>|<fs af='ਧਰਮ,n,m,pl,3,d,,'>
+9	ਨਿਰਪੱਖ	unk	<fs af='ਨਿਰਪੱਖ,adj,,,,d,,'>
+10	,	unk	<fs af='&comma;,punc,,,,,,'>
+11	ਲੋਕ	unk	<fs af='ਲੋਕ,n,m,pl,3,d,,'>
+12	ਰਾਜ	unk	<fs af='ਰਾਜ,n,m,sg,3,d,,'>|<fs af='ਰਾਜ,n,m,pl,3,d,,'>
+13	ਦਾ	unk	<fs af='ਦਾ,psp,m,sg,,d,,'>
+14	ਸਮਰਥਕ	unk	<fs af='ਸਮਰਥਕ,n,m,sg,3,d,,'>|<fs af='ਸਮਰਥਕ,n,m,pl,3,d,,'>
+15	,	unk	<fs af='&comma;,punc,,,,,,'>
+16	ਦਿਆਲੂ	unk	<fs af='ਦਿਆਲੂ,adj,,,,d,,'>
+17	ਤੇ	unk	<fs af='ਤੇ,psp,,,,d,,'>|<fs af='ਤੇ,avy,,,,,,'>
+18	ਸਿੱਖ	unk	<fs af='ਸਿੱਖ,n,m,sg,3,d,,'>|<fs af='ਸਿੱਖ,n,m,pl,3,d,,'>|<fs af='ਸਿੱਖ,v,any,sg,2,,O,O'>
+19	ਨਾਇਕ	unk	<fs af='ਨਾਇਕ,n,m,sg,3,d,,'>|<fs af='ਨਾਇਕ,n,m,pl,3,d,,'>
+20	ਗਿਣਦੇ	unk	<fs af='ਗਿਣ,v,m,pl,any,,ਦਾ,ਦਾ'>
+21	ਹਨ	unk	<fs af='ਹੈ,v,any,pl,3,,,'>
+22	।	unk	<fs af='।,punc,,,,,,'>
+</Sentence>

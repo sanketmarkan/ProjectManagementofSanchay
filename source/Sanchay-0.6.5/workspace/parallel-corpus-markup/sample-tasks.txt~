@@ -1,0 +1,3 @@
+Column Names::TaskName	TaskKVPropFile	TaskKVPropCharset
+sample-1-100	workspace/tam-marker/sample-tasks/sample-1-100-task.txt	UTF8
+

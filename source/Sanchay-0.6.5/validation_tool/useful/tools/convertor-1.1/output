@@ -1,0 +1,69 @@
+<document @id=" 
+<head> 
+<title></title> 
+<caption>बलात्कार Ora hawyA ke xoRI ko notisa        jyUrisa nyUja   : naI दिल्ली</caption> 
+<language>Hindi </language> 
+<author> 
+<firstname></firstname> 
+<middlename></middlename> 
+<lastname></lastname> 
+</author> 
+<creation> 
+<raw_corpus @creation_@date=" @institute_@name=" 
+<annotated_corpus @creation_@date=" @institute_@name=" 
+</creation> 
+<domain_name>News @Articles </domain_name> 
+<distributor>LTRC, @IIIT Hyderabad</distributor> 
+<source>ISI, Kolkata</source> 
+<publication> 
+<place>New Delhi</place> 
+<date>3/7/2004</date> 
+<address>Connaught @Place, @New Delhi</address> 
+<type>Newspaper</type> 
+<publisher> 
+<name>Amar Ujala</name> 
+<url>http://www.amarujala.com</url> 
+</publisher> 
+</publication> 
+<project_description>NSF @Hindi/@Urdu @Dependency @Treebanking Project</place> 
+<availability> 
+<format>CML/SSF</format> 
+</availability> 
+<byte_count>4125</byte_count> 
+<word_count>116</word_count> 
+<edition_number>1.0</edition_number> 
+<encoding_description> 
+<original_encoding>ISO 8859</format> 
+<new_encoding>Unicode UTF8</new_encoding> 
+</encoding_description> 
+<bibliography></bibliography> 
+<sentence_marker>.</sentence_marker> 
+<normalization>No</normalization> 
+<utility_name>cml_tags</utility_name> 
+
+</head> 
+<body> 
+<tb @number=" @segment=" @bullet=" 
+<foreign @language=" @writingsystem=" </foreign> 
+<text> 
+<Sentence @id=' 
+1 ( @NP <fs @hlt=' 
+1.1 suprIma @NNPC <fs @af=' @hlt=' 
+1.2 korta @NNP <fs @af=' 
+1.3 ne @PSP <fs @af=' @hlt=' 
+ ) 
+2 ( @NP <fs @hlt=' 
+2.1 4 @QC <fs @af=' @hlt=' 
+2.2 varRIyA @JJ <fs @af=' @hlt=' 
+2.3 bAlikA @NN <fs @af=' 
+2.4 ke @PSP <fs @af=' @hlt=' 
+2.5 sAWa @NST <fs @af=' @hlt=' 
+ ) 
+3 ( @NP <fs @hlt=' 
+3.1 balAwkAra NN <fs af=' @hlt=' 
+ ) 
+4 ( @VGNF <fs @hlt=' 
+4.1 kara @VM <fs @af=' @hlt=' 
+ ) 
+5 ( @NP <fs @hlt=' 
+5.1 usakI @PRP <fs 

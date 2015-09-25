@@ -1,0 +1,5545 @@
+<Meta>
+
+</Meta>
+<Story id="null">
+<Sentence id="null">
+0	((	SSF	
+1	वे	PRP	
+2	परदा	NN	
+3	करती	VM	
+4	थीं	VAUX	
+5	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	बेचारी	JJ	
+2	बीमार	JJ	
+3	लड़की	NN	
+4	अकेली	JJ	
+5	रह	VM	
+6	गई	VAUX	
+7	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	झोंपड़ी	NN	
+2	के	PSP	
+3	बाहरी	JJ	
+4	भाग	NN	
+5	में	PSP	
+6	उसकी	PRP	
+7	चारपाई	NN	
+8	थी	VM	
+9	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	गांव	NN	
+2	में	PSP	
+3	रोगी	NN	
+4	मैले-कुचैले	JJ	
+5	कपड़ों	NN	
+6	में	PSP	
+7	लिपटे	VM	
+8	गंदी-से-गंदी	JJ	
+9	जगह	NN	
+10	में	PSP	
+11	पड़े	VM	
+12	रहते	VAUX	
+13	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	वही	DEM	
+2	हालत	NN	
+3	उस	DEM	
+4	लड़की	NN	
+5	की	PSP	
+6	थी	VM	
+7	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मनु	NNP	
+2	उन	DEM	
+3	स्त्रियों	NN	
+4	को	PSP	
+5	समझाने	VM	
+6	के	PSP	
+7	लिए	PSP	
+8	घर	NN	
+9	के	PSP	
+10	भीतर	NST	
+11	गई	VM	
+12	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	कहा	VM	
+2	,	SYM	
+3	"	SYM	
+4	तुम्हारे	PRP	
+5	आंगन	NN	
+6	में	PSP	
+7	((	QC	<ne=NEN>
+7.1	एक	QC	
+	))
+8	महान	JJ	
+9	संत-पुरुष	NN	
+10	पधारे	VM	
+11	हैं	VAUX	
+12	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	बाहर	NST	
+2	आकर	VM	
+3	उनके	PRP	
+4	दर्शन	NN	
+5	तो	RP	
+6	करो	VM	
+7	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	"	SYM	
+2	लेकिन	CC	
+3	मनु	NNP	
+4	की	PSP	
+5	दृष्टि	NN	
+6	में	PSP	
+7	जो	PRP	
+8	महान	JJ	
+9	पुरुष	NN	
+10	थे	VM	
+11	,	SYM	
+12	वही	PRP	
+13	उनकी	PRP	
+14	दृष्टि	NN	
+15	में	PSP	
+16	दुश्मन	NN	
+17	थे	VM	
+18	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उनके	PRP	
+2	मन	NN	
+3	में	PSP	
+4	गांधीजी	NNP	
+5	के	PSP	
+6	लिए	PSP	
+7	रंचमात्र	JJ	
+8	भी	RP	
+9	आदर	NN	
+10	नहीं	NEG	
+11	था	VM	
+12	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	स्त्रियों	NN	
+2	को	PSP	
+3	समझाने	VM	
+4	के	PSP	
+5	बाद	NST	
+6	जब	PRP	
+7	मनु	NNP	
+8	बाहर	NST	
+9	आई	VM	
+10	तो	CC	
+11	देखा	VM	
+12	,	SYM	
+13	((	NNP	<ne=NEP>
+13.1	गांधीजी	NNP	
+	))
+14	ने	PSP	
+15	लड़की	NN	
+16	के	PSP	
+17	बिस्तर	NN	
+18	की	PSP	
+19	मैली	JJ	
+20	चादर	NN	
+21	हटाकर	VM	
+22	उस	PRP	
+23	पर	PSP	
+24	अपनी	PRP	
+25	ओढ़ी	VM	
+26	हुई	VAUX	
+27	चादर	NN	
+28	बिछा	VAUX	
+29	दी	VAUX	
+30	है	VAUX	
+31	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अपने	PRP	
+2	छोटे	JJ	
+3	से	PSP	
+4	रूमाल	NN	
+5	से	PSP	
+6	उसकी	PRP	
+7	नाक	NN	
+8	साफ	JJ	
+9	करदी	VM	
+10	है	VAUX	
+11	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	पानी	NN	
+2	से	PSP	
+3	उसका	PRP	
+4	मुंह	NN	
+5	धो	VM	
+6	दिया	VAUX	
+7	है	VAUX	
+8	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अपना	PRP	
+2	शाल	NN	
+3	उसे	PRP	
+4	उढ़ा	VM	
+5	दिया	VAUX	
+6	है	VAUX	
+7	और	CC	
+8	कड़ाके	JJ	
+9	की	PSP	
+10	सर्दी	NN	
+11	में	PSP	
+12	खुले	JJ	
+13	बदन	NN	
+14	खड़े-खड़े	JJ	
+15	रोगी	NN	
+16	के	PSP	
+17	सिर	NN	
+18	पर	PSP	
+19	प्रेम	NN	
+20	से	PSP	
+21	हाथ	NN	
+22	फेर	VM	
+23	रहे	VAUX	
+24	हैं	VAUX	
+25	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इतना	PRP	
+2	ही	RP	
+3	नहीं	NEG	
+4	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	बाद	NST	
+2	में	PSP	
+3	दोपहर	NN	
+4	को	PSP	
+5	((	QC	<ne=NEN>
+5.1	दो	QC	
+	))
+6	((	QC	<ne=NEN>
+6.1	तीन	QC	
+	))
+7	बार	RP	
+8	उस	DEM	
+9	लड़की	NN	
+10	को	PSP	
+11	शहद	NN	
+12	और	CC	
+13	पानी	NN	
+14	पिलाने	VM	
+15	के	PSP	
+16	लिए	PSP	
+17	उन्होंने	PRP	
+18	मनु	NNP	
+19	को	PSP	
+20	वहां	PRP	
+21	भेजा	VM	
+22	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उसके	PRP	
+2	पेट	NN	
+3	और	CC	
+4	सिर	NN	
+5	पर	PSP	
+6	मिट्टी	NN	
+7	की	PSP	
+8	पट्टी	NN	
+9	रखने	VM	
+10	के	PSP	
+11	लिए	PSP	
+12	भी	RP	
+13	कहा	VM	
+14	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मनु	NNP	
+2	ने	PSP	
+3	ऐसा	PRP	
+4	ही	RP	
+5	किया	VM	
+6	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उसी	DEM	
+2	रात	NN	
+3	को	PSP	
+4	उस	DEM	
+5	बच्ची	NN	
+6	का	PSP	
+7	बुखार	NN	
+8	उतर	VM	
+9	गया	VAUX	
+10	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अब	PRP	
+2	उस	DEM	
+3	घर	NN	
+4	के	PSP	
+5	व्यक्ति	NN	
+6	,	SYM	
+7	जो	PRP	
+8	गांधीजी	NNP	
+9	को	PSP	
+10	अपना	PRP	
+11	दुश्मन	NN	
+12	समझ	VM	
+13	रहे	VAUX	
+14	थे	VAUX	
+15	,	SYM	
+16	अत्यंत	JJ	
+17	भक्तिभाव	NN	
+18	से	PSP	
+19	उन्हें	PRP	
+20	प्रणाम	NN	
+21	करने	VM	
+22	आये	VAUX	
+23	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	बोले	VM	
+2	,	SYM	
+3	"	SYM	
+4	आप	PRP	
+5	सचमुच	RB	
+6	खुदा	NN	
+7	के	PSP	
+8	फरिश्ते	NN	
+9	हैं	VM	
+10	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	हमारी	PRP	
+2	बेटी	NN	
+3	के	PSP	
+4	लिए	PSP	
+5	आपने	PRP	
+6	जो	PRP	
+7	कुछ	QF	
+8	किया	VM	
+9	,	SYM	
+10	उसके	PRP	
+11	बदले	PSP	
+12	में	PSP	
+13	हम	PRP	
+14	आपकी	PRP	
+15	क्या	WQ	
+16	खिदमत	NN	
+17	कर	VM	
+18	सकते	VAUX	
+19	हैं	VAUX	
+20	?	SYM	
+21	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NEP>
+1.1	गांधीजी	NNP	
+	))
+2	ने	PSP	
+3	उत्तर	NN	
+4	दिया	VM	
+5	,	SYM	
+6	"	SYM	
+7	मैं	PRP	
+8	न	NEG	
+9	फरिश्ता	NN	
+10	हूं	VM	
+11	और	CC	
+12	न	NEG	
+13	पैगम्बर	NN	
+14	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	तो	RP	
+3	((	QC	<ne=NEN>
+3.1	एक	QC	
+	))
+4	छोटा-सा	JJ	
+5	सेवक	NN	
+6	हूं	VM	
+7	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	DEM	
+2	बच्ची	NN	
+3	का	PSP	
+4	बुखार	NN	
+5	उतर	VM	
+6	गया	VAUX	
+7	,	SYM	
+8	इसका	PRP	
+9	श्रेय	NN	
+10	मुझे	PRP	
+11	नहीं	NEG	
+12	है	VM	
+13	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैंने	PRP	
+2	इसकी	PRP	
+3	सफाई	NN	
+4	की	VM	
+5	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	पेट	NN	
+3	में	PSP	
+4	ताकत	NN	
+5	देने	VM	
+6	वाली	VAUX	
+7	थोड़ी	QF	
+8	सी	RP	
+9	खुराक	NN	
+10	गई	VM	
+11	,	SYM	
+12	इसीलिए	CC	
+13	शायद	RB	
+14	बुखार	NN	
+15	उतरा	VM	
+16	है	VAUX	
+17	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अगर	CC	
+2	आप	PRP	
+3	बदला	NN	
+4	चुकाना	VM	
+5	चाहते	VAUX	
+6	हैं	VAUX	
+7	तो	CC	
+8	निडर	JJ	
+9	बनिये	VM	
+10	और	CC	
+11	दूसरों	PRP	
+12	को	PSP	
+13	भी	RP	
+14	निडर	JJ	
+15	बनाइये	VM	
+16	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यह	PRP	
+2	दुनिया	NN	
+3	खुदा	NN	
+4	की	PSP	
+5	है	VM	
+6	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	हम	PRP	
+2	सब	QF	
+3	उसके	PRP	
+4	बच्चे	NN	
+5	हैं	VM	
+6	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मेरी	PRP	
+2	यही	DEM	
+3	विनती	NN	
+4	है	VM	
+5	कि	CC	
+6	अपने	PRP	
+7	मन	NN	
+8	में	PSP	
+9	तुम	PRP	
+10	यही	DEM	
+11	भाव	NN	
+12	पैदा	JJ	
+13	करो	VM	
+14	कि	CC	
+15	इस	PRP	
+16	दुनिया	NN	
+17	में	PSP	
+18	सभी	PRP	
+19	को	PSP	
+20	जीने-मरने	NN	
+21	का	PSP	
+22	समान	JJ	
+23	अधिकार	NN	
+24	है	VM	
+25	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	तुम्हारा	PRP	
+3	चेला	NN	
+4	बनता	VM	
+5	हूं	VAUX	
+6	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	आगाखां	XC	
+2	महल	NNP	
+3	से	PSP	
+4	छूटकर	VM	
+5	गांधीजी	NNP	
+6	पर्णकुटी	NN	
+7	में	PSP	
+8	आकर	VM	
+9	ठहरे	VM	
+10	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उनकी	PRP	
+2	चप्पलें	NN	
+3	कई	QF	
+4	दिन	NN	
+5	पहले	NST	
+6	ही	RP	
+7	टूटी	VM	
+8	थीं	VAUX	
+9	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मनु	NNP	
+2	ने	PSP	
+3	वे	DEM	
+4	टूटी	JJ	
+5	चप्पलें	NN	
+6	उनसे	PRP	
+7	बिना	NEG	
+8	पूछे	VM	
+9	मरम्मत	NN	
+10	करने	VM	
+11	के	PSP	
+12	लिए	PSP	
+13	मोची	NN	
+14	को	PSP	
+15	दे	VM	
+16	दीं	VAUX	
+17	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	देकर	VM	
+2	लौटी	VM	
+3	तो	CC	
+4	देखा	VM	
+5	कि	CC	
+6	गांधीजी	NNP	
+7	अपनी	PRP	
+8	चप्पलें	NN	
+9	ढूंढ़	VM	
+10	रहे	VAUX	
+11	हैं	VAUX	
+12	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मनु	NNP	
+2	को	PSP	
+3	देखकर	VM	
+4	उन्होंने	PRP	
+5	पूछा	VM	
+6	"	SYM	
+7	तूने	PRP	
+8	मेरी	PRP	
+9	चप्पलें	NN	
+10	कहां	PRP	
+11	रख	VM	
+12	दी	VAUX	
+13	हैं	VAUX	
+14	?	SYM	
+15	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मनु	NNP	
+2	ने	PSP	
+3	कहा	VM	
+4	,	SYM	
+5	"	SYM	
+6	बापूजी	NN	
+7	,	SYM	
+8	वे	PRP	
+9	तो	RP	
+10	मैं	PRP	
+11	मरम्मत	NN	
+12	के	PSP	
+13	लिए	PSP	
+14	मोची	NN	
+15	को	PSP	
+16	दे	VM	
+17	आई	VAUX	
+18	हूं	VAUX	
+19	?डट	SYM	
+20	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मनु	NNP	
+2	ने	PSP	
+3	जवाब	NN	
+4	दिया	VM	
+5	,	SYM	
+6	"	SYM	
+7	आने	NN	
+8	मजदूरी	NN	
+9	ठहराई	VM	
+10	है	VAUX	
+11	,	SYM	
+12	बापूजी	NN	
+13	?डट	SYM	
+14	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NEP>
+1.1	गांधीजी	NNP	
+	))
+2	बोले	VM	
+3	,	SYM	
+4	"	SYM	
+5	लेकिन	CC	
+6	तू	PRP	
+7	तो	RP	
+8	((	QC	<ne=NEN>
+8.1	एक	QC	
+	))
+9	कौड़ी	NN	
+10	भी	RP	
+11	नहीं	NEG	
+12	कमाती	VM	
+13	और	CC	
+14	न	NEG	
+15	मैं	PRP	
+16	कमाता	VM	
+17	हूं	VAUX	
+18	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	तब	PRP	
+2	मजदूरी	NN	
+3	के	PSP	
+4	आठ	QC	
+5	आने	NN	
+6	कौन	WQ	
+7	देगा	VM	
+8	?	SYM	
+9	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मनु	NNP	
+2	सोच	NN	
+3	में	PSP	
+4	पड़	VM	
+5	गयी	VAUX	
+6	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	आखिर	RB	
+2	मोची	NN	
+3	से	PSP	
+4	चप्पलें	NN	
+5	वापस	NN	
+6	लाने	VM	
+7	का	PSP	
+8	निर्णय	NN	
+9	उसे	PRP	
+10	करना	VM	
+11	पड़ा	VAUX	
+12	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	लेकिन	CC	
+2	उस	PRP	
+3	बेचारे	NN	
+4	को	PSP	
+5	तो	RP	
+6	सवेरे-सवेरे	NN	
+7	यही	DEM	
+8	मजदूरी	NN	
+9	मिली	VM	
+10	थी	VAUX	
+11	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसीलिए	CC	
+2	वह	PRP	
+3	बोला	VM	
+4	,	SYM	
+5	"	SYM	
+6	सवेरे	NN	
+7	के	PSP	
+8	समय	NN	
+9	मेरी	PRP	
+10	यह	DEM	
+11	पहली-पहली	QO	
+12	बोहनी	NN	
+13	है	VM	
+14	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	चप्पलें	NN	
+2	तो	RP	
+3	मैं	PRP	
+4	अब	PRP	
+5	वापस	NN	
+6	नहीं	NEG	
+7	दूंगा	VM	
+8	?डट	SYM	
+9	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मनु	NN	
+2	ने	PSP	
+3	लाचार	JJ	
+4	होकर	VM	
+5	उससे	PRP	
+6	कहा	VM	
+7	,	SYM	
+8	"	SYM	
+9	ये	DEM	
+10	चप्पलें	NN	
+11	महात्मा	XC	
+12	((	NNP	<ne=NEP>
+12.1	गांधी	NNP	
+	))
+13	की	PSP	
+14	हैं	VM	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	तुम	PRP	
+2	इन्हें	PRP	
+3	लौटा	VM	
+4	दो	VAUX	
+5	भाई	NN	
+6	?डट	SYM	
+7	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यह	PRP	
+2	सुनकर	VM	
+3	मोची	NN	
+4	गर्व	NN	
+5	से	PSP	
+6	भर	VM	
+7	उठा	VAUX	
+8	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	बोला	VM	
+2	,	SYM	
+3	"	SYM	
+4	तब	PRP	
+5	तो	RP	
+6	मैं	PRP	
+7	बड़ा	INTF	
+8	भाग्यवान	JJ	
+9	हूं	VM	
+10	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ऐसा	PRP	
+2	मौका	NN	
+3	मुझे	PRP	
+4	बार-बार	RB	
+5	थोड़े	RB	
+6	ही	RP	
+7	मिलने	VM	
+8	वाला	VAUX	
+9	है	VAUX	
+10	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	बिना	NEG	
+3	मजदूरी	NN	
+4	लिये	PSP	
+5	ही	RP	
+6	बना	VM	
+7	दूंगा	VAUX	
+8	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	लेकिन	CC	
+2	चप्पलें	NN	
+3	लौटाऊंगा	VM	
+4	नहीं	NEG	
+5	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	काफी	QF	
+2	वाद-विवाद	NN	
+3	के	PSP	
+4	बाद	NST	
+5	मनु	NNP	
+6	चप्पलें	NN	
+7	और	CC	
+8	मोची	NN	
+9	दोनों	PRP	
+10	को	PSP	
+11	लेकर	VM	
+12	गांधीजी	NNP	
+13	के	PSP	
+14	पास	NST	
+15	पहुंची	VM	
+16	और	CC	
+17	उन्हें	PRP	
+18	सारी	QF	
+19	कहानी	NN	
+20	सुनाई	VM	
+21	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NEP>
+1.1	गांधीजी	NNP	
+	))
+2	ने	PSP	
+3	मोची	NN	
+4	से	PSP	
+5	कहा	VM	
+6	,	SYM	
+7	"	SYM	
+8	तुम्हें	PRP	
+9	तुम्हारा	PRP	
+10	भाग	NN	
+11	ही	RP	
+12	तो	RP	
+13	चाहिए	VM	
+14	न	RP	
+15	?	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	तुम	PRP	
+2	मेरे	PRP	
+3	गुरु	NN	
+4	बनो	VM	
+5	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मैं	PRP	
+2	तुम्हारा	PRP	
+3	चेला	NN	
+4	बनता	VM	
+5	हूं	VAUX	
+6	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मुझे	PRP	
+2	सिखाओ	VM	
+3	कि	CC	
+4	चप्पलों	NN	
+5	की	PSP	
+6	मरम्मत	NN	
+7	कैसे	WQ	
+8	की	VM	
+9	जाती	VAUX	
+10	है	VAUX	
+11	?	SYM	
+12	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	और	CC	
+2	गांधीजी	NNP	
+3	सचमुच	RB	
+4	उस	DEM	
+5	मैले-कुचेले	JJ	
+6	मोची	NN	
+7	को	PSP	
+8	गुरु	NN	
+9	बना	VM	
+10	कर	VAUX	
+11	चप्पल	NN	
+12	सीने	VM	
+13	की	PSP	
+14	कला	NN	
+15	सीखने	VM	
+16	लगे	VAUX	
+17	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	वे	PRP	
+2	अपने	PRP	
+3	मिलने	VM	
+4	वालों	PSP	
+5	से	PSP	
+6	बातें	NN	
+7	भी	RP	
+8	करते	VM	
+9	जाते	VAUX	
+10	थे	VAUX	
+11	और	CC	
+12	सीखते	VM	
+13	भी	RP	
+14	जाते	VAUX	
+15	थे	VAUX	
+16	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	गुरु-चेले	NN	
+2	का	PSP	
+3	यह	DEM	
+4	दृष्य	NN	
+5	देखकर	VM	
+6	मुलाकाती	NN	
+7	चकित	JJ	
+8	रह	VM	
+9	गये	VAUX	
+10	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उन्होंने	PRP	
+2	जानना	VM	
+3	चाहा	VM	
+4	कि	CC	
+5	बात	NN	
+6	क्या	WQ	
+7	है	VM	
+8	?	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NEP>
+1.1	गांधीजी	NNP	
+	))
+2	बोले	VM	
+3	,	SYM	
+4	"	SYM	
+5	यह	DEM	
+6	लड़की	NN	
+7	मुझसे	PRP	
+8	बिना	NEG	
+9	पूछे	VM	
+10	मेरी	PRP	
+11	चप्पलें	NN	
+12	मरम्मत	NN	
+13	करने	VM	
+14	दे	VAUX	
+15	आई	VM	
+16	थी	VAUX	
+17	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसलिए	CC	
+2	इसको	PRP	
+3	मुझे	PRP	
+4	सबक	NN	
+5	सिखाना	VM	
+6	है	VAUX	
+7	और	CC	
+8	इस	DEM	
+9	मोची	NN	
+10	को	PSP	
+11	इसका	PRP	
+12	भाग	NN	
+13	चाहिए	VM	
+14	,	SYM	
+15	इसलिए	CC	
+16	मैंने	PRP	
+17	इसे	PRP	
+18	अपना	PRP	
+19	गुरु	NN	
+20	बना	VM	
+21	लिया	VAUX	
+22	है	VAUX	
+23	?डट	SYM	
+24	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	फिर	RB	
+2	हंसते	VM	
+3	हुए	VAUX	
+4	उन्होंने	PRP	
+5	कहा	VM	
+6	,	SYM	
+7	'	SYM	
+8	देखते	VM	
+9	हैं	VAUX	
+10	न	RP	
+11	आप	PRP	
+12	महात्माओं	NN	
+13	का	PSP	
+14	मजा	NN	
+15	!	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ऐसी	PRP	
+2	सफाई	NN	
+3	हमें	PRP	
+4	रखनी	VM	
+5	चाहिए	VAUX	
+6	?डट	UT	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यरवदा-जेल	NNP	
+2	में	PSP	
+3	गांधीजी	NNP	
+4	सवेरे	NN	
+5	नौ	QC	
+6	बजे	NN	
+7	सोडा	NN	
+8	और	CC	
+9	नीबू	NN	
+10	लेते	VM	
+11	थे	VAUX	
+12	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उन	DEM	
+2	दिनों	NN	
+3	सरदार	XC	
+4	वल्लभभाई	XC	
+5	पटेल	NNP	
+6	उनके	PRP	
+7	साथ	NST	
+8	थे	VM	
+9	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	वही	PRP	
+2	उनका	PRP	
+3	यह	DEM	
+4	पेय	NN	
+5	तैयार	JJ	
+6	करते	VM	
+7	थे	VAUX	
+8	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	QC	<ne=NEN>
+1.1	एक	QC	
+	))
+2	दिन	NN	
+3	जब	PRP	
+4	वे	PRP	
+5	यह	DEM	
+6	पेय	NN	
+7	तेयार	JJ	
+8	कर	VM	
+9	रहे	VAUX	
+10	थे	VAUX	
+11	तो	CC	
+12	सहसा	RB	
+13	गांधीजी	NNP	
+14	ने	PSP	
+15	कहा	VM	
+16	,	SYM	
+17	"	SYM	
+18	आपको	PRP	
+19	नर्सिंग	NN	
+20	का	PSP	
+21	((	QC	<ne=NEN>
+21.1	एक	QC	
+	))
+22	कोर्स	NN	
+23	लेने	VM	
+24	की	VAUX	
+25	जरूरत	NN	
+26	नहीं	NEG	
+27	है	VM	
+28	?	SYM	
+29	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सरदार	NN	
+2	ने	PSP	
+3	अचकचा	VM	
+4	कर	VAUX	
+5	उनकी	PRP	
+6	ओर	PSP	
+7	देखा	VM	
+8	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NEP>
+1.1	गांधीजी	NNP	
+	))
+2	उसी	PRP	
+3	तरह	PSP	
+4	बोले	VM	
+5	,	SYM	
+6	"	SYM	
+7	देखिये	VM	
+8	तो	RP	
+9	,	SYM	
+10	आपने	PRP	
+11	चम्मच	NN	
+12	ऊपर	NST	
+13	से	PSP	
+14	पकड़ने	VM	
+15	के	PSP	
+16	बजाये	PSP	
+17	ठैठ	JJ	
+18	मुंह	NN	
+19	के	PSP	
+20	पास	NST	
+21	से	PSP	
+22	पकड़ा	VM	
+23	है	VAUX	
+24	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यह	PRP	
+2	सारा	QF	
+3	चम्मच	NN	
+4	गिलास	NN	
+5	में	PSP	
+6	जायेगा	VM	
+7	,	SYM	
+8	इसलिए	CC	
+9	उस	DEM	
+10	जगह	NN	
+11	उसको	PRP	
+12	हाथ	NN	
+13	से	PSP	
+14	नहीं	NEG	
+15	छूना	VM	
+16	चाहिए	VAUX	
+17	और	CC	
+18	जिस	DEM	
+19	रूमाल	NN	
+20	से	PSP	
+21	आप	PRP	
+22	अपना	PRP	
+23	मुंह	NN	
+24	पोंछते	VM	
+25	हैं	VAUX	
+26	,	SYM	
+27	उसी	PRP	
+28	से	PSP	
+29	आपने	PRP	
+30	इस	DEM	
+31	चम्मच	NN	
+32	को	PSP	
+33	साफ	JJ	
+34	किया	VM	
+35	है	VAUX	
+36	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यह	PRP	
+2	भी	RP	
+3	नहीं	NEG	
+4	होना	VM	
+5	चाहिए	VAUX	
+6	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	आप	PRP	
+2	तो	RP	
+3	जानते	VM	
+4	हैं	VAUX	
+5	कि	CC	
+6	नर्स	NN	
+7	आपरेशन	NN	
+8	के	PSP	
+9	कमरे	NN	
+10	में	PSP	
+11	किसी	PRP	
+12	भी	RP	
+13	चीज	NN	
+14	को	PSP	
+15	हाथ	NN	
+16	नहीं	NEG	
+17	लगा	VM	
+18	सकती	VAUX	
+19	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सब	QF	
+2	चीजों	NN	
+3	को	PSP	
+4	वह	PRP	
+5	चिमटी	NN	
+6	या	CC	
+7	संडसी	NN	
+8	से	PSP	
+9	ही	RP	
+10	उठाती	VM	
+11	है	VAUX	
+12	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	हाथ	NN	
+2	से	PSP	
+3	ले	VM	
+4	तो	CC	
+5	उसे	PRP	
+6	बर्खास्त	JJ	
+7	कर	VM	
+8	दिया	VAUX	
+9	जाता	VAUX	
+10	है	VAUX	
+11	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ऐसी	DEM	
+2	ही	RP	
+3	सफाई	NN	
+4	हमें	PRP	
+5	भी	RP	
+6	रखनी	VM	
+7	चाहिए	VAUX	
+8	?डट	SYM	
+9	"	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	QC	<ne=NEN>
+1.1	एक	QC	
+	))
+2	क्षण	NN	
+3	रुककर	VM	
+4	वे	PRP	
+5	फिर	RB	
+6	बोले	VM	
+7	,	SYM	
+8	"	SYM	
+9	और	CC	
+10	पीने	VM	
+11	के	PSP	
+12	बाद	NST	
+13	गिलास	NN	
+14	यों	RB	
+15	ही	RP	
+16	औंधे	JJ	
+17	नहीं	NEG	
+18	रख	VM	
+19	देने	VAUX	
+20	चाहिए	VAUX	
+21	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	हम	PRP	
+2	शायद	RB	
+3	ऐसा	RB	
+4	इस	PRP	
+5	आशा	NN	
+6	से	PSP	
+7	करते	VM	
+8	हैं	VAUX	
+9	कि	CC	
+10	वे	PRP	
+11	धुल	VM	
+12	जाते	VAUX	
+13	होंगे	VAUX	
+14	,	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यातायात	XC	
+2	किराया	XC	
+3	दर	NN	
+4	एवं	CC	
+5	दूरी	NN	
+6	--	SYM	
+7	किराया	XC	
+8	दर	NN	
+9	पर	PSP	
+10	दूरी	NN	
+11	का	PSP	
+12	प्रभाव	NN	
+13	पड़ता	VM	
+14	है	VAUX	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	किराया	XC	
+2	दर	NN	
+3	बढ़ती	VM	
+4	हुई	VAUX	
+5	दूरी	NN	
+6	के	PSP	
+7	साथ	NST	
+8	प्रति	RP	
+9	((	QF	<ne=NEM>
+9.1	टन	QF	
+	))
+10	किलोमीटर	QF	
+11	अपेक्षाकृत	RB	
+12	कम	QF	
+13	होती	VM	
+14	जाती	VAUX	
+15	है	VAUX	
+16	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	PRP	
+2	दृष्टि	NN	
+3	से	PSP	
+4	किराया	NN	
+5	घटता	VM	
+6	हुआ	VAUX	
+7	बढ़ता	VM	
+8	है	VAUX	
+9	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	वैसे	PRP	
+2	अन्तिम	JJ	
+3	स्टेशन	NN	
+4	पर	PSP	
+5	खर्च	NN	
+6	अधिक	JJ	
+7	आता	VM	
+8	है	VAUX	
+9	क्योंकि	CC	
+10	वहाँ	PRP	
+11	वस्तु	NN	
+12	के	PSP	
+13	रख-रखाव	NN	
+14	,	SYM	
+15	भण्डारण	NN	
+16	,	SYM	
+17	उतारने	VM	
+18	आदि	RP	
+19	का	PSP	
+20	खर्च	NN	
+21	सम्मिलित	JJ	
+22	होता	VM	
+23	है	VAUX	
+24	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	व्यवहारिक	JJ	
+2	रूप	NN	
+3	में	PSP	
+4	किराया	NN	
+5	सीढ़ी	XC	
+6	दर	XC	
+7	सीढ़ी	NN	
+8	ऊपर	NST	
+9	की	PSP	
+10	ओर	PSP	
+11	जाता	VM	
+12	है	VAUX	
+13	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	बढ़ती	VM	
+2	हुई	VAUX	
+3	दूरी	NN	
+4	के	PSP	
+5	साथ-साथ	RB	
+6	यातायात	NN	
+7	किराया	NN	
+8	घटता	VM	
+9	हुआ	VAUX	
+10	बढ़ता	VM	
+11	है	VAUX	
+12	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अतः	CC	
+2	लम्बी	JJ	
+3	दूरी	NN	
+4	इतनी	INTF	
+5	अधिक	QF	
+6	खर्चीली	JJ	
+7	नहीं	NEG	
+8	होती	VM	
+9	है	VAUX	
+10	जितनी	QF	
+11	होनी	VM	
+12	चाहिये	VAUX	
+13	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यातायात	NN	
+2	के	PSP	
+3	साधन	NN	
+4	पर	PSP	
+5	वस्तु	NN	
+6	लदान	XC	
+7	खर्च	NN	
+8	के	PSP	
+9	पश्चात्	PSP	
+10	उसकी	PRP	
+11	दूरी	NN	
+12	ही	RP	
+13	तो	RP	
+14	तय	JJ	
+15	करनी	VM	
+16	पड़ती	VAUX	
+17	है	VAUX	
+18	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यातायात	NN	
+2	बदलने	VM	
+3	की	PSP	
+4	स्थिति	NN	
+5	में	PSP	
+6	अधिक	QF	
+7	खर्च	NN	
+8	करना	VM	
+9	पड़ता	VAUX	
+10	है	VAUX	
+11	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जैसे	CC	
+2	माल	NN	
+3	ट्रक	NN	
+4	से	PSP	
+5	रेल	NN	
+6	में	PSP	
+7	या	CC	
+8	समुद्री	JJ	
+9	मार्ग	NN	
+10	से	PSP	
+11	जाने	VM	
+12	के	PSP	
+13	कारण	NN	
+14	स्थल	XC	
+15	यातायात	NN	
+16	से	PSP	
+17	जहाज़	NN	
+18	में	PSP	
+19	लादना	VM	
+20	होता	VM	
+21	है	VAUX	
+22	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ऐसी	PRP	
+2	स्थिति	NN	
+3	में	PSP	
+4	माल	NN	
+5	उतार	VM	
+6	लें	VAUX	
+7	एवं	CC	
+8	लादने	VM	
+9	का	PSP	
+10	खर्च	NN	
+11	होता	VM	
+12	है	VAUX	
+13	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	राष्ट्रीय	JJ	
+2	सीमाओं	NN	
+3	को	PSP	
+4	कृत्रिम	JJ	
+5	अवरोधक	NN	
+6	माना	VM	
+7	जाता	VAUX	
+8	है	VAUX	
+9	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ऐसी	PRP	
+2	सीमाओं	NN	
+3	को	PSP	
+4	पार	NN	
+5	करते	VM	
+6	समय	NN	
+7	यद्यपि	CC	
+8	यातायात	NN	
+9	का	PSP	
+10	साधन	NN	
+11	वही	PRP	
+12	होता	VM	
+13	है	VAUX	
+14	फिर	RB	
+15	भी	RP	
+16	यातायात	XC	
+17	दर	NN	
+18	इस	PRP	
+19	प्रकार	NN	
+20	ली	VM	
+21	जाती	VAUX	
+22	है	VAUX	
+23	जैसे	CC	
+24	कि	PSP	
+25	यात्रा	NN	
+26	उसी	DEM	
+27	बिन्दु	NN	
+28	से	PSP	
+29	प्रारम्भ	NN	
+30	हो	VM	
+31	रही	VAUX	
+32	है	VAUX	
+33	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	PRP	
+2	सन्दर्भ	NN	
+3	में	PSP	
+4	लम्बी	JJ	
+5	दूरी	NN	
+6	का	PSP	
+7	लाभ	NN	
+8	कम	QF	
+9	ही	RP	
+10	मिल	VM	
+11	पाता	VAUX	
+12	है	VAUX	
+13	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यही	PRP	
+2	नहीं	NEG	
+3	उस	DEM	
+4	खर्च	NN	
+5	में	PSP	
+6	सीमा	XC	
+7	कर	NN	
+8	आदि	RP	
+9	और	RB	
+10	भी	RP	
+11	जोड़	VM	
+12	दिये	VAUX	
+13	जाते	VAUX	
+14	हैं	VAUX	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	PRP	
+2	प्रकार	NN	
+3	का	PSP	
+4	बढ़ता	VM	
+5	खर्च	NN	
+6	सीमान्त	NN	
+7	के	PSP	
+8	दोनों	QF	
+9	देशों	NN	
+10	को	PSP	
+11	अधिक	QF	
+12	देना	VM	
+13	पड़ता	VAUX	
+14	है	VAUX	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	कई	QF	
+2	बार	PRP	
+3	स्थानीय	JJ	
+4	नियम	NN	
+5	अथवा	CC	
+6	सरकार	NN	
+7	द्वारा	PSP	
+8	राष्ट्रीय	JJ	
+9	निर्णय	NN	
+10	के	PSP	
+11	कारण	NN	
+12	यातायात	XC	
+13	खर्च	NN	
+14	पर	PSP	
+15	प्रभाव	NN	
+16	पड़ता	VM	
+17	है	VAUX	
+18	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	राज्य	XC	
+2	((	NNP	<ne=NEL>
+2.1	अमेरिका	NNP	
+	))
+3	में	PSP	
+4	आधार	XC	
+5	बिन्दु	XC	
+6	प्रणाली	NN	
+7	के	PSP	
+8	अन्तर्गत	JJ	
+9	निर्धारित	JJ	
+10	किया	VM	
+11	गया	VAUX	
+12	यातायात	XC	
+13	खर्च	NN	
+14	((	QC	<ne=NEN>
+14.1	एक	QC	
+	))
+15	विशिष्ट	JJ	
+16	उदाहरण	NN	
+17	है	VM	
+18	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस्पात	NNP	
+2	के	PSP	
+3	बड़े	JJ	
+4	उद्योगपतियों	NN	
+5	ने	PSP	
+6	मिल	VM	
+7	कर	VAUX	
+8	वहाँ	PRP	
+9	यह	PRP	
+10	निश्चय	NN	
+11	किया	VM	
+12	कि	CC	
+13	देश	NN	
+14	में	PSP	
+15	इस्पात	NNP	
+16	को	PSP	
+17	पिट्सबर्ग	NNP	
+18	की	PSP	
+19	दर	NN	
+20	पर	PSP	
+21	ही	RP	
+22	बेचा	VM	
+23	जाए	VAUX	
+24	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उस	DEM	
+2	खर्च	NN	
+3	में	PSP	
+4	इस्पात	NNP	
+5	का	PSP	
+6	केवल	RB	
+7	यातायात	NN	
+8	का	PSP	
+9	खर्च	NN	
+10	ही	RP	
+11	और	JJ	
+12	जोड़	VM	
+13	दिया	VAUX	
+14	जाए	VAUX	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस्पात	NNP	
+2	कहाँ	WQ	
+3	बना	VM	
+4	और	CC	
+5	कहाँ	WQ	
+6	बिक	VM	
+7	रहा	VAUX	
+8	है	VAUX	
+9	इस	PRP	
+10	तथ्य	NN	
+11	का	PSP	
+12	दर	NN	
+13	पर	PSP	
+14	कोई	PRP	
+15	प्रभाव	NN	
+16	नहीं	NEG	
+17	पड़े	VM	
+18	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यह	DEM	
+2	निर्णय	NN	
+3	वहाँ	PRP	
+4	((	NN	<ne=NETI>
+4.1	सन्	NN	
+4.2	1900	NNP	
+	))
+5	((	PSP	<ne=NEM>
+5.1	से	PSP	
+5.2	1924	NNP	
+	))
+6	तक	RP	
+7	लागू	JJ	
+8	रहा	VM	
+9	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ऐसे	PRP	
+2	निर्णय	NN	
+3	के	PSP	
+4	कारण	NN	
+5	इस्पात	NN	
+6	उत्पादन	NN	
+7	के	PSP	
+8	नवीन	JJ	
+9	केन्दों	NN	
+10	के	PSP	
+11	विकसित	JJ	
+12	होने	VM	
+13	में	PSP	
+14	बाधा	NN	
+15	उत्पन्न	JJ	
+16	हो	VM	
+17	गयी	VAUX	
+18	और	CC	
+19	इस्पात	NNP	
+20	का	PSP	
+21	वृहत्तम	JJ	
+22	उत्पादन	NN	
+23	पिट्सबर्ग	NNP	
+24	में	PSP	
+25	ही	RP	
+26	होने	VM	
+27	लगा	VAUX	
+28	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NN	<ne=NETI>
+1.1	सन्	NN	
+1.2	1924	NNP	
+	))
+2	में	PSP	
+3	इस	DEM	
+4	निर्णय	NN	
+5	के	PSP	
+6	स्थान	NN	
+7	पर	PSP	
+8	बह-बिन्दु	NN	
+9	आधार	XC	
+10	प्रणाली	NN	
+11	का	PSP	
+12	निर्धारण	NN	
+13	किया	VM	
+14	गया	VAUX	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	फिर	RB	
+2	भी	RP	
+3	पिट्सबर्ग	NNP	
+4	का	PSP	
+5	पक्ष	NN	
+6	ही	RP	
+7	मज़बूत	JJ	
+8	रहा	VM	
+9	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	DEM	
+2	निर्णय	NN	
+3	के	PSP	
+4	पश्चात्	PSP	
+5	अन्य	JJ	
+6	महत्त्वपूर्ण	JJ	
+7	केन्द्रों	NN	
+8	ने	PSP	
+9	विकास	NN	
+10	तो	RP	
+11	किया	VM	
+12	फिर	RB	
+13	भी	RP	
+14	पिट्सबर्ग	NNP	
+15	उनके	PRP	
+16	मार्ग	NN	
+17	में	PSP	
+18	बाधक	JJ	
+19	ही	RP	
+20	रहा	VM	
+21	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NN	<ne=NETI>
+1.1	सन्	NN	
+1.2	1948	NNP	
+	))
+2	में	PSP	
+3	इसे	DEM	
+4	अवैधानिक	JJ	
+5	करार	NN	
+6	दे	VM	
+7	दिया	VAUX	
+8	गया	VAUX	
+9	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उसके	PRP	
+2	पश्चात्	PSP	
+3	अन्य	JJ	
+4	इस्पात	NNP	
+5	केन्द्रों	NN	
+6	का	PSP	
+7	महत्त्व	NN	
+8	तेज़ी	RB	
+9	से	PSP	
+10	बढ़ने	VM	
+11	लगा	VAUX	
+12	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	औद्योगिक	XC	
+2	क्रांति	NN	
+3	के	PSP	
+4	प्रारम्भ	NN	
+5	में	PSP	
+6	यातायात	NN	
+7	की	PSP	
+8	सुविधाएँ	NN	
+9	कम	QF	
+10	थीं	VM	
+11	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यही	PRP	
+2	नहीं	NEG	
+3	यातायात	NN	
+4	की	PSP	
+5	क्षमता	NN	
+6	व	CC	
+7	स्वरूप	NN	
+8	भी	RP	
+9	भिन्न	JJ	
+10	था	VM	
+11	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	राज्य	XC	
+2	((	NNP	<ne=NEL>
+2.1	अमेरिका	NNP	
+	))
+3	((	NNP	<ne=NETI>
+3.1	1952	NNP	
+	))
+4	तक	RP	
+5	यातायात-क्षेत्रों	NN	
+6	में	PSP	
+7	विभाजित	JJ	
+8	किया	VM	
+9	गया	VAUX	
+10	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	प्रत्येक	QF	
+2	क्षेत्र	NN	
+3	के	PSP	
+4	आन्तरिक	JJ	
+5	यातायात	XC	
+6	खर्च	XC	
+7	दर	NN	
+8	का	PSP	
+9	स्वरूप	NN	
+10	लगभग	RB	
+11	समान	JJ	
+12	रखा	VM	
+13	गया	VAUX	
+14	किन्तु	CC	
+15	((	QC	<ne=NEN>
+15.1	एक	QC	
+	))
+16	क्षेत्र	NN	
+17	से	PSP	
+18	दूसरे	QO	
+19	क्षेत्र	NN	
+20	की	PSP	
+21	दर	NN	
+22	में	PSP	
+23	बड़ा	QF	
+24	अन्तर	NN	
+25	था	VM	
+26	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NEL>
+1.1	भारतवर्ष	NNP	
+	))
+2	में	PSP	
+3	रेल	XC	
+4	यातायात	XC	
+5	दर	NN	
+6	में	PSP	
+7	विशेष	JJ	
+8	अन्तर	NN	
+9	नहीं	NEG	
+10	हैं	VM	
+11	परन्तु	CC	
+12	ट्रक	NN	
+13	यातायात	NN	
+14	में	PSP	
+15	दर	NN	
+16	का	PSP	
+17	अन्तर	NN	
+18	अधिक	QF	
+19	देखने	VM	
+20	को	PSP	
+21	मिलता	VM	
+22	है	VAUX	
+23	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सरकार	NN	
+2	द्वारा	PSP	
+3	अब	PRP	
+4	राष्ट्रीय	XC	
+5	अनुमति	XC	
+6	पत्र	NN	
+7	(	SYM	
+8	णटिओनल्	JJ	
+9	फेर्मिट्	NN	
+10	)	SYM	
+11	व्यवस्था	NN	
+12	लागू	JJ	
+13	कर	VM	
+14	देने	VAUX	
+15	के	PSP	
+16	कारण	NN	
+17	यातायात	XC	
+18	दर	NN	
+19	में	PSP	
+20	कुछ	PRP	
+21	समानताएँ	NN	
+22	आ	VM	
+23	गई	VAUX	
+24	हैं	VAUX	
+25	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यातायात	XC	
+2	प्रभावित	JJ	
+3	उद्योगों	NN	
+4	के	PSP	
+5	लिए	PSP	
+6	आदर्श	JJ	
+7	स्थिति	NN	
+8	उसी	DEM	
+9	स्थान	NN	
+10	पर	PSP	
+11	होगी	VM	
+12	जहाँ	PRP	
+13	कच्चा	JJ	
+14	माल	NN	
+15	एकत्रीकरण	NN	
+16	एवं	CC	
+17	तैयार	JJ	
+18	माल	NN	
+19	वितरण	NN	
+20	का	PSP	
+21	खर्च	NN	
+22	न्यूनतम	JJ	
+23	हो	VM	
+24	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अन्य	JJ	
+2	बातें	NN	
+3	समान	JJ	
+4	रहने	VM	
+5	पर	PSP	
+6	उत्पादित	JJ	
+7	वस्तु	NN	
+8	उसके	PRP	
+9	कच्चे	JJ	
+10	माल	NN	
+11	की	PSP	
+12	तुलना	NN	
+13	में	PSP	
+14	अपेक्षाकृत	RB	
+15	वज़न	NN	
+16	में	PSP	
+17	हल्की	JJ	
+18	एवं	CC	
+19	आकार	NN	
+20	में	PSP	
+21	छोटी	JJ	
+22	होती	VM	
+23	हैं	VAUX	
+24	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	PRP	
+2	स्थिति	NN	
+3	में	PSP	
+4	उद्योग	NN	
+5	की	PSP	
+6	स्थापना	NN	
+7	कच्चे	JJ	
+8	माल	NN	
+9	के	PSP	
+10	स्रोत	NN	
+11	की	PSP	
+12	ओर	PSP	
+13	ही	RP	
+14	होगी	VM	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	विपरीत	NST	
+3	यदि	CC	
+4	तैयार	JJ	
+5	माल	NN	
+6	कच्चे	JJ	
+7	माल	NN	
+8	की	PSP	
+9	तुलना	NN	
+10	में	PSP	
+11	अपेक्षाकृत	RB	
+12	भारी	JJ	
+13	एवं	CC	
+14	आकार	NN	
+15	में	PSP	
+16	बड़ा	JJ	
+17	होता	VM	
+18	है	VAUX	
+19	तो	CC	
+20	ऐसी	DEM	
+21	स्थिति	NN	
+22	में	PSP	
+23	उद्योग	NN	
+24	बाज़ार	NN	
+25	की	PSP	
+26	ओर	PSP	
+27	स्थापित	JJ	
+28	होगा	VM	
+29	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	उन	DEM	
+2	उद्योगों	NN	
+3	में	PSP	
+4	जिनमें	PRP	
+5	अनेक	JJ	
+6	पदार्थों	NN	
+7	का	PSP	
+8	कच्चे	JJ	
+9	माल	NN	
+10	के	PSP	
+11	रूप	NN	
+12	में	PSP	
+13	उपयोग	NN	
+14	होता	VM	
+15	है	VAUX	
+16	और	CC	
+17	कोई	PRP	
+18	((	QC	<ne=NEN>
+18.1	एक	QC	
+	))
+19	कच्चा	JJ	
+20	माल	NN	
+21	प्रमुख	JJ	
+22	नहीं	NEG	
+23	होता	VM	
+24	है	VAUX	
+25	((	QC	<ne=NEN>
+25.1	एक	QC	
+	))
+26	तुलनात्मक	JJ	
+27	दृष्टिकोण	NN	
+28	अपनाया	VM	
+29	जाता	VAUX	
+30	है	VAUX	
+31	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ऐसी	PRP	
+2	स्थिति	NN	
+3	में	PSP	
+4	उद्योग	NN	
+5	अधिकाधिक	QF	
+6	पहुँच	NN	
+7	वाले	PSP	
+8	स्थान	NN	
+9	पर	PSP	
+10	स्थापित	JJ	
+11	किया	VM	
+12	जाएगा	VAUX	
+13	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यातायात	NN	
+2	का	PSP	
+3	ऐतिहासिक	JJ	
+4	महत्त्व	NN	
+5	वाणिज्यीय	JJ	
+6	,	SYM	
+7	व्यवसायिक	JJ	
+8	एवं	CC	
+9	क्षेत्रीय	JJ	
+10	विशिष्टीकरण	NN	
+11	हेतु	PSP	
+12	सुविकसित	JJ	
+13	यातायात	NN	
+14	व्यवस्था	NN	
+15	आवश्यक	JJ	
+16	होती	VM	
+17	है	VAUX	
+18	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	कृषि	NN	
+2	एवं	CC	
+3	औद्योगिक	JJ	
+4	विकास	NN	
+5	के	PSP	
+6	लाभ	NN	
+7	तभी	PRP	
+8	प्राप्त	JJ	
+9	किए	VM	
+10	जा	VAUX	
+11	सकते	VAUX	
+12	हैं	VAUX	
+13	जबकि	CC	
+14	यातायात	NN	
+15	के	PSP	
+16	साधनों	NN	
+17	का	PSP	
+18	समुचित	JJ	
+19	विकास	NN	
+20	हुआ	VM	
+21	हो	VAUX	
+22	और	CC	
+23	यातायात	NN	
+24	के	PSP	
+25	क्षेत्रों	NN	
+26	में	PSP	
+27	विपुल	JJ	
+28	पूंजी	NN	
+29	का	PSP	
+30	विनियोजन	NN	
+31	हुआ	VM	
+32	हो	VAUX	
+33	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	औद्योगिक	JJ	
+2	विकास	NN	
+3	की	PSP	
+4	प्रारम्भिक	JJ	
+5	अवस्था	NN	
+6	में	PSP	
+7	उद्योग	NN	
+8	के	PSP	
+9	स्थानीकरण	NN	
+10	में	PSP	
+11	यातायात	NN	
+12	कठिनाई	NN	
+13	का	PSP	
+14	बड़ा	INTF	
+15	विपरीत	JJ	
+16	प्रभाव	NN	
+17	पड़ता	VM	
+18	था	VAUX	
+19	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	प्रारम्भ	NN	
+2	में	PSP	
+3	सभी	QF	
+4	प्रकार	NN	
+5	का	PSP	
+6	आन्तरिक	JJ	
+7	यातायात	NN	
+8	बहुत	INTF	
+9	कम	QF	
+10	था	VM	
+11	और	CC	
+12	साथ	NST	
+13	ही	RP	
+14	बहुत	INTF	
+15	अधिक	QF	
+16	खर्चीला	JJ	
+17	भी	RP	
+18	होता	VM	
+19	था	VAUX	
+20	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	परिणामस्वरूप	NN	
+2	समुद्रतटीय	JJ	
+3	कस्बे	NN	
+4	,	SYM	
+5	एस्च्युरी	JJ	
+6	कस्बे	NN	
+7	,	SYM	
+8	नाव्य	JJ	
+9	नदियों	NN	
+10	के	PSP	
+11	किनारे	NN	
+12	बसे	VM	
+13	हुए	VAUX	
+14	कस्बे	NN	
+15	,	SYM	
+16	यातायात	NN	
+17	के	PSP	
+18	अति	INTF	
+19	सुगम	QF	
+20	केन्द्र	NN	
+21	बने	VM	
+22	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NEL>
+1.1	ऐन्टवर्प	NNP	
+	))
+2	,	SYM	
+3	((	NNP	<ne=NEL>
+3.1	लन्दन	NNP	
+	))
+4	,	SYM	
+5	((	NNP	<ne=NEL>
+5.1	ब्रिस्टल	NNP	
+	))
+6	,	SYM	
+7	((	NNP	<ne=NEL>
+7.1	बम्बई	NNP	
+	))
+8	,	SYM	
+9	,	SYM	
+10	((	NNP	<ne=NEL>
+10.1	टोकियो	NNP	
+	))
+11	आदि	RP	
+12	इस	PRP	
+13	सन्दर्भ	NN	
+14	में	PSP	
+15	अच्छे	JJ	
+16	उदाहरण	NN	
+17	हैं	VM	
+18	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	PRP	
+2	कारण	NN	
+3	नहरी	JJ	
+4	यातायात	NN	
+5	का	PSP	
+6	विकास	NN	
+7	हुआ	VM	
+8	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	औद्योगिक	JJ	
+2	क्रान्ति	NN	
+3	के	PSP	
+4	जनक	NN	
+5	((	NNP	<ne=NEL>
+5.1	ब्रिटेन	NNP	
+	))
+6	में	PSP	
+7	औद्योगिक	JJ	
+8	विकास	NN	
+9	हेतु	PSP	
+10	नदी	NN	
+11	सुधार	NN	
+12	कार्यक्रम	NN	
+13	तीव्रता	NN	
+14	से	PSP	
+15	हाथ	NN	
+16	में	PSP	
+17	लिया	VM	
+18	गया	VAUX	
+19	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जहाँ	PRP	
+2	((	NNP	<ne=NEL>
+2.1	राजस्थान	NNP	
+	))
+3	व	CC	
+4	((	NNP	<ne=NEL>
+4.1	महाराष्ट्र	NNP	
+	))
+5	जैसे	PSP	
+6	राज्यों	NN	
+7	ने	PSP	
+8	निजी	JJ	
+9	देखरेख	NN	
+10	व	CC	
+11	कृषि	NN	
+12	की	PSP	
+13	जोखिम	NN	
+14	उठाने	VM	
+15	वाली	PSP	
+16	शर्तों	NN	
+17	को	PSP	
+18	लागू	JJ	
+19	किया	VM	
+20	,	SYM	
+21	वहाँ	PRP	
+22	असम	NNP	
+23	ने	PSP	
+24	केवल	RP	
+25	दूसरी	QO	
+26	शर्त	NN	
+27	लागू	JJ	
+28	की	VM	
+29	,	SYM	
+30	लेकिन	CC	
+31	((	QO	<ne=NEN>
+31.1	तीसरी	QO	
+	))
+32	शर्त	NN	
+33	किसी	PRP	
+34	भी	RP	
+35	राज्य	NN	
+36	में	PSP	
+37	लागू	JJ	
+38	नहीं	NEG	
+39	की	VM	
+40	जा	VAUX	
+41	सकी	VAUX	
+42	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	हाँ	INJ	
+2	,	SYM	
+3	दूसरी	QO	
+4	शर्त	NN	
+5	के	PSP	
+6	सन्दर्भ	NN	
+7	में	PSP	
+8	भूमि	XC	
+9	सुधार	XC	
+10	पैनल	NN	
+11	का	PSP	
+12	यह	DEM	
+13	सुझाव	NN	
+14	अवश्य	RB	
+15	था	VM	
+16	,	SYM	
+17	कि	CC	
+18	जब	PRP	
+19	प्रमुख	JJ	
+20	कृषि	XC	
+21	कार्य	NN	
+22	सम्पादित	JJ	
+23	हों	VM	
+24	,	SYM	
+25	उस	DEM	
+26	अवधि	NN	
+27	में	PSP	
+28	भूमि	NN	
+29	का	PSP	
+30	स्वामी	NN	
+31	गाँव	NN	
+32	में	PSP	
+33	या	CC	
+34	उसके	PRP	
+35	आसपास	NST	
+36	अवश्य	RB	
+37	रहे	VM	
+38	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	(	SYM	
+2	स	SYM	
+3	)	SYM	
+4	काश्तकारियों	NN	
+5	का	PSP	
+6	पुनर्ग्रहण	NN	
+7	-	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	काश्तकारियों	NN	
+2	के	PSP	
+3	पुनर्ग्रहण	NN	
+4	के	PSP	
+5	संदर्भ	NN	
+6	में	PSP	
+7	राज्यों	NN	
+8	को	PSP	
+9	((	QC	<ne=NEN>
+9.1	चार	QC	
+	))
+10	श्रेणियों	NN	
+11	में	PSP	
+12	विभाजित	JJ	
+13	किया	VM	
+14	जा	VAUX	
+15	सकता	VAUX	
+16	है	VAUX	
+17	-	SYM	
+18	((	QC	<ne=NEN>
+18.1	1	QC	
+	))
+19	.	SYM	
+20	ऐसे	DEM	
+21	राज्य	NN	
+22	जहाँ	PRP	
+23	भू	XC	
+24	-	SYM	
+25	स्वामी	NN	
+26	को	PSP	
+27	पुनर्ग्रहण	NN	
+28	का	PSP	
+29	अधिकार	NN	
+30	नहीं	NEG	
+31	दिया	VM	
+32	गया	VAUX	
+33	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जैसे	CC	
+2	((	XC	<ne=NEL>
+2.1	उत्तर	XC	
+2.2	प्रदेश	NNP	
+	))
+3	एवं	CC	
+4	पश्चिमी	XC	
+5	((	NNP	<ne=NEL>
+5.1	बंगाल	NNP	
+	))
+6	की	PSP	
+7	निम्न	JJ	
+8	श्रेणी	NN	
+9	की	PSP	
+10	रैयत	NN	
+11	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	QC	<ne=NEN>
+1.1	2.	QC	
+	))
+2	ऐसे	DEM	
+3	राज्य	NN	
+4	जहाँ	PRP	
+5	खुद	PRP	
+6	काश्त	NN	
+7	करने	VM	
+8	के	PSP	
+9	लिए	PSP	
+10	सीमित	JJ	
+11	क्षेत्र	NN	
+12	ग्रहण	NN	
+13	करने	VM	
+14	का	PSP	
+15	अधिकार	NN	
+16	इस	DEM	
+17	शर्त	NN	
+18	के	PSP	
+19	साथ	NST	
+20	दिया	VM	
+21	गया	VAUX	
+22	कि	CC	
+23	काश्तकारों	NN	
+24	के	PSP	
+25	पास	NST	
+26	एक	QF	
+27	न्यूनतम	JJ	
+28	भू	XC	
+29	-	SYM	
+30	जोत	NN	
+31	का	PSP	
+32	टुकड़ा	NN	
+33	अवश्य	RB	
+34	छोड़	VM	
+35	दिया	VAUX	
+36	जाये	VAUX	
+37	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NEL>
+1.1	गुजरात	NNP	
+	))
+2	,	SYM	
+3	((	NNP	<ne=NEL>
+3.1	केरल	NNP	
+	))
+4	,	SYM	
+5	मध्यप्रदेश	NNP	
+6	,	SYM	
+7	((	NNP	<ne=NETE>
+7.1	बिहार	NNP	
+	))
+8	,	SYM	
+9	((	NNP	<ne=NEL>
+9.1	कर्नाटक	NNP	
+	))
+10	,	SYM	
+11	,	SYM	
+12	हिमाचल	XC	
+13	((	NNP	<ne=NEL>
+13.1	प्रदेश	NNP	
+	))
+14	,	SYM	
+15	((	NNP	<ne=NEL>
+15.1	उड़ीसा	NNP	
+	))
+16	,	SYM	
+17	((	NNP	<ne=NEL>
+17.1	राजस्थान	NNP	
+	))
+18	एवं	CC	
+19	मणिपुर	NNP	
+20	में	PSP	
+21	ऐसा	PRP	
+22	ही	RP	
+23	किया	VM	
+24	गया	VAUX	
+25	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	QC	<ne=NEN>
+1.1	3.	QC	
+	))
+2	ऐसे	DEM	
+3	राज्य	NN	
+4	जिनमें	PRP	
+5	पुनर्ग्रहण	NN	
+6	का	PSP	
+7	अधिकार	NN	
+8	तो	RP	
+9	दिया	VM	
+10	गया	VAUX	
+11	,	SYM	
+12	लेकिन	CC	
+13	यह	DEM	
+14	शर्त	NN	
+15	लगा	VM	
+16	दी	VAUX	
+17	गई	VAUX	
+18	कि	CC	
+19	काश्तकारों	NN	
+20	को	PSP	
+21	((	QC	<ne=NEN>
+21.1	एक	QC	
+	))
+22	निश्चित	JJ	
+23	सीमा	NN	
+24	तक	RP	
+25	भूमि	NN	
+26	प्रदान	JJ	
+27	की	VM	
+28	जायेगी	VAUX	
+29	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	प्रदान	JJ	
+2	की	VM	
+3	जाने	VAUX	
+4	वाली	PSP	
+5	भूमि	NN	
+6	की	PSP	
+7	तलाश	NN	
+8	राज्य	NN	
+9	ही	RP	
+10	करेगा	VM	
+11	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NEL>
+1.1	पंजाब	NNP	
+	))
+2	व	CC	
+3	असम	NNP	
+4	राज्यों	NN	
+5	में	PSP	
+6	ऐसा	PRP	
+7	ही	PSP	
+8	किया	VM	
+9	गया	VAUX	
+10	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	QC	<ne=NEN>
+1.1	4.	QC	
+	))
+2	ऐसे	DEM	
+3	राज्य	NN	
+4	जिनमें	PRP	
+5	पुनर्ग्रहण	NN	
+6	करने	VM	
+7	का	PSP	
+8	अधिकार	NN	
+9	सीमा	XC	
+10	निर्धारण	NN	
+11	के	PSP	
+12	स्तर	NN	
+13	तक	RP	
+14	किया	VM	
+15	गया	VAUX	
+16	और	CC	
+17	काश्तकार	NN	
+18	के	PSP	
+19	लिए	PSP	
+20	((	QC	<ne=NEN>
+20.1	एक	QC	
+	))
+21	न्यूनतम	JJ	
+22	भूमिक	JJ	
+23	क्षेत्र	NN	
+24	की	PSP	
+25	व्यवस्था	NN	
+26	की	VM	
+27	गई	VAUX	
+28	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ऐसा	PRP	
+2	आन्ध्र	XC	
+3	((	NNP	<ne=NEL>
+3.1	प्रदेश	NNP	
+	))
+4	एवं	CC	
+5	तमिलनाडु	NNP	
+6	में	PSP	
+7	किया	VM	
+8	गया	VAUX	
+9	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	खुद	PRP	
+2	काश्त	NN	
+3	के	PSP	
+4	लिये	PSP	
+5	भू	XC	
+6	-	SYM	
+7	स्वामियों	NN	
+8	को	PSP	
+9	पुनर्ग्रहण	NN	
+10	का	PSP	
+11	अधिकार	NN	
+12	मिलने	VM	
+13	से	PSP	
+14	काश्तकारों	NN	
+15	की	PSP	
+16	सुरक्षा	NN	
+17	पर	PSP	
+18	प्रतिकूल	JJ	
+19	प्रभाव	NN	
+20	पड़ा	VM	
+21	है	VAUX	
+22	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	लेकिन	CC	
+2	छोटे	JJ	
+3	भू	XC	
+4	-	SYM	
+5	स्वामियों	NN	
+6	के	PSP	
+7	साथ	NST	
+8	विशेष	JJ	
+9	रियायतें	NN	
+10	होनी	VM	
+11	चाहिये	VAUX	
+12	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	आधारभूत	JJ	
+2	जोत	NN	
+3	से	PSP	
+4	कम	QF	
+5	के	PSP	
+6	भू	XC	
+7	-	SYM	
+8	स्वामियों	NN	
+9	को	PSP	
+10	समस्त	JJ	
+11	खुद	PRP	
+12	काश्त	NN	
+13	करने	VM	
+14	की	PSP	
+15	स्वतन्त्रता	NN	
+16	होनी	VM	
+17	चाहिये	VAUX	
+18	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जिस	DEM	
+2	काश्तकार	NN	
+3	के	PSP	
+4	पास	NST	
+5	भूमि	NN	
+6	नहीं	NEG	
+7	रहे	VM	
+8	अथवा	CC	
+9	बेसिक	JJ	
+10	जोत	NN	
+11	से	PSP	
+12	कम	QF	
+13	हो	VM	
+14	,	SYM	
+15	उसे	PRP	
+16	सरकार	NN	
+17	भूमि	NN	
+18	देने	VM	
+19	की	PSP	
+20	व्यवस्था	NN	
+21	करे	VM	
+22	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	खुद	PRP	
+2	काश्त	NN	
+3	के	PSP	
+4	लिये	PSP	
+5	भू	XC	
+6	-	SYM	
+7	ग्रहण	NN	
+8	करने	VM	
+9	का	PSP	
+10	कार्य	NN	
+11	((	QC	<ne=NEN>
+11.1	एक	QC	
+	))
+12	निश्चित	JJ	
+13	अवधि	NN	
+14	तक	RP	
+15	लागू	JJ	
+16	किया	VM	
+17	जाना	VAUX	
+18	चाहिये	VAUX	
+19	था	VAUX	
+20	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ऐसा	PRP	
+2	न	NEG	
+3	होने	VM	
+4	पर	PSP	
+5	मध्यम	JJ	
+6	श्रेणी	NN	
+7	के	PSP	
+8	भू	XC	
+9	-	SYM	
+10	स्वामी	NN	
+11	भूमि	NN	
+12	का	PSP	
+13	हस्तांतरण	NN	
+14	कर	VM	
+15	भू	XC	
+16	-	SYM	
+17	स्वामी	NN	
+18	बनने	VM	
+19	का	PSP	
+20	प्रयास	NN	
+21	करते	VM	
+22	हैं	VAUX	
+23	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	स्वेच्छा	NN	
+2	से	PSP	
+3	भूमि	NN	
+4	छोड़ने	VM	
+5	को	PSP	
+6	तब	PRP	
+7	तक	RP	
+8	नियमानुसार	NN	
+9	नहीं	NEG	
+10	मानना	VM	
+11	चाहिये	VAUX	
+12	जब	PRP	
+13	तक	RP	
+14	उन्हें	PRP	
+15	सक्षम	JJ	
+16	अधिकारी	NN	
+17	प्रमाणित	JJ	
+18	नहीं	NEG	
+19	कर	VM	
+20	दे	VAUX	
+21	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	व्यक्तिगत	JJ	
+2	खेती	NN	
+3	के	PSP	
+4	लिये	PSP	
+5	भू	XC	
+6	-	NN	
+7	स्वामी	NN	
+8	द्वारा	PSP	
+9	ज़मीन	NN	
+10	वापिस	JJ	
+11	लेने	VM	
+12	सम्बन्धी	JJ	
+13	प्रावधानों	NN	
+14	को	PSP	
+15	इस	DEM	
+16	तरह	NN	
+17	संशोधित	JJ	
+18	किया	VM	
+19	जाना	VAUX	
+20	चाहिये	VAUX	
+21	कि	CC	
+22	उसकी	PRP	
+23	अनुपस्थिति	NN	
+24	में	PSP	
+25	ज़मींदारी	NN	
+26	को	PSP	
+27	प्रोत्साहन	NN	
+28	मिले	VM	
+29	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	(	SYM	
+2	)	SYM	
+3	काश्तकारों	NN	
+4	को	PSP	
+5	स्वामित्व	NN	
+6	के	PSP	
+7	अधिकार	NN	
+8	देना	VM	
+9	--	SYM	
+10	((	NNP	<ne=NEL>
+10.1	भारत	NNP	
+	))
+11	की	PSP	
+12	द्वितीय	XC	
+13	पंचवर्षीय	XC	
+14	योजना	NNP	
+15	में	PSP	
+16	कहा	VM	
+17	गया	VAUX	
+18	था	VAUX	
+19	कि	CC	
+20	जिन	DEM	
+21	क्षेत्रों	NN	
+22	में	PSP	
+23	काश्तकारी	NN	
+24	पुनर्ग्रहण	NN	
+25	न	NEG	
+26	किये	VM	
+27	गये	VAUX	
+28	हों	VAUX	
+29	,	SYM	
+30	वहाँ	PRP	
+31	काश्तकारों	NN	
+32	को	PSP	
+33	भूमि	NN	
+34	का	PSP	
+35	मालिक	NN	
+36	बना	VM	
+37	दिया	VAUX	
+38	जाये	VAUX	
+39	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	मालिक	NN	
+2	बनाने	VM	
+3	के	PSP	
+4	लिये	PSP	
+5	ऐच्छिक	JJ	
+6	अधिकार	NN	
+7	नहीं	NEG	
+8	दिया	VM	
+9	जाना	VAUX	
+10	चाहिये	VAUX	
+11	क्योंकि	CC	
+12	व्यावहारिक	JJ	
+13	रूप	NN	
+14	में	PSP	
+15	इनका	PRP	
+16	उपयोग	NN	
+17	नहीं	NEG	
+18	हो	VM	
+19	पा	VAUX	
+20	रहा	VAUX	
+21	है	VAUX	
+22	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	काश्तकारों	NN	
+2	को	PSP	
+3	स्वामित्व	NN	
+4	का	PSP	
+5	अधिकार	NN	
+6	देने	VM	
+7	का	PSP	
+8	कार्य	NN	
+9	((	QC	<ne=NEN>
+9.1	तीन	QC	
+	))
+10	प्रकार	NN	
+11	से	PSP	
+12	किया	VM	
+13	गया	VAUX	
+14	है	VAUX	
+15	:	SYM	
+16	--	SYM	
+17	(	SYM	
+18	इ	SYM	
+19	)	SYM	
+20	काश्तकारों	NN	
+21	को	PSP	
+22	मौलिक	JJ	
+23	घोषित	JJ	
+24	कर	VM	
+25	दिया	VAUX	
+26	गया	VAUX	
+27	और	CC	
+28	मालिकों	NN	
+29	को	PSP	
+30	इन	DEM	
+31	काश्तकारों	NN	
+32	से	PSP	
+33	उपयुक्त	JJ	
+34	किस्तों	NN	
+35	में	PSP	
+36	मुआवज़ा	NN	
+37	दिलाने	VM	
+38	की	PSP	
+39	व्यवस्था	NN	
+40	की	VM	
+41	गई	VAUX	
+42	माल	XC	
+43	गुज़ारी	NN	
+44	के	PSP	
+45	बकाया	NN	
+46	के	PSP	
+47	रूप	NN	
+48	में	PSP	
+49	न	NEG	
+50	चुकाई	VM	
+51	गई	VAUX	
+52	किस्तों	NN	
+53	को	PSP	
+54	वसूल	JJ	
+55	करने	VM	
+56	का	PSP	
+57	दायित्व	NN	
+58	सरकार	NN	
+59	ने	PSP	
+60	स्वयं	PRP	
+61	पर	PSP	
+62	लिया	VM	
+63	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	(	SYM	
+2	इइ	SYM	
+3	)	SYM	
+4	सरकार	NN	
+5	ने	PSP	
+6	मुआवज़ा	NN	
+7	देकर	VM	
+8	स्वामित्त्व	NN	
+9	के	PSP	
+10	अधिकार	NN	
+11	प्राप्त	JJ	
+12	कर	VM	
+13	लिये	VAUX	
+14	और	CC	
+15	काश्तकारों	NN	
+16	को	PSP	
+17	भूमि	NN	
+18	का	PSP	
+19	मालिक	NN	
+20	बना	VM	
+21	दिया	VAUX	
+22	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	तत्पश्चात्	CC	
+2	उचित	JJ	
+3	किस्तों	NN	
+4	में	PSP	
+5	मुआवज़ा	NN	
+6	वसूल	VM	
+7	करने	VAUX	
+8	की	PSP	
+9	व्यवस्था	NN	
+10	की	VM	
+11	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	(	SYM	
+2	इइइ	SYM	
+3	)	SYM	
+4	सरकार	NN	
+5	नें	PSP	
+6	भू	XC	
+7	-	SYM	
+8	स्वामियों	NN	
+9	के	PSP	
+10	अधिकार	NN	
+11	प्राप्त	JJ	
+12	कर	VM	
+13	काश्तकारों	NN	
+14	से	PSP	
+15	प्रत्यक्ष	JJ	
+16	अधिकार	NN	
+17	प्राप्त	JJ	
+18	कर	VM	
+19	लिये	VAUX	
+20	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	काश्तकारों	NN	
+2	को	PSP	
+3	यह	DEM	
+4	छूट	NN	
+5	दी	VM	
+6	गई	VAUX	
+7	कि	CC	
+8	वे	PRP	
+9	सरकार	NN	
+10	को	PSP	
+11	उचित	JJ	
+12	लगान	NN	
+13	देकर	VM	
+14	पूर्व	NST	
+15	की	PSP	
+16	भाँति	PSP	
+17	अपना	PRP	
+18	कार्य	NN	
+19	ज़ारी	JJ	
+20	रखें	VM	
+21	और	CC	
+22	निर्धारित	JJ	
+23	मुआवज़ा	NN	
+24	देकर	VM	
+25	भूमि	NN	
+26	के	PSP	
+27	पूर्ण	JJ	
+28	मालिक	NN	
+29	बन	VM	
+30	गये	VAUX	
+31	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सभी	QF	
+2	राज्यों	NN	
+3	में	PSP	
+4	काश्तकारों	NN	
+5	के	PSP	
+6	लिये	PSP	
+7	भू	XC	
+8	-	SYM	
+9	धारण	NN	
+10	की	PSP	
+11	सुरक्षा	NN	
+12	करने	VM	
+13	वाले	PSP	
+14	कानून	NN	
+15	बनाये	VM	
+16	जाने	VAUX	
+17	के	PSP	
+18	परिणामस्वरूप	NN	
+19	लगभग	RP	
+20	लाख	NN	
+21	काश्तकारों	NN	
+22	,	SYM	
+23	बँटाईदारों	NN	
+24	को	PSP	
+25	स्वामित्त्व	NN	
+26	के	PSP	
+27	अधिकार	NN	
+28	प्राप्त	JJ	
+29	हुये	VM	
+30	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अब	PRP	
+2	तक	RP	
+3	की	PSP	
+4	प्रगति	NN	
+5	का	PSP	
+6	मूल्यांकन	NN	
+7	करते	VM	
+8	हुये	VAUX	
+9	काश्तकारी	NN	
+10	सुधारों	NN	
+11	के	PSP	
+12	संबंध	NN	
+13	में	PSP	
+14	सरकार	NN	
+15	निम्न	JJ	
+16	((	QC	<ne=NEN>
+16.1	तीन	QC	
+	))
+17	दिशाओं	NN	
+18	में	PSP	
+19	कुछ	QF	
+20	और	JJ	
+21	कदम	NN	
+22	उठाने	VM	
+23	को	PSP	
+24	सोच	VM	
+25	रही	VAUX	
+26	है	VAUX	
+27	:	SYM	
+28	--	SYM	
+29	(	SYM	
+30	इ	SYM	
+31	)	SYM	
+32	कृषिगत	NN	
+33	भूमि	NN	
+34	को	PSP	
+35	ग़ैर	JJ	
+36	कृषकों	NN	
+37	के	PSP	
+38	हाथों	NN	
+39	में	PSP	
+40	जाने	VM	
+41	पर	PSP	
+42	तुरन्त	RB	
+43	रोक	NN	
+44	लगाई	VM	
+45	जाये	VAUX	
+46	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	(	SYM	
+2	इइ	SYM	
+3	)	SYM	
+4	विशिष्ट	JJ	
+5	श्रेणियों	NN	
+6	के	PSP	
+7	अतिरिक्त	PSP	
+8	भूमि	NN	
+9	को	PSP	
+10	लीज़	NN	
+11	पर	PSP	
+12	देने	VM	
+13	की	PSP	
+14	व्यवस्था	NN	
+15	रोकी	VM	
+16	जाये	VAUX	
+17	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	(	SYM	
+2	इइइ	SYM	
+3	)	SYM	
+4	कुछ	QF	
+5	राज्यों	NN	
+6	में	PSP	
+7	जहाँ	PRP	
+8	काफी	QF	
+9	भूमि	NN	
+10	धार्मिक	JJ	
+11	संस्थानों	NN	
+12	के	PSP	
+13	आधिपत्य	NN	
+14	में	PSP	
+15	है	VM	
+16	,	SYM	
+17	इन	DEM	
+18	संस्थाओं	NN	
+19	के	PSP	
+20	लिये	PSP	
+21	आय	NN	
+22	की	PSP	
+23	उचित	JJ	
+24	व्यवस्था	NN	
+25	करने	VM	
+26	के	PSP	
+27	बाद	NST	
+28	इनकी	PRP	
+29	भूमि	NN	
+30	पर	PSP	
+31	काश्तकारों	NN	
+32	को	PSP	
+33	भू	XC	
+34	-	SYM	
+35	स्वामित्व	XC	
+36	अधिकार	NN	
+37	देने	VM	
+38	की	PSP	
+39	व्यवस्था	NN	
+40	की	VM	
+41	जाये	VAUX	
+42	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सीमा	XC	
+2	निर्धारण	NN	
+3	योजनाबद्ध	JJ	
+4	विकास	NN	
+5	के	PSP	
+6	संदर्भ	NN	
+7	में	PSP	
+8	भूमि	XC	
+9	सुधारों	NN	
+10	की	PSP	
+11	प्रगति	NN	
+12	के	PSP	
+13	साथ	NST	
+14	-	SYM	
+15	साथ	RDP	
+16	कुछ	QF	
+17	नये	JJ	
+18	प्रश्न	NN	
+19	भी	RP	
+20	उपस्थित	JJ	
+21	हुये	VM	
+22	हैं	VAUX	
+23	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इनमें	PRP	
+2	((	QC	<ne=NEN>
+2.1	एक	QC	
+	))
+3	दिलचस्प	JJ	
+4	प्रश्न	NN	
+5	है	VM	
+6	भूमि	NN	
+7	की	PSP	
+8	सीमा	XC	
+9	निर्धारण	NN	
+10	का	PSP	
+11	जिस	PRP	
+12	पर	PSP	
+13	((	QO	<ne=NEN>
+13.1	द्वितीय	QO	
+	))
+14	योजना	NN	
+15	से	PSP	
+16	ही	RP	
+17	बल	NN	
+18	दिया	VM	
+19	जा	VAUX	
+20	रहा	VAUX	
+21	है	VAUX	
+22	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सीमा	XC	
+2	निर्धारण	NN	
+3	के	PSP	
+4	साथ	NST	
+5	-	SYM	
+6	साथ	RDP	
+7	भूमिहीनों	NN	
+8	में	PSP	
+9	भूमि	NN	
+10	का	PSP	
+11	वितरण	NN	
+12	भी	RP	
+13	समान	JJ	
+14	रुप	NN	
+15	से	PSP	
+16	महत्वपूर्ण	JJ	
+17	है	VM	
+18	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	"	SYM	
+2	सीमा	XC	
+3	निर्धारण	NN	
+4	"	SYM	
+5	शब्द	NN	
+6	के	PSP	
+7	अन्तर्गत	PSP	
+8	"	SYM	
+9	पारिवारिक	XC	
+10	जोत	NN	
+11	"	SYM	
+12	का	PSP	
+13	तिगुना	QF	
+14	निश्चित	JJ	
+15	करने	VM	
+16	का	PSP	
+17	सुझाव	NN	
+18	दिया	VM	
+19	गया	VAUX	
+20	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यहाँ	PRP	
+2	पारिवारिक	XC	
+3	जोत	NN	
+4	का	PSP	
+5	अर्थ	NN	
+6	((	QC	<ne=NEN>
+6.1	एक	QC	
+	))
+7	औसत	JJ	
+8	परिवार	NN	
+9	द्वारा	PSP	
+10	पुराने	JJ	
+11	औज़ारों	NN	
+12	की	PSP	
+13	सहायता	NN	
+14	से	PSP	
+15	जितनी	QF	
+16	भूमि	NN	
+17	में	PSP	
+18	साधारण	JJ	
+19	ढंग	NN	
+20	से	PSP	
+21	खेती	NN	
+22	कर	VM	
+23	सकने	VAUX	
+24	वाली	PSP	
+25	भूमि	NN	
+26	की	PSP	
+27	मात्रा	NN	
+28	से	PSP	
+29	है	VM	
+30	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सीमा	XC	
+2	निर्धारण	XC	
+3	कानून	XC	
+4	((	NNP	<ne=NETI>
+4.1	1950	NNP	
+	))
+5	-	SYM	
+6	60	NNP	
+7	के	PSP	
+8	दशकों	NN	
+9	में	PSP	
+10	बने	VM	
+11	और	CC	
+12	((	NNP	<ne=NETI>
+12.1	1972	NNP	
+	))
+13	में	PSP	
+14	राष्ट्रीय	JJ	
+15	निर्देश	NN	
+16	बनाये	VM	
+17	गये	VAUX	
+18	और	CC	
+19	इनके	PRP	
+20	अन्तर्गत	PSP	
+21	29.7	XC	
+22	हेक्टेयर	NN	
+23	भूमि	NN	
+24	का	PSP	
+25	अधिग्रहण	NN	
+26	किया	VM	
+27	गया	VAUX	
+28	तथा	CC	
+29	18.2	XC	
+30	हेक्टेयर	NN	
+31	भूमि	NN	
+32	33.7	XC	
+33	लोगों	NN	
+34	में	PSP	
+35	पुनर्वितरित	JJ	
+36	की	VM	
+37	गई	VAUX	
+38	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	11.5	XC	
+2	हेक्टेयर	NN	
+3	ऐसी	DEM	
+4	अतिरिक्त	JJ	
+5	भूमि	NN	
+6	का	PSP	
+7	वितरण	NN	
+8	नहीं	NEG	
+9	किया	VM	
+10	जा	VAUX	
+11	सका	VAUX	
+12	,	SYM	
+13	उसमें	PRP	
+14	से	PSP	
+15	6.6	XC	
+16	हेक्टेयर	NN	
+17	तो	RP	
+18	विवादग्रस्त	JJ	
+19	है	VM	
+20	,	SYM	
+21	3.5	XC	
+22	हेक्टेयर	NN	
+23	विशेष	JJ	
+24	कार्यों	NN	
+25	के	PSP	
+26	लिये	PSP	
+27	आरक्षित	JJ	
+28	की	VM	
+29	गई	VAUX	
+30	तथा	CC	
+31	1.1	XC	
+32	हेक्टेयर	NN	
+33	कृषि	NN	
+34	योग्य	JJ	
+35	नहीं	NEG	
+36	पाई	VM	
+37	गई	VAUX	
+38	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	भू	XC	
+2	-	SYM	
+3	दान	NN	
+4	के	PSP	
+5	अन्तर्गत	PSP	
+6	प्राप्त	JJ	
+7	((	QC	<ne=NEM>
+7.1	16.8	QC	
+7.2	हेक्टेयर	NN	
+	))
+8	भूमि	NN	
+9	में	PSP	
+10	से	PSP	
+11	5.2	XC	
+12	हेक्टेयर	NN	
+13	का	PSP	
+14	ही	RP	
+15	वितरण	NN	
+16	किया	VM	
+17	जा	VAUX	
+18	सका	VAUX	
+19	है	VAUX	
+20	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सीमा	XC	
+2	निर्धारण	NN	
+3	के	PSP	
+4	((	QC	<ne=NEN>
+4.1	दो	QC	
+	))
+5	पहलू	NN	
+6	है	VM	
+7	-	SYM	
+8	अ.	SYM	
+9	भावी	JJ	
+10	जोतों	NN	
+11	पर	PSP	
+12	सीमा	NN	
+13	-	SYM	
+14	इसके	PRP	
+15	अर्न्तगत	PSP	
+16	यह	PRP	
+17	निश्चित	JJ	
+18	किया	VM	
+19	गया	VAUX	
+20	कि	CC	
+21	भविष्य	NN	
+22	में	PSP	
+23	((	QC	<ne=NEN>
+23.1	एक	QC	
+	))
+24	व्यक्ति	NN	
+25	अधिकाधिक	QF	
+26	कितनी	WQ	
+27	भूमि	NN	
+28	प्राप्त	JJ	
+29	कर	VM	
+30	सकेगा	VAUX	
+31	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	विभिन्न	JJ	
+2	राज्यों	NN	
+3	में	PSP	
+4	भावी	JJ	
+5	जोतों	NN	
+6	पर	PSP	
+7	सीमा	NN	
+8	निर्धारित	JJ	
+9	की	VM	
+10	गई	VAUX	
+11	है	VAUX	
+12	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	ब	SYM	
+2	.	SYM	
+3	वर्तमान	JJ	
+4	जोतों	NN	
+5	पर	PSP	
+6	--	SYM	
+7	वर्तमान	JJ	
+8	जोतों	NN	
+9	पर	PSP	
+10	सीमा	XC	
+11	निर्धारण	NN	
+12	अधिक	INTF	
+13	कठिन	JJ	
+14	है	VM	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	विभिन्न	JJ	
+2	राज्यों	NN	
+3	में	PSP	
+4	सीमा	XC	
+5	निर्धारण	NN	
+6	के	PSP	
+7	नियम	NN	
+8	लागू	JJ	
+9	किये	VM	
+10	जा	VAUX	
+11	चुके	VAUX	
+12	हैं	VAUX	
+13	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	असम	NNP	
+2	में	PSP	
+3	6.74	XC	
+4	((	QC	<ne=NEM>
+4.1	लाख	QC	
+4.2	हेक्टेयर	NN	
+	))
+5	,	SYM	
+6	((	XC	<ne=NEL>
+6.1	पश्चिमी	XC	
+	))
+7	((	NNP	<ne=NEL>
+7.1	बंगाल	NNP	
+	))
+8	में	PSP	
+9	5.7	XC	
+10	हेक्टेयर	NN	
+11	तथा	CC	
+12	((	NNP	<ne=NEL>
+12.1	राजस्थान	NNP	
+	))
+13	में	PSP	
+14	से	PSP	
+15	21.85	XC	
+16	हेक्टेयर	NN	
+17	के	PSP	
+18	बीच	NST	
+19	निर्धारित	JJ	
+20	की	VM	
+21	गई	VAUX	
+22	है	VAUX	
+23	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सीलिंग	NN	
+2	से	PSP	
+3	ऊपर	NST	
+4	की	PSP	
+5	भूमि	NN	
+6	राज्य	XC	
+7	सरकारें	NN	
+8	अपने	PRP	
+9	अधिकार	NN	
+10	में	PSP	
+11	ले	VM	
+12	लेती	VAUX	
+13	हैं	VAUX	
+14	तथा	CC	
+15	इस	DEM	
+16	प्रकार	NN	
+17	की	PSP	
+18	अतिरिक्त	JJ	
+19	भूमि	NN	
+20	पर	PSP	
+21	भूमिहीन	JJ	
+22	किसानों	NN	
+23	व	CC	
+24	लघु	JJ	
+25	कृषकों	NN	
+26	को	PSP	
+27	बसाने	VM	
+28	का	PSP	
+29	कार्यक्रम	NN	
+30	रखा	VM	
+31	जाता	VAUX	
+32	है	VAUX	
+33	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NEL>
+1.1	भारत	NNP	
+	))
+2	में	PSP	
+3	असमान	JJ	
+4	वितरण	NN	
+5	की	PSP	
+6	समस्या	NN	
+7	को	PSP	
+8	हल	NN	
+9	करने	VM	
+10	,	SYM	
+11	छोटी	JJ	
+12	जोतों	NN	
+13	पर	PSP	
+14	रोज़गार	NN	
+15	की	PSP	
+16	मात्रा	NN	
+17	बढ़ाने	VM	
+18	,	SYM	
+19	भूमिहीनों	NN	
+20	में	PSP	
+21	भूमि	NN	
+22	का	PSP	
+23	वितरण	NN	
+24	करने	VM	
+25	,	PSP	
+26	श्रम	NN	
+27	को	PSP	
+28	अनुकूलतम	JJ	
+29	रूप	NN	
+30	से	PSP	
+31	प्रयोग	NN	
+32	में	PSP	
+33	लाने	VM	
+34	,	SYM	
+35	सामुदायिक	JJ	
+36	विकास	NN	
+37	व	CC	
+38	((	XC	<ne=NEM>
+38.1	ग्राम	XC	
+	))
+39	पंचायतों	NN	
+40	की	PSP	
+41	प्रगति	NN	
+42	को	PSP	
+43	बढ़ावा	NN	
+44	देने	VM	
+45	एवं	CC	
+46	भूमि	NN	
+47	का	PSP	
+48	संकेन्द्रण	NN	
+49	कम	QF	
+50	करने	VM	
+51	के	PSP	
+52	दृष्टिकोण	NN	
+53	से	PSP	
+54	सीमा	XC	
+55	निर्धारण	NN	
+56	को	PSP	
+57	सभी	PRP	
+58	ने	PSP	
+59	उचित	JJ	
+60	ठहराया	VM	
+61	है	VAUX	
+62	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	DEM	
+2	हेतु	NN	
+3	जिनको	PRP	
+4	सीमा	NN	
+5	से	PSP	
+6	अधिक	QF	
+7	भूमि	NN	
+8	पुनर्वितरित	JJ	
+9	की	VM	
+10	जाती	VAUX	
+11	है	VAUX	
+12	,	SYM	
+13	उनको	PRP	
+14	((	QC	<ne=NEM>
+14.1	2,500	QC	
+14.2	रुपये	NN	
+	))
+15	प्रति	RP	
+16	हेक्टेयर	NN	
+17	की	PSP	
+18	वित्तीय	JJ	
+19	सहायता	NN	
+20	देने	VM	
+21	का	PSP	
+22	प्रावधान	NN	
+23	किया	VM	
+24	गया	VAUX	
+25	है	VAUX	
+26	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	छठी	QO	
+2	योजना	NN	
+3	में	PSP	
+4	इसके	PRP	
+5	लिये	PSP	
+6	25.07	XC	
+7	((	QC	<ne=NEM>
+7.1	करोड़	QC	
+7.2	रुपये	NN	
+	))
+8	की	PSP	
+9	राशि	NN	
+10	राज्यों	NN	
+11	द्वारा	PSP	
+12	वितरित	JJ	
+13	की	VM	
+14	गई	VAUX	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सातवीं	QO	
+2	योजना	NN	
+3	में	PSP	
+4	इस	DEM	
+5	कार्य	NN	
+6	के	PSP	
+7	लिये	PSP	
+8	36.71	XC	
+9	((	QC	<ne=NEM>
+9.1	करोड़	QC	
+9.2	रुपये	NN	
+	))
+10	की	PSP	
+11	व्यवस्था	NN	
+12	की	VM	
+13	गई	VAUX	
+14	है	VAUX	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अनेक	JJ	
+2	कारणों	NN	
+3	से	PSP	
+4	सीमा	XC	
+5	निर्धारण	NN	
+6	का	PSP	
+7	मामला	NN	
+8	व्यावहारिक	JJ	
+9	जटिलता	NN	
+10	उत्पन्न	JJ	
+11	हो	VM	
+12	जाने	VAUX	
+13	से	PSP	
+14	इसको	PRP	
+15	लागू	JJ	
+16	करने	VM	
+17	में	PSP	
+18	काफी	QF	
+19	कठिनाइयाँ	NN	
+20	आ	VM	
+21	रही	VAUX	
+22	हैं	VAUX	
+23	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	फलस्वरूप	NN	
+2	अतिरिक्त	JJ	
+3	भूमि	NN	
+4	की	PSP	
+5	मात्रा	NN	
+6	लक्ष्य	NN	
+7	से	PSP	
+8	कम	QF	
+9	मिली	VM	
+10	है	VAUX	
+11	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	QO	<ne=NEN>
+1.1	द्वितीय	QO	
+	))
+2	कृषि	XC	
+3	संगणना	NN	
+4	((	NNP	<ne=NETI>
+4.1	1976-77	NNP	
+	))
+5	के	PSP	
+6	अनुसार	PSP	
+7	अतिरिक्त	JJ	
+8	भूमि	NN	
+9	की	PSP	
+10	मात्रा	NN	
+11	होनी	VM	
+12	चाहिये	VAUX	
+13	थी	VAUX	
+14	,	SYM	
+15	जबकि	CC	
+16	राज्यों	NN	
+17	द्वारा	PSP	
+18	29.7	XC	
+19	हेक्टेयर	NN	
+20	भूमि	NN	
+21	को	PSP	
+22	अतिरिक्त	JJ	
+23	घोषित	JJ	
+24	किया	VM	
+25	गया	VAUX	
+26	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	लक्ष्य	NN	
+2	तथा	CC	
+3	प्राप्ति	NN	
+4	के	PSP	
+5	इस	DEM	
+6	अन्तर	NN	
+7	का	PSP	
+8	प्रमुख	JJ	
+9	कारण	NN	
+10	भूमि	NN	
+11	का	PSP	
+12	बेनामी	JJ	
+13	हस्तांतरण	NN	
+14	है	VM	
+15	,	SYM	
+16	जिसे	PRP	
+17	न	NEG	
+18	रोक	VM	
+19	पाने	VAUX	
+20	की	PSP	
+21	स्थिति	NN	
+22	में	PSP	
+23	ऐसा	PRP	
+24	हुआ	VM	
+25	है	VAUX	
+26	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	कृषि	NN	
+2	का	PSP	
+3	पुनर्गठन	NN	
+4	कृषि	XC	
+5	पुनर्गठन	NN	
+6	के	PSP	
+7	अर्न्तगत	PSP	
+8	चकबन्दी	XC	
+9	भूमि	NN	
+10	के	PSP	
+11	प्रबन्ध	NN	
+12	में	PSP	
+13	सुधार	NN	
+14	,	SYM	
+15	सहकारी	XC	
+16	खेती	NN	
+17	तथा	CC	
+18	भूमिहीन	JJ	
+19	मज़दूरों	NN	
+20	को	PSP	
+21	बसाना	VM	
+22	एवं	CC	
+23	भू	XC	
+24	-	SYM	
+25	भूदान	XC	
+26	कार्यक्रम	NN	
+27	प्रमुख	JJ	
+28	रूप	NN	
+29	से	PSP	
+30	सम्मिलित	JJ	
+31	किये	VM	
+32	जाते	VAUX	
+33	हैं	VAUX	
+34	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	भूमि	NN	
+2	के	PSP	
+3	बिखरे	VM	
+4	हुये	VAUX	
+5	छोटे	JJ	
+6	-	SYM	
+7	छोटे	RDP	
+8	टुकड़ों	NN	
+9	को	PSP	
+10	((	QC	<ne=NEN>
+10.1	एक	QC	
+	))
+11	जगह	NN	
+12	समेकित	JJ	
+13	करना	VM	
+14	चकबन्दी	NN	
+15	कहलाता	VM	
+16	है	VAUX	
+17	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अब	PRP	
+2	तक	RP	
+3	विभिन्न	JJ	
+4	राज्य	NN	
+5	में	PSP	
+6	चकबन्दी	XC	
+7	अधिनियम	NN	
+8	पारित	JJ	
+9	कर	VM	
+10	5.26	XC	
+11	हेक्टेयर	NN	
+12	भूमि	NN	
+13	की	PSP	
+14	चकबन्दी	NN	
+15	की	VM	
+16	जा	VAUX	
+17	चुकी	VAUX	
+18	है	VAUX	
+19	,	SYM	
+20	जो	PRP	
+21	कुल	QF	
+22	कृषिगत	NN	
+23	भूमि	NN	
+24	का	PSP	
+25	लगभग	RP	
+26	((	QC	<ne=NEN>
+26.1	33	QC	
+	))
+27	((	SYM	<ne=NEM>
+27.1	%	SYM	
+	))
+28	है	VM	
+29	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	XC	<ne=NEL>
+1.1	उत्तर	XC	
+1.2	प्रदेश	NNP	
+	))
+2	,	SYM	
+3	((	NNP	<ne=NEL>
+3.1	पंजाब	NNP	
+	))
+4	व	CC	
+5	हरियाणा	NNP	
+6	में	PSP	
+7	चकबन्दी	NN	
+8	का	PSP	
+9	कार्य	NN	
+10	लगभग	RB	
+11	पूरा	JJ	
+12	किया	VM	
+13	जा	VAUX	
+14	चुका	VAUX	
+15	है	VAUX	
+16	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अन्य	JJ	
+2	राज्यों	NN	
+3	में	PSP	
+4	इसकी	PRP	
+5	प्रगति	NN	
+6	धीमी	JJ	
+7	रही	VM	
+8	है	VAUX	
+9	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	भूमि	XC	
+2	सुधार	NN	
+3	की	PSP	
+4	इस	DEM	
+5	पद्धति	NN	
+6	का	PSP	
+7	विपरीत	JJ	
+8	परिणाम	NN	
+9	यह	PRP	
+10	हुआ	VM	
+11	है	VAUX	
+12	,	SYM	
+13	कि	CC	
+14	इससे	PRP	
+15	काश्तकारों	NN	
+16	व	CC	
+17	बँटाईदारों	NN	
+18	को	PSP	
+19	हानि	NN	
+20	हुई	VM	
+21	है	VAUX	
+22	,	SYM	
+23	क्योंकि	CC	
+24	भू	XC	
+25	-	SYM	
+26	स्वामी	NN	
+27	बड़े	JJ	
+28	खेतों	NN	
+29	पर	PSP	
+30	स्वयं	PRP	
+31	खेती	NN	
+32	करने	VM	
+33	लगे	VAUX	
+34	हैं	VAUX	
+35	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	अनेक	JJ	
+2	राज्यों	NN	
+3	में	PSP	
+4	भूमि	NN	
+5	की	PSP	
+6	न्यूनतम	JJ	
+7	सीमा	NN	
+8	निर्धारित	JJ	
+9	कर	VM	
+10	दी	VAUX	
+11	गई	VAUX	
+12	है	VAUX	
+13	जिससे	PRP	
+14	कम	QF	
+15	भूमि	XC	
+16	क्षेत्र	NN	
+17	का	PSP	
+18	विभाजन	NN	
+19	नहीं	NEG	
+20	किया	VM	
+21	जा	VAUX	
+22	सकता	VAUX	
+23	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	चकबन्दी	NN	
+2	से	PSP	
+3	भूमि	NN	
+4	की	PSP	
+5	उत्पादकता	NN	
+6	में	PSP	
+7	सुधार	NN	
+8	हुआ	VM	
+9	है	VAUX	
+10	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	भूमिगत	JJ	
+2	जल	NN	
+3	व	CC	
+4	उन्नत	JJ	
+5	तकनीक	NN	
+6	का	PSP	
+7	उचित	JJ	
+8	लाभ	NN	
+9	प्राप्त	JJ	
+10	करने	VM	
+11	के	PSP	
+12	दृष्टिकोण	NN	
+13	से	PSP	
+14	छोटे	JJ	
+15	किसानों	NN	
+16	को	PSP	
+17	((	QC	<ne=NEN>
+17.1	एक	QC	
+	))
+18	साथ	NST	
+19	चक	NN	
+20	दिये	VM	
+21	जाने	VAUX	
+22	के	PSP	
+23	प्रयत्न	NN	
+24	किये	VM	
+25	जा	VAUX	
+26	रहे	VAUX	
+27	हैं	VAUX	
+28	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	QC	<ne=NEN>
+1.1	एक	QC	
+	))
+2	बार	RP	
+3	चकबन्दी	NN	
+4	की	VM	
+5	गई	VAUX	
+6	ज़मीन	NN	
+7	को	PSP	
+8	पुन	RB	
+9	विभाजित	JJ	
+10	होने	VM	
+11	से	PSP	
+12	रोकने	VM	
+13	के	PSP	
+14	कानूनी	JJ	
+15	उपायों	NN	
+16	पर	PSP	
+17	भी	RP	
+18	विचार	NN	
+19	किया	VM	
+20	जा	VAUX	
+21	रहा	VAUX	
+22	है	VAUX	
+23	,	SYM	
+24	ताकि	CC	
+25	देखभाल	NN	
+26	भी	RP	
+27	अच्छी	JJ	
+28	हो	VM	
+29	और	CC	
+30	उत्पादन	XC	
+31	लागत	NN	
+32	भी	RP	
+33	कम	QF	
+34	आये	VM	
+35	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	परिचालन	XC	
+2	जोतों	NN	
+3	पर	PSP	
+4	विहंगम	JJ	
+5	दृष्टिपात	NN	
+6	करने	VM	
+7	पर	PSP	
+8	विदित	JJ	
+9	होगा	VM	
+10	कि	CC	
+11	((	QC	<ne=NEN>
+11.1	1961	QC	
+	))
+12	((	PSP	<ne=NEM>
+12.1	से	PSP	
+	))
+13	((	QC	<ne=NEN>
+13.1	1981	QC	
+	))
+14	के	PSP	
+15	बीच	NST	
+16	औसत	JJ	
+17	जोतों	NN	
+18	का	PSP	
+19	क्षेत्रफल	NN	
+20	((	QC	<ne=NEM>
+20.1	2.63	QC	
+20.2	हेक्टेयर	NN	
+	))
+21	से	PSP	
+22	घटकर	VM	
+23	((	QC	<ne=NEM>
+23.1	1.82	QC	
+23.2	हेक्टेयर	NN	
+	))
+24	ही	RP	
+25	रह	VM	
+26	गया	VAUX	
+27	,	SYM	
+28	जबकि	CC	
+29	((	QC	<ne=NEN>
+29.1	200	QC	
+	))
+30	((	NN	<ne=NEM>
+30.1	हेक्टेयर	NN	
+	))
+31	की	PSP	
+32	जोतों	NN	
+33	का	PSP	
+34	अनुपात	NN	
+35	((	QC	<ne=NEM>
+35.1	61.69	QC	
+35.2	%	SYM	
+	))
+36	से	PSP	
+37	बढ़कर	VM	
+38	((	QC	<ne=NEM>
+38.1	74.5	QC	
+38.2	%	SYM	
+	))
+39	हो	VM	
+40	गया	VAUX	
+41	है	VAUX	
+42	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	विभिन्न	JJ	
+2	कारणों	NN	
+3	से	PSP	
+4	भूमि	NN	
+5	के	PSP	
+6	वितरण	NN	
+7	के	PSP	
+8	साथ	NST	
+9	-	SYM	
+10	साथ	RDP	
+11	लोगों	NN	
+12	के	PSP	
+13	गरीब	JJ	
+14	होने	VM	
+15	के	PSP	
+16	कारण	PSP	
+17	सीमांतीकरण	NN	
+18	हुआ	VM	
+19	है	VAUX	
+20	?डट	VAUX	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	दूसरी	QO	
+2	ओर	PSP	
+3	1.3	XC	
+4	हेक्टेयर	NN	
+5	भूमि	NN	
+6	का	PSP	
+7	बेनामी	JJ	
+8	या	CC	
+9	फर्जी	JJ	
+10	हस्तांतरण	NN	
+11	हुआ	VM	
+12	है	VAUX	
+13	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	कुछ	QF	
+2	कारणों	NN	
+3	से	PSP	
+4	अतिरिक्त	JJ	
+5	घोषित	JJ	
+6	भूमि	NN	
+7	के	PSP	
+8	अर्न्तगत	PSP	
+9	क्षेत्रफल	NN	
+10	कृषि	XC	
+11	गणना	NN	
+12	के	PSP	
+13	अनुसार	PSP	
+14	अतिरिक्त	JJ	
+15	निकल	VM	
+16	रहे	VAUX	
+17	क्षेत्रफल	NN	
+18	से	PSP	
+19	बहुत	INTF	
+20	कम	JJ	
+21	आता	VM	
+22	है	VAUX	
+23	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NETI>
+1.1	1980	NNP	
+	))
+2	की	PSP	
+3	कृषि	XC	
+4	गणना	NN	
+5	के	PSP	
+6	आँकड़ों	NN	
+7	के	PSP	
+8	अनुसार	PSP	
+9	अतिरिक्त	JJ	
+10	भूमि	NN	
+11	595	XC	
+12	हेक्टेयर	NN	
+13	आती	VM	
+14	है	VAUX	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	DEM	
+2	सब	QF	
+3	स्थिति	NN	
+4	के	PSP	
+5	परिप्रेक्ष्य	NN	
+6	में	PSP	
+7	चकबन्दी	NN	
+8	से	PSP	
+9	फसलों	NN	
+10	के	PSP	
+11	प्रारुप	NN	
+12	में	PSP	
+13	परिवर्तन	NN	
+14	हुआ	VM	
+15	है	VAUX	
+16	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	व्यापारिक	JJ	
+2	फसलों	NN	
+3	में	PSP	
+4	वृद्धि	NN	
+5	से	PSP	
+6	किसानों	NN	
+7	की	PSP	
+8	आय	NN	
+9	बढ़ी	VM	
+10	है	VAUX	
+11	,	SYM	
+12	निजी	JJ	
+13	तौर	NN	
+14	पर	PSP	
+15	सिंचाई	NN	
+16	का	PSP	
+17	विस्तार	NN	
+18	हुआ	VM	
+19	है	VAUX	
+20	,	SYM	
+21	तथा	CC	
+22	कृषि	XC	
+23	उत्पादन	NN	
+24	की	PSP	
+25	लागत	NN	
+26	भी	RP	
+27	घटी	VM	
+28	है	VAUX	
+29	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	भूमि	XC	
+2	प्रबंधन	NN	
+3	के	PSP	
+4	अर्न्तगत	PSP	
+5	बंजर	JJ	
+6	भूमि	NN	
+7	का	PSP	
+8	उपयोग	NN	
+9	,	SYM	
+10	सुधारे	VM	
+11	हुये	VAUX	
+12	बीजों	NN	
+13	तथा	CC	
+14	कीटनाशक	XC	
+15	दवाइयों	NN	
+16	का	PSP	
+17	प्रयोग	NN	
+18	प्रमुख	JJ	
+19	रूप	NN	
+20	से	PSP	
+21	शामिल	JJ	
+22	किये	VM	
+23	जाते	VAUX	
+24	हैं	VAUX	
+25	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	QO	<ne=NEN>
+1.1	प्रथम	QO	
+	))
+2	((	QC	<ne=NEN>
+2.1	दो	QC	
+	))
+3	पंचवर्षीय	XC	
+4	योजनाओं	NN	
+5	में	PSP	
+6	इस	PRP	
+7	ओर	NST	
+8	पर्याप्त	QF	
+9	बल	NN	
+10	दिया	VM	
+11	गया	VAUX	
+12	था	VAUX	
+13	कि	CC	
+14	सर्वप्रथम	NN	
+15	भूमि	NN	
+16	का	PSP	
+17	कुशल	JJ	
+18	प्रबंधन	NN	
+19	व	CC	
+20	प्रयोग	NN	
+21	उन	DEM	
+22	क्षेत्रों	NN	
+23	में	PSP	
+24	किया	VM	
+25	जाना	VAUX	
+26	चाहिये	VAUX	
+27	जहाँ	PRP	
+28	इसके	PRP	
+29	लिये	PSP	
+30	अनुकूल	JJ	
+31	परिस्थितियाँ	NN	
+32	हों	VM	
+33	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	वर्तमान	JJ	
+2	स्थिति	NN	
+3	में	PSP	
+4	भूमि	NN	
+5	के	PSP	
+6	छोटे	JJ	
+7	-	SYM	
+8	छोटे	RDP	
+9	टुकड़ों	NN	
+10	को	PSP	
+11	मिलाकर	VM	
+12	खेती	NN	
+13	करना	VM	
+14	हमारी	PRP	
+15	अर्थव्यवस्था	NN	
+16	के	PSP	
+17	लिये	PSP	
+18	अत्यन्त	INTF	
+19	उपयोगी	NN	
+20	साबित	JJ	
+21	हो	VM	
+22	सकता	VAUX	
+23	है	VAUX	
+24	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सरकार	NN	
+2	ने	PSP	
+3	ऐच्छिक	XC	
+4	सहकारी	XC	
+5	खेती	NN	
+6	को	PSP	
+7	बढ़ावा	NN	
+8	देने	VM	
+9	के	PSP	
+10	लिये	PSP	
+11	वित्तीय	JJ	
+12	सहायता	NN	
+13	,	SYM	
+14	लगान	NN	
+15	एवं	CC	
+16	आय	XC	
+17	कर	NN	
+18	में	PSP	
+19	रियायतें	NN	
+20	भी	RP	
+21	दी	VM	
+22	हैं	VAUX	
+23	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	यह	PRP	
+2	देखने	VM	
+3	में	PSP	
+4	आया	VM	
+5	है	VAUX	
+6	,	SYM	
+7	कि	CC	
+8	आजकल	NN	
+9	((	NNP	<ne=NEL>
+9.1	भारत	NNP	
+	))
+10	में	PSP	
+11	कृषि	NN	
+12	का	PSP	
+13	प्रयास	NN	
+14	कम	QF	
+15	हो	VM	
+16	गया	VAUX	
+17	है	VAUX	
+18	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	शायद	CC	
+2	कृषिगत	JJ	
+3	विकास	NN	
+4	नीति	NN	
+5	में	PSP	
+6	इस	PRP	
+7	पर	PSP	
+8	आवश्यक	JJ	
+9	बल	NN	
+10	नहीं	NEG	
+11	दिया	VM	
+12	गया	VAUX	
+13	है	VAUX	
+14	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NNP	<ne=NETI>
+1.1	1951	NNP	
+	))
+2	में	PSP	
+3	भू	XC	
+4	-	XC	
+5	दान	XC	
+6	आन्दोलन	NNP	
+7	,	SYM	
+8	भूमिहीन	JJ	
+9	मज़दूरों	NN	
+10	को	PSP	
+11	बसाने	VM	
+12	के	PSP	
+13	लिये	PSP	
+14	आरम्भ	NN	
+15	किया	VM	
+16	गया	VAUX	
+17	था	VAUX	
+18	,	SYM	
+19	जिसके	PRP	
+20	अन्तर्गत	PSP	
+21	प्रत्येक	QF	
+22	भू	XC	
+23	-	SYM	
+24	स्वामी	NN	
+25	से	PSP	
+26	उसकी	PRP	
+27	इच्छा	NN	
+28	से	PSP	
+29	((	QC	<ne=NEN>
+29.1	1	QC	
+	))
+30	/	SYM	
+31	((	QC	<ne=NEN>
+31.1	6	QC	
+	))
+32	भूमि	NN	
+33	दान	NN	
+34	में	PSP	
+35	मांगी	VM	
+36	गई	VAUX	
+37	थी	VAUX	
+38	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	बाद	NST	
+2	में	PSP	
+3	यह	DEM	
+4	आन्दोलन	NN	
+5	((	XC	<ne=NEM>
+5.1	ग्राम	XC	
+	))
+6	-	SYM	
+7	दान	NN	
+8	में	PSP	
+9	परिवर्तित	JJ	
+10	हुआ	VM	
+11	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	NST	<ne=NEN>
+1.1	1952	NST	
+	))
+2	में	PSP	
+3	विनोबा	XC	
+4	भावे	NNP	
+5	द्वारा	PSP	
+6	((	NNP	<ne=NEL>
+6.1	बिहार	NNP	
+	))
+7	में	PSP	
+8	पद	XC	
+9	यात्रा	NN	
+10	कर	VM	
+11	8.4	XC	
+12	हेक्टेयर	NN	
+13	भूमि	NN	
+14	प्राप्त	JJ	
+15	करने	VM	
+16	के	PSP	
+17	फलस्वरूप	NN	
+18	इस	DEM	
+19	आन्दोलन	NN	
+20	को	PSP	
+21	गति	NN	
+22	मिली	VM	
+23	और	CC	
+24	अब	PRP	
+25	तक	RP	
+26	इसमें	PRP	
+27	42	XC	
+28	हेक्टेयर	NN	
+29	भूमि	NN	
+30	प्राप्त	JJ	
+31	की	VM	
+32	जा	VAUX	
+33	चुकी	VAUX	
+34	है	VAUX	
+35	जिसमें	PRP	
+36	से	PSP	
+37	13	XC	
+38	हेक्टेयर	NN	
+39	भूमि	NN	
+40	का	PSP	
+41	भूमिहीनों	NN	
+42	में	PSP	
+43	आवंटन	NN	
+44	किया	VM	
+45	जा	VAUX	
+46	चुका	VAUX	
+47	है	VAUX	
+48	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	भू	XC	
+2	-	SYM	
+3	दान	NN	
+4	व	CC	
+5	((	XC	<ne=NEM>
+5.1	ग्राम	XC	
+	))
+6	-	SYM	
+7	दान	XC	
+8	आन्दोलन	NN	
+9	,	SYM	
+10	जो	PRP	
+11	अहिंसक	XC	
+12	क्रान्ति	NNP	
+13	का	PSP	
+14	मार्ग	NN	
+15	है	VM	
+16	,	SYM	
+17	ने	PSP	
+18	भूमि	XC	
+19	सुधार	NN	
+20	के	PSP	
+21	लिये	PSP	
+22	और	CC	
+23	विशेषतया	RB	
+24	सहकारी	XC	
+25	((	XC	<ne=NEM>
+25.1	ग्राम	XC	
+	))
+26	प्रबंधन	NN	
+27	के	PSP	
+28	लिये	PSP	
+29	अनुकूल	JJ	
+30	वातावरण	NN	
+31	तैयार	JJ	
+32	किया	VM	
+33	है	VAUX	
+34	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	भूमि	XC	
+2	सुधारों	NN	
+3	का	PSP	
+4	मूल्यांकन	NN	
+5	यद्यपि	CC	
+6	योजनाकाल	NN	
+7	में	PSP	
+8	भूमि	XC	
+9	सुधार	NN	
+10	संबंधी	JJ	
+11	कानूनों	NN	
+12	की	PSP	
+13	बाढ़	NN	
+14	ही	RP	
+15	आ	VM	
+16	गई	VAUX	
+17	,	SYM	
+18	लेकिन	CC	
+19	इनके	PRP	
+20	आशातीत	JJ	
+21	परिणाम	NN	
+22	नहीं	NEG	
+23	मिले	VM	
+24	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	कानूनों	NN	
+2	पर	PSP	
+3	पूरी	JJ	
+4	तरह	NN	
+5	अमल	NN	
+6	नहीं	NEG	
+7	हो	VM	
+8	पाया	VAUX	
+9	है	VAUX	
+10	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	कानूनों	NN	
+2	में	PSP	
+3	कहीं	RB	
+4	-	SYM	
+5	कहीं	RDP	
+6	ऐसे	DEM	
+7	छिद्र	NN	
+8	छोड़	VM	
+9	दिये	VAUX	
+10	जिनका	PRP	
+11	उपयोग	NN	
+12	निहित	JJ	
+13	स्वार्थी	JJ	
+14	वर्ग	NN	
+15	ने	PSP	
+16	अपनी	PRP	
+17	स्थिति	NN	
+18	मज़बूत	JJ	
+19	करने	VM	
+20	में	PSP	
+21	किया	VM	
+22	और	CC	
+23	कानूनों	NN	
+24	को	PSP	
+25	अदालतों	NN	
+26	में	PSP	
+27	चुनौती	NN	
+28	भी	RP	
+29	दी	VM	
+30	गई	VAUX	
+31	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	भूमि	XC	
+2	सुधारों	NN	
+3	की	PSP	
+4	धीमी	JJ	
+5	गति	NN	
+6	के	PSP	
+7	लिये	PSP	
+8	जाली	JJ	
+9	कृषि	XC	
+10	सहकारी	XC	
+11	साख	XC	
+12	समितियाँ	NN	
+13	,	SYM	
+14	सीमा	XC	
+15	निर्धारण	NN	
+16	के	PSP	
+17	क्रियान्वयन	NN	
+18	में	PSP	
+19	देरी	NN	
+20	,	SYM	
+21	उँचे	JJ	
+22	लगान	NN	
+23	तथा	CC	
+24	भूमि	XC	
+25	वितरण	NN	
+26	में	PSP	
+27	परिवर्तन	NN	
+28	का	PSP	
+29	अभाव	NN	
+30	जैसे	RP	
+31	तत्व	NN	
+32	उत्तरदायी	JJ	
+33	ठहराये	VM	
+34	जा	VAUX	
+35	सकते	VAUX	
+36	हैं	VAUX	
+37	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	भूमि	XC	
+2	सुधारों	NN	
+3	को	PSP	
+4	तीव्र	JJ	
+5	गति	NN	
+6	से	PSP	
+7	क्रियान्वित	JJ	
+8	करने	VM	
+9	के	PSP	
+10	लिये	PSP	
+11	यह	PRP	
+12	आवश्यक	JJ	
+13	है	VM	
+14	कि	CC	
+15	भूमि	NN	
+16	के	PSP	
+17	नवीनतम	JJ	
+18	रिकार्ड	NN	
+19	अविलम्ब	RB	
+20	तैयार	JJ	
+21	किये	VM	
+22	जाये	VAUX	
+23	,	SYM	
+24	कुशल	JJ	
+25	प्रशासनिक	XC	
+26	मशीनरी	NN	
+27	की	PSP	
+28	स्थापना	NN	
+29	की	PSP	
+30	जाये	VM	
+31	तथा	CC	
+32	आवश्यक	JJ	
+33	वित्तीय	XC	
+34	व्यवस्था	NN	
+35	की	VM	
+36	जाये	VAUX	
+37	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इसके	PRP	
+2	अतिरिक्त	PSP	
+3	ऐसी	DEM	
+4	भूमि	XC	
+5	अदालतें	NN	
+6	स्थापित	JJ	
+7	की	VM	
+8	जायें	VAUX	
+9	जो	CC	
+10	गरीबों	NN	
+11	को	PSP	
+12	जल्दी	RB	
+13	न्याय	NN	
+14	दिला	VM	
+15	सकें	VAUX	
+16	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	खेतिहर	JJ	
+2	श्रमिकों	NN	
+3	,	SYM	
+4	काश्तकारों	NN	
+5	,	SYM	
+6	बँटाईदारों	NN	
+7	,	SYM	
+8	के	PSP	
+9	संगठन	NN	
+10	स्थापित	JJ	
+11	करके	VM	
+12	भी	RP	
+13	भूमि	XC	
+14	सुधारों	NN	
+15	को	PSP	
+16	तीव्र	JJ	
+17	गति	NN	
+18	से	PSP	
+19	लागू	JJ	
+20	किया	VM	
+21	जा	VAUX	
+22	सकता	VAUX	
+23	है	VAUX	
+24	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	सातवीं	QO	
+2	योजना	NN	
+3	में	PSP	
+4	भूमि	XC	
+5	सुधार	NN	
+6	कार्यक्रमों	NN	
+7	को	PSP	
+8	गरीबी	XC	
+9	उन्मूलन	XC	
+10	नीति	NN	
+11	व	CC	
+12	कार्यक्रम	NN	
+13	का	PSP	
+14	आवश्यक	JJ	
+15	अंग	NN	
+16	माना	VM	
+17	गया	VAUX	
+18	है	VAUX	
+19	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	इस	DEM	
+2	योजना	NN	
+3	में	PSP	
+4	भूमि	XC	
+5	सुधार	NN	
+6	कार्यक्रमों	NN	
+7	में	PSP	
+8	निम्न	JJ	
+9	बातों	NN	
+10	पर	PSP	
+11	ज़ोर	NN	
+12	दिया	VM	
+13	गया	VAUX	
+14	है	VAUX	
+15	-	VAUX	
+16	((	QC	<ne=NEN>
+16.1	1.	QC	
+	))
+17	राज्यों	NN	
+18	से	PSP	
+19	कहा	VM	
+20	गया	VAUX	
+21	है	VAUX	
+22	कि	CC	
+23	कानून	NN	
+24	की	PSP	
+25	कमियों	NN	
+26	को	PSP	
+27	दूर	NST	
+28	करें	VM	
+29	और	CC	
+30	भूमि	XC	
+31	सुधार	XC	
+32	उपायों	NN	
+33	का	PSP	
+34	पुरज़ोर	JJ	
+35	तरीके	NN	
+36	से	PSP	
+37	कार्यान्वयन	NN	
+38	करें	VM	
+39	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	जिन	DEM	
+2	राज्यों	NN	
+3	ने	PSP	
+4	कानून	NN	
+5	नहीं	NEG	
+6	बनायें	VM	
+7	हैं	VAUX	
+8	,	SYM	
+9	वे	PRP	
+10	इस	DEM	
+11	योजना	NN	
+12	में	PSP	
+13	कानून	NN	
+14	बनायें	VM	
+15	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	QC	<ne=NEN>
+1.1	2.	QC	
+	))
+2	जोतों	NN	
+3	की	PSP	
+4	सीमा	NN	
+5	घटाकर	VM	
+6	सिंचित	JJ	
+7	भूमि	NN	
+8	के	PSP	
+9	लिए	PSP	
+10	((	QC	<ne=NEN>
+10.1	5	QC	
+	))
+11	((	NN	<ne=NEM>
+11.1	हेक्टेयर	NN	
+	))
+12	,	SYM	
+13	अर्द्धसिचिंत	JJ	
+14	भूमि	NN	
+15	के	PSP	
+16	लिए	PSP	
+17	((	QC	<ne=NEM>
+17.1	7.5	QC	
+17.2	हेक्टेयर	NN	
+	))
+18	तथा	CC	
+19	असिंचित	JJ	
+20	भूमि	NN	
+21	के	PSP	
+22	लिए	PSP	
+23	((	QC	<ne=NEN>
+23.1	12	QC	
+	))
+24	((	NN	<ne=NEM>
+24.1	हेक्टेयर	NN	
+	))
+25	करने	VM	
+26	का	PSP	
+27	सुझाव	NN	
+28	दिया	VM	
+29	गया	VAUX	
+30	है	VAUX	
+31	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	QC	<ne=NEN>
+1.1	3.	QC	
+	))
+2	सीलिंग	NN	
+3	में	PSP	
+4	अधिशेष	NN	
+5	घोषित	JJ	
+6	भूमि	NN	
+7	व	CC	
+8	वितरण	NN	
+9	की	VM	
+10	गई	VAUX	
+11	भूमि	NN	
+12	का	PSP	
+13	अन्तर	NN	
+14	कम	QF	
+15	किया	VM	
+16	जायेगा	VAUX	
+17	?डट	SYM	
+	))
+</Sentence>
+
+<Sentence id="null">
+0	((	SSF	
+1	((	QC	<ne=NEN>
+1.1	4.	QC	
+	))
+2	सीलिंग	NN	
+3	के	PSP	
+4	ऊपर	NST	
+5	भूमि	NN	
+6	व	CC	
+7	अतिरिक्त	JJ	
+8	भूमि	NN	
+9	जिन	DEM	
+10	लोगों	NN	
+11	को	PSP	
+12	मिली	VM	
+13	है	VAUX	
+14	,	SYM	
+15	उन्हें	PRP	
+16	वित्तीय	JJ	
+17	सहायता	NN	
+18	दी	VM	
+19	जायेगी	VAUX	
+20	?डट	SYM	
+	))
+</Sentence>
+
+</Story>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appendix>
+  <title>Contributors</title>
+
+  <sect1>
+    <title>Some others who have contributed to Sanchay:</title>
+
+    <itemizedlist>
+      <listitem>
+        <para>Samar Husain</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Corpus Compilation, Sentence Aligner and Language Modelling</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Gugilla Chinnappa</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>IBM Statistical Machine Translation Models</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Harshit Khurana</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Previous versions of Syntactic Annotation Interface, Feature
+            Structure API and SSF API</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Pramodh Reddy, Jashwanth Nimmala, Nithin Kumar M. and Boppana
+        Varun</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Similarity Measures</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+
+      <listitem>
+        <para>Arafat Ahsan</para>
+
+        <itemizedlist>
+          <listitem>
+            <para>Language Modelling</para>
+          </listitem>
+        </itemizedlist>
+      </listitem>
+    </itemizedlist>
+
+    <para>Contribution to Sanchay has not really taken off yet. It has mostly
+    been one-man effort (so now you know why so many things are wrong with
+    Sanchay). If you think you have something to contribute which can become a
+    part of Sanchay, you are welcome.</para>
+  </sect1>
+</appendix>

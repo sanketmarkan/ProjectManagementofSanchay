@@ -1,0 +1,15 @@
+Column Count::7
+Column Names::TaskName	TaskKVPropFile	TaskKVPropCharset	User1	User2	Adjudicator1	Adjudicator2
+NotPremchand-1	workspace/syn-annotation/Premchand/task-NotPremchand-1	UTF-8	anil	singh	anil	sanchay	
+NotPremchand-2	workspace/syn-annotation/Premchand/task-NotPremchand-2	UTF-8	anil	NONE	eklavya	sanchay
+Premchand-1	workspace/syn-annotation/Premchand/task-Premchand-1	UTF-8	NONE	NONE	eklavya	sanchay
+Premchand-2	workspace/syn-annotation/Premchand/task-Premchand-2	UTF-8	NONE	NONE	eklavya	sanchay
+Premchand-3	workspace/syn-annotation/Premchand/task-Premchand-3	UTF-8	NONE	NONE	eklavya	sanchay
+Premchand-4	workspace/syn-annotation/Premchand/task-Premchand-4	UTF-8	NONE	NONE	eklavya	sanchay
+Premchand-5	workspace/syn-annotation/Premchand/task-Premchand-5	UTF-8	NONE	NONE	eklavya	sanchay
+Premchand-6	workspace/syn-annotation/Premchand/task-Premchand-6	UTF-8	NONE	NONE	eklavya	sanchay
+Premchand-7	workspace/syn-annotation/Premchand/task-Premchand-7	UTF-8	NONE	NONE	eklavya	sanchay
+Premchand-8	workspace/syn-annotation/Premchand/task-Premchand-8	UTF-8	NONE	NONE	eklavya	sanchay
+Premchand-9	workspace/syn-annotation/Premchand/task-Premchand-9	UTF-8	NONE	NONE	eklavya	sanchay
+Premchand-10	workspace/syn-annotation/Premchand/task-Premchand-10	UTF-8	NONE	NONE	eklavya	sanchay
+Premchand-11	workspace/syn-annotation/Premchand/task-Premchand-11	UTF-8	NONE	NONE	eklavya	sanchay

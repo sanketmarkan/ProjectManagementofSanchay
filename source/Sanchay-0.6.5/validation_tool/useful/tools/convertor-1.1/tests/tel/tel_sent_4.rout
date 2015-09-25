@@ -1,0 +1,22 @@
+<Sentence id="1">			
+1	((	NN	<fs af='AMXrapraxeS,n,m,s,,,,,'>
+1.1	rAmaliMgadu	NNP	<fs af='rAmaliMgadu,n,m,s,,,,,'>
+1.2	iMti	NNP	<fs af='iMti,n,any,s,,,,,'>
+1.3	uniki	NNP	<fs af='uniki,n,any,s,,,,,'>
+1.4	pakkane	NNP	<fs af='unipakkane,n,any,s,,,,,'>
+1.5	ceVruvu	NNP	<fs af='ceVruvu,n,any,s,,,,,'>
+1.6	uMxi	NNP	<fs af='uMxi,n,any,s,,,,,'>
+1.7	oVkaroju	NNP	<fs af='oVkaroju,n,any,s,,,,,'>
+1.8	maMwrigAru	NNP	<fs af='maMwrigAru,n,any,s,,,,,'>
+1.9	atuvEpu	NNP	<fs af='atuvEpu,n,any,s,,,,,'>
+	))
+</Sentence>			
+			
+<Sentence id="2">			
+2	((	NN	<fs af='veVlYuwunnAru,n,any,s,,,,,'>
+2.1	meVtlamIxa	NNP	<fs af='meVtlamIxa,n,any,s,,,,,'>
+2.2	munigipoye	NNP	<fs af='munigipoye,n,any,s,,,,,'>
+2.3	prayawnaM	NNP	<fs af='prayawnaM,n,any,s,,,,,'>
+2.4	kekalaki	NNP	<fs af='kekalaki,n,any,s,,,,,'>|<fs af='mAta,n,any,s,,,,,'>
+	))
+</Sentence>			

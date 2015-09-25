@@ -1,0 +1,11 @@
+1	((	NP	<fs af='baYcA,n,m,p,,0,0,'>
+1.1	sAre	QF	<fs af='sAre,n,m,s,,0,,'>
+1.2	baYce	NN	<fs af='baYcA,n,m,p,,0,0,'>
+	))		
+2	((	NP	<fs af='kiwAba,n,f,s,,0,0,'>
+2.1	kiwAba	NN	<fs af='kiwAba,n,f,s,,0,0,'>
+	))		
+3	((	VGF	<fs af='padZa,v,m,p,any,,wA_hE,'>
+3.1	padZaxe	VM	<fs af='padZa,v,m,p,any,,wA,'>
+3.2	.	SYM	
+	))		

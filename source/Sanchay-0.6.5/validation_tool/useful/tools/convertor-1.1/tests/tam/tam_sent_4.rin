@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	((	NP	<fs af='ammA,n,m,p,,0,0,'>
+1.1	amma	QF	<fs af='appA,n,m,s,,0,,'>
+1.2	amma	NN	<fs af='ammA,n,m,p,,0,0,'>
+	))		
+2	((	NP	<fs af='ammA,n,f,s,,0,0,'>
+2.1	amma	NN	<fs af='ammA,n,f,s,,0,0,'>
+	))		
+3	((	VGF	<fs af='ammA,v,m,p,any,,wA_hE,'>
+3.1	amma	VM	<fs af='ammA,v,m,p,any,,wA,'>
+3.2	.	SYM	
+	))		
+</Sentence>

@@ -1,0 +1,7 @@
+Column Names::PCType	PCClass	FilePath	Charset	ColCount
+
+# Paths should be relative to the workspace
+KeyValueProperties	KVProps	workspace/number-filter/kvprops.en	UTF8	2
+KeyValueProperties	SpecialWords	workspace/number-filter/special_words.en	UTF8	2
+KeyValueProperties	MajorWords	workspace/number-filter/major_words.en	UTF8	2
+KeyValueProperties	MinorWords	workspace/number-filter/minor_words.en	UTF8	2

@@ -1,0 +1,5590 @@
+<Sentence>
+भारत __NP__ccof:CCP
+और __CCP__k1:VGF
+दक्षिण अफ्रीका ने __NP__ccof:CCP
+मंगलवार को __NP__k7t:VGF
+दोनों देशों के बीच __NP__k7:VGF
+संयुक्त मंत्रालय आयोग __NP__r6:NP7
+( जेएमसी ) __NP__nmod:NP5
+की __FRAGP__fragof:NP5
+बैठक के __NP__r6:NP8
+अंतिम दिन __NP__k7t:VGF
+प्रत्यर्पण संधि __NP__ccof:CCP2
+और __CCP__k7:VGF
+आपसी कानूनी मदद पर __NP__ccof:CCP2
+समझौते के __NP__r6:NP12
+दस्तावेजों का __NP__r6-k2:NP13
+आदान - प्रदान __NP__pof:VGF
+किया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+आयोग की __NP__r6:NP2
+दो दिवसीय छठी बैठक में __NP__k7:VGF
+संचार एवं सूचना तकनीक __NP__ccof:CCP
+और __CCP__r6:NP5
+मानव संसाधन विकास के __NP__ccof:CCP
+क्षेत्रों में __NP__k7p:VGF
+दो उप समितियां __NP__k2:VGNN
+गठित __JJP__pof:VGNN
+करने का __VGNN__r6-k2:NP7
+फैसला __NP__pof:VGF
+किया गया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__adv:VGF
+दोनों देशों ने __NP__k1:VGF
+दक्षिण अफ्रीका में __NP__k7p:VGF
+११ सितंबर १९०६ को __NP__k7t:VGF
+महात्मा गांधी द्वारा __NP__k1:VGNF
+शुरू __NP__pof:VGNF
+किए गए __VGNF__nmod__k2inv:NP7
+सत्याग्रह आंदोलन के __NP__r6:NP8
+अगले वर्ष __NP__k7t:VGF
+शताब्दी समारोहों के __NP__r6:NP10
+आयोजन के लिए __NP__rt:VGF
+संयुक्त पहल __NP__pof:VGNN
+करने पर भी __VGNN__k7:VGF
+सहमति __NP__k2:VGF
+जताई । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+विदेश राज्य मंत्री राव इंद्रजीत सिंह __NP__ccof:CCP
+और __CCP__r6:NP4
+दक्षिण अफ्रीका के __NP__r6:NP3
+उप विदेश मंत्री अजीज पहद की __NP__ccof:CCP
+संयुक्त अध्यक्षता में __NP__jjmod:JJP
+आयोजित __JJP__nmod:NP5
+बैठक के __NP__r6:NP6
+अंत में __NP__k7:VGF
+दोनों पक्षों ने __NP__k1:VGF
+प्रत्यर्पण संधि __NP__ccof:CCP2
+और __CCP__k7:VGF
+आपसी कानूनी मदद पर __NP__ccof:CCP2
+समझौते की __NP__r6:NP11
+पुष्टि के __NP__r6:NP12
+दस्तावेजों का __NP__r6-k2:NP13
+आदान - प्रदान __NP__pof:VGF
+किया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+बैठक के दौरान __NP__k7t:VGF
+दोनों पक्षों ने __NP__k1:VGF
+द्विपक्षीय व्यापार को __NP__k2:VGNN
+बढ़ावा __NP__pof:VGNN
+देने के लिए __VGNN__rt:VGF
+भारत __NP__ccof:CCP
+और __CCP__k7p:VGF
+दक्षिण अफ्रीका के बीच __NP__ccof:CCP
+वरीयता व्यापार समझौते __NP__k2:VGNN2
+( पीटीए ) __NP__nmod:NP7
+को __FRAGP__fragof:NP7
+जल्द __RBP__adv:VGNN2
+लागू __JJP__pof:VGNN2
+करने की __VGNN__r6:NP9
+जरूरत पर भी __NP__k7:VGF
+जोर __NP__pof:VGF
+दिया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+बैठक में __NP__k7:VGF
+सिंह ने __NP__k1:VGF
+जोर __NP__vmod:VGNF
+देते हुए __VGNF__vmod:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+भारत __NP__ccof:CCP2
+और __CCP__k7:VGF2
+दक्षिण अफ्रीका के बीच __NP__ccof:CCP2
+संयुक्त राष्ट्र सुधारों से __NP__ras-k1:VGNF2
+जुड़े __VGNF__nmod__k1inv:NP7
+अधिकांश मुद्दों पर __NP__k7:VGF2
+विचारों की __NP__r6:NP9
+समानता __NP__k1:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+उम्मीद __NP__k1:VGNF
+जताते हुए __VGNF__vmod:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+अफ्रीकन यूनियन __NP__k1:VGF2
+जी - ४ के __NP__nmod:NP3
+शीघ्र विस्तार के __NP__r6:NP6
+प्रस्ताव से __NP__k2:VGF2
+सहमत __JJP__pof:VGF2
+होगा , __VGF__ccof:CCP
+जिसके तहत __NP__k7:VGF3
+महाद्वीप के __NP__r6:NP9
+हित में __NP__k7:VGF3
+विकासशील देशों को __NP__k2:VGF3
+स्थाई सदस्यों के रूप में __NP__k7:VGF3
+शामिल __JJP__pof:VGF3
+किया जा सकेगा __VGF__ccof:CCP2
+और __CCP__nmod__relc:NP6
+दक्षिण अफ्रीका __NP__k1:VGF4
+इस दिशा में __NP__k7:VGF4
+भारत के साथ __NP__ras-k1:VGF4
+काम __NP__k2:VGF4
+करेगा । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+सुप्रीम कोर्ट ने __NP__k1:VGF
+राजस्थान हाई कोर्ट के __NP__r6:NP3
+आदेश को __NP__k2:VGNN
+चुनौती __NP__pof:VGNN
+देने वाली __VGNN__nmod__k1inv:NP5
+दो बड़ी सॉफ्ट ड्रिंक कंपनियों __NP__rs:NP6
+पेप्सी __NP__ccof:CCP
+और __CCP__r6:NP8
+कोका - कोला की __NP__ccof:CCP
+याचिकाओं को __NP__k2:VGF
+सोमवार को __NP__k7t:VGF
+खारिज __JJP__pof:VGF
+कर दिया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+हाई कोर्ट ने __NP__k1:VGF
+अपने __NP__r6:NP3
+आदेश में __NP__k7:VGF
+दोनों कंपनियों को __NP__k4:VGF
+सॉफ्ट ड्रिंक कंटेनरों पर __NP__k7:VGNN
+उनके __NP__r6:NP7
+उत्पाद में __NP__k7:VGNF
+मिलाए गए __VGNF__nmod__k2inv:NP8
+कीटनाशकों की __NP__r6:NP9
+मात्रा __NP__k2:VGNN
+प्रिंट __NP__pof:VGNN
+करने को __VGNN__k2:VGF
+कहा था । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+सुप्रीम कोर्ट का __NP__k1:VGF
+कहना है __VGF__ROOT:0
+कि __CCP__k2:VGF
+उपभोक्ता को __NP__k4a:VGF2
+यह __NP__k2:VGNN
+जानने का __VGNN__r6:NP4
+पूरा अधिकार __NP__k1:VGF2
+है __VGF__ccof:CCP
+कि __CCP__rs:NP3
+वह __NP__k1:VGF3
+क्या __RBP__k2:VGF3
+उपभोग __NP__pof:VGF3
+कर रहा है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+पेप्सी फूड लिमिटेड __NP__ccof:CCP
+और __CCP__rd:VGNF
+हिंदुस्तान कोका - कोला बिवरेजेज प्रा. लिमिटेड की ओर से __NP__ccof:CCP
+दायर __JJP__nmod:NP3
+विशेष अनुमति याचिकाओं को __NP__k2:VGNF
+खारिज __JJP__pof:VGNF
+करते हुए __VGNF__vmod:VGF
+चीफ जस्टिस आर. सी. लाहोटी , __NP__ccof:CCP2
+जस्टिस डी. एम. धर्माधिकारी __NP__ccof:CCP2
+और __CCP__nmod:NP7
+जी. पी. माथुर वाली __NP__ccof:CCP2
+खंडपीठ ने __NP__k1:VGF
+दोनों कंपनियों को __NP__k2:VGNN
+हाई कोर्ट में __NP__k7p:VGNN
+अपील __NP__pof:VGNN
+करने को __VGNN__k4:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+वे __NP__k1:VGF2
+किस सीमा तक __NP__k7p:VGF2
+उनके __NP__r6:NP14
+निर्देशों का __NP__r6-k2:NP15
+पालन __NP__pof:VGF2
+कर सकते हैं । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__sent-adv:VGF
+सुप्रीम कोर्ट ने __NP__k1:VGF
+हाई कोर्ट के __NP__r6:NP4
+आदेश पर __NP__k2:VGF
+दो सप्ताह तक __NP__k7t:VGF
+टाल दिया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+दोनों कंपनियों की ओर से __NP__rd:VGF
+उनके __NP__r6:NP3
+वकील __NP__nmod:NP4
+वरिष्ठ अधिवक्ता अरुण जेटली __NP__ccof:CCP
+और __CCP__k1:VGF
+हरीश साल्वे ने __NP__ccof:CCP
+जब __NP__k7t:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+कंटेनरों पर __NP__k7:VGF2
+यह __NP__k2:VGF2
+अंकित __JJP__pof:VGF2
+किया जा सकता है - __VGF__ccof:CCP2
+उत्पाद में __NP__k7:VGF3
+कीटनाशक के __NP__r6:NP11
+थोड़े अंश __NP__k2:VGF3
+हो सकते हैं __VGF__ccof:CCP3
+लेकिन __CCP__rs:NP8
+यह __NP__k1:VGF4
+निर्धारित मानकों से __NP__k5:VGF4
+काफी कम __JJP__k1s:VGF4
+होंगे । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+इस पर __NP__k7:VGF
+अदालत ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+यह तो __NP__k2:VGF2
+हाई कोर्ट ही __NP__k1:VGF2
+बताएगा __VGF__ccof:CCP
+कि __CCP__rs:NP3
+निर्देशों का __NP__r6-k1:NP6
+पालन __NP__pof:VGF3
+किस हद तक __NP__vmod:VGF3
+होना है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+हाई कोर्ट ने __NP__k1:VGF
+आदेश में __NP__k7:VGF
+३ नवंबर तक __NP__k7t:VGNN
+इन दोनों कंपनियों __NP__ccof:CCP
+और __CCP__k4:VGNN
+अन्य सभी कारबोनेटेड बिवरेज कंपनियों को __NP__ccof:CCP
+बोतलों __NP__ccof:CCP2
+और __CCP__k7:VGNN
+कंटेनरों पर __NP__ccof:CCP2
+रसायनों __NP__ccof:CCP3
+और __CCP__ras-k2:VGNN
+कीटनाशकों समेत __NP__ccof:CCP3
+उत्पादों की __NP__r6:NP11
+सामग्री __NP__ccof:CCP4
+और __CCP__r6:NP14
+उनके __NP__r6:NP13
+मिश्रण की __NP__ccof:CCP4
+जानकारी __NP__k2:VGNN
+देने को __VGNN__k2:VGF
+कहा था । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+सुप्रीम कोर्ट का __NP__k1:VGF
+कहना है __VGF__ROOT:0
+कि __CCP__k2:VGF
+हाई कोर्ट की ओर __NP__rd:VGNF
+की गई __VGNF__nmod__k1inv:NP3
+कार्रवाई __NP__k1:VGF2
+जनहित में __NP__k7:VGF2
+है __VGF__ccof:CCP2
+और __CCP__ccof:CCP
+उन्हें __NP__k1:VGF3
+हाई कोर्ट का __NP__r6:NP7
+यह आदेश __NP__k2:VGF3
+अकारण __JJP__ccof:CCP3
+या __CCP__k2s:VGF3
+असंवैधानिक __JJP__ccof:CCP3
+नजर __NP__pof:VGF3
+नहीं आता है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+खंडपीठ ने __NP__k1:VGF
+दोनों कंपनियों को __NP__k4:VGF
+राजस्थान हाई कोर्ट से __NP__ras-k1:VGNN
+संपर्क __NP__pof:VGNN
+करने को __VGNN__k2:VGF
+कहा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+कोर्ट का __NP__k1:VGF
+कहना है __VGF__ROOT:0
+कि __CCP__k2:VGF
+यदि __CCP__vmod:VGF3
+उनके द्वारा __NP__k1:VGNN
+कंटेनरों पर __NP__k7:VGNN
+प्रिंट __NP__pof:VGNN
+की जाने वाली __VGNN__nmod__k2inv:NP5
+कीटनाशकों की __NP__r6:NP6
+मात्रा से __NP__jjmod:JJP
+संबंधित __JJP__nmod:NP8
+उनकी __NP__r6:NP8
+याचिका पर __NP__k7:VGF2
+सुनवाई __NP__pof:VGF2
+नहीं की जाती है , __VGF__ccof:CCP2
+तो __CCP__ccof:CCP
+वे __NP__k1:VGF3
+सुप्रीम कोर्ट में __NP__k7p:VGF3
+अपील __NP__pof:VGF3
+कर सकते हैं । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+दूसरी ओर , __NP__sent-adv:VGF
+इस मसले पर __NP__k7:VGNN
+सुनवाई __NP__k1:VGNN
+शुरू __NP__pof:VGNN
+होने के साथ __VGNN__vmod:VGF
+साल्वे ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+सॉफ्ट ड्रिंक __NP__k2:VGNN2
+बनाने की __VGNN__r6:NP7
+प्रक्रिया में __NP__k7:VGF2
+किसी कीटनाशक का __NP__r6-k2:NP9
+इस्तेमाल __NP__pof:VGF2
+नहीं किया गया है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+सॉफ्ट ड्रिंक में __NP__k7:VGNN
+काम __NP__pof:VGNN
+आने वाले __VGNN__nmod:CCP2
+पानी __NP__ccof:CCP2
+और __CCP__k7:VGF2
+चीनी में __NP__ccof:CCP2
+कीटनाशकों का __NP__r6:NP7
+अंश __NP__k1:VGF2
+रहता है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+अपनी __NP__r6:NP3
+दलील में __NP__k7:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+कृषि में __NP__nmod:NP6
+कीटनाशकों का __NP__r6:NP6
+गहन इस्तेमाल __NP__rh:VGF2
+चीनी में __NP__nmod:NP9
+कीटनाशकों की __NP__r6:NP9
+उच्च मात्रा की __NP__r6:NP10
+मौजूदगी का __NP__r6:NP11
+नतीजा __NP__k1:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+कोर्ट ने __NP__k1:VGF
+कंपनियों से __NP__k4:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+आप __NP__k1:VGF2
+अपनी __NP__r6:NP5
+प्रिंटलाइन में __NP__k7:VGF2
+दर्शा सकते हैं __VGF__ccof:CCP
+कि __CCP__k2:VGF2
+सॉफ्ट ड्रिंक में __NP__k7:VGNF
+इस्तेमाल __NP__pof:VGNF
+की गई __VGNF__nmod__k2inv:NP8
+चीनी में __NP__k7:VGF3
+कंपनी ने __NP__k1:VGF3
+कीटनाशकों का __NP__r6-k2:NP11
+इस्तेमाल __NP__pof:VGF3
+किया है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+नेपाल सरकार ने __NP__k1:VGF
+समर्पण __NP__pof:VGNN
+करने वाले __VGNN__nmod:NP3
+माओवादी उग्रवादियों की __NP__r6:NP4
+बड़ी संख्या को __NP__k2:VGNF
+देखते हुए __VGNF__nmod__k2inv:NP6
+आत्मसमर्पण की __NP__r6:NP6
+अवधि __NP__k2:VGF
+बढ़ा दी है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+सरकार ने __NP__k1:VGF
+आत्मसमर्पण की __NP__r6:NP3
+अवधि __NP__k2:VGNF
+बढ़ाकर __VGNF__vmod:VGF
+अक्तूबर के __NP__r6:NP5
+दूसरे हफ्ते तक __NP__k7t:VGF
+कर दी है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इससे __NP__rh:VGF
+ज्यादा से ज्यादा __NP__nmod:NP3
+उग्रवादी __NP__k1:VGF
+सुरक्षाबलों के सामने __NP__k7p:VGF
+आत्मसमर्पण __NP__pof:VGF
+कर सकेंगे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इस बात की __NP__r6:NP2
+जानकारी __NP__k2:VGF
+नेपाल के __NP__r6:NP4
+गृह मंत्रालय की ओर से __NP__rd:VGF
+दी गई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पिछले साल __NP__k7t:VGNN2
+सरकार द्वारा __NP__k1:VGNN2
+आत्मसमर्पण __NP__pof:VGNN
+करने वाले __VGNN__nmod:NP4
+माओवादी उग्रवादियों को __NP__k4:VGNN2
+आम माफी __NP__pof:VGNN2
+दिए जाने की __VGNN__r6:NP6
+घोषणा के बाद से __NP__k7t:VGF
+१०६१ उग्रवादियों ने __NP__k1:VGF
+स्थानीय प्रशासन __NP__ccof:CCP
+व __CCP__k7p:VGF
+सुरक्षाबलों के सामने __NP__ccof:CCP
+हथियार __NP__pof:VGF
+डाले हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके लिए __NP__rt:VGNF
+माओवादियों को __NP__ccof:NULL__CCP
+NULL __NULL__CCP__k1:VGNF
+उग्रवादी गतिविधियों को __NP__ccof:NULL__CCP
+छोड़कर __VGNF__vmod:VGF
+राष्ट्र की __NP__r6:NP5
+मुख्यधारा से __NP__ras-k1:VGNN
+जुड़ने की __VGNN__r6-k2:NP6
+शर्त __NP__pof:VGF
+रखी गई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+नेपाल में __NP__k7p:VGF
+१९९६ से __NP__jjmod:JJP
+जारी __JJP__nmod:NP3
+माओवादी हिंसा में __NP__k7:VGF
+१०,००० से ज्यादा __NP__nmod:NP5
+लोग __NP__k1:VGF
+मारे जा चुके हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+' राष्ट्रध्वज तिरंगा ' __NP__vmod:VGNF
+छपे __VGNF__nmod__k1inv:NP2
+परिधानों के __NP__r6:NP3
+इस्तेमाल पर __NP__k7:VGNN
+रोक __NP__k2:VGNN
+हटाने संबंधी __VGNN__nmod:NP5
+प्रस्ताव को __NP__k2:VGF
+कैबिनेट ने __NP__k1:VGF
+आज __NP__k7t:VGF
+मंज़ूरी __NP__pof:VGF
+दे दी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके तहत __NP__k7:VGF
+आम जनता __NP__k1:VGF
+विशेष रूप से __NP__vmod:VGF
+खिलाड़ी __NP__k1s:VGF
+अपनी __NP__r6:NP6
+वर्दी __NP__ccof:CCP
+और __CCP__k7:VGF
+दूसरे कपड़ों में __NP__ccof:CCP
+तिरंगे का __NP__r6-k2:NP9
+इस्तेमाल __NP__pof:VGF
+कर सकेंगे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+लेकिन , __CCP__ROOT:0
+अंडरगारमेंट __NP__ccof:CCP2
+और __CCP__k7p:VGNN
+कमर से नीचे __NP__ccof:CCP2
+पहने जाने वाले __VGNN__nmod__k2inv:NP3
+कपड़ों पर __NP__k7:VGF
+तिरंगे का __NP__r6:NP5
+इस्तेमाल __NP__k2:VGF
+पहले की तरह __NP__k7tu:VGF
+प्रतिबंधित __JJP__pof:VGF
+रहेगा । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+प्रधानमंत्री मनमोहन सिंह की __NP__r6:NP2
+अध्यक्षता में __NP__k7:VGNF
+हुई __VGNF__nmod__k1inv:NP4
+कैबिनेट की __NP__r6:NP4
+बैठक में __NP__k7:VGF
+वैदिक मंत्रोच्चार , __NP__ccof:CCP
+संस्कृत थियेटर कोटियत्तम , __NP__ccof:CCP
+रामलीला __NP__ccof:CCP
+और __CCP__ccof:CCP2
+आदिवासी __JJP__nmod:NP8
+नृत्य __NP__ccof:CCP2
+व __CCP__k2u:VGNN
+संगीत जैसी __NP__ccof:CCP2
+सांस्कृतिक धरोहरों की __NP__r6-k2:NP11
+हिफाज़त __NP__pof:VGNN
+करने संबंधी __VGNN__nmod:NP12
+प्रस्ताव को भी __NP__k2:VGF
+मंज़ूरी __NP__pof:VGF
+दे दी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+कैबिनेट ने __NP__k1:VGF
+टीवी चैनलों के __NP__r6:NP3
+अपलिंकिंग संबंधी नियमों का __NP__r6:NP4
+प्रस्ताव __NP__k2:VGF
+मंत्रियों के __NP__r6:NP6
+' समूह जीओएम ' को __NP__k4:VGF
+सौंप दिया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके ज़रिए __NP__k3:VGF
+सरकार __NP__k1:VGF
+न्यूज़ चैनलों पर __NP__k7:VGNF2
+प्रत्यक्ष विदेश निवेश __NP__k2:VGNF
+( एफडीआई ) __NP__nmod:NP4
+को __FRAGP__fragof:NP4
+लेकर __VGNF__vmod:VGNF2
+छाई __VGNF__nmod__k1inv:NP6
+धुंध __NP__k2:VGNN
+साफ़ __JJP__pof:VGNN
+करना __VGNN__k2:VGF
+चाहती है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+साथ ही __NP__sent-adv:VGF
+सरकार __NP__k1:VGF
+चाहती है __VGF__ROOT:0
+कि __CCP__k2:VGF
+राष्ट्रहित संबंधी खेल प्रतियोगिताओं __NP__ccof:CCP2
+और __CCP__r6-k1:NP5
+कार्यक्रमों का __NP__ccof:CCP2
+प्रसारण __NP__pof:VGF2
+दूरदर्शन के ज़रिए __NP__k3:VGF2
+हो । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+मंत्रिमंडल की __NP__r6:NP2
+बैठक के बाद __NP__k7t:VGF
+केंद्रीय सूचना और प्रसारण मंत्री एस जयपाल रेड्डी ने __NP__k1:VGF
+पत्रकारों को __NP__k4:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+मंत्रिमंडल ने __NP__k1:VGF2
+राष्ट्रीय ' गौरव अवमानना प्रतिबंध ' अधिनियम १९७१ में __NP__k7:VGF2
+संशोधन को __NP__k4:VGF2
+मंज़ूरी __NP__k2:VGF2
+दे दी । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+प्रस्तावित संशोधन में __NP__k7:VGF
+अंडरगारमेंट __NP__ccof:CCP
+या __CCP__k7:VGF
+कमर के नीचे __NP__k7p:VGNN
+पहने जाने वाले __VGNN__nmod__k2inv:NP4
+किसी भी परिधान में __NP__ccof:CCP
+तिरंगे का __NP__r6-k2:NP6
+इस्तेमाल __NP__pof:VGF
+नहीं किया जा सकेगा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसी तरह __NP__sent-adv:VGF
+तकिये , __NP__ccof:CCP
+ग्लोव्स , __NP__ccof:CCP
+रूमाल __NP__ccof:CCP
+या __CCP__k7:VGF
+नेपकीन में __NP__ccof:CCP
+एम्ब्रायडरी __NP__ccof:CCP2
+या __CCP__k1:VGF
+किसी भी तरह से __NP__k3:VGNN
+तिरंगा __NP__k2:VGNN
+अंकित __JJP__pof:VGNN
+करना __VGNN__ccof:CCP2
+वर्जित __JJP__pof:VGF
+होगा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+कुछ वर्ष पहले __NP__k7t:VGNF
+तिरंगे के __NP__r6:NP3
+इस्तेमाल को __NP__k2:VGNF
+उदार __JJP__pof:VGNF
+बनाते हुए __VGNF__nmod__k1inv:NP4
+केंद्र ने __NP__k1:VGF
+राष्ट्रध्वज के __NP__r6:NP6
+अपमान को __NP__k2:VGNN
+दंडनीय अपराध __NP__k2s:VGNN
+बनाने पर __VGNN__k7:VGF
+विचार __NP__pof:VGF
+किया था । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसी के तहत __NP__k7:VGF
+२००३ में __NP__k7t:VGF
+राष्ट्रध्वज की __NP__r6:NP4
+अवमानना को __NP__nmod:NP5
+दंडनीय अपराध __NP__k2:VGF
+घोषित __JJP__pof:VGF
+किया गया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__sent-adv:VGF
+बताया गया __VGF__ROOT:0
+कि __CCP__k2:VGF
+किन __NP__nmod:NP3
+कृत्यों को __NP__k2:VGF2
+राष्ट्रध्वज का __NP__r6:NP5
+अपमान __NP__k2s:VGF2
+माना जाएगा । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+सन् २००० में __NP__jjmod:JJP
+गठित __JJP__nmod:NP2
+राष्ट्रध्वज समिति ने __NP__k1:VGF
+अपनी __NP__r6:NP4
+रिपोर्ट में __NP__k7:VGF
+राष्ट्रध्वज संहिता भारत - २००२ को __NP__k2:VGF
+अंतिम रूप __NP__pof:VGF
+दिया था । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+२६ जनवरी २००२ से __NP__k7t:VGF
+इसे __NP__k2:VGF
+लागू __JJP__pof:VGF
+कर दिया गया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके तहत __NP__k7:VGF
+कुछ प्रतिबंधों के साथ __NP__vmod:VGF
+आम जनता , __NP__ccof:CCP
+निजी संगठनों __NP__ccof:CCP
+और __CCP__k3:VGF
+शैक्षणिक संस्थानों द्वारा __NP__ccof:CCP
+तिरंगे के __NP__r6:NP7
+प्रदर्शन पर __NP__k7:VGF
+रोक __NP__k2:VGF
+हटा दी गई थी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+जयपाल रेड्डी ने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+कैबिनेट ने __NP__k1:VGF2
+परोक्ष सांस्कृतिक धरोहरों के __NP__r6:NP4
+संरक्षण संबंधी यूनेस्को समझौते को __NP__k2:VGF2
+मंज़ूरी __NP__pof:VGF2
+दे दी है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+रेड्डी के मुताबिक __NP__k7:VGF
+यह पहल __NP__pof:VGNN
+करने वाला __VGNN__nmod__k1inv:NP3
+भारत __NP__k1:VGF
+पहला देश __NP__k1s:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उनके मुताबिक __NP__k7:VGF
+लुप्त __JJP__k1s:VGNF
+हो रहे __VGNF__nmod__k1inv:NP2
+आदिवासी नृत्य - संगीत के साथ ही __NP__ras-k2:VGF
+अन्य सांस्कृतिक धरोहरों को __NP__k2:VGF
+संरक्षित __JJP__pof:VGF
+किया जाएगा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+दक्षिण तमिलनाडु के __NP__r6:NP2
+एक पंचायत स्कूल की __NP__r6:NP3
+४५ - वर्षीय प्रधानाध्यापिका को __NP__k2:VGF
+गिरफ्तार __NP__pof:VGF
+किया गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उन पर __NP__k7:VGF
+आरोप __NP__pof:VGF
+है __VGF__ROOT:0
+कि __CCP__k2:VGF
+उन्होंने __NP__k1:VGF2
+पांचवीं कक्षा के __NP__r6:NP5
+३५ छात्रों को __NP__k2:VGF2
+खुद को __NP__k1s:VGF2
+निर्दोष __JJP__k2:VGNN
+साबित __JJP__pof:VGNN
+करने के लिए __VGNN__rt:VGNF
+जलती हुई __VGNF__nmod__k1inv:NP7
+मोमबत्ती के ऊपर __NP__k7:VGNN2
+अपनी __NP__r6:NP9
+हथेली __NP__pof:VGNN2
+रखने के लिए __VGNN__rt:VGF2
+NULL __NULL__NP__ROOT:0
+मजबूर __JJP__pof:VGF2
+किया __VGF__ccof:CCP
+क्योंकि __CCP__rs:NULL__NP
+क्लास टीचर ने __NP__k1:VGF3
+अपने __NP__r6:NP15
+पर्स से __NP__k5:VGF3
+दो सौ रुपये __NP__k2:VGNN3
+चोरी __NP__pof:VGNN3
+होने की __VGNN__r6-k1:NP15
+शिकायत __NP__pof:VGF3
+की थी । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+यह घटना __NP__k1:VGF
+तूतीकोरिन जिले के __NP__r6:NP3
+कयालपट्टिनम इलाक़े में __NP__k7p:VGF
+पंचायत यूनियन प्राइमरी स्कूल में __NP__k7p:VGF
+बृहस्पतिवार को __NP__k7t:VGF
+हुई । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पुलिस के मुताबिक , __NP__vmod:VGF
+क्लास टीचर ऊषा पार्वती ने __NP__k1:VGF
+प्रधानाध्यापिका वसंत से __NP__k4:VGF
+शिकायत __NP__pof:VGF
+की __VGF__ROOT:0
+कि __CCP__k2:VGF
+जब __NP__k7t:VGF2
+वे __NP__k1:VGF2
+दोपहर का __NP__r6:NP8
+भोजन __NP__pof:VGNN
+करने के लिए __VGNN__rt:VGF2
+गई थीं __VGF__ccof:CCP
+उसी समय __NP__k7t:VGF3
+उनके __NP__r6:NP11
+पर्स से __NP__k5:VGF3
+२०० रुपये __NP__k2:VGF3
+गायब __JJP__pof:VGF3
+हो गए । __VGF__nmod__relc:NP5
+</Sentence>
+<Sentence>
+पर्स में __NP__k7p:VGF
+उन्होंने __NP__k1:VGF
+अपना __NP__r6:NP4
+वेतन भी __NP__k2:VGF
+रखा था । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके बाद __NP__k7t:VGNF
+प्रधानाध्यापिका ने __NP__k7t:VGNF
+छात्रों से __NP__k2:VGNF
+मोमबत्तियां __NP__k2:VGNN
+लाने को __VGNN__k2:VGNF
+कहा __VGNF__ROOT:0
+जिन्हें __NP__k2:VGF
+प्रधानाध्यापिका ने __NP__k1:VGF
+स्वयं __NP__k1s:VGF
+जलाया । __VGF__nmod__relc:NP4
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+छात्रों से __NP__k2:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+वे __NP__k1:VGNN
+खुद को __NP__k2:VGNN
+निर्दोष __JJP__k2s:VGNN
+साबित __JJP__pof:VGNN
+करने के लिए __VGNN__rt:VGF2
+जलती हुई __VGNF__nmod__k1inv:NP5
+मोमबत्ती के ऊपर __NP__k7p:VGF2
+अपनी __NP__r6:NP7
+हथेली __NP__k2:VGF2
+रखें । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+ऐसा __NP__adv:VGNN
+करने पर __VGNN__k7:VGF
+कुछ छात्रों के __NP__r6:NP3
+हाथ तो __NP__k2:VGF
+बुरी तरह __NP__adv:VGF
+जल गए । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+जब __NP__k7t:VGF
+वे __NP__k1:VGF
+रोते - रोते __VGNF__adv:VGF
+घर __NP__k2p:VGF
+पहुंचे __VGF__nmod__relc:CCP
+तो __CCP__k7t:VGF2
+उनके __NP__r6:NP5
+अभिभावकों ने __NP__k1:VGF2
+इसका __NP__r6:NP7
+कारण __NP__k2:VGF2
+पूछा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+गुस्साए अभिभावक __NP__k1:VGF
+स्कूल __NP__k2p:VGF
+पहुंचे __VGF__ccof:CCP
+और __CCP__ROOT:0
+प्रधानाध्यापिका को __NP__k4:VGF2
+दंडित __JJP__pof:VGNN
+करने की __VGNN__r6-k1:NP4
+मांग __NP__pof:VGF2
+करने लगे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+डीएसपी महेश कुमार अग्रवाल ने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+वसंत को __NP__k2:VGF2
+भारतीय दंड संहिता __NP__r6:NP5
+( आईपीसी ) __NP__nmod:NP3
+की __FRAGP__fragof:NP3
+धारा ३२४ के तहत __NP__vmod:VGF2
+( जमानती अपराध ) __NP__nmod:NP5
+गिरफ्तार __NP__pof:VGF2
+किया गया है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्हें __NP__k2:VGF
+सोमवार को __NP__k7t:VGF
+तूतीकोरिन की __NP__r6:NP4
+अदालत के समक्ष __NP__k7:VGF
+पेश __JJP__pof:VGF
+किया जाएगा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+मज़े की __NP__r6:NP2
+बात तो __NP__k1s:VGF
+यह __NP__k1:VGF
+है __VGF__ROOT:0
+कि __CCP__rs:NP3
+खोया हुआ __VGNF__nmod__k1inv:NP4
+दो सौ रुपया __NP__k2:VGF2
+स्कूल शौचालय के पास __NP__k7p:VGF2
+गिरा हुआ __VGNF__vmod:VGF2
+मिला । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+अग्रवाल ने __NP__k1:VGF
+आगे __NP__adv:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+इस मामले में __NP__k7:VGF2
+स्कूल प्रशासन ने भी __NP__k1:VGF2
+जाँच __NP__k2:VGF2
+शुरू __NP__pof:VGF2
+कर दी है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+अमेरिका ने __NP__k1:VGF
+भारत को __NP__k4:VGF
+पैट्रियॅट पैक - २ __NP__nmod:NP4
+एंटी - मिसाइल प्रणाली समेत __NP__ras-k1:3
+तमाम अत्याधुनिक हथियार __NP__k2:VGNN
+देने की __VGNN__r6-k1:NP6
+पेशकश __NP__pof:VGF
+की है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इनमें __NP__k7:VGF
+नेटवर्क सेंट्रिक पूर्व चेतावनी , __NP__ccof:CCP
+बैटलफील्ड कंट्रोल __NP__ccof:CCP
+और __CCP__k1:VGF
+कमांड प्रणाली भी __NP__ccof:CCP
+शामिल __JJP__pof:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इन अत्याधुनिक रक्षा उपकरणों का __NP__r6:NP2
+प्रस्ताव __NP__k2:VGF
+भारत के साथ __NP__ras-k1:VGNN
+सामरिक साझेदारी __NP__k2:VGNN
+बढ़ाने की __VGNN__r6:NP5
+अमरीकी विदेश मंत्री कोंडलीजा राइस की __NP__r6:NP6
+घोषणा को __NP__k2:VGNN2
+अमलीजामा __NP__pof-idiom:VGNN2
+पहनाने के तहत __VGNN__k7:VGF
+किया गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अमरीकी दूतावास के __NP__r6:NP2
+एक वरिष्ठ अधिकारी ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+अमरीका __NP__k1:VGF2
+वास्तविकता से __NP__k2:VGNF
+रू - ब - रू __NP__vmod:VGNF
+होते हुए __VGNF__adv:VGF2
+भारत - अमरीकी संबंधों का __NP__r6:NP7
+सामरिक रिश्ता __NP__k2:VGNN
+फिर से __RBP__k7t:VGF2
+बनाने की __VGNN__r6-k2:NP8
+कोशिश __NP__pof:VGF2
+कर रहा है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+आने वाले __VGNN__nmod__k1inv:NP
+कुछ हफ्तों में __NP__k7t:VGF
+दोनों देशों के बीच __NP__k7:VGF
+और करीब __NP__k1:VGNN2
+आने के __VGNN__r6:NP4
+मौके __NP__k1:VGF
+हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+विदेश मंत्री के. नटवर सिंह __NP__k1:VGF
+वाशिंगटन __NP__k2p:VGF
+जाने वाले हैं __VGF__ccof:CCP
+और __CCP__ROOT:0
+अमरीकी पेसिफिक कमान एडमिरल विलियम जे. फालोन भी __NP__k1:VGF2
+भारत __NP__k2p:VGF2
+आने वाले हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+अधिकारियों ने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+एक उच्च स्तरीय अमरीकी प्रतिनिधि दल ने __NP__k1:VGF2
+हाल ही में __NP__k7t:VGF2
+भारतीय रक्षा अधिकारियों के सामने __NP__k7:VGF2
+पैट्रियाट पैक - २ __NP__nmod:NP6
+मिसाइल रोधी प्रणाली का __NP__r6-k2:NP7
+प्रदर्शन __NP__pof:VGF2
+किया था । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इससे पहले __NP__k7t:VGF
+टेक्सास में __NP__k7p:VGF
+मिसाइल रोधी प्रणाली का __NP__r6-k2:NP4
+सजीव प्रदर्शन __NP__pof:VGF
+किया गया था । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+भारत के __NP__r6:NP3
+१२६ बहुउपयोगी युद्धक विमानों की __NP__r6:NP4
+खरीद की __NP__r6:NP5
+योजना को __NP__k2:VGNF
+लेकर __VGNF__adv:VGF2
+अमरीकी उड्डयन में __NP__k7:VGF2
+लॉकहीड मार्टिन __NP__ccof:CCP2
+व __CCP__k1:VGF2
+बोइंग के बीच __NP__ccof:CCP2
+होड़ __NP__pof:VGF2
+रहेगी । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्हें __NP__k1:VGF
+उम्मीद __NP__k2:VGF
+है __VGF__ROOT:0
+कि __CCP__rs:NP2
+वह __NP__k1:VGF2
+युद्धक फाल्कन __NP__ccof:CCP2
+व __CCP__r6:NP6
+एफ - १८ विमानों की __NP__ccof:CCP2
+खरीद का __NP__r6:NP7
+करार __NP__k2:VGF2
+हासिल __JJP__pof:VGF2
+कर लेंगे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+चूंकि __CCP__ROOT:0
+यह दोनों ही __NP__nmod:NP2
+किस्म के __NP__r6:NP3
+विमान __NP__k1:VGF
+आधुनिक तकनीकों पर __NP__k7:VGNN
+खरे __JJP__pof:VGNN
+उतरने के बावजूद __VGNN__vmod:VGF
+काफी सस्ते __JJP__k1s:VGF
+हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+अधिकारियों ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+अमरीकी सशस्त्र सेना ने __NP__k1:VGF2
+दो देशों की __NP__r6:NP4
+सेनाओं के बीच __NP__k7:VGNN
+सीधे संबंधों को __NP__k4:VGNN
+नया आयाम __NP__k2:VGNN
+देने की __VGNN__r6-k2:NP7
+पेशकश __NP__pof:VGNF
+करते हुए __VGNF__adv:VGF2
+कैलीफोर्निया में __NP__k7p:VGNN2
+जून में __NP__k7t:VGNN2
+कंपनी स्तर की __NP__r6-k2:NP11
+दो संयुक्त सैन्य अभ्यास __NP__pof:VGNN2
+करने की __VGNN__r6-k2:NP12
+बात __NP__pof:VGF2
+कही है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+यह अभ्यास __NP__k2:NULL__VGF
+२००७ तक __NP__k7t:NULL__VGF
+पहले __NP__adv:NULL__VGF
+बटालियन __NP__nmod:NULL__NP
+NULL __NULL__NP__ROOT:0
+NULL __VGF__ccof:CCP
+व __CCP__ROOT:0
+फिर __RBP__adv:VGF
+ब्रिगेड __NP__nmod:NP6
+स्तर पर __NP__k7:VGF
+पहुंचाए जाएंगे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+भारतीय वायुसेना की __NP__r6:NP2
+इच्छा पर __NP__k7:VGNN
+संयुक्त अभ्यासों में __NP__k7:VGNN
+एफ - १६ __NP__ccof:CCP
+व __CCP__nmod:NP6
+हवाई पूर्व चेतावनी वाले __NP__ccof:CCP
+विमानों को भी __NP__k2:VGNN
+शामिल __JJP__pof:VGNN
+करने की __VGNN__r6:NP7
+इच्छा __NP__k1:VGNN2
+पूरी __JJP__pof:VGNN2
+होने के __VGNN__r6:NP8
+संदर्भ में __NP__k7:VGF
+अमरीकी अधिकारियों ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+पश्चिम बंगाल में __NP__k7p:VGF2
+कलाइकुंडा बेस पर __NP__k7p:VGF2
+नवंबर में __NP__k7t:VGF2
+अभ्यास __NP__pof:VGF2
+होना है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+कांग्रेस __NP__k1:VGF
+समाजवादी पार्टी __NP__r6:NP4
+( सपा ) __NP__nmod:NP2
+के __FRAGP__fragof:NP2
+सांसद __NP__rs:NP5
+राज बब्बर के __NP__r6:NP6
+समर्थन में __NP__k7:VGF
+खुलकर __VGNF__vmod:VGF
+आ गई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+समाजवादी पार्टी के प्रति __NP__rd:VGNF
+राज बब्बर के __NP__r6:NP3
+गुस्से को __NP__k2:VGNF
+जायज __JJP__pof:VGNF
+ठहराते हुए __VGNF__vmod:VGF
+कांग्रेस __NP__k1:VGF
+यह __NP__k2:VGNN
+साबित __JJP__pof:VGNN
+करने की __VGNN__r6-k2:NP6
+कोशिश __NP__pof:VGF
+कर रही है __VGF__ROOT:0
+कि __CCP__k2:VGF
+हाथी की तरह __NP__r6u:VGNN2
+सपा के __NP__r6:VGNN2
+खाने के __VGNN__r6:NP9
+दांत __NP__k1:VGF2
+और __JJP__vmod:VGF2
+हैं __VGF__ccof:CCP2
+व __CCP__ccof:CCP
+दिखाने के __VGNN__r6:NULL__NP
+NULL __NULL__NP__ROOT:0
+और __JJP__vmod:NULL__VGF
+NULL । __NULL__VGF__ROOT:0
+</Sentence>
+<Sentence>
+कांग्रेस ने __NP__k1:VGF
+कहा है __VGF__ROOT:0
+कि __CCP__k2:VGF
+राज बब्बर __NP__k1:VGF2
+काफी दिनों से __NP__k7t:VGF2
+सपा के अंदर __NP__k7:VGNF
+चल रहे __VGNF__nmod__k1inv:NP5
+अंतर्विरोध के खिलाफ __NP__vmod:VGF2
+आवाज __NP__k2:VGF2
+बुलंद __JJP__pof:VGF2
+करते रहे हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+पर __CCP__ROOT:0
+बात को __NP__k2:VGNN
+निरंतर __RBP__adv:VGNN
+अनसुना __JJP__pof:VGNN
+किए जाने पर __VGNN__k7:VGF
+उन्हें __NP__k1:VGF
+खुलेआम __RBP__adv:VGF
+मोर्चा __NP__k2:VGF
+संभालना पड़ा । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+पार्टी का __NP__k1:VGF
+कहना है __VGF__ROOT:0
+कि __CCP__k2:VGF
+राज बब्बर की __NP__r6:NP3
+नाराजगी से __NP__adv:VGF2
+सपा नेताओं का __NP__r6-k1:JJP
+परेशान __JJP__pof:VGNN
+होना __VGNN__k1:VGF2
+लाजिमी __JJP__k1s:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+पार्टी __NP__k1:VGF
+उनसे __NP__jk1:VGF
+समाजवाद के __NP__r6:NP4
+पक्ष में __NP__k7:VGF
+नारा __NP__k2:VGF
+लगवाती रही है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+कांग्रेस ने __NP__k1:VGF
+आरोप __NP__k2:VGF
+लगाया है __VGF__ROOT:0
+कि __CCP__rs:NP2
+समाजवाद __NP__k1:VGF2
+सैफई गांव तक __NP__k7p:VGNF
+ठहर कर __VGNF__vmod:VGF2
+रह गया है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+सैकड़ों लोगों की __NP__r6:NP2
+आबादी वाले __NP__nmod:NP3
+इस गांव पर __NP__k7p:VGF
+करोड़ों रुपये __NP__k2:VGF
+खर्च किए जा रहे हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+दूसरी तरफ __NP__rd:VGF
+उत्तर प्रदेश में __NP__k7:VGF
+करोड़ो लोग __NP__k1:VGF
+जरूरी चीजों के लिए __NP__rt:VGF
+तरस रहे हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+सपा __NP__k1:VGF
+पूंजीपतियों की __NP__r6:NP3
+पार्टी __NP__k1:VGNF
+बन कर __VGNF__vmod:VGF
+रह गई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+सैफई का __NP__r6-k2:NP2
+इस्तेमाल __NP__pof:VGF
+इन पूंजीपतियों द्वारा __NP__k1:VGF
+पिकनिक स्पॉट के रूप में __NP__k7:VGF
+किया जा रहा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+कांग्रेस ने __NP__k1:VGF
+कहा है __VGF__ROOT:0
+कि __CCP__k2:VGF
+सपा नेताओं की __NP__r6:NP3
+दिलचस्पी __NP__k1:NULL__NP
+फिल्मी दुनिया में __NP__k7:NULL__NP
+ज्यादा __JJP__k1s:NULL__NP
+NULL __NULL__NP__ROOT:0
+और __CCP__ccof:CCP
+जनहित के __NP__r6:NP6
+कामों में __NP__k7:VGF2
+कम __JJP__k1s:VGF2
+है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+पार्टी प्रवक्ता अभिषेक मनु संघवी ने __NP__k1:VGF
+सपा नेताओं से __NP__k4:VGF
+राज बब्बर के __NP__r6:NP4
+गुस्से की __NP__r6:NP5
+वजह __NP__k2:VGF
+मालूम __JJP__pof:VGF
+की है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+समाजवाद की __NP__r6:NP3
+चादर __NP__k1:VGNF
+ओढ़कर __VGNF__vmod:VGF2
+सपा नेता __NP__k1:VGF2
+गलत कार्यो को __NP__k2:VGNN
+छुपाने की __VGNN__r6-k2:NP6
+कोशिश __NP__pof:VGF2
+कर रहे हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+समाजवाद का __NP__r6:NP3
+यह रूप __NP__k1:VGF2
+दुनिया के सामने __NP__k7:VGF2
+आ चुका है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+नेहरू - गांधी __NP__ccof:CCP2
+व __CCP__r6:NP4
+लोहिया के __NP__ccof:CCP2
+समाजवाद पर __NP__k2:VGNN
+यकीन __NP__pof:VGNN
+करने वाले __VGNN__nmod__k1inv:NP6
+लोग __NP__k1:VGF2
+जल्द ही __RBP__adv:VGF2
+सपा के __NP__r6:NP8
+समाजवाद के __NP__r6:NP9
+खोखले नारों को __NP__k2:VGF2
+नकार __NP__pof:VGF2
+देंगे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उत्तर रेलवे ने __NP__k1:VGF
+सीमा पार से __NP__k5:VGNN
+आने वाले __VGNN__nmod__k1inv:NP3
+पाकिस्तानी क्रिकेट प्रेमियों को __NP__k2:VGNN2
+अटारी से __NP__rsp:NP5
+चंडीगढ़ तक __NP__k7p:VGNN2
+लाने के लिए __VGNN__rt:VGF
+प्रस्तावित __JJP__nmod:NP6
+दो विशेष ट्रेनें __NP__k2:VGF
+रविवार को __NP__k7t:VGF
+रद्द __JJP__pof:VGF
+कर दीं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+ये ट्रेनें __NP__k2:VGF
+मंगलवार को __NP__k7t:VGNF
+मोहाली में __NP__k7p:VGNF
+भारत __NP__ccof:CCP
+और __CCP__k7:VGNF
+पाकिस्तान के बीच __NP__ccof:CCP
+शुरू __NP__pof:VGNF
+हो रहे __VGNF__nmod__k1inv:NP7
+पहले टेस्ट के मद्देनजर __NP__vmod:VGF
+आज __NP__k7t:VGF
+चलाई जाने वाली थीं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उत्तर रेलवे के __NP__r6:NP2
+प्रवक्ता के मुताबिक __NP__k7:VGF
+शनिवार रात __NP__k7t:VGF
+लाहौर के नजदीक __NP__k7p:VGNN
+एक रेल हादसा __NP__k1:VGNN
+हो जाने के कारण __VGNN__rh:VGF
+लाहौर से __NP__k5:VGNN2
+अटारी __NP__k2p:VGNN2
+आने वाली __VGNN__nmod__k1inv:NP8
+ट्रेन __NP__k2:VGF
+रद्द __JJP__pof:VGF
+करनी पड़ी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसीलिए __CCP__ROOT:0
+पाकिस्तानी क्रिकेट प्रेमी __NP__k1:VGF
+लाहौर से __NP__k5:VGF
+अटारी __NP__k2p:VGF
+नहीं आ सके । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+लिहाजा , __CCP__ROOT:0
+अटारी से __NP__rsp:NP2
+चंडीगढ़ के लिए __NP__rt:VGNN
+चलाई जाने वाली __VGNN__nmod__k2inv:NP3
+दो विशेष ट्रेनों को __NP__k2:VGF
+रद्द __JJP__pof:VGF
+करना पड़ा । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+लाहौर - अटारी ट्रेन __NP__k2:VGNN
+रद्द __JJP__pof:VGNN
+करने के पीछे __VGNN__vmod:VGNN2
+दर्शकों की __NP__r6:NP4
+पर्याप्त संख्या का __NP__k1:VGNN2
+न होना भी __VGNN__k1:VGF2
+कारण __NP__k1s:VGF2
+हो सकता है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+पाकिस्तानी क्रिकेट प्रेमियों के __NP__k1:VGNN
+भारत __NP__k2p:VGNN
+आने को __VGNN__k2:VGNF
+लेकर __VGNF__vmod:VGF
+शुरू से __NP__k7t:VGF
+विवाद __NP__pof:VGF
+रहा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पाकिस्तानी क्रिकेट बोर्ड ने __NP__k1:VGF
+मोहाली टेस्ट के लिए __NP__rt:VGF
+पंजाब क्रिकेट एसोसिएशन द्वारा __NP__k1:VGNF
+भेजे गए __VGNF__nmod__k2inv:NP4
+७५०० टिकटों में से __NP__k5:VGF
+४५०० __NP__k2:VGF
+वापस __JJP__pof:VGF
+भेज दिए थे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+केवल तीन हजार टिकट ही __NP__k1:VGF
+कराची , __NP__ccof:CCP
+इस्लामाबाद __NP__ccof:CCP
+और __CCP__k7p:VGF
+लाहौर में __NP__ccof:CCP
+बिक पाए । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अंबाला के __NP__r6:NP2
+डिवीजनल रेलवे मैनेजर __NP__nmod:NP4
+( डीआरएम ) __NP__nmod:NP2
+आर. के. टंडन ने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+लाहौर से __NP__k5:VGNN
+अटारी के बीच __NP__k7p:VGNN
+ट्रेन __NP__k2:VGNN
+चलाने में __VGNN__k7:VGNN2
+पाकिस्तान द्वारा __NP__k1:VGNN2
+असमर्थता __NP__pof:VGNN2
+जताने के कारण __VGNN__rh:VGF2
+विशेष ट्रेनों को __NP__k2:VGF2
+रद्द __JJP__pof:VGF2
+करना पड़ा । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+टंडन के मुताबिक __NP__k7:VGF
+पाकिस्तान ने __NP__k1:VGF
+लाहौर - अटारी संपर्क ट्रेन को __NP__k2:VGF
+नहीं चलाए जाने के पीछे __NP__vmod:VGF
+' तकनीकी ' कारण __NP__rh:VGF
+बताए हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इन दोनों विशेष ट्रेनों में से __NP__nmod:NP2
+एक को __NP__k1:VGF
+दोपहर __NP__k7t:VGF
+सवा दो बजे __NP__k7t:VGF
+NULL __VGF__ROOT:0
+और __CCP__ccof:CCP2
+दूसरी को __NP__k1:VGF2
+शाम __NP__k7t:VGF2
+साढ़े चार बजे __NP__k7t:VGF2
+अटारी से __NP__k5:VGF2
+रवाना __JJP__pof:VGF2
+होना था __VGF__ccof:CCP
+और __CCP__ROOT:0
+क्रमशः __RBP__adv:VGF3
+रात आठ __NP__ccof:CCP3
+और __CCP__k7t:VGF3
+सवा दस बजे __NP__ccof:CCP3
+चंडीगढ़ __NP__k2p:VGF3
+पहुंचना था । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+एक पाकिस्तानी रिपोर्ट के मुताबिक __NP__k7:VGF
+शनिवार रात __NP__k7t:VGF
+लाहौर के नजदीक __NP__k7:VGF
+कोटमोल चांद __NP__ccof:CCP
+तथा __CCP__nmod:NP6
+श्रीरामपुर __NP__ccof:CCP
+स्टेशनों के बीच __NP__k7p:VGNN
+एक पैसेंजर ट्रेन के __NP__r6:NP8
+पटरी से __NP__k5:VGNN
+उतर जाने के कारण __VGNN__rh:VGF
+लाहौर - अटारी ट्रेन __NP__k2:VGF
+रद्द __JJP__pof:VGF
+करनी पड़ी है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इस हादसे में __NP__k7:VGF
+छह यात्रियों की __NP__r6:NP3
+मौत __NP__k1:VGF
+हो गई __VGF__ccof:CCP
+और __CCP__ROOT:0
+४० अन्य __NP__k1:VGF2
+घायल __JJP__pof:VGF2
+हो गए । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+पटरियों की __NP__r6:NP2
+मरम्मत __NP__ccof:CCP
+और __CCP__rt:VGF
+डिब्बों को __NP__k2:VGNN
+हटाने के लिए __VGNN__ccof:CCP
+इस लाइन पर __NP__k7p:VGF
+यातायात __NP__k2:VGF
+रोक दिया गया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+NULL __NP__ROOT:0
+गौरतलब __JJP__k1s:VGF
+है __VGF__ROOT:0
+कि __CCP__rs:NP
+उत्तर रेलवे ने __NP__k1:VGF2
+पाकिस्तानी मेहमानों के __NP__r6:NP4
+स्वागत के लिए __NP__rt:VGF2
+चंडीगढ़ __NP__ccof:CCP2
+और __CCP__nmod:NP7
+अटारी __NP__ccof:CCP2
+रेलवे स्टेशनों पर __NP__k7p:VGF2
+खास इंतजाम __NP__pof:VGF2
+किए थे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उनके लिए __NP__rt:VGF
+विशेष स्वागत केंद्र __NP__k1:VGF
+खोले गए थे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+वेनेजुएला के __NP__r6:NP2
+राष्ट्रपति ह्यूगो चावेज़ फ्रियाज ने __NP__k1:VGF
+शनिवार को __NP__k7t:VGF
+संयुक्त राष्ट्र सुरक्षा परिषद में __NP__k7:VGF
+स्थाई सीट के __NP__r6:NP7
+भारत के __NP__r6:NP7
+दावे की __NP__r6-k2:NP8
+ज़ोरदार वकालत __NP__pof:VGF
+की है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__sent-adv:VGF
+उन्होंने __NP__k1:VGF
+भारत की __NP__r6:NP4
+तेल , __NP__ccof:CCP
+गैस __NP__ccof:CCP
+और __CCP__r6:NP7
+ऊर्जा की __NP__ccof:CCP
+ज़रूरतों को __NP__k2:VGNN
+पूरा __JJP__pof:VGNN
+करने का __VGNN__r6:NP8
+प्रस्ताव भी __NP__k2:VGF
+रखा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+भारत __NP__ccof:CCP
+और __CCP__k1:VGF
+वेनेजुएला ने __NP__ccof:CCP
+विभिन्न क्षेत्रों में __NP__k7p:VGF
+सहयोग के लिए __NP__rt:VGF
+छह महत्वपूर्ण समझौतों पर __NP__k7:VGF
+हस्ताक्षर __NP__pof:VGF
+किए हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+भारत की __NP__r6:NP2
+तीन दिन की __NP__r6:NP3
+यात्रा पर __NP__k7p:VGNF
+आए __VGNF__vmod:VGF
+चावेज़ ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__ccof:VGF
+अमेरिका ने __NP__k1:VGF2
+तीन वर्ष __NP__nmod:NP7
+पूर्व __NP__k7t:VGF2
+उनके __NP__r6:NP9
+देश के ख़िलाफ़ __NP__vmod:VGF2
+युद्ध __NP__k2:VGF2
+छेड़ा था __VGF__ccof:CCP2
+और __CCP__ccof:CCP
+अब __NP__k7t:VGF3
+वह __NP__k1:VGF3
+उनकी __NP__r6:NP14
+हत्या __NP__pof:VGF3
+करवाना चाहता है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__sent-adv:VGF
+उन्होंने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__ccof:VGF
+इराक़ के __NP__r6:NP4
+स्वास्थ्य मंत्रालय ने __NP__k1:VGF2
+दावा __NP__pof:VGF2
+किया __VGF__ccof:CCP
+कि __CCP__k2:VGF2
+अमेरिका ने __NP__k1:VGF3
+पिछले वर्ष __NP__k7t:VGF3
+इराक़ के __NP__r6:NP9
+फालुजा में __NP__k7p:VGF3
+हमले के दौरान __NP__k7t:VGF3
+मस्टर्ड __NP__ccof:CCP3
+और __CCP__nmod:NP13
+नर्व __NP__ccof:CCP3
+गैस का __NP__r6-k1:NP14
+इस्तेमाल __NP__pof:VGF3
+किया था । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+प्रधानमंत्री मनमोहन सिंह के साथ __NP__ras-k1:VGF
+मुलाक़ात के बाद __NP__k7t:VGF
+चावेज़ ने __NP__k1:VGF
+यहाँ __NP__k7:VGF
+एक प्रेस कांफ्रेंस में __NP__k7p:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+संयुक्त राष्ट्र सुरक्षा परिषद को __NP__k2:VGNN
+और अधिक लोकतांत्रिक __JJP__k2s:VGNN
+बनाने __VGNN__ccof:CCP2
+और __CCP__ccof:CCP
+विकासशील देशों के __NP__r6:NP8
+अधिकार , __NP__ccof:CCP3
+सुरक्षा __NP__ccof:CCP3
+और __CCP__rt:VGF2
+उनकी वकालत के लिए __NP__ccof:CCP3
+भारत को __NP__k2:VGF2
+इसका __NP__r6:NP13
+सदस्य __NP__k2s:VGF2
+बनाया जाना चाहिए । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__ccof:VGF
+संयुक्त राष्ट्र को __NP__k2:VGF2
+लोकतांत्रिक __JJP__pof:VGF2
+होना चाहिए __VGF__ccof:CCP2
+और __CCP__ccof:CCP
+आज की __NP__r6:NP4
+ज़रूरतों को __NP__k2:VGNF
+महसूस __JJP__pof:VGNF
+करते हुए __VGNF__nmod__k1inv:NP5
+सुरक्षा परिषद का __NP__r6-k1:NP6
+विस्तार __NP__pof:VGF3
+किया जाना चाहिए । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+NULL __NP__ROOT:0
+माना जा रहा है __VGF__ROOT:0
+कि __CCP__rs:NP
+इससे पहले __NP__k7t:VGF2
+प्रधानमंत्री सिंह __NP__ccof:CCP2
+और __CCP__r6:NP9
+चावेज़ की __NP__ccof:CCP2
+बातचीत के दौरान __NP__k7t:VGF2
+दोनों देशों ने __NP__k1:VGF2
+द्विपक्षीय मसलों के साथ - साथ __NP__ras-k7:VGF2
+अंतर्राष्ट्रीय घटनाक्रमों पर __NP__k7:VGF2
+विस्तृत चर्चा __NP__pof:VGF2
+की । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+बैठक के दौरान __NP__k7t:VGF
+दोनों नेताओं की __NP__r6:NP3
+मौजूदगी में __NP__k7:VGF
+दोनों देशों ने __NP__k1:VGF
+छह समझौतों पर __NP__k7:VGF
+हस्ताक्षर __NP__pof:VGF
+किए __VGF__ccof:CCP
+और __CCP__ROOT:0
+एक संयुक्त बयान __NP__k2:VGF2
+जारी __JJP__pof:VGF2
+किया । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+प्रेस कांफ्रेंस में __NP__k7:VGF
+चावेज़ ने __NP__k1:VGF
+आरोप __NP__pof:VGF
+लगाया __VGF__ROOT:0
+कि __CCP__k2:VGF
+अमेरिका ने __NP__k1:VGF2
+पिछले तीन वर्ष से __NP__k7t:VGF2
+उनके __NP__r6:NP7
+देश के ख़िलाफ़ __NP__vmod:VGF2
+युद्ध __NP__k2:VGF2
+छेड़ रखा है __VGF__ccof:CCP2
+और __CCP__ccof:CCP
+उनकी __NP__r6:NP10
+हत्या __NP__k2:VGF3
+करवाना चाहता है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+चावेज़ ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+यदि __CCP__vmod:VGF3
+उन्हें __NP__k2:VGF2
+कुछ __NP__adv:VGF2
+होता है , __VGF__ccof:CCP2
+तो __CCP__ccof:CCP
+इसके लिए __NP__rt:VGF3
+अमेरिका के __NP__r6:NP6
+राष्ट्रपति बुश __NP__k1:VGF3
+ज़िम्मेदार __JJP__k1s:VGF3
+होंगे । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__sent-adv:VGF
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+राष्ट्रपति बिल क्लिंटन के समय __NP__k7t:VGF2
+उनके __NP__r6:NP5
+देश के __NP__r6:NP6
+अमेरिका के साथ __NP__ras-k1:VGF2
+अच्छे संबंध __NP__k1:VGF2
+थे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__sent-adv:VGF
+उन्होंने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+इराक़ के __NP__r6:NP4
+स्वास्थ्य मंत्रालय ने __NP__k1:VGF2
+दावा __NP__pof:VGF2
+किया __VGF__ccof:CCP
+कि __CCP__k2:VGF2
+अमेरिका ने __NP__k1:VGF3
+पिछले वर्ष __NP__k7t:VGF3
+फालुजा में __NP__k7p:VGF3
+हमले के दौरान __NP__k7p:VGF3
+मस्टर्ड __NP__ccof:CCP3
+और __CCP__nmod:NP12
+नर्व __NP__ccof:CCP3
+गैस का __NP__r6:NP13
+इस्तेमाल __NP__pof:VGF3
+किया था । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+हालांकि __CCP__sent-adv:VGF
+चावेज़ के __NP__r6:NP2
+इस दावे पर __NP__k7:VGF
+अमेरिका __NP__ccof:CCP2
+या __CCP__k1:VGF
+ईराक़ ने __NP__ccof:CCP2
+तत्काल __RBP__adv:VGF
+कोई प्रतिक्रिया __NP__k2:VGF
+व्यक्त __JJP__pof:VGF
+नहीं की है __VGF__ccof:CCP3
+और __CCP__ROOT:0
+ईराक़ी अधिकारियों की ओर से भी __NP__rd:VGF2
+कभी __NP__k7t:VGF2
+इस तरह की __NP__r6:NP9
+रिपोर्ट को __NP__k2:VGF2
+सार्वजनिक __JJP__pof:VGF2
+नहीं किया गया है । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__ccof:VGF
+ईराक़ की __NP__r6:NP3
+मौजूदा सरकार के __NP__r6:NP4
+स्वास्थ्य मंत्री फालुजा पर __NP__k7:VGF2
+हमले की __NP__r6:NP6
+अपनी __NP__r6:NP7
+जाँच रिपोर्ट में __NP__k7:VGF2
+मस्टर्ड __NP__ccof:CCP2
+और __CCP__nmod:NP10
+नर्व __NP__ccof:CCP2
+गैस के __NP__r6:NP11
+इस्तेमाल के __NP__r6-k1:NP12
+संकेत __NP__pof:VGF2
+दिए हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+भारतीय मेडिकल जगत __NP__k1:VGF
+इतिहास __NP__k2:VGNN
+रचने को __VGNN__k2:VGF
+तैयार __JJP__pof:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+जॉन हॉपकिंस में __NP__k7:VGF
+न्यूरोसर्जरी के __NP__r6:NP3
+निदेशक बेंजामिन कॅरसन ने __NP__k1:VGF
+मंगलवार को __NP__k7t:VGF
+दावा __NP__pof:VGF
+किया __VGF__ROOT:0
+कि __CCP__k2:VGF
+दस वर्षीय जुड़वा बहनें __NP__nmod:NP7
+सबाह __NP__ccof:CCP2
+और __CCP__k2:VGF2
+फराह को __NP__ccof:CCP2
+ऑपरेशन के जरिए __NP__k3:VGF2
+अलग - अलग __JJP__pof:VGF2
+किया जा सकता है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+दोनों बहनों के __NP__r6:NP2
+सिर __NP__k1:VGF
+पैदाइश के समय से ही __NP__k7t:VGF
+जुड़े हुए हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अबू धाबी के __NP__r6:NP2
+राजकुमार __NP__nmod:NP3
+शेख मोहम्मद बिन जायद अल नाह्यान __NP__k1:VGF
+कई करोड़ रुपये में __NP__k7:VGNN
+होने वाले __VGNN__nmod__pofinv:NP5
+इस ऑपरेशन का __NP__r6:NP6
+पूरा खर्चा __NP__pof:VGNN2
+उठाने को __VGNN__k2:VGF
+तैयार __JJP__pof:VGF
+हो गए हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+दोनों बहनें __NP__k1:VGF
+पटना की __NP__r6v:VGF
+रहने वाली हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अपोलो अस्पताल __NP__ccof:CCP
+और __CCP__r6:NP4
+अमेरिका के __NP__r6:NP3
+जॉन हॉपकिंस चिल्ड्रेन सेंटर के __NP__ccof:CCP
+डॉक्टरों ने __NP__k1:VGF
+मंगलवार को __NP__k7t:VGF
+यहां __NP__k7:VGF
+एक पत्रकार सम्मेलन में __NP__k7:VGF
+इस आशय का __NP__r6-k2:NP9
+दावा __NP__pof:VGF
+किया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+लेकिन __CCP__ROOT:0
+फैसला __NP__k2:VGF
+उनके __NP__r6:NP3
+परिवार पर __NP__k7:VGF
+छोड़ दिया गया है __VGF__ccof:CCP
+कि __CCP__rs:NP
+वे __NP__k1:VGF2
+इस नाजुक ऑपरेशन के लिए __NP__rt:VGF2
+तैयार __JJP__k1s:VGF2
+हैं __VGF__ccof:CCP3
+या __CCP__ccof:CCP2
+नहीं __FRAGP__fragof:NULL__VGF
+NULL । __NULL__VGF__ROOT:0
+</Sentence>
+<Sentence>
+डॉक्टरों ने __NP__k1:VGF
+कई परीक्षण __NP__ccof:CCP
+और __CCP__k7t:VGF
+गहन अध्ययन के बाद __NP__ccof:CCP
+यह दावा __NP__pof:VGF
+किया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अपोलो अस्पताल के __NP__r6:NP2
+वरिष्ठ बाल रोग विशेषज्ञ अनुपम सिब्बल ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+अगर __CCP__vmod:VGF3
+यह ऑपरेशन __NP__pof:VGF2
+हुआ __VGF__ccof:CCP2
+तो __CCP__ccof:CCP4
+इसमें __NP__k7:VGF3
+नौ महीने __NP__k7t:VGF3
+लगेंगे __VGF__ccof:CCP3
+और __CCP__ccof:CCP
+इसके __NP__r6:NP7
+छह चरण __NP__k2:VGF4
+होंगे । __VGF__ccof:CCP4
+</Sentence>
+<Sentence>
+सर्जरी की __NP__r6:NP3
+यह __NP__k1:VGF
+ऐसी प्रक्रिया __NP__k1s:VGF
+है __VGF__ROOT:0
+जिसका __NP__r6-k2:NP5
+अनुसरण __NP__pof:VGF2
+आज तक __NP__k7t:VGF2
+कहीं __NP__jjmod:JJP
+और __JJP__k7p:VGF2
+नहीं किया गया है । __VGF__nmod__relc:NP3
+</Sentence>
+<Sentence>
+जॉन हॉपकिंस में __NP__k7p:VGF
+न्यूरोसर्जरी के __NP__r6:NP3
+निदेशक बेंजामिन कॅरसन ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+हर चरण में __NP__k7:VGF2
+जोखिम __NP__k1:VGF2
+है __VGF__ccof:CCP2
+लेकिन __CCP__ccof:CCP
+हम लोग __NP__k1:VGF3
+सर्जरी की __NP__r6:NP8
+योजना __NP__k2:VGF3
+इस तरह __NP__adv:VGF3
+बना रहे हैं __VGF__ccof:CCP2
+कि __CCP__rs:NP9
+दोनों बहनें __NP__k1:VGF4
+जिंदा __JJP__pof:VGF4
+रहें । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+सिब्बल ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+अगर __CCP__vmod:VGF3
+यह सर्जरी __NP__k1:VGF2
+अंजाम __NP__pof:VGF2
+दी गई __VGF__ccof:CCP2
+तो __CCP__ccof:CCP
+यह __NP__k1:VGF3
+भारतीय मेडिकल इतिहास में __NP__k7:VGF3
+दर्ज __JJP__pof:VGF3
+हो जाएगी । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+प्रेस कांफ्रेंस में __NP__k7:VGF
+मौजूद __JJP__nmod:CCP
+सबाह __NP__ccof:CCP
+और __CCP__r6:NP4
+फराह के __NP__ccof:CCP
+पिता __NP__nmod:NP5
+शकील ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+परिवार __NP__k1:VGF2
+फिलहाल __RBP__adv:VGF2
+पटना __NP__k2p:VGF2
+लौट रहा है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+रमजान के बाद __NP__k7t:VGF
+इस बारे में __NP__k7:VGF
+अंतिम __JJP__adv:VGF
+फैसला __NP__pof:VGF
+लिया जाएगा __VGF__ROOT:0
+कि __CCP__k2:VGF
+सर्जरी की __NP__r6-k1:NP5
+अनुमति __NP__pof:VGF2
+दी जाए __VGF__ccof:CCP2
+या __CCP__ccof:CCP
+नहीं NULL । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+बहरहाल , __CCP__sent-adv:VGF
+अबू धाबी के __NP__r6:NP2
+राजकुमार __NP__nmod:NP3
+शेख मोहम्मद बिन जायद अल नाह्यान __NP__k1:VGF
+इस सर्जरी का __NP__r6:NP5
+पूरा खर्च __NP__pof:VGNN
+उठाने को __VGNN__k2:VGF
+तैयार __JJP__pof:VGF
+हो गए हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+सिब्बल ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+अगर __CCP__vmod:VGF3
+परिवार __NP__k1:VGF2
+सर्जरी के लिए __NP__rt:VGF2
+तैयार __JJP__pof:VGF2
+हो जाता है __VGF__ccof:CCP2
+तो __CCP__ccof:CCP
+यह __NP__k1:VGF3
+अगले दो महीनों में __NP__k7t:VGF3
+शुरू __NP__pof:VGF3
+कर दी जाएगी । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+प्रक्रिया __NP__k1:VGF
+अगले वर्ष __NP__k7t:VGF
+खत्म __JJP__pof:VGF
+होगी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इस ऑपरेशन में __NP__k7:VGF
+६० डॉक्टरों की __NP__r6:NP3
+टीम __NP__k1:VGF
+हिस्सा __NP__pof:VGF
+लेगी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+अमेरिका में __NP__k7p:VGF2
+ऐसी पिछली सर्जरी __NP__k1:VGF2
+४ करोड़ २५ लाख रुपये में __NP__k7:VGF2
+की गई थी । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+सिब्बल ने __NP__k1:VGF
+ऑपरेशन की __NP__r6:NP3
+प्रक्रिया __NP__k1:VGNF
+समझाते हुए __VGNF__vmod:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+पहले चरण में तो __NP__k7t:VGF2
+जुड़वा बहनों की __NP__r6:NP6
+पूरी शारीरिक संरचना __NP__k2:VGNN
+विस्तार से __NP__adv:VGNN
+समझने के लिए __VGNN__rt:VGF2
+तीन आयामी मॉडल __NP__k2:VGF2
+विकसित __JJP__pof:VGF2
+किए जाएंगे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+फिर __NP__sent-adv:VGF
+वास्तविक ऑपरेशन से पहले __NP__k7t:VGF
+नमूने के __NP__r6:NP4
+परीक्षण __NP__ccof:CCP
+या __CCP__pof:VGF
+ऑपरेशन __NP__ccof:CCP
+किए जाएंगे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+तीन महीने बाद __NP__k7t:VGF
+एक परीक्षण के ज़रिए __NP__k3:VGF
+यह __NP__k1:VGNN
+पता __JJP__pof:VGNN
+लगाने की __VGNN__r6-k1:NP4
+कोशिश __NP__pof:VGF
+की जाएगी __VGF__ROOT:0
+कि __CCP__rs:NP3
+अगर __CCP__nmod:CCP4
+रक्त नलिका __NP__k1:VGF2
+कहीं __NP__k7p:VGF2
+जाम __JJP__k1s:VGF2
+हैं __VGF__ccof:CCP2
+तो __CCP__ccof:CCP
+उसमें __NP__k7:VGF3
+रक्त का __NP__r6-k1:NP9
+प्रवाह __NP__pof:VGF3
+होता है __VGF__ccof:CCP4
+या __CCP__ccof:CCP3
+नहीं NULL । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके __NP__r6:NP2
+दो हफ्ते बाद __NP__k7t:VGF
+इस नस को __NP__k2:VGF
+निकाला जाएगा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+इसके __NP__r6:NP3
+अगले चरण में __NP__k7:VGF2
+प्लॅस्टिक सर्जन __NP__k1:VGF2
+अपना __NP__r6:NP6
+काम __NP__k2:VGF2
+करेंगे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+अगर __CCP__vmod:VGF2
+चर्म में __NP__k7:VGF
+किसी तरह की __NP__r6:NP3
+कमी __NP__pof:VGF
+मिलती है __VGF__ccof:CCP
+तो __CCP__ROOT:0
+उसे __NP__k2:VGF2
+दूर __NP__pof:VGF2
+करेंगे । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+इसके __NP__r6:NP2
+तीन माह बाद __NP__k7t:VGF
+यह __NP__k1:VGF
+तय __JJP__pof:VGF
+किया जाएगा __VGF__ROOT:0
+कि __CCP__rs:NP3
+दोनों बहनों को __NP__k2:VGNN
+अलग - अलग __JJP__pof:VGNN
+करने के लिए __VGNN__rt:VGF2
+सर्जरी __NP__pof:VGF2
+कब __NP__adv:VGF2
+की जाए । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इसके अलावा __NP__vmod:VGF
+सबाह के __NP__r6:NP3
+गुर्दे का __NP__r6-k1:NP4
+प्रत्यारोपण भी __NP__pof:VGF
+किया जाएगा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+लेकिन __CCP__ROOT:0
+असल ऑपरेशन तो __NP__k1:VGF
+वह __NP__k1s:VGF
+है __VGF__ccof:CCP
+जिसके तहत __NP__k7:VGF2
+दोनों के __NP__r6:NP5
+दिमाग को __NP__k2:VGNN
+जोड़ने वाली __VGNN__nmod:NP6
+नस को __NP__k2:VGF2
+अलग __JJP__pof:VGF2
+किया जाएगा । __VGF__nmod__relc:NP2
+</Sentence>
+<Sentence>
+क्योंकि __CCP__ROOT:0
+दोनों बहनों के __NP__r6:NP2
+दिमाग में __NP__k7:VGF
+खून की __NP__r6:NP4
+एक ही नली __NP__k2:VGF
+जा रही है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+पाकिस्तान द्वारा __NP__k1:VGNN
+अंतर्राष्ट्रीय समुदाय की __NP__r6:NP3
+चिंताओं को __NP__k2:VGNN
+दूर __NP__pof:VGNN
+करने __VGNN__ccof:CCP
+तथा __CCP__r6:NP8
+कश्मीर में __NP__k7t:VGNN3
+सीमा पार आतंकवाद को __NP__k4:VGNN2
+समर्थन __NP__pof:VGNN2
+देने के __VGNN__ccof:CCP
+आरोप से __NP__k5:VGNN3
+बरी __JJP__pof:VGNN3
+होने का __VGNN__r6-k2:NP9
+दावा __NP__pof:VGNF
+करते हुए __VGNF__vmod:VGF
+राष्ट्रपति परवेज मुशर्रफ ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+वैश्विक राजनीति में __NP__k7:VGF2
+अब __NP__k7t:VGF2
+उनके __NP__r6:NP14
+देश को __NP__k2:VGF2
+' महत्व ' __NP__pof:VGF2
+दिया जा रहा है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+मुशर्रफ ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+पाकिस्तान में __NP__k7p:NULL__VGF
+हिंसा की __NP__r6:NP4
+घटनाओं के लिए __NP__rt:NULL__VGF
+आतंकी __NP__k1:NULL__VGF
+नहीं , __NEGP__vmod:NULL__VGF
+NULL __JJP__k1s:VGF2
+NULL __NULL__VGF__ROOT:0
+बल्कि __CCP__ccof:CCP
+कट्टरपंथी __NP__k1:VGF2
+जिम्मेदार __JJP__pof:VGF2
+हैं । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+देशवासियों से __NP__k4:VGF
+अनुरोध __NP__pof:VGF
+किया है __VGF__ROOT:0
+कि __CCP__k2:VGF
+वे __NP__k1:VGF2
+मदरसा __NP__ccof:CCP2
+तथा __CCP__jjmod:JJP
+ऐसी गतिविधियों में __NP__ccof:CCP2
+शामिल __JJP__nmod:NP7
+लोगों को __NP__k4:VGNN
+समर्थन __NP__k2:VGNN
+देना __VGNN__k2:VGF2
+बंद __JJP__pof:VGF2
+कर दें । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+रविवार को __NP__k7t:VGF
+संयुक्त अरब अमीरात की __NP__r6:NP3
+राजधानी __NP__rs:NP4
+अबू धाबी में __NP__k7p:VGNF
+एक बैठक को __NP__k2:VGNF
+संबोधित __JJP__pof:VGNF
+करते हुए __VGNF__vmod:VGF
+मुशर्रफ ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+पाकिस्तान __NP__k1:VGF2
+अफगानिस्तान में __NP__k7p:VGNN
+दखल __NP__k2:VGNN
+देने , __VGNN__ccof:CCP2
+कश्मीर में __NP__k7p:VGNN2
+सीमा पार आतंकवाद को __NP__k4:VGNN2
+समर्थन __NP__k2:VGNN2
+देने __VGNN__ccof:CCP2
+और __CCP__k5:VGF2
+परमाणु प्रौद्योगिकी __NP__k2:VGNN3
+बेचने के __VGNN__r6:NP14
+आरोपों से __NP__ccof:CCP2
+बरी __JJP__pof:VGF2
+हो चुका है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+हमने __NP__k1:VGF2
+अंतर्राष्ट्रीय समुदाय की __NP__r6:NP4
+चिंताओं को __NP__k2:VGF2
+दूर __NP__pof:VGF2
+कर दिया है __VGF__ccof:CCP2
+और __CCP__ccof:CCP3
+पूरा विश्व __NP__k1:VGF3
+हमारे __NP__r6:NP8
+रुख को __NP__k2:VGF3
+स्वीकार __NP__pof:VGF3
+कर रहा है __VGF__ccof:CCP2
+तथा __CCP__ccof:CCP
+वैश्विक राजनीति में __NP__k7:VGF4
+अब __NP__k7t:VGF4
+हमें __NP__k4:VGF4
+महत्व __NP__k2:VGF4
+दिया जा रहा है । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+मुशर्रफ ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+दुर्भाग्य से __NP__rh:VGF2
+हमें __NP__k1:VGF2
+कट्टरपंथ जैसी __NP__k2u:VGF2
+समस्या का __NP__r6-k2:NP6
+सामना __NP__pof:VGF2
+करना पड़ रहा है , __VGF__ccof:CCP
+जो __NP__k1:VGF3
+एक दूसरे से __NP__k2:VGF3
+लड़ रहे हैं । __VGF__nmod__relc:NP4
+</Sentence>
+<Sentence>
+पाकिस्तान में __NP__k7p:VGF
+बम विस्फोट की __NP__r6:NP3
+घटनाओं के लिए __NP__rt:VGF
+आतंकी गतिविधियां __NP__k1:VGF
+नहीं , __NEGP__vmod:VGF
+NULL __JJP__k1s:VGF
+NULL __VGF__ccof:NULL__CCP
+NULL __NULL__CCP__ROOT:0
+कट्टरपंथी हिंसा __NP__k1:VGF2
+जिम्मेदार __JJP__k1s:VGF2
+है । __VGF__ccof:NULL__CCP
+</Sentence>
+<Sentence>
+मारने वाले भी __VGNN__nmod__k1inv:NP
+मुस्लिम __NP__k1:VGF
+हैं __VGF__ccof:CCP
+और __CCP__ROOT:0
+जो __NP__k1:VGF2
+मर रहे हैं __VGF__nmod__relc:NP3
+वे भी __NP__k1:VGF3
+मुस्लिम ही __NP__k1s:VGF3
+हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+पाकिस्तानी जनता से __NP__k4:VGF
+अनुरोध __NP__pof:VGF
+किया __VGF__ROOT:0
+कि __CCP__k2:VGF
+वे __NP__k1:VGF2
+ऐसे संगठनों की __NP__r6-k2:NP6
+निंदा __NP__pof:VGF2
+करें __VGF__ccof:CCP2
+तथा __CCP__ccof:CCP
+कट्टरपंथी __JJP__nmod:NP7
+हिंसा __NP__ccof:CCP3
+और __CCP__k4:VGNN
+नफरत को __NP__ccof:CCP3
+बढ़ावा __NP__k2:VGNN
+देने वाले __VGNN__nmod__k1inv:NP10
+तत्वों को __NP__k4:VGNN2
+समर्थन __NP__k2:VGNN2
+देना __VGNN__k2:VGF3
+बंद __JJP__pof:VGF3
+कर दें । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+' गल्फ न्यूज ' में __NP__jjmod:JJP
+प्रकाशित __JJP__nmod:NP2
+रिपोर्ट में __NP__k7:VGF
+उन्हें __NP__k2:VGF
+यह __NP__k2:VGNF
+कहते हुए __VGNF__vmod:VGF
+उद्धृत __JJP__pof:VGF
+किया गया है __VGF__ROOT:0
+कि __CCP__rs:NP4
+कृपया __RBP__adv:VGF2
+अपने __NP__r6:NP6
+लोगों , __NP__ccof:CCP2
+संबंधियों __NP__ccof:CCP2
+और __CCP__r6:NP9
+परिवार के __NP__ccof:CCP2
+सदस्यों से __NP__k2:VGNN
+नफरत __NP__pof:VGNN
+फैलाने वाले __VGNN__nmod__k1inv:NP11
+तत्वों __NP__ccof:CCP3
+और __CCP__r6:NP13
+मदरसों का __NP__ccof:CCP3
+समर्थन __NP__k2:VGNN2
+न करने का __VGNN__r6-k2:NP14
+आग्रह __NP__pof:VGF2
+करें । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+आप __NP__k1:VGF
+उनकी __NP__r6-k2:NP3
+मदद __NP__pof:VGF
+न करें __VGF__ccof:CCP
+और __CCP__ROOT:0
+नफरत को __NP__k2:VGNN
+बढ़ावा __NP__pof:VGNN
+देने की __VGNN__r6:NP6
+उनकी __NP__r6:NP7
+नीति का __NP__r6:NP8
+शिकार __NP__k2:VGF2
+न बने । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+गेहूं की __NP__r6:NP2
+खरीद के __NP__r6:NP3
+मामले में __NP__k7:VGF
+राज्यों की __NP__r6:NP5
+सहकारी एजेंसियां __NP__k1:VGF
+सबसे आगे __NP__vmod:VGF
+हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अभी तक __NP__k7t:VGF
+सहकारी एजेंसियों ने __NP__k1:VGF
+राज्यों __NP__ccof:CCP
+और __CCP__r6:NP5
+केंद्र सरकार की __NP__ccof:CCP
+सभी एजेंसियों से __NP__k5:VGF
+सबसे ज्यादा खरीद __NP__pof:VGF
+की है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उत्तर प्रदेश में भी __NP__k7p:VGF
+सहकारी एजेंसियों ने __NP__k1:VGF
+गेहूं की __NP__r6:NP4
+सबसे ज्यादा खरीद __NP__pof:VGF
+की है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+रबी सीजन के बाद __NP__k7t:VGF
+राज्य __NP__ccof:CCP
+और __CCP__r6:NP4
+केंद्र सरकार की __NP__ccof:CCP
+एजेंसियां __NP__k1:VGF
+गेंहू की __NP__r6:NP6
+खरीद __NP__pof:VGF
+करती हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+लेकिन __CCP__ROOT:0
+इस बार __NP__adv:VGF
+केंद्र सरकार ने __NP__k1:VGF
+गेंहू __NP__k2:VGNN
+खरीदने के लिए __VGNN__rt:VGF
+राज्यों को __NP__k4:VGF
+छूट __NP__k2:VGF
+प्रदान __NP__pof:VGF
+कर दी थी । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+अभी तक __NP__k7t:VGF
+गेहूं __NP__nmod:NP3
+उत्पादक राज्यों में __NP__k7p:VGF
+करीब १.४७ करोड़ टन __NP__nmod:NP5
+गेहूं की __NP__r6:NP6
+खरीद __NP__pof:VGF
+हुई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसमें __NP__k7:VGF
+सबसे ज्यादा __NP__nmod:NP3
+खरीद __NP__pof:VGF
+पंजाब में __NP__k7p:VGF
+हुई है __VGF__ccof:CCP
+जबकि __CCP__ROOT:0
+हरियाणा __NP__k7p:VGF2
+दूसरे स्थान पर __NP__k7:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+केंद्रीय खाद्य मंत्रालय के __NP__r6:NP2
+आंकड़ों के मुताबिक __NP__vmod:VGF
+उत्तर प्रदेश में __NP__k7p:VGF
+अभी तक __NP__k7t:VGF
+महज ५.३ लाख टन __NP__nmod:NP6
+गेहूं की __NP__r6:NP7
+खरीद __NP__pof:VGF
+हुई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+जो __NP__k1:VGF
+उसके __NP__r6:NP3
+उत्पादन को __NP__k2:VGNF
+देखते हुए __VGNF__nmod__k1inv:JJP
+काफी कम __JJP__pof:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इस साल __NP__k7t:VGF
+यूपी में __NP__k7p:VGF
+२.४ करोड़ टन __NP__nmod:NP4
+गेहूं की __NP__r6:NP5
+पैदावार __NP__k2:VGF
+हुई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+सहकारी एजेंसियों द्वारा __NP__k1:VGF
+विभिन्न राज्यों में __NP__k7p:VGF
+अभी तक __NP__k7t:VGF
+४३.३० लाख टन __NP__nmod:NP5
+गेहूं की __NP__r6:NP6
+खरीद __NP__pof:VGF
+की गई है , __VGF__ROOT:0
+जो __NP__k1:VGF2
+अन्य एजेंसियों की __NP__r6:NP9
+तुलना में __NP__k7:VGF2
+सबसे ज्यादा __NP__pof:VGF2
+है । __VGF__nmod__relc:NP6
+</Sentence>
+<Sentence>
+भारतीय खाद्य निगम __NP__k1:VGF
+महज २२.२५ लाख टन __NP__nmod:NP3
+गेंहू की __NP__r6:NP4
+खरीद __NP__pof:VGF
+कर पाया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+जबकि __CCP__ROOT:0
+राज्य सरकारों ने __NP__k1:VGF
+२१.४० लाख टन ही __NP__nmod:NP3
+गेहूं की __NP__r6:NP4
+खरीद __NP__pof:VGF
+की है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इसके अलावा __NP__vmod:VGF
+राज्य भंडारण निगम ने __NP__k1:VGF
+१५.२० लाख टन __NP__nmod:NP4
+गेंहू __NP__k2:VGF
+खरीदा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+आंकड़ों के मुताबिक __NP__vmod:VGF
+सहकारी एजेंसियों के __NP__r6:NP3
+मामले में __NP__k7:VGF
+पंजाब राज्य __NP__k7p:VGF
+सबसे आगे __NP__vmod:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+यहां __NP__k7p:VGF
+अभी तक __NP__k7t:VGF
+२४ लाख टन से __NP__jjmod:NP4
+ज्यादा गेहूं की __NP__r6:NP5
+खरीद __NP__pof:VGF
+हुई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+जबकि __CCP__ROOT:0
+हरियाणा में __NP__k7p:VGF
+१६.७३ लाख टन __NP__nmod:NP3
+गेहूं __NP__k2:VGF
+राज्य की __NP__r6:NP5
+सहकारी एजेंसियों द्वारा __NP__k1:VGF
+खरीदा गया है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इसके अलावा __NP__vmod:VGF
+उत्तर प्रदेश में __NP__k7p:VGF
+इन एजेंसियों ने __NP__k1:VGF
+१.८६ लाख टन __NP__nmod:NP5
+गेहूं __NP__k1:VGF
+खरीदा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+चौंकाने वाली __VGNN__nmod:NP
+बात __NP__k1:VGF
+यह __NP__k1s:VGF
+है __VGF__ROOT:0
+कि __CCP__rs:NP2
+गेहूं की __NP__r6:NP4
+खरीद के __NP__r6:NP5
+मामले में __NP__k7:VGF2
+कृषि उत्पादों का __NP__r6:NP7
+कारोबार __NP__nmod:VGNN2
+करने वाली __VGNN__nmod:NP8
+कंपनियां भी __NP__k1:VGF2
+पीछे __NP__vmod:VGF2
+नहीं हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+यह कंपनियां __NP__k1:VGF
+अभी तक __NP__k7t:VGF
+१६ लाख टन से ज्यादा __NP__nmod:NP4
+गेहूं की __NP__r6:NP5
+खरीद __NP__pof:VGF
+कर चुकी हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+जबकि __CCP__ROOT:0
+राज्यों की __NP__r6:NP2
+खस्ताहाल भंडारण निगमों का __NP__r6:NP3
+प्रदर्शन __NP__k1:VGF
+इस बार भी __NP__k7t:VGF
+फीका __JJP__pof:VGF
+रहा है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+गेंहू उत्पादक राज्यों के __NP__r6:NP2
+भंडारण निगमों ने __NP__k1:VGF
+१५ लाख टन __NP__nmod:NP4
+गेहूं __NP__k2:VGF
+खरीदा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+न्यायिक प्रक्रिया में __NP__k7:VGNN
+तेजी __NP__pof:VGNN
+लाने के लिए __VGNN__rt:VGF
+प्रधानमंत्री मनमोहन सिंह ने __NP__k1:VGF
+बुधवार को __NP__k7t:VGF
+न्यायपालिका को __NP__k2:VGNN2
+कंप्यूटरीकृत __JJP__pof:VGNN2
+किए जाने के __VGNN__r6:NP6
+अभियान की __NP__r6-k2:NP7
+शुरूआत __NP__pof:VGF
+की । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके तहत __NP__k7:VGF
+प्रधानमंत्री ने __NP__k1:VGF
+अवकाश प्राप्त __JJP__nmod:NP3
+वरिष्ठ जज को __NP__k4:VGF
+लैपटॉप __NP__k2:VGF
+भेंट __NP__pof:VGF
+किया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इस अवसर पर __NP__k7:VGF
+प्रधान न्यायाधीश आर. सी. लाहोटी ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+न्यायपालिका द्वारा __NP__k1:VGF2
+इस योजना को __NP__k2:VGNN
+पूरी तरह से __NP__adv:VGNN
+अपना लिए जाने के बाद __VGNN__k7t:VGF2
+बिना __NEGP__nmod:NP6
+कागज के __NP__r6:NP7
+अदालत में __NP__k7p:VGF2
+काम __NP__k2:VGF2
+हो सकेगा । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+साथ ही __NP__sent-adv:VGF
+कंप्यूटर की __NP__r6:NP3
+मदद से __NP__k3:VGF
+अदालत के __NP__r6:NP5
+कामों में भी __NP__k1:VGF
+तेजी __NP__pof:VGF
+आएगी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+भारतीय न्यायपालिका को __NP__k1:VGNN
+कंप्यूटरीकृत __JJP__pof:VGNN
+करने की __VGNN__r6:NP2
+प्रक्रिया __NP__k1:VGF
+पांच साल में __NP__k7:VGF
+पूरी __JJP__pof:VGF
+होगी __VGF__ccof:CCP
+और __CCP__ROOT:0
+इस योजना पर __NP__k7:VGF2
+८५४ करोड़ रुपये का __NP__r6:NP6
+खर्च __NP__k1:VGF2
+आएगा । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इस योजना के __NP__r6:NP2
+उद्घाटन अवसर पर __NP__k7:VGF
+प्रधानमंत्री मनमोहन सिंह ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+आज __NP__k7t:VGF2
+प्रौद्योगिकी की __NP__r6:NP6
+मदद से __NP__k3:VGF2
+इस क्षेत्र में __NP__k7p:VGF2
+हमारी __NP__r6:NP9
+कुछ समस्याओं का __NP__r6-k2:NP10
+समाधान __NP__pof:VGF2
+हो सकता है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+कई अन्य देशों में __NP__k7p:VGF
+प्रौद्योगिकी का __NP__r6:NP3
+उपयोग __NP__k1:VGF
+न्यायपालिका के __NP__r6:NP5
+क्षेत्र में __NP__k7:VGF
+किया जा रहा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+लेकिन __CCP__ROOT:0
+भारतीय न्यायपालिका __NP__k1:VGF
+इस प्रौद्योगिकी का __NP__r6-k2:NP4
+पूरी तरह से __NP__adv:VGF
+फायदा __NP__pof:VGNN
+उठाने में __VGNN__k2:VGF
+कामयाब __JJP__pof:VGF
+नहीं रहा है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इस समारोह में __NP__k7:VGF
+प्रधान न्यायाधीश रमेश चंद्र लाहोटी __NP__ccof:CCP
+व __CCP__k1:VGF
+केंद्रीय कानून व न्याय मंत्री हंस राज भारद्वाज __NP__ccof:CCP
+उपस्थित __JJP__pof:VGF
+थे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+समारोह में __NP__jjmod:JJP
+उपस्थित __JJP__nmod:NP2
+अन्य विशिष्ठ लोगों में __NP__k7:VGF
+केंद्रीय संचार मंत्री दयानिधि मारन , __NP__ccof:CCP
+सुप्रीमकोर्ट के __NP__r6:NP5
+वरिष्ठतम जज वाई. के. सब्बरवाल , __NP__ccof:CCP
+योजना आयोग के __NP__r6:NP7
+उपाध्यक्ष मोंटेक सिंह अहलूवालिया __NP__ccof:CCP
+, __CCP__ras-k1:VGF
+केंद्रीय कानून व न्याय राज्यमंत्री के. वेंकटपथी के अलावा __NP__ccof:CCP
+वर्तमान __JJP__ccof:CCP2
+व __CCP__nmod:NP9
+पूर्व __JJP__ccof:CCP2
+जज , __NP__ccof:CCP3
+वरिष्ठ वकील __NP__ccof:CCP3
+और __CCP__k1:VGF
+नौकरशाह __NP__ccof:CCP3
+उपस्थित __JJP__pof:VGF
+थे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इस अभियान की __NP__r6:NP2
+शुरूआत __NP__pof:VGF
+प्रधानमंत्री मनमोहन सिंह ने __NP__k1:VGF
+जस्टिस जी. सी. भरुचा को __NP__k4:VGNF
+एक लैपटॉप __NP__k2:VGNF
+देकर __VGNF__vmod:VGF
+की । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+जस्टिस भरुचा की __NP__r6:NP2
+सिफारिश पर ही __NP__k7:VGF
+इस योजना की __NP__r6-k1:NP4
+शुरुआत __NP__pof:VGF
+की गई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+भारतीय अदालतों में __NP__k7p:VGF
+लगभग ३ करोड़ मामले __NP__k1:VGF
+लंबित __JJP__pof:VGF
+हैं __VGF__ccof:NULL__CCP
+NULL __NULL__CCP__ROOT:0
+साथ ही __NP__sent-adv:VGNN
+न्यायप्रक्रिया __NP__k1:VGNN
+खर्चीली __JJP__k1s:VGNN
+होने की वजह से __VGNN__rh:VGF2
+यह __NP__k1:VGF2
+गरीबों की __NP__r6:NP7
+पहुंच से बाहर __NP__k7:VGF2
+होता जा रहा है । __VGF__ccof:NULL__CCP
+</Sentence>
+<Sentence>
+इस बारे में __NP__k7:VGF
+प्रधानमंत्री मनमोहन सिंह ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+न्याय __NP__k1:VGNN
+हासिल __JJP__pof:VGNN
+करना , __VGNN__k1s:VGF2
+काफी मंहगा __JJP__pof:VGNN2
+होना __VGNN__k1ss:VGF2
+गरीबों के लिए __NP__rt:VGF2
+एक बड़ी समस्या __NP__k1:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+होंडा मोटर्स के __NP__r6:NP2
+प्रमुख __NP__nmod:NP3
+टाकेयो फुकुई ने __NP__k1:VGF
+शुक्रवार को __NP__k7t:VGF
+यहां __NP__k7:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+गुड़गांव में __NP__k7p:VGF2
+होंडा की __NP__r6:NP8
+फैक्टरी में __NP__k7p:VGF2
+श्रमिक अशांति के बावजूद __NP__vmod:VGF2
+भारत __NP__k1:VGF2
+चीन के मुकाबले __NP__vmod:VGF2
+कम जोखिम वाला __NP__nmod:NP13
+देश __NP__k1s:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+ऐसा __NP__adv:VGF2
+इसलिए __NP__rh:VGF2
+है __VGF__ccof:CCP
+क्योंकि __CCP__rs:NP3
+भारत में __NP__k7p:VGF3
+चीन से अधिक __NP__nmod:NP6
+राजनीतिक पारदर्शिता __NP__ccof:CCP3
+और __CCP__k1:VGF3
+चीन से कम __NP__nmod:NP8
+जापान __NP__jjmod:JJP
+विरोधी __JJP__nmod:NP9
+भावनाएं __NP__ccof:CCP3
+हैं । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+होंडा मोटर्स के __NP__r6:NP2
+अध्यक्ष __NP__nmod:NP4
+टाकेयो फुकुई ने __NP__k1:VGF
+जापानी मीडिया को __NP__k4:VGNF
+दिए __VGNF__nmod__k1inv:NP5
+साक्षात्कार में __NP__k7:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+चीन __NP__k1:VGF2
+अपने __NP__r6:NP8
+पूरे आर्थिक विकास के साथ __NP__ras-k1:VGF2
+उस दौर की __NP__r6:NP10
+शुरूआत में __NP__k7:VGF2
+पहुंच गया है __VGF__ccof:CCP
+जब __NP__k7t:VGF3
+वह __NP__k1:VGF3
+कार __NP__k2:VGNN
+निर्यात __NP__pof:VGNN
+करने के लिए __VGNN__rt:VGF3
+उत्पादन का __NP__r6:NP16
+गढ़ __NP__pof:VGNN2
+बनना __VGNN__k2:VGF3
+शुरू __NP__pof:VGF3
+हो गया है । __VGF__nmod__relc:NP9
+</Sentence>
+<Sentence>
+फुकुई ने __NP__k1:VGF
+गुड़गांव में __NP__k7p:VGF
+हौंडा की __NP__r6:NP4
+मोटर साइकिल फैक्टरी में __NP__k7p:VGF
+श्रमिकों के __NP__r6:NP6
+असंतोष पर __NP__k7:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+वे __NP__k1:VGF2
+स्वीकार __NP__pof:VGF2
+करते हैं __VGF__ccof:CCP
+कि __CCP__k2:VGF2
+भारत में __NP__k7p:VGF3
+प्रायः __RBP__adv:VGF3
+हड़तालें __NP__k1:VGF3
+होती हैं । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+लेकिन __CCP__ROOT:0
+अब __NP__k7t:VGF
+हड़ताल का __NP__r6:NP3
+दौर __NP__k2:VGF
+अब __NP__k7t:VGF
+मंद __JJP__pof:VGF
+हो गया है __VGF__ccof:CCP2
+और __CCP__ccof:CCP
+यूनियन से __NP__ras-k1:VGF2
+बातचीत का __NP__r6:NP7
+माहौल __NP__k2:VGF2
+बन गया है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+फुकुई ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+भारत में __NP__k7p:VGF2
+चीन के मुकाबले __NP__vmod:VGF2
+कम जोखिम __JJP__pof:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+भारत में __NP__k7p:VGF
+राजनीतिक पारदर्शिता __NP__k2:VGF
+है __VGF__ccof:CCP
+और __CCP__ROOT:0
+जापान के प्रति __NP__rd:VGF2
+तटस्थ भाव __NP__k2:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+कावेरी डेल्टा के __NP__r6:NP2
+किसानों की __NP__r6:NP3
+सिंचाई आवश्यकता की __NP__r6:NP4
+गंभीरता को __NP__k2:VGNF
+देखते हुए __VGNF__vmod:VGF
+तमिलनाडु में __NP__k7p:VGF
+सत्ताधारी अन्नाद्रमुक के साथ __NP__ras-k1:VGF
+विपक्ष भी __NP__k1:VGF
+सक्रिय __JJP__pof:VGF
+हो गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+शनिवार को __NP__k7t:VGNF
+अपने __NP__r6:NP4
+प्रयासों में __NP__k7:VGNF
+तेजी __NP__k1:VGNF
+लाते हुए __VGNF__vmod:VGF
+केंद्र सरकार से __NP__k2:VGF
+आग्रह __NP__pof:VGF
+किया __VGF__ROOT:0
+कि __CCP__k2:VGF
+वह __NP__pk1:VGF2
+कर्नाटक से __NP__jk1:VGF2
+कावेरी नदी में __NP__k7p:VGF2
+पानी __NP__k2:VGF2
+छुड़वाए । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+द्रमुक __NP__ccof:CCP
+, __CCP__ras-k1:VGF
+कांग्रेस समेत __NP__ccof:CCP
+राज्य के __NP__r6:NP4
+विपक्षी गठबंधन __NP__ccof:CCP2
+व __CCP__k1:VGF
+वामपंथी पार्टियों ने __NP__ccof:CCP2
+इस मसले पर __NP__k7:VGNN
+१० जून को __NP__k7t:VGNN
+कर्नाटक के __NP__r6:NP9
+मुख्यमंत्री धरम सिंह से __NP__ras-k1:VGNN
+मिलने के लिए __VGNN__rt:VGF
+एक प्रतिनिधिमंडल __NP__k2:VGNN2
+भेजने का __VGNN__r6-k2:NP11
+फैसला __NP__pof:VGF
+किया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+जबकि __CCP__ROOT:0
+राज्य की __NP__r6:NP2
+मुख्यमंत्री जयललिता ने __NP__k1:VGF
+प्रधानमंत्री मनमोहन सिंह से __NP__vmod:VGF
+अपील __NP__pof:VGF
+की है __VGF__ccof:CCP
+कि __CCP__k2:VGF
+कावेरी नदी प्राधिकरण की __NP__r6:NP6
+बैठक __NP__k2:VGF2
+बुलाई जाए __VGF__ccof:CCP3
+ताकि __CCP__ccof:CCP2
+कावेरी जल विवाद ट्रिब्यूनल के __NP__r6:NP8
+अंतरिम आदेश के __NP__r6:NP9
+पालन के __NP__r6:NP10
+संदर्भ में __NP__k7:VGF3
+विचार - विमर्श __NP__pof:VGF3
+हो सके । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+जयललिता ने __NP__k1:VGF
+इस मसले पर __NP__k7:VGF
+प्रधानमंत्री को __NP__k4:VGF
+एक पत्र __NP__k2:VGF
+लिखा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उधर ; __NP__sent-adv:VGF
+द्रमुक , __NP__ccof:CCP
+कांग्रेस , __NP__ccof:CCP
+पीएमके , __NP__ccof:CCP
+एमडीएमके __NP__ccof:CCP
+और __CCP__k1:VGF
+वामदलों ने __NP__ccof:CCP
+तय __JJP__pof:VGF
+किया __VGF__ROOT:0
+कि __CCP__k2:VGF
+तमिलनाडु से __NP__nmod:NP8
+सभी सांसद __NP__k1:VGF2
+प्रधानमंत्री मनमोहन सिंह से __NP__ras-k1:VGF2
+७ __NP__ccof:CCP3
+या __CCP__nmod:NP12
+८ __NP__ccof:CCP3
+जून को __NP__k7t:VGF2
+मुलाकात __NP__pof:VGF2
+करेंगे । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+सांसद __NP__k1:VGF
+उनसे __NP__k2:VGF
+अपील __NP__pof:VGF
+करेंगे __VGF__ccof:CCP2
+कि __CCP__k2:VGF
+कर्नाटक से __NP__k5:VGF2
+पानी __NP__k2:VGF2
+जल्द __RBP__adv:VGF2
+जारी __JJP__pof:VGF2
+कराया जाए __VGF__ccof:CCP
+ताकि __CCP__ROOT:0
+कुरवई धान की __NP__r6:NP7
+फसल __NP__k1:VGF3
+बर्बाद __JJP__pof:VGF3
+न होने पाए । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+द्रमुक अध्यक्ष एम. करुणानिधि ने __NP__k1:VGF
+अपने गठबंधन के __NP__r6:NP3
+नेताओं की __NP__r6:NP4
+बैठक के बाद __NP__k7t:VGF
+पत्रकारों को __NP__k4:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+तमिलनाडु के __NP__r6:NP7
+किसानों को __NP__k4a:VGF2
+समय से __NP__k7t:VGF2
+पानी __NP__k1:VGF2
+हासिल __JJP__pof:VGF2
+हो __VGF__ccof:CCP
+इसके पहले __NP__k7t:VGF3
+प्रयास के तहत __NP__k7:VGF3
+पूर्व मंत्री __NP__nmod:NP13
+दुरई मुरुगन को __NP__k2:VGF3
+बंगलोर __NP__k7p:VGF3
+भेजा जा रहा है । __VGF__vmod:VGF2
+</Sentence>
+<Sentence>
+जल बंटवारे का __NP__r6:NP2
+फैसला __NP__k2:VGNN
+लागू __JJP__pof:VGNN
+कराने के लिए __VGNN__rt:VGF
+दबाव __NP__pof:VGNN2
+बनाने के __VGNN__r6:NP4
+सवाल पर __NP__k7:VGF
+करुणानिधि ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+मामले को __NP__k2:VGNN3
+जटिल __JJP__pof:VGNN3
+बनाने से __VGNN__vmod:VGF2
+बचा जाना चाहिए । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+हमारी __NP__r6:NP2
+पहली __NP__ccof:CCP
+और __CCP__k1:NP6
+तात्कालिक प्राथमिकता __NP__ccof:CCP
+जरूरतमंद किसानों को __NP__k4:VGNF
+पानी __NP__k2:VGNF
+मुहैया __JJP__pof:VGNF
+कराना __VGNF__k1s:NP6
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+प्रधानमंत्री को __NP__k4:VGF
+जयललिता के बारे में __NP__k7:VGF
+पूछे जाने पर __VGNN__k7:VGF
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+यदि __CCP__vmod:VGF3
+इससे __NP__k3:VGF2
+हमारी मुहिम को __NP__k4:VGF2
+बल __NP__k2:VGF2
+मिलता है __VGF__ccof:CCP2
+तो __CCP__ccof:CCP
+स्वागत __NP__pof:VGF3
+है । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+तमिलनाडु के __NP__r6:NP2
+मेट्टूर में __NP__k7:VGNF
+बना __VGNF__vmod:VGF
+स्टेनली जलाशय __NP__nmod:NP4
+राज्य में __NP__ROOT:0
+कावेरी का __NP__r6:NP12
+मुख्य संग्रहण क्षेत्र __NP__k2:VGF
+है __VGF__ccof:CCP
+और __CCP__ROOT:0
+पानी की __NP__r6:NP12
+कमी के कारण __NP__rh:VGF2
+इसे __NP__k1:VGF2
+दो साल से __NP__k7t:VGF2
+निर्धारित __JJP__nmod:NP12
+तिथि __NP__nmod:NP12
+१२ जून को __NP__k7t:VGF2
+नहीं खोला जा सका है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+कर्नाटक के __NP__r6:NP2
+पानी __NP__k1:VGNN
+न छोड़ने की वजह से __VGNN__rh:VGF
+जलाशय में __NP__k7p:VGF
+इसकी कमी __NP__k1:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+लोकसभा अध्यक्ष सोमनाथ चटर्जी ने __NP__k1:VGF
+शुक्रवार को __NP__k7t:VGF
+संकेत __NP__pof:VGF
+दिया __VGF__ROOT:0
+कि __CCP__k2:VGF
+नानावटी आयोग की __NP__r6:NP5
+रिपोर्ट __NP__ccof:CCP2
+और __CCP__k2:VGF2
+उस पर __NP__nmod:NP7
+कार्रवाई रिपोर्ट __NP__ccof:CCP2
+सोमवार को __NP__k7t:VGF2
+संसद में __NP__k7p:VGF2
+पेश __JJP__pof:VGF2
+की जा सकती है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+नानावटी आयोग ने __NP__k1:VGF
+१९८४ के __NP__r6:NP3
+सिख विरोधी दंगों की __NP__r6:NP4
+जाँच __NP__pof:VGF
+की है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+यह मुद्दा __NP__k2:VGF
+आज __NP__k7t:VGF
+जब __NP__k7t:VGF
+भाजपा के __NP__r6:NP5
+उप - नेता __NP__nmod:NP6
+वी. के. मल्होत्रा ने __NP__k1:VGF
+सदन में __NP__k7p:VGF
+उठाया __VGF__ccof:CCP
+तो __CCP__ROOT:0
+चटर्जी ने __NP__k1:VGF2
+कहा __VGF__ccof:CCP
+कि __CCP__k2:VGF2
+उन्होंने __NP__k1:VGF3
+गृहमंत्री शिवराज पाटिल से __NP__k2:VGF3
+बात __NP__pof:VGF3
+की है __VGF__ccof:CCP3
+और __CCP__ccof:CCP2
+उन्होंने __NP__k1:VGF4
+उन्हें __NP__k2:VGF4
+बताया है __VGF__ccof:CCP3
+कि __CCP__k2:VGF4
+सोमवार को __NP__k7t:VGF5
+इसे __NP__k2:VGF5
+पेश __JJP__pof:VGF5
+कर दिया जाएगा । __VGF__ccof:CCP4
+</Sentence>
+<Sentence>
+नानावटी आयोग की __NP__r6:NP2
+सिफारिशों को __NP__k4:VGF
+कार्रवाई रिपोर्ट के तहत __NP__vmod:VGF
+केंद्रीय मंत्रिपरिषद ने __NP__k1:VGF
+इसे __NP__k2:VGF
+बीती __VGNF__nmod__k1inv:NP6
+रात __NP__k7t:VGF
+मंजूर __JJP__pof:VGF
+कर लिया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+मल्होत्रा ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+ब्रिटेन __NP__ccof:CCP2
+और __CCP__r6:NP4
+मिस्र के __NP__ccof:CCP2
+बम विस्फोट में __NP__k7:VGNF
+मारे गए __VGNF__nmod__k1inv:NP5
+लोगों के प्रति __NP__rd:VGNN
+शोक __NP__k2:VGNN
+प्रकट __JJP__pof:VGNN
+करने के लिए तो __VGNN__rt:VGF2
+सदन में __NP__k7p:VGF2
+शोक __NP__k2:VGF2
+पारित __JJP__pof:VGF2
+किया जाता है __VGF__ccof:CCP3
+लेकिन __CCP__ccof:CCP
+१९८४ के __NP__r6:NP10
+दंगों में __NP__k7:VGF3
+३००० लोगों की __NP__r6:NP12
+जान __NP__k2:VGF3
+चली गई __VGF__ccof:CCP4
+, __CCP__ccof:CCP3
+इस सदन ने __NP__k1:VGF4
+कोई शोक __NP__k2:VGF4
+प्रकट __JJP__pof:VGF4
+नहीं किया । __VGF__ccof:CCP4
+</Sentence>
+<Sentence>
+इसलिए __CCP__rh:VGF
+सदन को __NP__k1:VGF
+उन हजारों लोगों के प्रति भी __NP__rd:VGF
+शोक __NP__k2:VGF
+प्रकट __JJP__pof:VGF
+करना चाहिए । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+भाजपा सांसद ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+तहलका रक्षा घोटाले के __NP__r6:NP3
+मामले की __NP__r6-k1:NP4
+जाँच __NP__pof:VGNN
+करने वाले __VGNN__nmod:NP5
+फूकन आयोग की __NP__r6:NP6
+सिफारिशों को __NP__k2:VGF2
+सरकार ने __NP__k1:VGF2
+नामंज़ूर __JJP__pof:VGF2
+कर दिया । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उसे __NP__k1:VGF
+यही रवैया __NP__k2:VGF
+नानावटी रिपोर्ट के __NP__r6:NP4
+मामले में __NP__k7:VGF
+नहीं रखना चाहिए । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उत्तरांचल __NP__ccof:CCP
+व __CCP__k7p:VGNF
+हिमाचल में __NP__ccof:CCP
+हुई __VGNF__nmod__k1inv:NP3
+भारी बारिश से __NP__rh:VGF
+यमुना नदी __NP__k1:VGF
+उफान पर __NP__k7:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसका __NP__r6:NP2
+जलस्तर __NP__k1:VGF
+लगातार __RBP__adv:VGF
+बढ़ रहा है __VGF__ccof:CCP
+और __CCP__ROOT:0
+इसके साथ ही __NP__sent-adv:VGF2
+हरियाणा में __NP__k7p:VGF2
+बाढ़ का __NP__r6-k1:NP6
+खतरा __NP__pof:VGF2
+बढ़ता जा रहा है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+जलस्तर में __NP__nmod:NP2
+वृद्धि से __NP__rh:VGNF
+यमुना नदी पर __NP__k7p:VGNF
+बनी __VGNF__nmod__k1inv:NP4
+पनबिजली इकाइयों में __NP__k7:VGF
+उत्पादन __NP__k1:VGF
+ठप __JJP__pof:VGF
+हो गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+राज्य के __NP__r6:NP2
+कई गांवों में __NP__k7p:VGF
+बाढ़ का __NP__r6:NP4
+पानी __NP__k1:VGF
+भर गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+मांडेवाला तटबंध का __NP__r6:NP2
+एक हिस्सा भी __NP__k1:VGF
+क्षतिग्रस्त __JJP__pof:VGF
+हो गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+रादौर के __NP__r6:NP2
+मॉडल टाउन करेहड़ा में __NP__k7p:VGF
+बाढ़ के __NP__r6:NP4
+पानी में __NP__k7:VGNF
+डूबते __VGNF__nmod__k1inv:NP6
+तीन में से __NP__k5:VGF
+दो बच्चों को तो __NP__k1:VGF
+बचा लिया गया , __VGF__ccof:CCP
+लेकिन __CCP__ROOT:0
+एक __NP__k1:VGF2
+लापता __JJP__pof:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+यमुना पार डेरे में __NP__k7p:VGNF
+फंसे __VGNF__nmod__k1inv:NP2
+पांच लोगों का भी __NP__k1:VGF
+पता __JJP__pof:VGF
+नहीं चल पाया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उधर , __NP__sent-adv:VGF
+हिमाचल प्रदेश , __NP__ccof:CCP
+जम्मू - कश्मीर __NP__ccof:CCP
+और __CCP__k7p:VGF
+उत्तरांचल में भी __NP__ccof:CCP
+बाढ़ ने __NP__k1:VGF
+जन - जीवन __NP__k2:VGF
+अस्त - व्यस्त __JJP__pof:VGF
+कर दिया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+घाटी में __NP__k7p:VGF
+बाढ़ की वजह से __NP__rh:VGNN
+बगलिहार परियोजना की __NP__r6:NP4
+एक सुरंग के __NP__k1:VGNN
+बह जाने की __VGNN__r6:NP5
+खबर __NP__k1:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उत्तर प्रदेश में __NP__k7:VGF
+गंगा __NP__ccof:CCP
+और __CCP__k1:VGF
+यमुना __NP__ccof:CCP
+उफान पर __NP__k7:VGF
+हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+यमुना नदी में __NP__k7:VGF
+उफान से __NP__rh:VGF
+सैकड़ों एकड़ __NP__nmod:NP4
+गन्ना , __NP__ccof:NULL__CCP
+चारा , __NP__ccof:NULL__CCP
+धान , __NP__ccof:NULL__CCP
+NULL __NULL__CCP__ROOT:0
+सब्जी की __NP__ccof:NULL__CCP
+फसलें __NP__k1:VGF
+जलमग्न __JJP__pof:VGF
+हो गईं हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+यमुना किनारे __NP__nmod:VGNF
+बसे __VGNF__nmod__k1inv:NP2
+गांव __NP__nmod:NP3
+लाल छप्पर , __NP__ccof:NULL__CCP
+संधाला , __NP__ccof:NULL__CCP
+संधाली , __NP__ccof:NULL__CCP
+करेहड़ा , __NP__ccof:NULL__CCP
+गुमथला , __NP__ccof:NULL__CCP
+बागवाली , __NP__ccof:NULL__CCP
+जठलाना , __NP__ccof:NULL__CCP
+NULL __NULL__CCP__ROOT:0
+उन्हेड़ी आदि __NP__ccof:NULL__CCP
+दर्जनों गांवों में __NP__k7p:VGF
+पानी __NP__k1:VGF
+घुस गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+मॉडल टाउन करहेड़ा के __NP__r6:NP2
+महीपाल __NP__ccof:CCP
+व __CCP__k1:VGF
+लाल छप्पर के __NP__r6:NP4
+किसान __NP__nmod:NP5
+शेर सिंह __NP__ccof:CCP2
+व __CCP__ccof:CCP
+उनके __NP__r6:NP7
+नौकर __NP__nmod:NP8
+काला , __NP__ccof:CCP3
+काका __NP__ccof:CCP3
+व __CCP__ccof:CCP2
+एक बिहारी मजदूर __NP__ccof:CCP3
+यमुना पार डेरे पर __NP__k7p:VGF
+फंस गए थे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इनके बारे में __NP__k7:VGF
+कोई सूचना __NP__k1:VGF
+नहीं है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+करेहड़ा के __NP__r6:NP2
+तीन बच्चे __NP__nmod:NP3
+अंकुर , __NP__ccof:CCP
+संदीप __NP__ccof:CCP
+व __CCP__k1:VGF
+प्रशांत __NP__ccof:CCP
+यमुना नदी में __NP__k7:VGF
+बाढ़ का __NP__r6:NP8
+पानी __NP__k2:VGNN
+देखने के लिए __VGNN__rt:VGF
+गांव __NP__nmod:NP10
+लाल छप्पर की ओर __NP__rd:VGF
+जा रहे थे __VGF__ccof:CCP2
+कि __CCP__ROOT:0
+सड़क पर __NP__k7p:VGNN2
+अधिक पानी __NP__k1:VGNN2
+होने की वजह से __VGNN__rh:VGF2
+डूबने लगे । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+ग्रामीणों ने __NP__nmod:VGF
+अंकुर __NP__ccof:CCP
+व __CCP__k2:VGF
+संदीप को __NP__ccof:CCP
+बाहर __NP__vmod:VGF
+निकाल लिया __VGF__ccof:CCP2
+लेकिन __CCP__ROOT:0
+तीसरी कक्षा में __NP__k7:VGNN
+पढ़ने वाले __VGNN__nmod__k1inv:NP6
+१२ वर्षीय प्रशांत का __NP__r6-k1:JJP
+कुछ __NP__jjmod:JJP
+पता __JJP__pof:VGF2
+नहीं चल सका । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+गांव गुमथला , __NP__ccof:NULL__CCP
+लाल छप्पर , __NP__ccof:NULL__CCP
+NULL __NULL__CCP__ROOT:0
+संधाली के __NP__ccof:NULL__CCP
+स्कूलों के __NP__r6:NP5
+परिसर में __NP__k7p:VGNN
+पानी __NP__k1:VGNN
+घुस आने से __VGNN__rh:VGNF
+पैदा __JJP__pof:VGNF
+हुए __VGNF__nmod__k1inv:NP7
+खतरे को __NP__k2:VGNF2
+भांपते हुए __VGNF__vmod:VGF
+स्कूल प्रशासन ने __NP__k1:VGF
+छुट्टी __NP__pof:VGF
+कर दी है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+गांव लाल छप्पर के __NP__r6:NP4
+मिनी बैंक , __NP__ccof:NULL__CCP
+ईंट भट्ठा , __NP__ccof:NULL__CCP
+NULL __NULL__CCP__ROOT:0
+पोल्ट्री फार्म भी __NP__ccof:NULL__CCP
+बाढ़ की __NP__r6:NP6
+चपेट में __NP__k7:VGF
+आ गए हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+गांव मॉडल टाउन करेहड़ा के __NP__r6:NP2
+किसान __NP__nmod:NP3
+धर्मपाल , __NP__ccof:CCP
+नरेश , __NP__ccof:CCP
+ऋषि , __NP__ccof:CCP
+पीतांबर , __NP__ccof:CCP
+घनश्याम __NP__ccof:CCP
+व __CCP__k1:VGF
+कृष्ण दत्त ने __NP__ccof:CCP
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+बाढ़ के कारण __NP__rh:VGF2
+फसलों को __NP__k1:VGF2
+भारी क्षति __NP__pof:VGF2
+हुई है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+उधर , __NP__sent-adv:VGF
+छछरौली में __NP__k7p:VGF
+लाकड़ गांव भी __NP__k1:VGF
+बाढ़ की __NP__r6:NP5
+चपेट में __NP__k7:VGF
+आ गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+टापू कमालपुर के __NP__r6:NP2
+बाहरी हिस्से में भी __NP__k7p:VGF
+पानी __NP__k1:VGF
+घुस गया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+यहां __NP__k7p:VGF
+नदी के __NP__r6:NP3
+किनारे में __NP__k7p:VGF
+करीब १०० फीट का __NP__r6:NP5
+कटाव __NP__k1:VGF
+हुआ । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+जलस्तर __NP__k1:VGNN
+बढ़ने __VGNN__ccof:CCP
+व __CCP__rh:VGF
+गाद __NP__k1:VGNN2
+आने से __VGNN__ccof:CCP
+पूर्वी __JJP__ccof:CCP2
+व __CCP__nmod:NP3
+पश्चिमी __JJP__ccof:CCP2
+यमुना नहर __NP__ccof:CCP3
+और __CCP__k2:VGF
+हाइडल लिंक चैनल को __NP__ccof:CCP3
+बंद __JJP__pof:VGF
+कर दिया गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+हथनीकुंड बैराज से __NP__k5:VGF
+पानी को __NP__k1:VGF
+यमुना नदी की ओर __NP__rd:VGF
+मोड़ दिया गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पानी में __NP__k7p:VGNN
+काफी मात्रा में __NP__k7:VGNN
+गाद __NP__k1:VGNN
+आने से __VGNN__rh:VGF
+वैस्टर्न यमुना कैनाल हाइडल प्रोजेक्ट की __NP__r6:NP5
+६४.४ मेगावाट विद्युत उत्पादन क्षमता के __NP__r6:NP6
+चारों बिजली घरों में __NP__k7p:VGF
+उत्पादन __NP__k1:VGF
+ठप्प __JJP__pof:VGF
+हो गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+यमुना नदी की __NP__r6:NP2
+बाढ़ से __NP__rh:VGF
+मांडेवाला तटबंध का __NP__r6:NP4
+कुछ हिस्सा __NP__k1:VGF
+क्षतिग्रस्त __JJP__pof:VGF
+हो गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अल - कायदा से __NP__ras-k1:VGNF
+जुड़े __VGNF__nmod__k1inv:NP2
+आतंकियों के पास से __NP__k5:VGNF2
+बरामद __JJP__pof:VGNF2
+किए गए __VGNF__nmod__k2inv:NP3
+' हिदायतनामा ' में __NP__k7:VGF
+अरबियों __NP__ccof:CCP
+और __CCP__k4:VGF
+अफ़ग़ानियों को __NP__ccof:CCP
+निर्देश __NP__pof:VGF
+दिए गए हैं __VGF__ROOT:0
+कि __CCP__k2:VGF
+वे __NP__k1:VGF2
+पंजाबियों पर __NP__k7:VGF2
+भरोसा __NP__pof:VGF2
+न करें । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+इस हिदायतनामा में __NP__k7:VGF
+कहा गया है __VGF__ROOT:0
+कि __CCP__k2:VGF
+गिरफ़्तार __JJP__pof:VGNN
+होने की __VGNN__r6:NP2
+स्थिति में __NP__k7:VGF2
+कोई भी __NP__nmod:NP4
+सूचना __NP__k2:VGNN2
+देने से __VGNN__vmod:VGF2
+बचें , __VGF__ccof:CCP2
+परिवार के __NP__r6:NP6
+सदस्यों से __NP__k2:VGF3
+न मिलें __VGF__ccof:CCP2
+, __CCP__</Sentence>
+<Sentence>
+साथ ही __NP__sent-adv:VGF
+गुप्त नाम का __NP__r6-k2:NP3
+प्रयोग __NP__pof:VGF
+करें __VGF__ccof:CCP
+और __CCP__ROOT:0
+परिवार के __NP__r6:NP5
+सदस्यों से __NP__ras-k1:VGNN
+संगठन संबंधी अभियानों की __NP__r6-k2:NP7
+चर्चा __NP__pof:VGNN
+करने से __VGNN__k2:VGF2
+बचें । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उर्दू __NP__ccof:CCP
+और __CCP__k7:VGNF
+अरबी में __NP__ccof:CCP
+लिखा __VGNF__nmod__k1inv:NP3
+यह हिदायतनामा __NP__k1:VGF
+हरकत - उल - मुजाहिदीन __NP__r6:NP6
+' अलामी एचएमए ' __NP__nmod:NP4
+के __FRAGP__fragof:NP4
+आतंकी मुर्तज़ा के पास से __NP__k5:VGF
+मिला । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसे __NP__k2:VGF
+हाल ही में __NP__k7:VGF
+कराची से __NP__k5:VGF
+गिरफ़्तार __JJP__pof:VGF
+किया गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उस पर __NP__k7:VGF
+अलक़ायदा से __NP__nmod:NP3
+संबंध __NP__ccof:CCP
+और __CCP__r6:NP7
+पाकिस्तान में __NP__k7p:VGNN
+आतंकियों को __NP__k4:VGNN
+हथियार __NP__k2:VGNN
+पहुँचाने का __VGNN__ccof:CCP
+आरोप __NP__k1:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+हिदायतनामा में __NP__k7:VGNN
+अरब __NP__ccof:CCP
+और __CCP__nmod:NP4
+अफ़ग़ान __NP__ccof:CCP
+आतंकियों को __NP__k1:VGNN
+पंजाबियों पर __NP__k2:VGNN
+भरोसा __NP__pof:VGNN
+न करने के लिए __VGNN__rt:VGF
+कहा गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसमें __NP__k7:VGF
+कहा गया है __VGF__ROOT:0
+कि __CCP__k2:VGF
+अधिकतर ख़ुफ़िया अधिकारी __NP__k1:VGF2
+पंजाब से ही __NP__k5:VGF2
+हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इसमें __NP__k7:VGF
+यह भी __NP__k2:VGF
+निर्देश __NP__pof:VGF
+दिए गए हैं __VGF__ROOT:0
+कि __CCP__rs:NP2
+उन्हें __NP__k1:VGF2
+सार्वजनिक स्थलों पर __NP__k7p:VGF2
+कैसा __RBP__k2:VGF2
+व्यवहार __NP__pof:VGF2
+करना है __VGF__ccof:CCP2
+और __CCP__ccof:CCP
+गिरफ़्तारी के बाद __NP__k7t:VGF3
+कैसा __RBP__adv:VGF3
+रुख़ __NP__pof:VGF3
+अपनाना है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+इसकी __NP__r6:NP2
+शुरूआत __NP__k1:VGF
+शहीद की __NP__r6:NP4
+अवधारणा से __NP__k5:VGF
+होती है __VGF__ccof:CCP
+और __CCP__ROOT:0
+इसमें __NP__k7:VGF2
+कहा गया है __VGF__ccof:CCP
+कि __CCP__k2:VGF2
+प्रत्येक मुस्लिम का __NP__r6:NP8
+यह __NP__k1:VGF3
+पहला लक्ष्य __NP__pof:VGF3
+होना चाहिए । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+ट्रैफिक पुलिस __NP__ccof:CCP
+और __CCP__k2:VGNN
+पुलिस से __NP__ccof:CCP
+उलझने की भी __VGNN__r6-k2:NP3
+मनाही __NP__pof:VGF
+की गई है __VGF__ccof:CCP2
+और __CCP__ROOT:0
+संयम __NP__k1:VGNN2
+बनाए रखने की __VGNN__r6:NP5
+सलाह __NP__k2:VGF2
+दी गई है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+दिल्ली उच्च न्यायालय ने __NP__k1:VGF
+बॉलीवुड अदाकारा करिश्मा कपूर को __NP__k4:VGF
+चार महीने की __NP__r6:NP4
+बेटी समीरा को __NP__k2:VGNN
+अपने साथ __NP__ras-k1:VGNN
+विदेश __NP__k7p:VGNN
+नहीं ले जाने का __VGNN__r6:NP7
+आदेश __NP__k2:VGF
+दिया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+करिश्मा के __NP__r6:NP2
+पति संजय कपूर ने __NP__k1:VGF
+अदालत में __NP__k7p:VGF
+याचिका __NP__k2:VGNF
+दायर __JJP__pof:VGNF
+कर __VGNF__vmod:VGF
+समीरा को __NP__k2:VGNN
+विदेश __NP__k2p:VGNN
+ले जाने पर __VGNN__k7:VGF
+रोक लगाने की __VGNN__r6-k2:NP7
+गुहार __NP__pof:VGF
+लगाई थी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+संजय कपूर की __NP__r6:NP2
+याचिका पर __NP__k7:VGF
+न्यायमूर्ति मुकुल मुदगल ने __NP__k1:VGF
+करिश्मा को __NP__k4:VGF
+नोटिस __NP__k2:VGNF
+जारी __JJP__pof:VGNF
+करते हुए __VGNF__vmod:VGF
+उन्हें __NP__k4s:VGF
+आदेश __NP__pof:VGF
+दिया __VGF__ROOT:0
+कि __CCP__k2:VGF
+वह __NP__k1:VGF2
+पति की __NP__r6:NP10
+लिखित सहमति के बगैर __NP__ras-neg-k2:VGF2
+अपनी __NP__r6:NP12
+बेटी को __NP__k2:VGF2
+देश से बाहर __NP__k7p:VGF2
+नहीं ले जाएं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+NULL __NULL__NP__ROOT:0
+मालूम __JJP__k1s:VGF
+हो __VGF__ROOT:0
+कि __CCP__rs:NULL__NP
+करिश्मा ने __NP__k1:VGF2
+२००३ में __NP__k7t:VGF2
+दिल्ली के __NP__r6:NP4
+उद्योगपति संजय कपूर से __NP__ras-k1:VGF2
+शादी __NP__pof:VGF2
+की थी __VGF__ccof:CCP2
+लेकिन __CCP__ccof:CCP
+इसके __NP__r6:NP7
+डेढ़ साल बाद ही __NP__k7t:VGF3
+दोनों के __NP__r6:NP9
+रिश्ते __NP__k1:VGF3
+बिगड़ गए __VGF__ccof:CCP3
+और __CCP__ccof:CCP2
+मामला __NP__k1:VGF4
+तलाक तक __NP__k7:VGF4
+जा पहुंचा । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+तब __NP__k7t:VGF
+यह भी खबर __NP__k1:VGF
+आई थी __VGF__ROOT:0
+कि __CCP__rs:NP2
+करिश्मा ने __NP__k1:VGF2
+तलाक के __NP__r6:NP5
+पेपर पर __NP__k7:VGNN
+दस्तखत __NP__pof:VGNN
+करने के एवज में __VGNN__vmod:VGF2
+संजय से __NP__k5:VGF2
+७ करोड़ रुपये __NP__k2:VGF2
+मांगे थे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+संजय कपूर ने __NP__k1:VGF
+अपनी __NP__r6:NP3
+याचिका में __NP__k7:VGF
+कहा है __VGF__ROOT:0
+कि __CCP__k2:VGF
+उन्हें __NP__k4a:VGF2
+यह __NP__k1:VGF2
+पता __JJP__pof:VGF2
+चला है __VGF__ccof:CCP
+कि __CCP__k2:VGF2
+करिश्मा __NP__k1:VGF3
+समीरा को __NP__k2:VGNF
+लेकर __VGNF__vmod:VGF3
+अमेरिका __NP__k2p:VGNN
+जाने की __VGNN__r6-k2:NP9
+योजना __NP__pof:VGF3
+बना रही हैं । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+इसके लिए __NP__rt:VGF
+उनकी __NP__r6-k2:NP3
+इजाजत __NP__pof:VGF
+नहीं ली गई । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+लिहाजा __CCP__ROOT:0
+करिश्मा के __NP__k1:VGNN
+बेटी के साथ __NP__ras-k1:VGNN
+विदेश __NP__k2p:VGNN
+जाने पर __VGNN__k7:VGF
+रोक __NP__pof:VGF
+लगाई जाए । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+संजय ने __NP__k1:VGF
+अपनी __NP__r6:NP3
+याचिका में __NP__k7:VGF
+यह भी __NP__k2:VGF
+कहा है __VGF__ROOT:0
+कि __CCP__rs:NP4
+सभी कानूनों को __NP__k2:VGNF
+ताक पर __NP__k7:VGNF
+रखकर __VGNF__vmod:VGF2
+उनकी __NP__r6:NP8
+नाबालिग बेटी का __NP__r6:NP9
+पासपोर्ट __NP__k2:VGF2
+जारी __JJP__pof:VGF2
+किया गया । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इसे __NP__k2:VGNN
+जारी __JJP__pof:VGNN
+करने से पहले __VGNN__k7t:VGF
+मुंबई के __NP__r6:NP3
+पासपोर्ट कार्यालय ने __NP__k1:VGF
+उनकी __NP__r6:NP5
+सहमति __NP__k2:VGF
+नहीं ली थी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इस मामले में __NP__k7:VGF
+अदालत ने __NP__k1:VGF
+केंद्र __NP__ccof:CCP
+और __CCP__k4:VGF
+क्षेत्रीय पासपोर्ट कार्यालय __NP__ccof:CCP
+( आरपीओ ) __NP__nmod:NP4
+को __FRAGP__fragof:NP4
+नोटिस __NP__k2:VGF
+जारी __JJP__pof:VGF
+किया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+याचिकाकर्ता की __NP__r6:NP2
+अधिवक्ता ने __NP__k1:VGF
+अदालत के समक्ष __NP__k7:VGF
+पासपोर्ट __NP__pof:VGNN
+बनाने के __VGNN__r6:NP5
+संबंध में __NP__k7:VGNF
+बनाए __VGNF__nmod__k2inv:NP6
+नियमों को __NP__k2:VGNF2
+पेश __JJP__pof:VGNF2
+करते हुए __VGNF__vmod:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+नाबालिग का __NP__r6:NP8
+पासपोर्ट __NP__k2:VGNN2
+बनाने के लिए __VGNN__rt:VGF2
+पति - पत्नी __NP__nmod:NP10
+दोनों की __NP__r6:NP11
+रज़ामंदी __NP__k1:VGF2
+जरूरी __JJP__k1s:VGF2
+है __VGF__ccof:NULL__CCP
+NULL __NULL__CCP__ROOT:0
+इस संबंध में __NP__k7:VGF3
+उन्हें __NP__k1:VGF3
+फार्म __NP__k2:VGNF3
+भरकर __VGNF__vmod:VGF3
+आवश्यक घोषणा __NP__pof:VGF3
+करनी पड़ती है । __VGF__ccof:NULL__CCP
+</Sentence>
+<Sentence>
+संजय की __NP__r6:NP2
+याचिका पर __NP__k7:VGNF
+अगली सुनवाई __NP__k1:VGNF
+१२ अगस्त को __NP__k7t:VGNF
+होगी __VGNF__ROOT:0
+जिसमें __NP__k7:VGF
+उन्होंने __NP__k1:VGF
+कहा था __VGF__nmod__relc:NP2
+कि __CCP__k2:VGF
+आरपीओ ने __NP__k1:VGF2
+अवैध रूप से __NP__adv:VGF2
+उनकी __NP__r6:NP10
+नाबालिग बेटी के __NP__r6:NP11
+नाम __NP__vmod:VGF2
+पासपोर्ट __NP__k2:VGF2
+जारी __JJP__pof:VGF2
+किया है __VGF__ccof:CCP2
+जबकि __CCP__ccof:CCP
+उनकी __NP__r6:NP14
+बेटी के __NP__r6:NP15
+घर के __NP__r6:NP16
+पते के __NP__r6:NP17
+रूप में __NP__k7:VGF3
+नई दिल्ली का __NP__r6:NP19
+पता __NP__k1:VGF3
+दर्ज __JJP__pof:VGF3
+है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+NULL __NULL__NP__ROOT:0
+संजय का __NP__r6:NP2
+तर्क __NP__k1s:VGF
+है __VGF__ROOT:0
+कि __CCP__rs:NULL__NP2
+इस आधार पर __NP__k7:VGF2
+समीरा के __NP__r6:NP5
+पासपोर्ट के लिए __NP__rt:VGF2
+दिल्ली में __NP__k7p:VGF2
+आवेदन __NP__pof:VGF2
+करना चाहिए था __VGF__ccof:NEGP
+न कि __NEGP__ccof:CCP
+मुंबई में __NP__k7p:NULL__VGF
+NULL __NULL__NP__k1:VGF
+NULL । __NULL__VGF__ccof:NEGP
+</Sentence>
+<Sentence>
+संजय ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+उन्होंने __NP__k1:VGF2
+विदेश मंत्रालय को __NP__k2:VGNF
+लिखकर __VGNF__vmod:VGF2
+मामले की __NP__r6:NP5
+जांच के लिए __NP__rt:VGF2
+कहा है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इंडियन ऑयल कॉरपोरेशन __NP__k1:VGF
+( आईओसी ) __NP__nmod:NP
+ने __FRAGP__fragof:NP
+पाकिस्तान को __NP__k4:VGF
+वाघा सीमा से __NP__k5:VGNF
+होकर __VGNF__vmod:VGF
+छूट के साथ __NP__ras-k2:VGF
+३२०,००० टन __NP__nmod:NP7
+डीजल की __NP__r6:NP8
+बिक्री की __NP__r6-k2:NP9
+पेशकश __NP__pof:VGF
+की है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+४.१६ अरब डॉलर लागत वाली __NP__jjmod:JJP
+प्रस्तावित __JJP__nmod:NP2
+भारत - ईरान पाइपलाइन के जरिए __NP__rh:VGF
+प्राकृतिक गैस __NP__nmod:NP4
+आयात की __NP__r6:NP5
+योजना के तहत __NP__k7:VGNN
+सस्ते मूल्य पर __NP__k7:VGNN
+गैस खरीद के लिए __NP__rt:VGNN
+मोल - भाव __NP__pof:VGNN
+करने को __VGNN__rt:VGF
+भारत __NP__k1:VGF
+पाकिस्तान के साथ __NP__ras-k1:VGF
+साझा प्रयास __NP__pof:VGNN2
+करने की __VGNN__r6-k2:NP12
+तैयारी भी __NP__pof:VGF
+कर रहा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पेट्रोलियम मंत्री मणिशंकर अय्यर __NP__k1:VGF
+रविवार को __NP__k7t:VGF
+लाहौर से __NP__k5:VGF
+इस्लामाबाद __NP__k2p:VGF
+रवाना हुए । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+संभावना __NP__pof:VGF
+जताई जा रही है __VGF__ROOT:0
+कि __CCP__k2:VGF
+वे __NP__k1:VGF2
+पाकिस्तान को __NP__k4:VGF2
+भारत से __NP__k5:VGNN
+निर्यात की __NP__r6:NP6
+नकारात्मक सूची से __NP__k5:VGNN
+डीजल को __NP__k2:VGNN
+हटाने का __VGNN__r6-k2:NP8
+अनुरोध __NP__pof:VGF2
+करेंगे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+पाकिस्तान के __NP__r6:NP2
+वाणिज्य मंत्री हुमांयू अख्तर खान के साथ __NP__ras-k1:VGF
+मुलाकात के दौरान __NP__k7t:VGF
+वे __NP__k1:VGF
+इस विषय पर __NP__k7:VGF
+चर्चा __NP__pof:VGF
+करेंगे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+६ से ८ जून तक __NP__k7t:VGF
+अय्यर __NP__k1:VGF
+पाकिस्तान की __NP__r6:NP4
+सरकारी यात्रा पर __NP__k7p:VGF
+हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पाकिस्तान में __NP__k7p:VGNN
+डीजल आयात को __NP__ras-k2:VGNN
+बढ़ावा __NP__pof:VGNN
+देने के __VGNN__r6:NP4
+मकसद से __NP__rh:VGNN2
+आईओसी __NP__k1:VGF
+अपने __NP__r6:NP7
+उत्पादों को __NP__k2:VGNN2
+वर्तमान मूल्य स्तर से __NP__k5:VGNN2
+कम पर __NP__k7:VGNN2
+बेचने को __VGNN__ROOT:0
+इच्छुक __NP__k1s:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अधिकारियों ने __NP__k1:VGF
+यह जानकारी __NP__k2:VGNF
+देते हुए __VGNF__vmod:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+सौदा __NP__pof:VGNN
+भारतीय रिफाइनरियों में __NP__k7p:VGNN
+उत्पादन लागत के अनुसार __NP__k7:VGNN
+करने की __VGNN__ras-k2:NP6
+तैयारी __NP__k1:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+पाकिस्तान __NP__k1:VGF
+कुवैत से __NP__k5:VGF
+सालाना __NP__k7t:VGF
+२५ लाख टन __NP__nmod:NP5
+डीजल का __NP__r6:NP6
+आयात __NP__ras-k2:VGF
+करता है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+लाहौर - मुल्तान इलाके में __NP__k7p:VGF
+उसके पास __NP__vmod:VGF
+कोई रिफाइनरी __NP__k1:VGF
+नहीं है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+वह __NP__k1:VGF
+आयातित उत्पादों को __NP__k2:VGF
+सड़क __NP__ccof:CCP
+या __CCP__jk1:VGF
+रेल द्वारा __NP__ccof:CCP
+कराची की __NP__r6:NP6
+रिफाइनरियों से __NP__k5:VGF
+हासिल __JJP__pof:VGF
+करता है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+आईओसी __NP__k1:VGF2
+जमीनी मार्ग से __NP__k5:VGF2
+सीमा पार __NP__k7p:VGF2
+डीजल का __NP__r6-k2:NP6
+निर्यात __NP__pof:VGF2
+कर सकता है __VGF__ccof:CCP
+और __CCP__ROOT:0
+सीधे लाहौर __NP__k2p:VGF3
+पहुंचा सकता है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+डीजल को __NP__k1:VGF
+पानीपत रिफाइनरी से __NP__k5:VGF
+पाइप द्वारा __NP__k3:VGF
+जालंधर __NP__k2p:VGF
+पहुंचाया जा सकता है __VGF__ccof:CCP
+और __CCP__ROOT:0
+वहां से __NP__k7p:VGF2
+सड़क __NP__ccof:CCP2
+और __CCP__k3:VGF2
+रेल द्वारा __NP__ccof:CCP2
+लाहौर __NP__k2p:VGF2
+भेजा जा सकता है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+कंपनी ने __NP__k1:VGF
+जुलाई से __NP__k7t:VGF
+छह महीने की __NP__r6:NP4
+अवधि के बीच __NP__k7t:VGF
+३२०,००० टन __NP__nmod:NP6
+डीजल __NP__k2:VGNN
+बेचने की __VGNN__r6-k2:NP7
+पेशकश __NP__pof:VGF
+की है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अय्यर __NP__k1:VGF
+पाकिस्तान से __NP__k5:VGF
+बातचीत के दौरान __NP__k7t:VGF
+ईरान से __NP__k5:VGNN
+सस्ते दर पर __NP__k7:VGNN
+गैस __NP__nmod:NP7
+आयात के लिए __NP__rt:VGNN
+पाकिस्तान __NP__ccof:CCP
+और __CCP__k2:VGNN
+भारत को __NP__ccof:CCP
+साथ __NP__pof:VGNN
+आने की __VGNN__r6:NP11
+जरूरत पर भी __NP__k7:VGF
+जोर __NP__pof:VGF
+देंगे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अधिकारियों ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+अय्यर __NP__k1:VGF2
+तुर्कमेनिस्तान - अफगानिस्तान - पाकिस्तान पाइपलाइन की __NP__r6:NP4
+प्रगति __NP__ccof:CCP2
+और __CCP__r6:NP8
+भारत तक __NP__k7p:VGF2
+इसके __NP__r6:NP7
+विस्तार की __NP__ccof:CCP2
+संभावनाओं का __NP__r6:NP9
+आकलन भी __NP__r6-k2:VGF2
+करेंगे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+अमेरिका के __NP__r6:NP2
+५० राज्यों में से __NP__k5:VGF
+केवल ३ राज्यों के __NP__r6:NP4
+नतीजों का __NP__r6:NP5
+इंतजार __NP__k1:VGF
+है __VGF__ccof:CCP
+, __CCP__ROOT:0
+अगर __CCP__vmod:VGF3
+कुछ अप्रत्याशित __JJP__k1:VGF2
+न हुआ , __VGF__ccof:CCP2
+तो __CCP__ccof:CCP
+यह __NP__k1:VGF3
+बिल्कुल __RBP__vmod:VGF3
+साफ __JJP__k1s:VGF3
+हो चुका है __VGF__ccof:CCP3
+कि __CCP__rs:NP6
+रिपब्लिकन राष्ट्रपति जॉर्ज डब्ल्यू बुश __NP__k1:VGF4
+दोबारा __RBP__vmod:VGF4
+राष्ट्रपति __NP__k2:VGNN
+बनने के लिए __VGNN__rt:VGF4
+ताल __NP__pof:VGNF
+ठोककर __VGNF__vmod:VGF4
+तैयार __JJP__pof:VGF4
+हैं । __VGF__ccof:CCP4
+</Sentence>
+<Sentence>
+जितनी बड़ी जीत __NP__k1:VGF
+बुश को __NP__k4a:VGF
+इस बार __NP__k7t:VGF
+मिलने जा रही है , __VGF__nmod__relc:NP4
+उतनी __NP__k1:VGF2
+पिछले चुनाव में भी __NP__k7:VGF2
+नहीं मिली थी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+वह __NP__k1:VGF
+पिछली बार के __NP__r6:NP3
+उलट पुलट वोटों की __NP__r6:NP4
+दौड़ में भी __NP__k7:VGF
+अपने __NP__r6:NP6
+डेमोक्रेट प्रतिद्वंद्वी से __NP__k5:VGF
+बहुत आगे __NP__vmod:VGF
+निकल गए हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उधर , __NP__sent-adv:VGF
+जॉन केरी ने __NP__k1:VGF
+अपनी __NP__r6:NP4
+हार __NP__k2:VGF
+स्वीकार __NP__pof:VGF
+कर ली __VGF__ccof:CCP
+और __CCP__ROOT:0
+बुश को __NP__k4:VGF2
+फोन पर __NP__k7:VGF2
+बधाई __NP__pof:VGF2
+दी है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+राष्ट्रपति चुनाव के अलावा __NP__ras-NEG:VGF
+हाउस ऑफ रिप्रेजेंटेटिव , __NP__ccof:CCP
+सीनेट __NP__ccof:CCP
+व __CCP__rt:VGNF
+गवर्नर पदों के लिए __NP__ccof:CCP
+हुए __VGNF__nmod__k1inv:NP5
+चुनावों में भी __NP__k7:VGF
+रिपब्लिकन पार्टी का __NP__r6:NP7
+परचम __NP__k1:VGF
+लहराया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+राष्ट्रपति चुनाव में __NP__k7:VGF
+फिलहाल __RBP__vmod:VGF
+जीत - हार का __NP__r6:NP3
+कांटा __NP__k1:VGF
+केवल एक राज्य __NP__nmod:NP5
+ओहियो पर __NP__k7:VGF
+अटका हुआ है , __VGF__ROOT:0
+जहां __NP__k7p:VGF2
+२० इलेक्टोरल वोट __NP__k1:VGF2
+हैं । __VGF__nmod__relc:NP5
+</Sentence>
+<Sentence>
+ओहियो में __NP__k7p:VGF
+प्रोविजनल __JJP__ccof:CCP
+व __CCP__nmod:NP2
+अबसेंटी __JJP__ccof:CCP
+वोटों की __NP__r6:NP3
+गिनती __NP__k1:VGF
+बाकी __JJP__k1s:VGF
+है , __VGF__ROOT:0
+जिसमें __NP__k7:VGF2
+चुनाव अधिकारियों के अनुसार __NP__k7:VGF2
+और १० - ११ दिन __NP__k7t:VGF2
+लग सकते हैं । __VGF__nmod__relc:NP3
+</Sentence>
+<Sentence>
+पिछले चुनाव में __NP__k7:VGF
+फ्लोरिडा के __NP__r6:NP3
+नतीजे __NP__k1:VGF
+कानूनी लड़ाई का __NP__r6:NP5
+अखाड़ा __NP__k1s:VGF
+बने थे , __VGF__vmod:VGF2
+तो __CCP__ROOT:0
+इस बार __NP__k7t:VGF2
+शायद __RBP__vmod:VGF2
+ओहियो __NP__k1:VGF2
+अखाड़ा __NP__k1s:VGF2
+बनेगा । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+विवाद __NP__k1:VGF
+जारी __JJP__pof:VGF
+है , __VGF__ccof:CCP
+लेकिन __CCP__ROOT:0
+जीत के प्रति __NP__jjmod:JJP2
+आश्वस्त __JJP__nmod:NP3
+व्हाइट हाउस के __NP__r6:NP4
+चीफ ऑफ स्टाफ एंडी कार्ड ने __NP__k1:VGF2
+चुनाव में __NP__k7:VGF2
+अपने __NP__r6:NP7
+बॉस __NP__nmod:NP8
+जॉर्ज बुश की __NP__r6:NP9
+जीत का __NP__r6:RBP
+जोर - शोर से __RBP__adv:VGF2
+दावा __NP__pof:VGF2
+कर दिया है , __VGF__ccof:CCP2
+लेकिन __CCP__ccof:CCP
+डेमोक्रेट उम्मीदवार __NP__k1:VGF3
+बुश को __NP__k4:VGNN
+कानूनी चुनौती __NP__pof:VGNN
+देने को __VGNN__vmod:VGF3
+तैयार __JJP__k1s:VGF3
+नज़र __NP__pof:VGF3
+आ रहे हैं । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+वैसे __NP__sent-adv:VGF
+ओहियो में __NP__k7p:VGF
+बुश __NP__k1:VGF
+१,४५,००० मतों से आगे __NP__k7:VGF
+हैं __VGF__ccof:CCP
+और __CCP__ROOT:0
+लगभग १,९०,००० मतों की __NP__r6-k1:NP6
+गिनती __NP__pof:VGF2
+अभी __NP__k7t:VGF2
+होनी है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+बाकी __JJP__k2:VGNF
+बची __VGNF__nmod__k1inv:NP
+गिनती में __NP__k7:VGF
+केरी का __NP__k1:VGNN
+आगे __NP__pof:VGNN
+निकलना __VGNN__k1:VGF
+मुश्किल ही __JJP__k1s:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके अलावा __NP__ras-neg-k7p:VGF
+आयोवा __NP__ccof:CCP
+और __CCP__k7p:VGF
+न्यू मैक्सिको में भी __NP__ccof:CCP
+बुश को __NP__k4a:VGF
+बढ़त __NP__k1:VGF
+मिली हुई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+आयोवा में __NP__k7p:VGF
+एबसेंटी मतों की __NP__r6:NP3
+गिनती __NP__k1:VGF
+पूरी __JJP__pof:VGF
+नहीं हुई है , __VGF__vmod:NULL__VGF
+तो __CCP__ccof:CCP2
+न्यू मैक्सिको में __NP__k7p:NULL__VGF
+काउंटिंग मशीनों में __NP__k7p:NULL__VGF
+खराबी __NP__k1:NULL__VGF
+NULL __NULL__VGF__ROOT:0
+, __CCP__ROOT:0
+हजारों एबसेंटी मतों के __NP__nmod__k1inv:VGNN
+न मिलने के कारण __VGNN__rh:VGF2
+गिनती में __NP__k7:VGF2
+देरी __NP__pof:VGF2
+हो रही है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+बुश खेमा __NP__k1:VGF
+बहुत आश्वस्त __JJP__k1s:VGF
+नज़र __NP__pof:VGF
+आ रहा है , __VGF__ROOT:0
+क्योंकि __CCP__rh:VGF
+आंकड़े __NP__k1:VGF2
+उनके साथ __NP__ras-k1:VGF2
+हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+बुश खेमे का __NP__k1:VGNF
+NULL __NULL__NP__ROOT:0
+कहना __VGNF__k1:VGF
+है __VGF__ROOT:0
+कि __CCP__rs:NULL__NP
+बुश को __NP__k4a:VGF2
+२८६ इलेक्टोरल वोट __NP__k1:VGF2
+मिल जाएंगे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+अमेरिका में __NP__k7p:NP4
+राष्ट्रपति __NP__k2:VGNF
+बनने के लिए __VGNF__rt:NP4
+केवल २७० इलेक्टोरल वोटों की __NP__r6-k2:NP4
+जरूरत __NP__pof:VGF
+होती है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+मतों की __NP__r6:NP2
+शुरुआती गिनती में __NP__k7:VGF
+आगे __NP__k7:VGNN
+निकलने के बाद __VGNN__k7t:VGF
+बुश ने __NP__k1:VGF
+कहा था , __VGF__ROOT:0
+मैं __NP__k1:VGF2
+उत्साहित __JJP__k1s:VGF2
+हूं __VGF__ccof:CCP
+और __CCP__k2:VGF
+मुझे __NP__k4a:VGF3
+विश्वास __NP__k1:VGF3
+है __VGF__ccof:CCP
+कि __CCP__rs:NP7
+मैं __NP__k1:VGF4
+जीतूंगा । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+बुधवार को __NP__k7t:VGF
+मतों की __NP__r6:NP3
+गिनती __NP__k1:VGF
+भले ही __RBP__vmod:VGF
+पूरी __JJP__pof:VGF
+न हो पाई हो , __VGF__ccof:CCP
+लेकिन __CCP__ROOT:0
+यह __NP__k1:VGF2
+साफ __JJP__k1s:VGF2
+हो चुका है __VGF__ccof:CCP
+कि __CCP__rs:NP4
+५८ वर्षीय बुश __NP__k1:VGF3
+अपने __NP__ccof:CCP3
+और __CCP__k7:VGF3
+अमेरिकी जनता के __NP__r6:NP8
+विश्वास पर __NP__ccof:CCP3
+खरे __JJP__pof:VGF3
+उतरे हैं । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+उधर , __NP__sent-adv:VGF
+जिज्ञासा का __NP__r6:NP3
+केंद्र __NP__k2:VGNF
+बने __VGNF__nmod__k1inv:NP4
+ओहियो राज्य के __NP__r6:NP5
+रिपब्लिकन सेक्रेटरी ऑफ स्टेट केन ब्लेकवेल का __NP__k1:VGNF2
+NULL __NULL__NP__ROOT:0
+कहना __VGNF__k1:VGF
+है __VGF__ROOT:0
+कि __CCP__rs:NULL__NP
+राज्य के __NP__r6:NP7
+कानूनों के तहत __NP__k7:VGF2
+आगामी १० दिनों तक __NP__k7t:VGF2
+मतों की __NP__r6-k1:NP10
+गिनती __NP__pof:VGF2
+नहीं होगी । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+यानी __CCP__sent-adv:VGF
+यह __NP__k1:VGF
+साफ __JJP__k1s:VGF
+है __VGF__ROOT:0
+कि __CCP__rs:JJP
+अंतिम नतीजों के लिए __NP__rt:VGF2
+केवल अमेरिका को ही __NP__ccof:NEGP
+नहीं , __NEGP__ccof:CCP3
+बल्कि __CCP__k1:VGF2
+पूरी दुनिया को __NP__ccof:CCP3
+और १० दिन __NP__k7t:VGF2
+इंतजार __NP__pof:VGF2
+करना होगा । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+अमेरिका में __NP__k7p:VGF
+रिपब्लिकन __NP__k1:VGF
+जीत की __NP__r6-k2:NP4
+खुशी __NP__pof:VGF
+मना रहे हैं , __VGF__ccof:CCP
+लेकिन __CCP__ROOT:0
+डेमोक्रेट __NP__k1:VGF2
+हार __NP__pof:VGNN
+मानने को __VGNN__k2:VGF2
+तैयार __JJP__pof:VGF2
+नहीं हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+बुश के __NP__r6:NP2
+डेमोक्रेट प्रतिद्वंद्वी कैरी के __NP__r6:NP3
+सहयोगी __NP__ccof:CCP
+व __CCP__k1:VGNF
+उपराष्ट्रपति पद के __NP__r6:NP5
+उम्मीदवार जॉन एडवर्ड का __NP__ccof:CCP
+NULL __NULL__NP__ROOT:0
+कहना __VGNF__k1:VGF
+है __VGF__ROOT:0
+कि __CCP__rs:NULL__NP
+हम __NP__k1:VGF2
+एक - एक वोट के लिए __NP__rt:VGF2
+लड़ेंगे । __VGF__k1:CCP2
+</Sentence>
+<Sentence>
+एडवर्ड ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+जॉन केरी __NP__ccof:CCP2
+और __CCP__k1:VGF2
+मैंने __NP__ccof:CCP2
+अमेरिकी जनता से __NP__ras-k1:VGF2
+वायदा __NP__pof:VGF2
+किया था __VGF__ccof:CCP
+कि __CCP__k2:VGF2
+इस चुनाव में __NP__k7:VGF3
+एक - एक वोट का __NP__r6-k1:NP8
+महत्व __NP__pof:VGF3
+होगा __VGF__ccof:CCP4
+और __CCP__ccof:CCP3
+एक - एक वोट की __NP__r6-k1:NP10
+गिनती __NP__pof:VGF4
+होगी __VGF__ccof:CCP5
+, __CCP__ccof:CCP4
+हम __NP__k1:VGF5
+अपने __NP__r6:NP13
+वायदे पर __NP__k7:VGF5
+क़ायम __JJP__pof:VGF5
+हैं । __VGF__ccof:CCP5
+</Sentence>
+<Sentence>
+अभी तक __NP__k7t:VGF
+४७ राज्यों के __NP__r6:NP3
+नतीजे __NP__k1:VGF
+साफ __JJP__pof:VGF
+हो चुके हैं , __VGF__ROOT:0
+जिनमें से __NP__k5:NULL__VGF
+२८ राज्य __NP__k1:NULL__VGF
+बुश के __NP__r6:NP7
+पक्ष में __NP__k7:NULL__VGF
+NULL __NULL__VGF__ccof:CCP
+और __CCP__nmod__relc:NP3
+१९ राज्य __NP__k1:VGF2
+कैरी के __NP__r6:NP10
+पक्ष में __NP__k7:VGF2
+गए हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+काफ़ी अधिकतम सीटों वाले __NP__nmod:NP2
+कैलिफोर्निया __NP__k1:VGF
+५५ इलेक्टोरल वोट से __NP__k3:VGF
+जीतने के बावजूद __VGNN__vmod:VGF
+दौड़ में __NP__k7:VGF
+पिछड़ गए हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+राष्ट्रपति चुनाव के अलावा __NP__ras-NEG:VGF
+हाउस ऑफ रिप्रेजेंटेटिव , __NP__ccof:CCP
+सीनेट __NP__ccof:CCP
+व __CCP__k7:VGF
+गवर्नर के __NP__r6:NP5
+चुनावों में भी __NP__ccof:CCP
+रिपब्लिकन पार्टी ने __NP__k1:VGF
+बाज़ी __NP__pof:VGF
+मार ली है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+एक महत्वपूर्ण तथ्य __NP__k1:VGF
+यह __NP__k1s:VGF
+है __VGF__ROOT:0
+कि __CCP__ccof:VGF
+अमेरिका में __NP__k7p:VGF2
+तीसरी बार __NP__k7t:VGF2
+एक अफ्रीकी मूल का __NP__r6:NP6
+नेता __NP__k1:VGF2
+सीनेट में __NP__k7:VGNN
+प्रवेश __NP__pof:VGNN
+करने में __VGNN__k7:VGF2
+सफल __JJP__pof:VGF2
+हुआ है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+अफ्रीकी मूल के __NP__r6:NP2
+बराक ओबामा ने __NP__k1:VGF
+इलिनॉय राज्य में __NP__k7p:VGF
+डेमोक्रेटिक उम्मीदवार के __NP__r6:NP5
+रूप में __NP__k7:VGF
+जीत __NP__k2:VGF
+दर्ज __JJP__pof:VGF
+की है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+अफ्रीकी मूल के ही __NP__r6:NP4
+अपने __NP__r6:NP4
+प्रतिद्वंद्वी को __NP__k2:VGF
+चुनाव में __NP__k7:VGF
+पराजित __JJP__pof:VGF
+किया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+कांग्रेस अध्यक्ष सोनिया गांधी के खिलाफ __NP__vmod:VGF
+विदेशी मूल के __NP__r6:NP3
+मुद्दे पर __NP__k7:VGNF
+जंग __NP__k1:VGNF
+जारी __JJP__pof:VGNF
+रखते हुए __VGNF__vmod:VGF
+गुजरात के __NP__r6:NP6
+मुख्यमंत्री नरेंद्र मोदी ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+जो लोग __NP__k1:VGF2
+मातृभूमि से __NP__ras-k1:VGF2
+संबंध __NP__pof:VGF2
+नहीं रखते हैं , __VGF__nmod__relc:NP10
+उन्हें __NP__k1:VGF3
+राष्ट्रीय सम्मान के __NP__r6-k2:NP12
+उपदेश __NP__pof:VGNN
+देने से __VGNN__k5:VGF3
+बचना चाहिए । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+मोदी ने __NP__k1:VGF
+मंगलवार की __NP__r6:NP3
+रात को __NP__k7t:VGF
+यहां __NP__k7p:VGF
+एक चुनावी रैली में __NP__rs:NP4
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+विदेशी व्यक्ति को __NP__k4:VGF2
+हमें __NP__k1:VGF2
+स्वाभिमान के बारे में __NP__k7:VGF2
+उपदेश __NP__k2:VGF2
+नहीं देना चाहिए । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+मंगलवार को __NP__k7t:VGNF
+सोनिया , __NP__ccof:CCP
+एनसीपी प्रमुख शरद पवार __NP__ccof:CCP
+और __CCP__r6:NP5
+आरपीआई नेता रामदास अठावले की __NP__ccof:CCP
+संयुक्त रैली को __NP__k2:VGNF
+मल्टी स्टार शो __NP__k2s:VGNF
+करार __NP__pof:VGNF
+देते हुए __VGNF__vmod:VGF
+मोदी ने __NP__k1:VGF
+आरोप __NP__pof:VGF
+लगाया __VGF__ROOT:0
+कि __CCP__k2:VGF
+कांग्रेस ने __NP__k1:VGF2
+अपना __NP__r6:NP12
+वोट बैंक __NP__k2:VGNN
+बचाने के लिए __VGNN__rt:VGF2
+मुस्लिमों के __NP__r6:NP14
+आरक्षण की __NP__r6-k2:NP15
+घोषणा __NP__pof:VGF2
+की है , __VGF__ccof:CCP2
+जिसका __NP__r6-k2:NP18
+भाजपा __NP__k1:VGF3
+विरोध __NP__pof:VGF3
+करेगी । __VGF__nmod__relc:NP15
+</Sentence>
+<Sentence>
+मोदी ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+तिंरगा __NP__k1:NULL__VGF
+हमारी __NP__r6:NP4
+सोच में ही __NP__k7:NULL__VGF
+नहीं , __NEGP__vmod:NULL__VGF
+NULL __NULL__VGF__ROOT:0
+बल्कि __CCP__ccof:CCP
+हमारे __NP__r6:NP6
+खून में __NP__k7:VGF2
+है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+गुजरात के __NP__r6:NP2
+मुख्यमंत्री ने __NP__k1:VGF
+आरोप __NP__k2:VGF
+लगाया __VGF__ROOT:0
+कि __CCP__k2:VGF
+महाराष्ट्र में __NP__k7p:VGF2
+कांग्रेस - एनसीपी के __NP__r6:NP6
+पांच साल के __NP__r6:NP7
+कार्यकाल के दौरान __NP__k7t:VGF2
+कीमतें __NP__k1:VGF2
+आसमान __NP__pof_idiom:VGF2
+छूने लगी हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+किसानों द्वारा __NP__k1:VGF
+आत्महत्या की __NP__r6:NP3
+घटना में __NP__k7:VGF
+वृद्धि __NP__pof:VGF
+हुई __VGF__ccof:CCP
+और __CCP__ROOT:0
+आदिवासी इलाकों में __NP__k7p:VGF2
+सैकड़ों बच्चों की __NP__r6:NP7
+कुपोषण की __NP__r6:NP8
+वजह से __NP__rh:VGF2
+मौत __NP__k1:VGF2
+हो गई है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+मोदी __NP__k1:VGF
+राज्य में __NP__k7t:VGNN
+१३ अक्तूबर को __NP__k7t:VGNN
+होने वाले __VGNN__nmod__k1inv:NP4
+विधानसभा चुनावों के लिए __NP__rt:VGF
+नासिक से __NP__nmod:NP6
+भाजपा उम्मीदवार डॉ डी एस अहीर __NP__ccof:CCP
+और __CCP__r6:NP8
+अन्य उम्मीदवारों के __NP__ccof:CCP
+प्रचार के __NP__r6:NP9
+सिलसिले में __NP__k7:VGF
+शहर में __NP__k7p:VGF
+हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+श्रीलंका की __NP__r6:NP2
+राष्ट्रपति __NP__rs:NP3
+चंद्रिका कुमारतंग __NP__k1:VGF
+पांच दिन की __NP__r6:NP5
+यात्रा पर __NP__k7:VGF
+बृहस्पतिवार सुबह __NP__k7t:VGF
+नई दिल्ली __NP__k2p:VGF
+पहुंची । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+वे __NP__k1:VGF
+भारतीय नेताओं के साथ __NP__ras-k1:VGF
+द्विपक्षीय __JJP__ccof:CCP
+और __CCP__ras-k7:VGF
+अंतर्राष्ट्रीय मुद्दों के साथ - साथ __NP__ccof:CCP
+लिट्टे से __NP__jjmod:JJP2
+जारी __JJP__nmod:NP5
+शांति वार्ता पर भी __NP__k7:VGF
+विचार - विमर्श __NP__pof:VGF
+करेंगी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+कुमारतुंग __NP__k1:VGF
+यहां __NP__k7p:VGNN
+पहुंचने के बाद __VGNN__k7t:VGF
+बृहस्पतिवार को __NP__k7t:VGF
+प्रधानमंत्री मनमोहन सिंह से __NP__ras-k1:VGF
+मिलीं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+दोनों नेताओं ने __NP__k1:VGF
+द्विपक्षीय __JJP__ccof:CCP
+और __CCP__nmod:NP2
+आर्थिक __JJP__ccof:CCP
+सहयोग के __NP__r6:NP3
+मुद्दों पर __NP__k7:VGF
+विस्तार से __NP__adv:VGF
+चर्चा __NP__pof:VGF
+की । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+बैठक के दौरान , __NP__k7t:VGF
+श्रीलंकाई राष्ट्रपति ने __NP__k1:VGF
+मनमोहन सिंह को __NP__k4:VGF
+लिट्टे के साथ __NP__ras-k1:VGNF
+चल रही __VGNF__nmod__k2inv:NP5
+शांति प्रक्रिया के बारे में __NP__k7:VGF
+जानकारी __NP__pof:VGF
+दी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+दोनों पक्षों ने __NP__k1:VGF
+माना __VGF__ROOT:0
+कि __CCP__k2:VGF
+हाल के __NP__r6:NP3
+दिनों में __NP__k7t:VGF2
+भारत - श्रीलंका रिश्तों में __NP__k7p:VGF2
+महत्वपूर्ण प्रगति __NP__pof:VGF2
+हुई है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__sent-adv:VGF
+दोनों देशों ने __NP__k1:VGF
+मछली __NP__ccof:CCP
+व __CCP__r6:NP5
+रक्षा के __NP__ccof:CCP
+क्षेत्रों में __NP__k7:VGF
+सहयोग के __NP__r6:NP7
+संभावनाओं के __NP__r6:NP8
+संबंध में भी __NP__k7:VGF
+चर्चा __NP__pof:VGF
+की । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+बैठक के दौरान __NP__k7t:VGF
+श्रीलंका की तरफ़ से __NP__rd:VGF
+विदेश मंत्री लक्षमण कादिरगमार __NP__ccof:CCP
+और __CCP__k1:VGF
+भारत में __NP__nmod:NP5
+श्रीलंका के __NP__r6:NP6
+उच्चायुक्त मंगल मूनसिंघे __NP__ccof:CCP
+शामिल __JJP__pof:VGF
+थे __VGF__ROOT:0
+जबकि __CCP__vmod:VGF
+मनमोहन सिंह के साथ __NP__ras-k1:VGF2
+विदेश मंत्री नटवर सिंह , __NP__ccof:CCP3
+सुरक्षा सलाहकार जे. एन. दीक्षित __NP__ccof:CCP3
+और __CCP__k1:VGF2
+श्रीलंका में __NP__k7p:VGF2
+भारत की __NP__r6:NP12
+उच्चायुक्त निरुपमा राव __NP__ccof:CCP3
+थे । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+अपनी __NP__r6:NP2
+यात्रा के दौरान __NP__k7t:VGF
+कुमारतुंग __NP__k1:VGF
+राष्ट्रपति ए. पी. जे. अब्दुल कलाम __NP__ccof:CCP
+और __CCP__k2:VGF
+कांग्रेस अध्यक्ष सोनिया गांधी से __NP__ccof:CCP
+मिलेंगी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+साथ में __NP__k7:VGF
+विपक्ष के __NP__r6:NP3
+नेता लाल कृष्ण आडवाणी __NP__ccof:CCP
+और __CCP__k2:VGF
+पूर्व प्रधानमंत्री अटल बिहारी वाजपेयी से __NP__ccof:CCP
+मुलाकात __NP__pof:VGF
+करेंगी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+NULL __NP__k1:VGF
+गौरतलब __JJP__k1s:VGF
+है __VGF__ROOT:0
+कि __CCP__k2:VGF
+यूपीए सरकार __NP__k1:VGNN
+बनने के बाद __VGNN__k7t:VGF2
+श्रीलंका की __NP__r6:NP6
+राष्ट्रपति की __NP__nmod:NP6
+यह __NP__k1:NP6
+पहली भारत यात्रा __NP__k2:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इससे पहले __NP__k7t:VGF
+वह __NP__k1:VGF
+पिछले साल __NP__k7t:VGF
+अप्रैल में __NP__k2p:VGF
+भारत __NP__k7p:VGF
+आई थीं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+प्रधानमंत्री मनमोहन सिंह __NP__k1:VGF
+अगले साल की __NP__r6:NP3
+शुरूआत में __NP__k7:VGF
+पाकिस्तान __NP__k2p:VGF
+जाएंगे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इधर , __NP__sent-adv:VGF
+पाकिस्तान के __NP__r6:NP3
+प्रधानमंत्री शौकत अजीज का __NP__k1:VGF
+कहना है __VGF__ROOT:0
+कि __CCP__k2:VGF
+दोनों देश __NP__k1:VGF2
+रेल व वायु मार्ग संपर्क __NP__k2:VGNN
+बढ़ाने पर __VGNN__k7:VGF2
+विचार __NP__pof:VGF2
+कर रहे हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इसके अलावा __NP__vmod:VGF
+दोनों देश __NP__k1:VGF
+अपने __NP__r6:NP4
+सबसे प्रमुख बैंकों की __NP__r6:NP5
+शाखाएं __NP__k2:VGF
+एक - दूसरे के __NP__r6:NP7
+देश में __NP__k7p:VGF
+खोलेंगे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पाकिस्तान में __NP__k7p:VGF
+भारतीय उच्चायुक्त शिव शंकर मेनन ने __NP__k1:VGF
+सोमवार को __NP__k7t:VGF
+कराची में __NP__k7p:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+प्रधानमंत्री मनमोहन सिंह __NP__k1:VGF2
+अगले साल की __NP__r6:NP7
+शुरूआत में __NP__k7:VGF2
+पाकिस्तान __NP__k7p:VGF2
+आने के __VGNN__r6:JJP
+इच्छुक __JJP__k1s:VGF2
+हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इस सिलसिले में __NP__k7:VGF
+उन्हें __NP__k1:VGF
+पहले ही __NP__k7t:VGF
+पाकिस्तान सरकार का __NP__r6:NP5
+न्योता __NP__k2:VGF
+मिल चुका है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+मेनन ने __NP__k1:VGF
+उप उच्चायुक्त टी. सी. ए. राघवन के साथ __NP__ras-k1:VGF
+उद्योगपतियों से __NP__nmod:NP4
+मुलाकात के बाद __NP__k7t:VGF
+बताया __VGF__ROOT:0
+कि __CCP__ccof:VGF
+भारत __NP__k1:VGF2
+पाकिस्तान के __NP__r6:NP7
+१०० छात्रों को __NP__k4:VGNN2
+भारत में __NP__k7p:VGNN
+पढ़ने के लिए __VGNN__rt:VGNN2
+छात्रवृत्ति __NP__k2:VGNN2
+देने पर __VGNN__k7:VGF2
+विचार __NP__pof:VGF2
+कर रहा है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+साथ ही __NP__sent-adv:VGF
+भारत __NP__k1:VGF
+अपने __NP__r6:NP4
+प्रमुख बैंकों की __NP__r6:NP5
+शाखाएं __NP__k2:VGNN
+पाकिस्तान के __NP__r6:NP7
+शहरों में __NP__k7p:VGNN
+खोलने के लिए __VGNN__rt:VGF
+बैंकों को __NP__k4:VGNN2
+अनुमति __NP__pof:VGNN2
+देने पर भी __VGNN__k7:VGF
+विचार __NP__pof:VGF
+कर रहा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+मेनन ने __NP__k1:VGF
+हाल में __NP__vmod:VGNF
+दक्षिणी सिंध प्रांत का __NP__r6-k2:NP4
+दौरा __NP__pof:VGNF
+करके __VGNF__vmod:VGF
+कराची में __NP__k7p:VGNF2
+नाजिम नाइमातुल्ला खां से भी __NP__ras-k1:VGNF2
+रविवार को __NP__k7t:VGNF2
+मुलाकात __NP__pof:VGNF2
+कर __VGNF__vmod:VGNN
+भारतीय वाणिज्य दूतावास __NP__k2:VGNN
+खोलने के बारे में भी __VGNN__k7:VGF
+विचार - विमर्श __NP__pof:VGF
+किया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+भारत __NP__k1:VGF
+करांची में __NP__k7p:VGNN
+जल्दी ही __RBP__adv:VGNN
+अपना __NP__r6:NP4
+कॉन्सलेट __NP__k2:VGNN
+खोलना __VGNN__k2:VGF
+चाहता है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+मेनन ने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+मुंबई में __NP__k7p:VGNN
+पाकिस्तानी कॉन्सलेट __NP__k2:VGNN
+खोले जाने के लिए __VGNN__rt:VGF2
+पाकिस्तान सरकार को __NP__k4:VGF2
+शहर की __NP__r6:NP6
+कई जमीनें __NP__k2:VGF2
+दिखाई गई हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+लेकिन __CCP__ROOT:0
+इस पर __NP__k7:VGF
+कोई फैसला __NP__k2:VGF
+नहीं हो पाया है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+दरअसल __CCP__ROOT:0
+पाकिस्तान __NP__k1:VGF
+इस काम के लिए __NP__rt:VGF
+मुंबई __NP__jjmod:JJP
+स्थित __JJP__nmod:NP4
+जिन्ना हाउस __NP__k2:VGF
+मांग रहा है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इधर , __NP__sent-adv:VGF
+पाकिस्तान के __NP__r6:NP3
+प्रधानमंत्री शौकत अजीज का __NP__k1:VGF
+कहना है __VGF__ROOT:0
+कि __CCP__k2:VGF
+दोनों देश __NP__k1:VGF2
+व्यापार __NP__ccof:CCP2
+व __CCP__k2:VGNN
+आर्थिक गतिविधियों को __NP__ccof:CCP2
+बढ़ावा __NP__pof:VGNN
+देने के लिए __VGNN__rt:VGF2
+अपने __NP__r6:NP9
+बैंकों की __NP__r6:NP10
+शाखाएं __NP__k2:VGNN2
+एक - दूसरे के __NP__r6:NP12
+शहरों में __NP__k7p:VGNN2
+खोलने पर __VGNN__k7:VGF2
+विचार __NP__pof:VGF2
+कर रहे हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+साथ ही __NP__sent-adv:VGF
+रेल व वायु मार्ग संपर्क __NP__pof:VGNN
+बढ़ाने पर भी __VGNN__k7:VGF
+जोर __NP__pof:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+हालांकि __CCP__ROOT:0
+उन्होंने __NP__k1:VGF
+कहा __VGF__ccof:CCP
+कि __CCP__k2:VGF
+कश्मीर मुद्दे को __NP__k2:VGNF
+सुलझाए बगैर __VGNF__vmod:VGF2
+अन्य मुद्दों को __NP__k2:VGNN
+सुलझाने से __VGNN__rh:VGF2
+आपसी विश्वास __NP__k1:VGF2
+नहीं __NEGP__vmod:VGF2
+बहाल __JJP__pof:VGF2
+होगा । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+भारतीय पक्ष भी __NP__k1:VGF2
+शांति प्रक्रिया को __NP__k2:VGNN
+आगे __NP__pof:VGNN
+बढ़ाने का __VGNN__r6:JJP
+इच्छुक __JJP__k1s:VGF2
+है । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+वेनेजुएला के __NP__r6:NP2
+राष्ट्रपति ह्यूगो चावेज फ्रियाज ने __NP__k1:VGF
+शनिवार को __NP__k7t:VGF
+संयुक्त राष्ट्र सुरक्षा परिषद में __NP__k7p:VGF
+स्थाई सीट के __NP__r6:NP7
+भारत के __NP__r6:NP7
+दावे की __NP__r6-k2:NP8
+जोरदार वकालत __NP__pof:VGF
+की है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__sent-adv:VGF
+उन्होंने __NP__k1:VGF
+भारत की __NP__r6:NP7
+तेल , __NP__ccof:CCP
+गैस __NP__ccof:CCP
+और __CCP__r6:NP7
+ऊर्जा की __NP__ccof:CCP
+जरूरतों को __NP__k2:VGNN
+पूरा __JJP__pof:VGNN
+करने का __VGNN__nmod:NP8
+प्रस्ताव भी __NP__k2:VGF
+रखा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+भारत __NP__ccof:CCP
+और __CCP__k1:VGF
+वेनेजुएला ने __NP__ccof:CCP
+विभिन्न क्षेत्रों में __NP__nmod:NP4
+सहयोग के लिए __NP__rt:VGF
+छह महत्वपूर्ण समझौतों पर __NP__k7:VGF
+हस्ताक्षर __NP__pof:VGF
+किए हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+भारत की __NP__r6:NP3
+तीन दिन की __NP__r6:NP3
+यात्रा पर __NP__k7:VGNF
+आए __VGNF__nmod__k1inv:NP4
+चावेज ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+अमेरिका ने __NP__k1:VGF2
+तीन वर्ष पूर्व __NP__k7t:VGF2
+उनके __NP__r6:NP8
+देश के खिलाफ़ __NP__vmod:VGF2
+युद्ध __NP__pof:VGF2
+छेड़ा था __VGF__ccof:CCP2
+और __CCP__ccof:CCP
+अब __NP__k7t:VGF3
+वह __NP__k1:VGF3
+उनकी __NP__r6-k2:NP13
+हत्या __NP__pof:VGNN
+करवाना __VGNN__k2:VGF3
+चाहता है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__sent-adv:VGF
+उन्होंने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+इराक के __NP__r6:NP4
+स्वास्थ्य मंत्रालय ने __NP__k1:VGF2
+दावा __NP__pof:VGF2
+किया __VGF__ccof:CCP
+कि __CCP__k2:VGF2
+अमेरिका ने __NP__k1:VGF3
+पिछले वर्ष __NP__k7t:VGF3
+इराक के __NP__r6:NP9
+फालुजा में __NP__k7p:VGF3
+हमले के दौरान __NP__vmod:VGF3
+मस्टर्ड __NP__ccof:CCP3
+और __CCP__r6-k2:NP13
+नर्व गैस का __NP__ccof:CCP3
+इस्तेमाल __NP__pof:VGF3
+किया था । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+प्रधानमंत्री मनमोहन सिंह के साथ __NP__nmod:NP2
+मुलाकात के बाद __NP__k7t:VGF
+चावेज ने __NP__k1:VGF
+यहां __NP__k7p:VGF
+एक प्रेस कांफ्रेंस में __NP__k7:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+संयुक्त राष्ट्र सुरक्षा परिषद को __NP__k2:VGNN
+और अधिक लोकतांत्रिक __JJP__k2s:VGNN
+बनाने __VGNN__ccof:CCP2
+और __CCP__rt:VGF2
+विकासशील देशों के __NP__r6:NP8
+अधिकार , __NP__ccof:CCP3
+सुरक्षा __NP__ccof:CCP3
+और __CCP__ccof:CCP2
+उनकी __NP__r6:NP11
+वकालत के लिए __NP__ccof:CCP3
+भारत को __NP__k2:VGF2
+इसका __NP__r6:NP14
+सदस्य __NP__k2s:VGF2
+बनाया जाना चाहिए । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+संयुक्त राष्ट्र को __NP__k1:VGF2
+लोकतांत्रिक __JJP__k1s:VGF2
+होना चाहिए __VGF__ccof:CCP2
+और __CCP__ccof:CCP
+आज की __NP__nmod:NP4
+जरूरतों को __NP__k2:VGNF
+महसूस __JJP__pof:VGNF
+करते हुए __VGNF__vmod:VGF3
+सुरक्षा परिषद का __NP__r6-k2:NP6
+विस्तार __NP__pof:VGF3
+किया जाना चाहिए । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+माना जा रहा है __VGF__ROOT:0
+कि __CCP__k2:VGF
+इससे पहले __NP__k7t:VGF2
+प्रधानमंत्री सिंह __NP__ccof:CCP2
+और __CCP__r6:NP4
+चावेज की __NP__ccof:CCP2
+बातचीत के दौरान __NP__k7t:VGF2
+दोनों देशों ने __NP__k1:VGF2
+द्विपक्षीय मसलों के साथ - साथ __NP__ras-k7:VGF2
+अंतर्राष्ट्रीय घटनाक्रमों पर __NP__k2:VGF2
+विस्तृत चर्चा __NP__pof:VGF2
+की । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+बैठक के दौरान __NP__k7t:VGF
+दोनों नेताओं की __NP__r6:NP3
+मौजूदगी में __NP__vmod:VGF
+दोनों देशों ने __NP__k1:VGF
+छह समझौतों पर __NP__k2:VGF
+हस्ताक्षर __NP__pof:VGF
+किए __VGF__ccof:CCP
+और __CCP__ROOT:0
+एक संयुक्त बयान __NP__k2:VGF2
+जारी __JJP__pof:VGF2
+किया । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+प्रेस कांफ्रेंस में __NP__k7p:VGF
+चावेज ने __NP__k1:VGF
+आरोप __NP__pof:VGF
+लगाया __VGF__ROOT:0
+कि __CCP__k2:VGF
+अमेरिका ने __NP__k1:VGF2
+पिछले तीन वर्ष से __NP__k7t:VGF2
+उनके __NP__r6:NP7
+देश के खिलाफ़ __NP__vmod:VGF2
+युद्ध __NP__pof:VGF2
+छेड़ रखा है __VGF__ccof:CCP2
+और __CCP__ccof:CCP
+उनकी __NP__r6-k2:NP10
+हत्या __NP__pof:VGF3
+करवाना चाहता है । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+चावेज ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+यदि __CCP__vmod:VGF3
+उन्हें __NP__k4a:VGF2
+कुछ __NP__k1:VGF2
+होता है , __VGF__ccof:CCP2
+तो __CCP__ccof:CCP
+इसके लिए __NP__vmod:VGF3
+अमेरिका के __NP__r6:NP6
+राष्ट्रपति बुश __NP__k1:VGF3
+जिम्मेदार __JJP__k1s:VGF3
+होंगे । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__sent-adv:VGF
+उन्होंने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+राष्ट्रपति बिल क्लिंटन के समय __NP__k7t:VGF2
+उनके __NP__r6:NP5
+देश के __NP__k1:VGF2
+अमेरिका के साथ __NP__ras-k1:VGF2
+अच्छे संबंध __NP__pof:VGF2
+थे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इसके साथ ही __NP__sent-adv:VGF
+उन्होंने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+इराक के __NP__r6:NP4
+स्वास्थ्य मंत्रालय ने __NP__k1:VGF2
+दावा __NP__pof:VGF2
+किया __VGF__ccof:CCP
+कि __CCP__k2:VGF2
+अमेरिका ने __NP__k1:VGF3
+पिछले वर्ष __NP__k7t:VGF3
+फालुजा में __NP__k7p:VGF3
+हमले के दौरान __NP__k7:VGF3
+मस्टर्ड __NP__ccof:CCP3
+और __CCP__r6-k2:NP12
+नर्व गैस का __NP__ccof:CCP3
+इस्तेमाल __NP__pof:VGF3
+किया था । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+हालांकि __CCP__ROOT:0
+चावेज के __NP__r6:NP2
+इस दावे पर __NP__k7:VGF
+अमेरिका __NP__ccof:CCP2
+या __CCP__k1:VGF
+इराक ने __NP__ccof:CCP2
+तत्काल __RBP__vmod:VGF
+कोई प्रतिक्रिया __NP__k2:VGF
+व्यक्त __JJP__pof:VGF
+नहीं की है __VGF__ccof:CCP3
+और __CCP__coref:CCP
+इराकी अधिकारियों की ओर से भी __NP__rd:VGF2
+कभी __NP__k7t:VGF2
+इस तरह की __NP__r6:NP9
+रिपोर्ट को __NP__k2:VGF2
+सार्वजनिक __JJP__pof:VGF2
+नहीं किया गया है । __VGF__ccof:CCP3
+</Sentence>
+<Sentence>
+उन्होंने __NP__K1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+इराक की __NP__r6:NP3
+मौजूदा सरकार के __NP__r6:NP4
+स्वास्थ्य मंत्री फालुजा पर __NP__nmod:NP5
+हमले की __NP__r6:NP7
+अपनी __NP__r6:NP7
+जांच रिपोर्ट में __NP__k7p:VGF2
+मस्टर्ड __NP__ccof:CCP2
+और __CCP__r6:NP10
+नर्व गैस के __NP__ccof:CCP2
+इस्तेमाल के __NP__nmod:NP11
+संकेत __NP__k2:VGF2
+दिए हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+राष्ट्रीय स्वयंसेवक संघ __NP__r6:NP3
+( आरएसएस ) __NP__rs:NP
+की __FRAGP__fragof:NP
+मूल हिन्दूवादी विचारधारा में __NP__k7p:VGF
+एक बड़ा परिवर्तन __NP__r6-k2:VGF
+नजर __NP__pof:VGF
+आ रहा है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+कभी __NP__k7t:VGNF
+अति संवेदनात्मक __JJP__adv:VGNF
+रहे __VGNF__nmod:NP2
+राम मंदिर निर्माण के __NP__r6:NP3
+मुद्दे को __NP__k4:VGNN2
+संघ के __NP__r6:NP6
+भविष्य में __NP__k7t:VGNN
+बनने वाले __VGNN__nmod:NP6
+एजेंडे में __NP__k7:VGNN2
+कोई जगह __NP__k2:VGNN2
+मिलने की __VGNN__nmod:NP8
+उम्मीद __NP__k1:VGF
+नहीं है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+आरएसएस की __NP__r6:NP2
+विचारधारा में __NP__k7p:VGF
+यह क्रांतिकारी परिवर्तन __NP__k1:VGF
+ऐसे समय में __NP__k7t:VGF
+हुआ है __VGF__ROOT:0
+जब __NP__k7t:VGF2
+वह __NP__r6-k1:VGF2
+अपने __NP__r6:NP8
+राजनीतिक संगठन __NP__nmod:NP9
+भाजपा को __NP__k2:VGNN
+वापस __JJP__vmod:VGNN
+हिन्दूवादी एजेंडे की तरफ __NP__rd:VGNN
+लाने के लिए __VGNN__rt:VGF2
+जी - तोड़ __RBP__adv:VGF2
+कोशिश __NP__pof:VGF2
+कर रहा है । __VGF__nmod__relc:NP4
+</Sentence>
+<Sentence>
+आरएसएस प्रमुख के एस सुदर्शन का __NP__vmod:VGNF
+लिखा __VGNF__k1:VGF
+संघ परिवार के __NP__r6:NP3
+कट्टरपंथियों के अलावा __NP__ras-neg-rt:VGF
+भाजपा सहित __NP__nmod:NP5
+संघ से __NP__ras-k1:VGNF2
+जुड़े __VGNF__nmod__k1inv:NP6
+अन्य संगठनों के लिए भी __NP__rt:VGF
+हैरतअंगेज __JJP__k1s:VGF
+है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अपने __NP__r6:NP3
+चार पन्नों के __NP__nmod:NP3
+हस्तलिखित पत्र में __NP__k7p:VGF
+सुदर्शन ने __NP__k1:VGF
+आरएसएस __NP__ccof:CCP
+और __CCP__r6:NP8
+इसके __NP__r6:NP7
+सहायक संगठनों के __NP__ccof:CCP
+भविष्य के __NP__nmod:NP9
+एजेंडों को __NP__k2:VGF
+उजागर __JJP__pof:VGF
+किया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अधिकारिक रूप से __NP__sent-adv:VGF
+यह __NP__nmod:NP3
+आरएसएस के __NP__r6:NP4
+वरिष्ठ कार्यकर्ताओं __NP__ccof:CCP
+यानी __CCP__k4:VGNN
+स्वयंसेवकों को __NP__ccof:CCP
+आरएसएस के __NP__r6:NP7
+दूसरे प्रमुख __NP__nmod:NP8
+एम. एस. गोलवल्कर की __NP__r6:NP9
+जन्मशती के __NP__nmod:NP10
+अवसर पर __NP__k7:VGNN
+आयोजित समारोहों के बारे में __NP__nmod:NP12
+जानकारी __NP__k2:VGNN
+देने के लिए __VGNN__rt:VGF
+लिखा गया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+गुरूजी के __NP__r6:NP2
+नाम से __NP__k1s:VGNN2
+संघ परिवार में __NP__k7p:VGNN2
+जाने __VGNN__pof:VGNN2
+जाने वाले __VGNN__nmod__k1inv:NP4
+गोलवल्कर की __NP__r6:NP5
+जन्मशती के साथ ही __NP__ras-k1:VGF
+२४ फरवरी से __NP__k5:VGF
+वर्ष भर के __NP__nmod:NP8
+समारोहों का __NP__r6:NP9
+आयोजन __NP__k1:VGF
+शुरू __NP__pof:VGF
+होगा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+अपने __NP__r6:NP2
+पत्र में __NP__k7p:VGF
+सुदर्शन ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+संघ परिवार से __NP__ras-k1:VGNF
+जुड़े __VGNF__nmod__k1inv:NP5
+सभी संगठनों के लिए __NP__rt:VGF2
+कुछ सामान्य कार्यक्रम __NP__k1:VGF2
+हैं । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इन कार्यक्रमों में __NP__k7p:VGF
+पूरे देश में __NP__k7p:VGNN
+जिला स्तर पर __NP__vmod:VGNN
+आयोजित __JJP__pof:VGNN
+होने वाले __VGNN__nmod__k1inv:NP4
+हिन्दू सम्मेलन भी __NP__k1:VGF
+शामिल __JJP__pof:VGF
+हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+सुदर्शन ने __NP__k1:VGF
+इन सम्मेलनों में __NP__k7p:VGF
+आरएसएस के __NP__r6:NP4
+कार्यकर्ताओं को __NP__k4:VGF
+चार विषयों में से __NP__k5:VGNN
+एक विषय को __NP__k2:VGNN
+लेने के __VGNN__r6:NP7
+निर्देश __NP__k2:VGF
+दिए । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इन विषयों में __NP__k7p:VGF
+भारत के __NP__r6:NP3
+बदलते __VGNF__nmod__k1inv:NP3
+जनसांख्यिकी प्रोफाइल , __NP__ccof:CCP
+स्वदेशी , __NP__ccof:CCP
+सामाजिक न्याय __NP__ccof:CCP
+और __CCP__k1:VGF
+गुरूजी का __NP__r6:NP7
+दर्शन __NP__ccof:CCP
+शामिल __JJP__pof:VGF
+हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पत्र में __NP__k7p:VGF
+समान नागरिक संहिता __NP__ccof:CCP
+और __CCP__k5:VGNN2
+भारत के __NP__r6:NP4
+संविधान से __NP__ccof:CCP
+जम्मू - कश्मीर को __NP__k4:VGNN
+विशेष दर्जा __NP__k2:VGNN
+देने वाले __VGNN__nmod__k1inv:NP7
+अनुच्छेद ३७० को __NP__k2:VGNN2
+हटाने की __VGNN__r6-k2:NP8
+बात भी __NP__pof:VGF
+नहीं की गई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+हाल के __NP__nmod:NP2
+दिनों तक __NP__k7t:VGF
+राम मंदिर निर्माण के अलावा __NP__nmod:NP5
+हिन्दुत्व के __NP__r6:NP5
+एजेंडे में __NP__k7p:VGF
+ये दोनों मुद्दे __NP__k2:VGF
+प्रधानता से __NP__adv:VGF
+उठाए जाते रहे हैं । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+आरएसएस प्रवक्ता राम माधव से __NP__k4:VGF
+जब __NP__k7t:VGF
+इन महत्वपूर्ण विषयों को __NP__k2:VGNN
+हटाने के बारे में __VGNN__k7:VGF
+पूछा गया __VGF__nmod__relc:NP4
+तो __NP__k7t:VGF2
+उन्होंने __NP__k1:VGF2
+जवाब __NP__pof:VGF2
+दिया __VGF__ROOT:0
+कि __CCP__k2:VGF2
+क्या __RBP__adv:VGF3
+आप __NP__k1:VGF3
+इन मुद्दों से __NP__jmod:JJP
+इतर __JJP__k2:VGF3
+नहीं सोच सकते । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+प्रत्येक कार्यक्रम में __NP__k7p:VGF
+समान मुद्दे __NP__k2:VGF
+नहीं रखे जा सकते । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+दुनिया भर में __NP__k7p:VGNF
+फैले __VGNF__nmod__k1inv:NP2
+श्रद्धालुओं तक __NP__vmod:VGNN
+पहुँच __NP__pof:VGNN
+बनाने की __VGNN__r6:NP4
+कोशिश के तहत __NP__k7:VGF
+श्री माता वैष्णो देवी मंदिर बोर्ड __NP__k1:VGF
+जल्द ही __RBP__adv:VGF
+श्रद्धालुओं के __NP__r6:NP7
+घर तक __NP__k2p:VGNN2
+प्रसाद __NP__k2:VGNN2
+पहुँचाने के लिए __VGNN__rt:VGF
+ई - वैष्णोदेवी प्रसाद ऑनलाइन परियोजना __NP__k2:VGF
+शुरू __NP__pof:VGF
+करेगा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+एसएमवीडीएसबी के __NP__r6:NP2
+अतिरिक्त मुख्य कार्यकारी अधिकारी रोहित कंसल ने __NP__k1:VGF
+कहा __VGF__ROOT:0
+कि __CCP__k2:VGF
+हम __NP__k1:VGF2
+दुनिया भर के __NP__r6:NP5
+श्रद्धालुओं के लिए __NP__rt:VGF2
+उनके __NP__r6:NP7
+घर तक __NP__k2p:VGNN
+प्रसाद __NP__k2:VGNN
+पहुँचाने के लिए __VGNN__rt:VGF2
+स्पीड पोस्ट के ज़रिए __NP__k3:VGF2
+जल्द ही __RBP__adv:VGF2
+ऑनलाइन माता वैष्णोदेवी प्रसाद बुकिंग परियोजना __NP__k2:VGF2
+शुरू __NP__pof:VGF2
+करेंगे । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+कंसल ने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+प्रसाद __NP__k2:VGF2
+ऑनलाइन __BLK__adv:VGF2
+बुक __BLK__pof:VGF2
+किया जाएगा __VGF__ccof:CCP2
+और __CCP__ccof:CCP
+कीमत __NP__k2:VGF3
+क्रेडिट कार्ड के ज़रिए __NP__k3:VGF3
+चुकानी होगी । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+इसके लिए __NP__rt:VGF
+१०१ रुपये __NP__ccof:CCP
+और __CCP__k2:VGF
+५१ रुपये __NP__ccof:CCP
+भुगतान __NP__pof:VGF
+करना होगा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके अलावा __NP__ras-neg-k2:VGF
+श्रद्धालुओं को __NP__k1:VGF
+स्पीड पोस्ट का __NP__r6:NP4
+किराया भी __NP__k2:VGF
+देना होगा । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उन्होंने __NP__k1:VGF
+बताया __VGF__ROOT:0
+कि __CCP__k2:VGF
+योजना __NP__k1:VGF2
+अभी __NP__k7t:VGF2
+परीक्षण स्तर पर __NP__k7:VGF2
+है __VGF__ccof:CCP2
+और __CCP__ccof:CCP
+ऑनलाइन बुकिंग के अलावा __NP__ras-neg-k3:VGF3
+श्रद्धालु __NP__k1:VGF3
+१०१ रुपये __NP__nmod:NP8
+ड्राफ्ट के साथ __NP__ras-k1:VGF3
+ई - मेल के ज़रिए भी __NP__k3:VGF3
+प्रसाद __NP__k2:VGF3
+पा सकते हैं । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+पीजीआई के __NP__r6:NP2
+चार सुरक्षाकर्मियों द्वारा __NP__k1:VGNN
+एक किशोरी के साथ __NP__k2:VGNN
+सामूहिक दुष्कर्म __NP__pof:VGNN
+करने का __VGNN__r6:NP5
+मामला __NP__k1:VGF
+प्रकाश में __NP__k7:VGF
+आया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इस घटना के __NP__r6-k1:JJP
+उजागर __JJP__pof:VGNN
+होने के बाद __VGNN__k7t:VGF
+एक सेक्स स्कैंडल का भी __NP__r6-k1:NP3
+पर्दाफाश __NP__pof:VGF
+हुआ है , __VGF__ROOT:0
+जिसके __NP__r6:NP5
+जाल में __NP__k7:VGF2
+यह किशोरी __NP__k1:VGF2
+पिछले एक सप्ताह से __NP__k7t:VGF2
+थी । __VGF__nmod__relc:NP2
+</Sentence>
+<Sentence>
+इस मामले में __NP__k7:VGF
+एक महिला सहित __NP__ras-k2:VGF
+तीन लोगों को __NP__k2:VGF
+गिरफ्तार __JJP__pof:VGF
+किया गया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+आरोपी सुरक्षाकर्मियों की __NP__r6:NP2
+शिनाख्त के लिए __NP__rt:VGF
+पुलिस __NP__k1:VGF
+किशोरी को __NP__k2:VGF
+पीजीआई की __NP__r6:NP6
+सिक्योरिटी ब्रांच __NP__k7p:VGF
+ले गई थी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उसकी __NP__r6:NP2
+शिनाख्त पर __NP__k7:VGF
+पुलिस ने __NP__k1:VGF
+बलात्कार के __NP__r6:NP5
+एक आरोपी राजेश को __NP__k2:VGF
+गिरफ्तार __JJP__pof:VGF
+कर लिया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+बृहस्पतिवार शाम __NP__k7p:VGNF
+सिविल अस्पताल में __NP__k7p:VGNF
+कराए गए __VGNF__nmod__pofinv:NP3
+मेडिकल परीक्षण में __NP__k7:VGF
+किशोरी से __NP__ras-k1:VGF
+दुष्कर्म की __NP__r6-k1:NP6
+पुष्टि __NP__pof:VGF
+हुई है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+यह किशोरी __NP__k1:VGF
+हरिद्वार निवासी __NP__k1s:VGF
+है __VGF__ccof:CCP
+और __CCP__ROOT:0
+आरोपी महिला __NP__k1:VGF2
+दिल्ली स्टेशन पर __NP__k7p:VGF2
+उसे __NP__k2:VGF2
+बहला - फुसला कर __VGNF__vmod:VGF2
+अपने साथ __NP__ras-k1:VGF2
+ले आई थी । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+पुलिस सूत्रों के अनुसार __NP__k7:VGF
+बुधवार शाम को __NP__k7t:VGF
+लुधियाना निवासी बीना , __NP__k1:VGF
+राजकुमार की __NP__r6:NP5
+पत्नी , __NP__rs:NP3
+अपना __NP__r6-k1:NP7
+इलाज __NP__pof:VGNN
+कराने के लिए __VGNN__rt:VGF
+पीजीआई __NP__k2s:VGF
+आई थी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उसके साथ __NP__ras-k1:VGF
+किशोरी __NN__ccof:CCP
+व __CCP__k1:VGF
+गांव मंजूरा करनाल निवासी महेंद्र भी __NP__ccof:CCP
+थे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+शाम को __NP__k7t:VGF
+तीनों __NP__k1:VGF
+पीजीआई के __NP__r6:NP4
+आपातकालीन वार्ड के सामने __NP__rd:VGF
+मैदान में __NP__k7p:VGF
+लेटे थे । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+बताया जाता है __VGF__ROOT:0
+कि __CCP__k2:VGF
+किशोरी के साथ __NP__k2:VGF2
+महेंद्र __NP__k1:VGF2
+अश्लील हरकत __NP__pof:VGF2
+कर रहा था __VGF__vmod:VGF3
+तो __CCP__k2:CCP
+पीजीआई के __NP__r6:NP5
+सुरक्षाकर्मी राजेश ने __NP__k1:VGF3
+उन्हें __NP__k2:VGF3
+पकड़ लिया । __VGF__ccof:CCP2
+</Sentence>
+<Sentence>
+उसने __NP__k1:VGF
+उन्हें __NP__k2:VGF
+डराया - धमकाया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+वह __NP__k1:VGF
+किशोरी को __NP__k2:VGF
+जबरदस्ती __NP__adv:VGF
+अपने साथ __NP__ras-k1:VGF
+पीजीआई के __NP__r6:NP6
+डेंटल कॉलेज के __NP__r6:NP7
+एक कमरे में __NP__k7p:VGF
+ले गया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उसने __NP__k1:VGF
+वहां __NP__k7p:VGF
+किशोरी के साथ __NP__k2:VGF
+दुष्कर्म __NP__pof:VGF
+किया __VGF__ccof:CCP
+और __CCP__ROOT:0
+अपने __NP__r6:NP6
+तीन अन्य साथियों को भी __NP__k2:VGF2
+बुला लिया । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+इन सभी ने __NP__k1:VGF
+किशोरी के साथ __NP__k2:VGF
+रात - भर __NP__k7t:VGF
+दुष्कर्म __NP__pof:VGF
+किया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+सुबह __NP__nmod:NP2
+करीब चार बजे __NP__k7t:VGF
+वे __NP__k1:VGF
+किशोरी को __NP__k2:VGF
+बीना __NP__ccof:CCP
+व __CCP__k7:VGNF
+महेंद्र के पास __NP__ccof:CCP
+छोड़ कर __VGNF__vmod:VGF
+चले गए । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसके बाद __NP__k7t:VGF
+महेंद्र भी __NP__k1:VGF
+किशोरी को __NP__k2:VGF
+पीजीआई के __NP__r6:NP5
+एक्सरे विभाग की तरफ __NP__rd:VGF
+ले गया __VGF__ccof:CCP
+तथा __CCP__ROOT:0
+उसके साथ __NP__k2:VGF2
+अश्लील हरकत __NP__pof:VGF2
+करने लगा । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+पीजीआई के __NP__r6:NP2
+अन्य सुरक्षाकर्मी ने __NP__k1:VGF
+इसी दौरान __NP__k7t:VGF
+उसे __NP__k2:VGF
+पकड़ लिया __VGF__ccof:CCP
+तथा __CCP__ROOT:0
+पीजीआई पुलिस चौकी को __NP__k4:VGF2
+सौंप दिया । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+किशोरी ने __NP__k1:VGF
+पुलिस से __NP__k4:VGF
+पीजीआई सुरक्षाकर्मी द्वारा __NP__nmod:NP6
+उसके साथ __NP__nmod:NP6
+दुष्कर्म की __NP__r6:NP6
+घटना __NP__k2:VGF
+बताई । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उसने __NP__k1:VGF
+दुष्कर्म के __NP__r6:NP3
+मुख्य आरोपी के __NP__r6:NP4
+रूप में __NP__k7:VGF
+पीजीआई सुरक्षाकर्मी राजेश का __NP__r6-k2:NP6
+नाम __NP__pof:VGF
+लिया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पुलिस ने __NP__k1:VGF
+शाम को __NP__k7t:VGF
+उसे __NP__k2:VGNF
+गिरफ्तार __JJP__pof:VGNF
+कर __VGNF__vmod:VGF
+बाकी आरोपियों की __NP__r6:NP5
+धर - पकड़ की __NP__r6:NP6
+कार्रवाई __NP__k2:VGF
+तेज __JJP__pof:VGF
+कर दी है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पीजीआई सुरक्षाकर्मी ने __NP__k1:VGF
+जब __NP__k7t:VGF
+किशोरी को __NP__k2:VGF
+पुलिस के __NP__r6-k4:NP5
+हवाले __NP__pof:VGF
+किया __VGF__nmod__relc:NP6
+तब __NP__k7t:VGF2
+उसकी __NP__r6:NP8
+हालत __NP__k1:VGF2
+काफी चिंताजनक __JJP__k1s:VGF2
+थी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पुलिस __NP__k1:VGF
+उसका __NP__r6-k2:NP3
+तत्काल __RBP__adv:VGNN
+इलाज __NP__pof:VGNN
+कराने के बजाय __VGNN__vmod:VGF
+दिन भर __NP__k7t:VGF
+उसे __NP__k2:VGF
+इधर - उधर __NP__k7p:VGF
+घुमाती रही । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+बृहस्पतिवार शाम __NP__k7t:VGF
+लगभग __RBP__nmod:NP2
+चार बजे __NP__k7t:VGF
+उसका __NP__r6-k2:NP4
+मेडिकल परीक्षण __NP__pof:VGF
+कराया गया । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इसमें __NP__k7:VGF
+दुष्कर्म की __NP__r6-k1:NP3
+पुष्टि __NP__pof:VGF
+हुई । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+पुलिस सूत्रों के अनुसार __NP__k7:VGF
+किशोरी __NN__k1:VGF
+हरिद्वार की __NP__r6v:VGF
+रहने वाली है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उसने __NP__k1:NP4
+पुलिस के सामने __NP__k7:NP4
+बयान __NP__pof:NP4
+दिया है __NP__ROOT:0
+कि __CCP__k2:NP4
+वह __NP__k1:VGF
+लगभग १० दिन पूर्व __NP__k7t:VGF
+दिल्ली रेलवे स्टेशन पर __NP__k7p:VGF
+बीना के __NP__r6:NP9
+संपर्क में __NP__k7:VGF
+आई थी । __VGF__ccof:CCP
+</Sentence>
+<Sentence>
+बीना __NP__k1:VGF
+उसको __NP__k2:VGF
+बहला - फुसलाकर __VGNF__vmod:VGF
+अपने साथ __NP__ras-k1:VGF
+नरवाना जींद __NP__k2s:VGF
+ले आई । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उसके बाद __NP__k7t:VGF
+बीना __NP__k1:VGF
+अपने __NP__r6:NP4
+घर पर ही __NP__k7p:VGF
+किशोरी से __NP__k2:VGF
+देह व्यापार __NP__pof:VGF
+कराने लगी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+किशोरी __NN__k1:VGF
+हरिद्वार से __NP__k5:VGF
+दिल्ली __NP__k2s:VGF
+क्यों __NP__adv:VGF
+आई थी __VGF__ROOT:0
+</Sentence>
+<Sentence>
+इस बारे में __NP__k7:VGF
+पुलिस ने __NP__k1:VGF
+अभी __NP__k7t:VGF
+कुछ __NP__k2:VGF
+नहीं बताया है । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+बीना __NP__k1:VGF
+बुधवार को __NP__k7t:VGF
+अपना __NP__r6-k1:NP4
+इलाज __NP__pof:VGNN
+कराने के लिए __VGNN__rt:VGF
+नरवाना से __NP__k5:VGF
+रोहतक __NP__k2s:VGF
+आई थी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+उसके साथ __NP__ras-k1:VGF
+यह किशोरी भी __NP__k1:VGF
+थी । __VGF__ROOT:0
+</Sentence>
+<Sentence>
+जब __NP__k7t:VGF
+वह __NP__k1:VGF
+रोहतक रेलवे स्टेशन पर __NP__k7p:VGF
+उतरी __VGF__nmod__relc:CCP
+तो __NP__k7t:VGF2
+वहां __NP__k7p:VGF2
+उन्हें __NP__k2:VGF2
+महेंद्र __NP__k1:VGF2
+मिला __VGF__ROOT:0
+जो __NP__ROOT:0
+बातों - बातों में __NP__k7:VGF3
+उनके साथ __NP__ras-k1:VGF3
+हो गया । __VGF__nmod__relc:NP6
+</Sentence>
+<Sentence>
+दूसरी तरफ __NP__sent-adv:1
+बीना ने __NP__k1:1
+पुलिस के सामने __NP__k7:1
+किशोरी पर __NP__k2:1
+आरोप __NP__pof:1
+लगाया __VGF__ROOT:0
+कि __CCP__k2:2
+वह __NP__k1:5
+बदचलन __JJP__k1s:5
+है __VGF__ccof:3
+तथा __CCP__ccof:6
+उसे __NP__k2:4
+बेवजह __RBP__adv:4
+बदनाम __JJP__pof:4
+कर रही है । __VGF__ccof:3
+</Sentence>
+<Sentence>
+पुलिस ने __NP__k1:1
+किशोरी के __NP__pof:3
+बयान पर __NP__rh:1
+बीना __NP__ccof:2
+व __CCP__k2:1
+महेंद्र को __NP__ccof:2
+गिरफ्तार __JJP__pof:1
+कर लिया है । __VGF__ROOT:0
+</Sentence>

@@ -1,0 +1,41 @@
+POS Tagging - revisions  (18/02/06)
+
+1. The special handling of 'kriyamula' constructions in ILs was discussed. 
+
+Discussion point
+
+- Whether to treat the noun within a Kriyamula differently by marking as NVB or 
+to treat it as a noun like any other noun at the POS level ?
+
+The question was based on the following observations _
+
+a)  NVB, as part of a Kriyamula,  is most often not recognized by the learning algorithms. 
+
+b) Having NVB at the POS level is based on syntactic considerations. Therefore, do we really need to go for it ? Instead, at the POS level we mark the noun as a noun and leave the decision of marking a 'kriyamula' at a later level.
+
+c) Also, since the noun which is part of a conjunct verb (Kriyamula) can also occur away from its 'verbaliser' it is difficult to differentiate from a 'noun' participant. This also creates problem for chunking of the VG. The two components of the chunk have to be separately marked and have to be joined at the syntactic level.
+
+d) A major problem which is encountered, if we mark NVB at the POS level, is that the NVB is grouped with its verbaliser as a VG chunk.  Sometimes one comes across  expressions such as 'mEMne unase eka prashna pUCA'. In this sentence, 'eka'  is a modifier of 'prashna'. 'prashna karana' can be  a 'kriyamula' in Hindi.  In our current approach, 'eka' is grouped as a JJP chunk. Thus, 
+
+Current annotation output :
+
+POS : mEMne_PRP unase_PRP eka_QF prashna_NVB  kiyA_VFM
+Chunk : ((meMne_PRP))_NP ((unase_PRP))_NP ((eka_QF))_JJP ((prashna_NVB  kiyA_VFM))_VG
+
+In the above scheme, it is difficult to show the relation between 'eka' and 'prashna' . 
+
+Thus, an alternative is proposed wherein, we tag the noun of the kriyamula as NN at the POS level. Threafter, the noun is grouped  with its preceding ajectival modifiers as  an NP  chunk. The only problem in this approach is that the information of a noun verb sequence being a 'kriyamula' is not captured till the chunk level and the noun of the 'kriyamula' is separated from its verbaliser. However, the approach has following advantages :
+1) At the POS level, the word is tagged for its grammatical category and not for its syntactic function. This eases the decision making at the POS level. And marking the information, that  the conjunct verbs which are composed of two words  form one lexeme  sematically,  is postponed to a later level.
+
+2) It allows us to show the modifier-modified relation between an adjective such as 'eka' in the above example with its modified noun  'prashna'. 
+3) Since the information of a noun verb sequence being a 'kriyamula' is  crucial at the syntactic level, it is captured at this level by marking the relation between the 'noun' and its verbaliser by an appropriate tag. 
+
+Thus, keeping the above in mind, it has been decided to revise the current annotation of kriyamula verbs in the following way
+
+The revised annotation of the above sentecne would be :
+
+POS :  mEMne_PRP unase_PRP eka_QF prashna_NN  kiyA_VFM
+Chunk : ((meMne_PRP))_NP ((unase_PRP))_NP ((eka_QF prashna_NN))_NP           (( kiyA_VFM))_VG
+Syntactic level : ((meMne_PRP))_NP/k1 ((unase_PRP))_NP/k2  ((eka_QF prashna_NN))_NP/vof  (( kiyA_VFM))_VG
+
+Here the relation 'pof' indicates that the NP chunk is part of the verb lexeme 'prashna karana'. 

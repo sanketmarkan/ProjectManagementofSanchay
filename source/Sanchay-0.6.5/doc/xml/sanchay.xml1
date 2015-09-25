@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN"
+"http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" [
+<!ENTITY __intro__epcofnqm SYSTEM "intro.xml">
+<!ENTITY __start__epcpi6g4 SYSTEM "start.xml">
+<!ENTITY __architecture__epcpiel1 SYSTEM "architecture.xml">
+<!ENTITY __indlang__epcpj8ak SYSTEM "indlang.xml">
+<!ENTITY __comp-phonetic-model__epcpuw9x SYSTEM "comp-phonetic-model.xml">
+<!ENTITY __lexicon-trie__epcpvgqd SYSTEM "lexicon-trie.xml">
+<!ENTITY __resources__epcpjusx SYSTEM "resources.xml">
+<!ENTITY __annotation__epcpkq24 SYSTEM "annotation.xml">
+<!ENTITY __syn-annotation__epcpl2tg SYSTEM "syn-annotation.xml">
+<!ENTITY __par-annotation__epcplc7e SYSTEM "par-annotation.xml">
+<!ENTITY __xml-annotation__epcpllnw SYSTEM "xml-annotation.xml">
+<!ENTITY __prop-man__epcpmr5z SYSTEM "prop-man.xml">
+<!ENTITY __lang-modelling__epcpnom4 SYSTEM "lang-modelling.xml">
+<!ENTITY __ibm-smt-models__epcpo3o9 SYSTEM "ibm-smt-models.xml">
+<!ENTITY __lang-enc-identifier__epcpohqw SYSTEM "lang-enc-identifier.xml">
+<!ENTITY __sen-aligner__epcpox6q SYSTEM "sen-aligner.xml">
+<!ENTITY __sim-measures__epcpu7pd SYSTEM "sim-measures.xml">
+<!ENTITY __em-algo__epcpuge6 SYSTEM "em-algo.xml">
+<!ENTITY __basic-decoder__epcpuof6 SYSTEM "basic-decoder.xml">
+<!ENTITY __numex-trans__epcpvwv6 SYSTEM "numex-trans.xml">
+<!ENTITY __fs-api__epcpv54b SYSTEM "fs-api.xml">
+<!ENTITY __ssf-api__epcpwccj SYSTEM "ssf-api.xml">
+<!ENTITY __xml__epcptg09 SYSTEM "xml.xml">
+<!ENTITY __text-editor__epcq12xl SYSTEM "text-editor.xml">
+<!ENTITY __spell-checker__epcpprym SYSTEM "spell-checker.xml">
+<!ENTITY __find-replace-extract__epcpq0k7 SYSTEM "find-replace-extract.xml">
+<!ENTITY __file-splitter__epcpq824 SYSTEM "file-splitter.xml">
+<!ENTITY __tree-vis__epcpqu9r SYSTEM "tree-vis.xml">
+<!ENTITY __tree__epcpr2dl SYSTEM "tree.xml">
+<!ENTITY __table__epcpr9vh SYSTEM "table.xml">
+<!ENTITY __utils__epcpwt32 SYSTEM "utils.xml">
+<!ENTITY __faq__epcuf155 SYSTEM "faq.xml">
+<!ENTITY __contribs__epcti6r2 SYSTEM "contribs.xml">
+<!ENTITY __acknowl__epctehcw SYSTEM "acknowl.xml">
+<!ENTITY __related-work__epctet8g SYSTEM "related-work.xml">
+<!ENTITY __biblio__epctf1q8 SYSTEM "biblio.xml">
+]>
+<book>
+  <title>Sanchay User Guide</title>
+
+  <bookinfo>
+    <date></date>
+
+    <author>
+      <firstname>Anil</firstname>
+
+      <othername>Kumar</othername>
+
+      <surname>Singh</surname>
+
+      <affiliation>
+        <orgname>Language Technologies Research Centre</orgname>
+
+        <orgdiv>International Institute of Information Technology</orgdiv>
+
+        <address>Hyderabad, India
+
+<email>anil@research.iiit.net</email></address>
+      </affiliation>
+    </author>
+  </bookinfo>
+
+  &__intro__epcofnqm;
+
+  &__start__epcpi6g4;
+
+  &__architecture__epcpiel1;
+
+  &__indlang__epcpj8ak;
+
+  &__comp-phonetic-model__epcpuw9x;
+
+  &__lexicon-trie__epcpvgqd;
+
+  &__resources__epcpjusx;
+
+  &__annotation__epcpkq24;
+
+  &__syn-annotation__epcpl2tg;
+
+  &__par-annotation__epcplc7e;
+
+  &__xml-annotation__epcpllnw;
+
+  &__prop-man__epcpmr5z;
+
+  &__lang-modelling__epcpnom4;
+
+  &__ibm-smt-models__epcpo3o9;
+
+  &__lang-enc-identifier__epcpohqw;
+
+  &__sen-aligner__epcpox6q;
+
+  &__sim-measures__epcpu7pd;
+
+  &__em-algo__epcpuge6;
+
+  &__basic-decoder__epcpuof6;
+
+  &__numex-trans__epcpvwv6;
+
+  &__fs-api__epcpv54b;
+
+  &__ssf-api__epcpwccj;
+
+  &__xml__epcptg09;
+
+  &__text-editor__epcq12xl;
+
+  &__spell-checker__epcpprym;
+
+  &__find-replace-extract__epcpq0k7;
+
+  &__file-splitter__epcpq824;
+
+  &__tree-vis__epcpqu9r;
+
+  &__tree__epcpr2dl;
+
+  &__table__epcpr9vh;
+
+  &__utils__epcpwt32;
+
+  &__faq__epcuf155;
+
+  &__contribs__epcti6r2;
+
+  &__acknowl__epctehcw;
+
+  &__related-work__epctet8g;
+
+  &__biblio__epctf1q8;
+</book>

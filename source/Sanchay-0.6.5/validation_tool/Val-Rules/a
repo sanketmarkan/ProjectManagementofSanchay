@@ -1,0 +1,85 @@
+run:
+Files:/home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun
+Files:/home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt
+C.t='CCP'
+AND
+(
+D[*].t!='CC'
+AND
+D[*].t!='SYM'
+)
+C.t='RBP'
+AND
+(
+D[*].t!='RB'
+AND
+D[*].t!='WQ'
+)
+(
+C[*].a['tam']='kara'
+OR
+C[*].a['tam']='wA_hoyA'
+)
+AND
+A.t!='VGNF'
+C.t='CC'
+AND
+(
+A.t!="CCP"
+AND
+A.t!="NULL__CCP"
+)
+C.t='JJP'
+AND
+(
+D[*].t!='JJ'
+AND
+D[*].t!='QF'
+)
+C.t~'^V'
+AND
+(
+D[*].t='PSP'
+AND
+C.t!='VGNN'
+)
+Table is:
+Column Count::6
+Column Names::A        B        C        D        E        F
+16::ण्फ्5::C.t='NP' and D[*].t!~'^NN$|^NNP$|^NST$|^PRP$|^DEM$|^WQ$|^QF$|^QC$'        [[ तो_CC ]]_NP        [[ [[ लेकिन_CC ]]_CCP [[ जब_PRP ]]_NP [[ वह_PRP ]]_NP [[ पैमाइश_NN के_PSP लिए_PSP ]]_NP [[ भूमि_NNC -_SYM प्रशासकों_NN के_PSP पास_NST ]]_NP [[ पहुंचे_VM ]]_VGF [[ तो_CC ]]_NP [[ उनकी_PRP ]]_NP [[ अर्जी_NN को_PSP ]]_NP [[ खारिज_JJ ]]_JJP [[ कर_VM दिया_VAUX गया_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun        12. chunk tag= NP and pos tag=NN|NNP|NST|PRP|DEM|WQ|QF|QC
+                                        
+                                        
+16::ण्फ्5::C.t='NP' and D[*].t!~'^NN$|^NNP$|^NST$|^PRP$|^DEM$|^WQ$|^QF$|^QC$'        [[ तो_CC ]]_NP        [[ [[ लेकिन_CC ]]_CCP [[ जब_PRP ]]_NP [[ वह_PRP ]]_NP [[ पैमाइश_NN के_PSP लिए_PSP ]]_NP [[ भूमि_NNC -_SYM प्रशासकों_NN के_PSP पास_NST ]]_NP [[ पहुंचे_VM ]]_VGF [[ तो_CC ]]_NP [[ उनकी_PRP ]]_NP [[ अर्जी_NN को_PSP ]]_NP [[ खारिज_JJ ]]_JJP [[ कर_VM दिया_VAUX गया_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt        12. chunk tag= NP and pos tag=NN|NNP|NST|PRP|DEM|WQ|QF|QC
+                                        
+2::null::C.t~'^VGF$|^VGNF$|^VGNN$|^VGINF$' and D.t!="VM"        [[ न_NEG तो_RP बेची_VM जा_VAUX सकती_VAUX है_VAUX ]]_VGF        [[ [[ इसके_PRP बिना_NEG ]]_NP [[ ट्रस्ट_NN की_PSP ]]_NP [[ कोई_PRP संपत्ति_NN ]]_NP [[ न_NEG तो_RP बेची_VM जा_VAUX सकती_VAUX है_VAUX ]]_VGF [[ और_CC ]]_CCP [[ ना_NEG ही_RP ]]_NEGP [[ गिरवी_NN ]]_NP [[ रखी_VM जा_VAUX सकती_VAUX है_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun        11. chunk tag== VGF|VGNF|VGNN|VGINF and POS tag VM
+                                        
+                                        
+2::null::C.t~'^VGF$|^VGNF$|^VGNN$|^VGINF$' and D.t!="VM"        [[ न_NEG तो_RP बेची_VM जा_VAUX सकती_VAUX है_VAUX ]]_VGF        [[ [[ इसके_PRP बिना_NEG ]]_NP [[ ट्रस्ट_NN की_PSP ]]_NP [[ कोई_PRP संपत्ति_NN ]]_NP [[ न_NEG तो_RP बेची_VM जा_VAUX सकती_VAUX है_VAUX ]]_VGF [[ और_CC ]]_CCP [[ ना_NEG ही_RP ]]_NEGP [[ गिरवी_NN ]]_NP [[ रखी_VM जा_VAUX सकती_VAUX है_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt        11. chunk tag== VGF|VGNF|VGNN|VGINF and POS tag VM
+                                        
+1::Vघ्ण्ण्::C.a['tam']='nA' and A.t!='VGNN'        [[ लेनी_VM ]]_VGNN        [[ [[ दिल्ली_NNPC उच्च_NNPC न्यायालय_NNP ने_PSP ]]_NP [[ एक_QC अहम_JJ फैसले_NN में_PSP ]]_NP [[ कहा_VM है_VAUX ]]_VGF [[ कि_CC ]]_CCP [[ ट्रस्ट_NN की_PSP ]]_NP [[ संपत्ति_NN के_PSP साथ_NST ]]_NP [[ लेन_NNC -_SYM देन_NN के_PSP ]]_NP [[ किसी_PRP प्रकार_NN के_PSP ]]_NP [[ व्यवहार_NN से_PSP पहले_NST ]]_NP [[ अदालत_NN की_PSP ]]_NP [[ अनुमति_NN ]]_NP [[ लेनी_VM ]]_VGNN [[ जरूरी_JJ ]]_JJP [[ है_VM ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun        3. Chunk with nA TAM should be VGNN
+3::Vघ्ण्ण्::C.a['tam']='nA' and A.t!='VGNN'        [[ देने_VM ]]_VGNN        [[ [[ इसे_PRP ]]_NP [[ किसी_PRP को_PSP ]]_NP [[ देने_VM ]]_VGNN [[ या_CC ]]_CCP [[ जब्त_JJ ]]_JJP [[ करने_VM के_PSP लिए_PSP भी_RP ]]_VGNN [[ पहले_NST ]]_NP [[ अदालत_NN की_PSP ]]_NP [[ स्वीकृति_NN ]]_NP [[ लेनी_VM होगी_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun        3. Chunk with nA TAM should be VGNN
+3::Vघ्ण्ण्2::C.a['tam']='nA' and A.t!='VGNN'        [[ करने_VM के_PSP लिए_PSP भी_RP ]]_VGNN        [[ [[ इसे_PRP ]]_NP [[ किसी_PRP को_PSP ]]_NP [[ देने_VM ]]_VGNN [[ या_CC ]]_CCP [[ जब्त_JJ ]]_JJP [[ करने_VM के_PSP लिए_PSP भी_RP ]]_VGNN [[ पहले_NST ]]_NP [[ अदालत_NN की_PSP ]]_NP [[ स्वीकृति_NN ]]_NP [[ लेनी_VM होगी_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun        3. Chunk with nA TAM should be VGNN
+3::Vघ्ञ्::C.a['tam']='nA' and A.t!='VGNN'        [[ लेनी_VM होगी_VAUX ._SYM ]]_VGF        [[ [[ इसे_PRP ]]_NP [[ किसी_PRP को_PSP ]]_NP [[ देने_VM ]]_VGNN [[ या_CC ]]_CCP [[ जब्त_JJ ]]_JJP [[ करने_VM के_PSP लिए_PSP भी_RP ]]_VGNN [[ पहले_NST ]]_NP [[ अदालत_NN की_PSP ]]_NP [[ स्वीकृति_NN ]]_NP [[ लेनी_VM होगी_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun        3. Chunk with nA TAM should be VGNN
+3::लेनी::C.a['tam']='nA' and A.t!='VGNN'        लेनी_VM        [[ लेनी_VM होगी_VAUX ._SYM ]]_VGF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun        3. Chunk with nA TAM should be VGNN
+7::Vघ्ण्ण्::C.a['tam']='nA' and A.t!='VGNN'        [[ करने_VM से_PSP ]]_VGNN        [[ [[ याचिका_NN में_PSP ]]_NP [[ मेहरा_NNP ने_PSP ]]_NP [[ अदालत_NN से_PSP ]]_NP [[ दिल्ली_NNP के_PSP ]]_NP [[ वेस्ट_NNPC पटेल_NNP नगर_NN ]]_NP [[ इलाके_NN में_PSP ]]_NP [[ अपनी_PRP ]]_NP [[ जमीन_NN की_PSP ]]_NP [[ पैमाइश_NN पर_PSP ]]_NP [[ बदलाव_NN ]]_NP [[ करने_VM से_PSP ]]_VGNN [[ रोके_VM जाने_VAUX की_PSP ]]_VGNN [[ मांग_NN ]]_NP [[ की_VM थी_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun        3. Chunk with nA TAM should be VGNN
+13::Vघ्ण्ण्::C.a['tam']='nA' and A.t!='VGNN'        [[ लेने_VM को_PSP ]]_VGNN        [[ [[ इस_DEM तरह_NN ]]_NP [[ रामगोपाल_NNP ]]_NP [[ सभी_QF अधिकारों_NN के_PSP साथ_NST ]]_NP [[ इस_DEM संपत्ति_NN के_PSP ]]_NP [[ प्रशासक_NN ]]_NP [[ बन_VM गए_VAUX ]]_VGF [[ और_CC ]]_CCP [[ इस_DEM संपत्ति_NN के_PSP बारे_PSP में_PSP ]]_NP [[ कोई_PRP भी_RP निर्णय_NN ]]_NP [[ लेने_VM को_PSP ]]_VGNN [[ वह_PRP ]]_NP [[ अधिकारी_NN ]]_NP [[ बन_VM गए_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun        3. Chunk with nA TAM should be VGNN
+18::Vघ्ण्ण्::C.a['tam']='nA' and A.t!='VGNN'        [[ करने_VM को_PSP ]]_VGNN        [[ [[ साथ_NST ही_RP ]]_NP [[ मेहरा_NNP को_PSP ]]_NP [[ अपनी_PRP ]]_NP [[ अपील_NN के_PSP ]]_NP [[ समर्थन_NN में_PSP ]]_NP [[ एक_QC अतिरिक्त_JJ हलफनामा_NN ]]_NP [[ दाखिल_JJ ]]_JJP [[ करने_VM को_PSP ]]_VGNN [[ कहा_VM है_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun        3. Chunk with nA TAM should be VGNN
+                                        
+                                        
+                                        
+1::Vघ्ण्ण्::C.a['tam']='nA' and A.t!='VGNN'        [[ लेनी_VM ]]_VGNN        [[ [[ दिल्ली_NNPC उच्च_NNPC न्यायालय_NNP ने_PSP ]]_NP [[ एक_QC अहम_JJ फैसले_NN में_PSP ]]_NP [[ कहा_VM है_VAUX ]]_VGF [[ कि_CC ]]_CCP [[ ट्रस्ट_NN की_PSP ]]_NP [[ संपत्ति_NN के_PSP साथ_NST ]]_NP [[ लेन_NNC -_SYM देन_NN के_PSP ]]_NP [[ किसी_PRP प्रकार_NN के_PSP ]]_NP [[ व्यवहार_NN से_PSP पहले_NST ]]_NP [[ अदालत_NN की_PSP ]]_NP [[ अनुमति_NN ]]_NP [[ लेनी_VM ]]_VGNN [[ जरूरी_JJ ]]_JJP [[ है_VM ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt        3. Chunk with nA TAM should be VGNN
+3::Vघ्ण्ण्::C.a['tam']='nA' and A.t!='VGNN'        [[ देने_VM ]]_VGNN        [[ [[ इसे_PRP ]]_NP [[ किसी_PRP को_PSP ]]_NP [[ देने_VM ]]_VGNN [[ या_CC ]]_CCP [[ जब्त_JJ ]]_JJP [[ करने_VM के_PSP लिए_PSP भी_RP ]]_VGNN [[ पहले_NST ]]_NP [[ अदालत_NN की_PSP ]]_NP [[ स्वीकृति_NN ]]_NP [[ लेनी_VM होगी_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt        3. Chunk with nA TAM should be VGNN
+3::Vघ्ण्ण्2::C.a['tam']='nA' and A.t!='VGNN'        [[ करने_VM के_PSP लिए_PSP भी_RP ]]_VGNN        [[ [[ इसे_PRP ]]_NP [[ किसी_PRP को_PSP ]]_NP [[ देने_VM ]]_VGNN [[ या_CC ]]_CCP [[ जब्त_JJ ]]_JJP [[ करने_VM के_PSP लिए_PSP भी_RP ]]_VGNN [[ पहले_NST ]]_NP [[ अदालत_NN की_PSP ]]_NP [[ स्वीकृति_NN ]]_NP [[ लेनी_VM होगी_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt        3. Chunk with nA TAM should be VGNN
+3::Vघ्ञ्::C.a['tam']='nA' and A.t!='VGNN'        [[ लेनी_VM होगी_VAUX ._SYM ]]_VGF        [[ [[ इसे_PRP ]]_NP [[ किसी_PRP को_PSP ]]_NP [[ देने_VM ]]_VGNN [[ या_CC ]]_CCP [[ जब्त_JJ ]]_JJP [[ करने_VM के_PSP लिए_PSP भी_RP ]]_VGNN [[ पहले_NST ]]_NP [[ अदालत_NN की_PSP ]]_NP [[ स्वीकृति_NN ]]_NP [[ लेनी_VM होगी_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt        3. Chunk with nA TAM should be VGNN
+3::लेनी::C.a['tam']='nA' and A.t!='VGNN'        लेनी_VM        [[ लेनी_VM होगी_VAUX ._SYM ]]_VGF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt        3. Chunk with nA TAM should be VGNN
+7::Vघ्ण्ण्::C.a['tam']='nA' and A.t!='VGNN'        [[ करने_VM से_PSP ]]_VGNN        [[ [[ याचिका_NN में_PSP ]]_NP [[ मेहरा_NNP ने_PSP ]]_NP [[ अदालत_NN से_PSP ]]_NP [[ दिल्ली_NNP के_PSP ]]_NP [[ वेस्ट_NNPC पटेल_NNP नगर_NN ]]_NP [[ इलाके_NN में_PSP ]]_NP [[ अपनी_PRP ]]_NP [[ जमीन_NN की_PSP ]]_NP [[ पैमाइश_NN पर_PSP ]]_NP [[ बदलाव_NN ]]_NP [[ करने_VM से_PSP ]]_VGNN [[ रोके_VM जाने_VAUX की_PSP ]]_VGNN [[ मांग_NN ]]_NP [[ की_VM थी_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt        3. Chunk with nA TAM should be VGNN
+13::Vघ्ण्ण्::C.a['tam']='nA' and A.t!='VGNN'        [[ लेने_VM को_PSP ]]_VGNN        [[ [[ इस_DEM तरह_NN ]]_NP [[ रामगोपाल_NNP ]]_NP [[ सभी_QF अधिकारों_NN के_PSP साथ_NST ]]_NP [[ इस_DEM संपत्ति_NN के_PSP ]]_NP [[ प्रशासक_NN ]]_NP [[ बन_VM गए_VAUX ]]_VGF [[ और_CC ]]_CCP [[ इस_DEM संपत्ति_NN के_PSP बारे_PSP में_PSP ]]_NP [[ कोई_PRP भी_RP निर्णय_NN ]]_NP [[ लेने_VM को_PSP ]]_VGNN [[ वह_PRP ]]_NP [[ अधिकारी_NN ]]_NP [[ बन_VM गए_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt        3. Chunk with nA TAM should be VGNN
+18::Vघ्ण्ण्::C.a['tam']='nA' and A.t!='VGNN'        [[ करने_VM को_PSP ]]_VGNN        [[ [[ साथ_NST ही_RP ]]_NP [[ मेहरा_NNP को_PSP ]]_NP [[ अपनी_PRP ]]_NP [[ अपील_NN के_PSP ]]_NP [[ समर्थन_NN में_PSP ]]_NP [[ एक_QC अतिरिक्त_JJ हलफनामा_NN ]]_NP [[ दाखिल_JJ ]]_JJP [[ करने_VM को_PSP ]]_VGNN [[ कहा_VM है_VAUX ._SYM ]]_VGF ]]_SSF                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt        3. Chunk with nA TAM should be VGNN
+                                        
+                                        
+16::तो::C.t='CC' and (A.t!="CCP" and A.t!="NULL__CCP")        तो_CC        [[ तो_CC ]]_NP                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/fullnews_id_2518190_date_11_6_2004.utf8.cml.V.tkn.cml_updated.mo.pos.chnk.prun        1. Only CCP/NULL__CCP can have a CC(pos tag)
+                                        
+                                        
+16::तो::C.t='CC' and (A.t!="CCP" and A.t!="NULL__CCP")        तो_CC        [[ तो_CC ]]_NP                /home/ambati/ltrc/tools/Sanchay/Sanchay-19-11-10/data/val-sample/sample.txt        1. Only CCP/NULL__CCP can have a CC(pos tag)
+                                        
+

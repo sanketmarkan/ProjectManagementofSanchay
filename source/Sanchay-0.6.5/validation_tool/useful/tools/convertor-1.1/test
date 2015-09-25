@@ -1,0 +1,389 @@
+<document docid="fullnews_id_2496846">			
+<head>			
+<title></title>			
+<caption>टिकाऊ देखकर बुलाया यूपीए को  सिब्ते रजी        प्रे   : रांची</caption>			
+<language>Hindi </language>			
+<author>			
+<firstname></firstname>			
+<middlename></middlename>			
+<lastname></lastname>			
+</author>			
+<creation>			
+<raw_corpus creation_date="" institute_name="">			
+<annotated_corpus creation_date="07/25/2009" institute_name="IIIT-Hyderabad">			
+</creation>			
+<domain_name>News Articles </domain_name>			
+<distributor>LTRC, IIIT Hyderabad</distributor>			
+<source>ISI, Kolkata</source>			
+<publication>			
+<place>New Delhi</place>			
+<date>3/6/2004</date>			
+<address>Connaught Place, New Delhi</address>			
+<type>Newspaper</type>			
+<publisher>			
+<name>Amar Ujala</name>			
+<url>http://www.amarujala.com</url>			
+</publisher>			
+</publication>			
+<project_description>NSF Hindi/Urdu Dependency Treebanking Project</place>			
+<availability>			
+<format>CML/SSF</format>			
+</availability>			
+<byte_count>4720</byte_count>			
+<word_count>152</word_count>			
+<edition_number>1.0</edition_number>			
+<encoding_description>			
+<original_encoding>ISO 8859</format>			
+<new_encoding>Unicode UTF8</new_encoding>			
+</encoding_description>			
+<bibliography></bibliography>			
+<sentence_marker>.</sentence_marker>			
+<normalization>No</normalization>			
+<utility_name>cml_tags</utility_name>			
+			
+</head>			
+<body>			
+<tb number="1" segment="no" bullet="no">			
+<foreign language="select" writingsystem="LTR"> </foreign>			
+<text>			
+<Sentence id="1">			
+1	((	NP	<fs af=',,,,,,,' drel='r6:NP2'  name='NP'>
+1.1	JAraKaMda	NNP	<fs af='JAraKaMda,n,m,sg,3,o,0,0' name='JAraKaMda'  posn='10'>
+1.2	ke	PSP	<fs af='kA,psp,m,sg,,o,,' name='ke'  posn='20'>
+	))
+2	((	NP	<fs af=',,,,,,,' drel='k1:VGF'  name='NP2'>
+2.1	rAjyapAla	XC	<fs af='rAjyapAla,n,m,sg,3,d,0,0' name='rAjyapAla'  posn='30'>
+2.2	sEyaxa	XC	<fs af='sEyaxa,n,m,sg,3,d,0,0' name='sEyaxa'  posn='40'>
+2.3	sibwe	XC	<fs af='sibwe,n,m,sg,3,d,0,0' name='sibwe'  posn='50'>
+2.4	rajZI	NNP	<fs af='rajZI,n,m,sg,3,o,0,0' name='rajZI'  posn='60'>
+2.5	ne	PSP	<fs af='ne,psp,,,,,,' name='ne'  posn='70'>
+	))
+3	((	NP	<fs af=',,,,,,,' drel='pof:VGNN'  name='NP3'>
+3.1	sarakAra	NN	<fs af='sarakAra,n,f,sg,3,d,0,0' name='sarakAra'  posn='80'>
+	))
+4	((	VGNN	<fs af=',,,,,,,' drel='rt:VGNN2'  name='VGNN'>
+4.1	banAne	VM	<fs af='banA,v,any,any,any,o,nA,nA' name='banAne'  posn='90'>
+4.2	ke	PSP	<fs af='ke,psp,,,,,,' name='ke2'  posn='100'>
+4.3	lie	PSP	<fs af='lie,psp,,,,,,' name='lie'  posn='110'>
+	))
+5	((	NP	<fs af=',,,,,,,' drel='k2:VGNN2'  name='NP4'>
+5.1	SibU	XC	<fs af='SibU,n,m,sg,3,d,0,0' name='SibU'  posn='120'>
+5.2	sorena	NNP	<fs af='sorena,n,m,sg,3,o,0,0' name='sorena'  posn='130'>
+5.3	ko	PSP	<fs af='ko,psp,,,,,,' name='ko'  posn='140'>
+	))
+6	((	JJP	<fs af=',,,,,,,' drel='pof:VGNN2'  name='JJP'>
+6.1	AmaMwriwa	JJ	<fs af='AmaMwriwa,adj,any,any,,,,' name='AmaMwriwa'  posn='150'>
+	))
+7	((	VGNN	<fs af=',,,,,,,' drel='r6:NP6'  name='VGNN2'>
+7.1	karane	VM	<fs af='kara,v,any,any,any,o,nA,nA' name='karane'  posn='160'>
+7.2	ke	PSP	<fs af='kA,psp,m,sg,,o,,' name='ke3'  posn='170'>
+	))
+8	((	NP	<fs af=',,,,,,,' drel='r6:NP6'  name='NP5'>
+8.1	apane	PRP	<fs af='apanA,pn,m,sg,any,o,0,0' name='apane'  posn='180'>
+	))
+9	((	NP	<fs af=',,,,,,,' drel='k2:VGF'  name='NP6'>
+9.1	PEsale	NN	<fs af='PEsalA,n,m,sg,3,o,0,0' name='PEsale'  posn='190'>
+9.2	ko	PSP	<fs af='ko,psp,,,,,,' name='ko2'  posn='200'>
+	))
+10	((	JJP	<fs af=',,,,,,,' drel='k2s:VGF'  name='JJP2'>
+10.1	sahI	JJ	<fs af='sahI,adj,any,any,,,,' name='sahI'  posn='210'>
+	))
+11	((	VGF	<fs af=',,,,,,,' stype='declarative'  name='VGF'  voicetype='active'>
+11.1	TaharAyA	VM	<fs af='TaharA,v,m,sg,any,,yA,yA' name='TaharAyA'  posn='220'>
+11.2	hE	VAUX	<fs af='hE,v,any,sg,3,,hE,hE' name='hE'  posn='230'>
+11.3	.	SYM	<fs af='.,punc,,,,,,' name='.'  posn='240'>
+	))
+</Sentence>			
+			
+<Sentence id="2">			
+1	((	NP	<fs af=',,,,,,,' drel='k1:VGF'  name='NP'>
+1.1	rajZI	NNP	<fs af='rajZI,n,m,sg,3,o,0,0' name='rajZI'  posn='10'>
+1.2	ne	PSP	<fs af='ne,psp,,,,,,' name='ne'  posn='20'>
+	))
+2	((	NP	<fs af=',,,,,,,' drel='k7t:VGF'  name='NP2'>
+2.1	SapaWa	XC	<fs af='SapaWa,n,f,sg,3,d,0,0' name='SapaWa'  posn='30'>
+2.2	grahaNa	XC	<fs af='grahaNa,n,m,sg,3,d,0,0' name='grahaNa'  posn='40'>
+2.3	samAroha	NN	<fs af='samAroha,n,m,sg,3,o,0,0' name='samAroha'  posn='50'>
+2.4	ke	PSP	<fs af='ke,psp,,,,,,' name='ke'  posn='60'>
+2.5	bAxa	NST	<fs af='bAxa,nst,m,sg,3,d,,' name='bAxa'  posn='70'>
+	))
+3	((	NP	<fs af=',,,,,,,' drel='ras-k1:VGNF'  name='NP3'>
+3.1	pawrakAroM	NN	<fs af='pawrakAra,n,m,pl,3,o,0,0' name='pawrakAroM'  posn='80'>
+3.2	se	PSP	<fs af='se,psp,,,,,,' name='se'  posn='90'>
+	))
+4	((	NP	<fs af=',,,,,,,' drel='pof:VGNF'  name='NP4'>
+4.1	carcA	NN	<fs af='carcA,n,f,sg,3,d,0,0' name='carcA'  posn='100'>
+	))
+5	((	VGNF	<fs af=',,,,,,,' drel='vmod:VGF'  name='VGNF'>
+5.1	karawe	VM	<fs af='kara,v,m,sg,any,,wA,wA' name='karawe'  posn='110'>
+5.2	hue	VAUX	<fs af='ho,v,m,sg,any,,yA,yA' name='hue'  posn='120'>
+	))
+6	((	VGF	<fs af=',,,,,,,' stype='declarative'  name='VGF'  voicetype='active'>
+6.1	kahA	VM	<fs af='kaha,v,m,sg,any,,yA,yA' name='kahA'  posn='130'>
+6.2	,	SYM	<fs af=',punc,,,,,,' name=','  posn='140'>
+	))
+7	((	NP	<fs af=',,,,,,,' drel='adv:VGNN'  name='NP5'>
+7.1	pUrI	JJ	<fs af='pUrI,adj,f,sg,,d,,' name='pUrI'  posn='150'>
+7.2	waraha	NN	<fs af='waraha,n,f,sg,3,d,0,0' name='waraha'  posn='160'>
+	))
+8	((	JJP	<fs af=',,,,,,,' drel='pof:VGNN'  name='JJP'>
+8.1	saMwuRta	JJ	<fs af='saMwuRta,adj,any,any,,,,' name='saMwuRta'  posn='170'>
+	))
+9	((	VGNN	<fs af=',,,,,,,' drel='k7t:VGF2'  name='VGNN'>
+9.1	hone	VM	<fs af='ho,v,any,any,any,o,nA,nA' name='hone'  posn='180'>
+9.2	ke	PSP	<fs af='ke,psp,,,,,,' name='ke2'  posn='190'>
+9.3	bAxa	NST	<fs af='bAxa,nst,m,sg,3,d,,' name='bAxa2'  posn='200'>
+9.4	hI	RP	<fs af='hI,avy,,,,,,' name='hI'  posn='210'>
+	))
+10	((	NP	<fs af=',,,,,,,' drel='k1:VGF2'  name='NP6'>
+10.1	mEMne	PRP	<fs af='mEM,pn,any,sg,1,o,ne,ne' name='mEMne'  posn='220'>
+	))
+11	((	NP	<fs af=',,,,,,,' drel='k2:VGF2'  name='NP7'>
+11.1	yUpIe	NNP	<fs af='yUpIe,n,m,sg,3,o,0,0' name='yUpIe'  posn='230'>
+11.2	ko	PSP	<fs af='ko,psp,,,,,,' name='ko'  posn='240'>
+	))
+12	((	NP	<fs af=',,,,,,,' drel='pof:VGNN2'  name='NP8'>
+12.1	sarakAra	NN	<fs af='sarakAra,n,f,sg,3,d,0,0' name='sarakAra'  posn='250'>
+	))
+13	((	VGNN	<fs af=',,,,,,,' drel='rt:VGF2'  name='VGNN2'>
+13.1	banAne	VM	<fs af='banA,v,any,any,any,o,nA,nA' name='banAne'  posn='260'>
+13.2	ke	PSP	<fs af='ke,psp,,,,,,' name='ke3'  posn='270'>
+13.3	lie	PSP	<fs af='lie,psp,,,,,,' name='lie'  posn='280'>
+	))
+14	((	JJP	<fs af=',,,,,,,' drel='pof:VGF2'  name='JJP2'>
+14.1	AmaMwriwa	JJ	<fs af='AmaMwriwa,adj,any,any,,,,' name='AmaMwriwa'  posn='290'>
+	))
+15	((	VGF	<fs af=',,,,,,,' drel='k2:VGF'  stype='declarative'  name='VGF2'  voicetype='active'>
+15.1	kiyA	VM	<fs af='kara,v,m,sg,any,,yA,yA' name='kiyA'  posn='300'>
+15.2	.	SYM	<fs af='.,punc,,,,,,' name='.'  posn='310'>
+	))
+</Sentence>			
+			
+<Sentence id="3">			
+1	((	NP	<fs af=',,,,,,,' drel='ras-k1:VGNN'  name='NP'>
+1.1	sabase	PRP	<fs af='saba,pn,any,pl,3,o,se,se' name='sabase'  posn='10'>
+	))
+2	((	NP	<fs af=',,,,,,,' drel='pof:VGNN'  name='NP2'>
+2.1	bAwa	NN	<fs af='bAwa,n,f,sg,3,d,0,0' name='bAwa'  posn='20'>
+	))
+3	((	VGNN	<fs af=',,,,,,,' drel='k7t:VGF'  name='VGNN'>
+3.1	karane	VM	<fs af='kara,v,any,any,any,o,nA,nA' name='karane'  posn='30'>
+3.2	ke	PSP	<fs af='ke,psp,,,,,,' name='ke'  posn='40'>
+3.3	bAxa	NST	<fs af='bAxa,nst,m,sg,3,d,,' name='bAxa'  posn='50'>
+	))
+4	((	NP	<fs af=',,,,,,,' drel='k1:VGF'  name='NP3'>
+4.1	mEM	PRP	<fs af='mEM,pn,any,sg,1,d,,' name='mEM'  posn='60'>
+	))
+5	((	NP	<fs af=',,,,,,,' drel='adv:VGF'  name='NP4'>
+5.1	pUrI	JJ	<fs af='pUrI,adj,f,sg,,d,,' name='pUrI'  posn='70'>
+5.2	waraha	NN	<fs af='waraha,n,f,sg,3,d,0,0' name='waraha'  posn='80'>
+	))
+6	((	NULL__NP	<dmrel='rh:VGF'  mtype='gap'  name='NULL__NP'  troot='बात'>
+6.1	NULL	NN	<fs af=',,,,,,,' name='NULL'>
+	))
+7	((	JJP	<fs af=',,,,,,,' drel='pof:VGF'  name='JJP'>
+7.1	ASvaswa	JJ	<fs af='ASvaswa,adj,any,any,,,,' name='ASvaswa'  posn='90'>
+	))
+8	((	VGF	<fs af=',,,,,,,' stype='declarative'  name='VGF'  voicetype='active'>
+8.1	hUz	VM	<fs af='hE,v,any,sg,1,,hE,hE' name='hUz'  posn='100'>
+	))
+9	((	CCP	<fs af=',,,,,,,' drel='rs:NULL__NP'  name='CCP'>
+9.1	ki	CC	<fs af='ki,avy,,,,,,' name='ki'  posn='110'>
+	))
+10	((	NP	<fs af=',,,,,,,' drel='k1:VGF2'  name='NP5'>
+10.1	yUpIe	NNP	<fs af='yUpIe,n,m,sg,3,d,0,0' name='yUpIe'  posn='120'>
+	))
+11	((	NP	<fs af=',,,,,,,' drel='k2:VGF2'  name='NP6'>
+11.1	sWAyI	JJ	<fs af='sWAyI,adj,any,any,,d,,' name='sWAyI'  posn='130'>
+11.2	sarakAra	NN	<fs af='sarakAra,n,f,sg,3,d,0,0' name='sarakAra'  posn='140'>
+	))
+12	((	VGF	<fs af=',,,,,,,' drel='ccof:CCP'  stype='declarative'  name='VGF2'  voicetype='active'>
+12.1	xe	VM	<fs af='xe,v,any,any,any,,0,0' name='xe'  posn='150'>
+12.2	sakawA	VAUX	<fs af='saka,v,m,sg,any,,wA,wA' name='sakawA'  posn='160'>
+12.3	hE	VAUX	<fs af='hE,v,any,sg,3,,hE,hE' name='hE'  posn='170'>
+12.4	.	SYM	<fs af='.,punc,,,,,,' name='.'  posn='180'>
+	))
+</Sentence>			
+			
+<Sentence id="4">			
+1	((	NP	<fs af=',,,,,,,' drel='k2:VGNN'  name='NP'>
+1.1	yaha	PRP	<fs af='yaha,pn,any,sg,3,d,,' name='yaha'  posn='10'>
+	))
+2	((	VGNN	<fs af=',,,,,,,' drel='vmod:VGF2'  name='VGNN'>
+2.1	pUCe	VM	<fs af='pUCa,v,m,sg,any,,yA,yA' name='pUCe'  posn='20'>
+2.2	jAne	VAUX	<fs af='jA,v,any,any,any,o,nA,nA' name='jAne'  posn='30'>
+2.3	para	PSP	<fs af='para,psp,,,,,,' name='para'  posn='40'>
+	))
+3	((	CCP	<fs af=',,,,,,,' drel='rs:NP'  name='CCP'>
+3.1	ki	CC	<fs af='ki,avy,,,,,,' name='ki'  posn='50'>
+	))
+4	((	NP	<fs af=',,,,,,,' drel='k1:VGNF'  name='NP2'>
+4.1	rAjaga	NNP	<fs af='rAjaga,n,m,sg,3,o,0,0' name='rAjaga'  posn='60'>
+4.2	xvArA	PSP	<fs af='xvArA,psp,,,,,,' name='xvArA'  posn='70'>
+	))
+5	((	VGNF	<fs af=',,,,,,,' drel='nmod__k2inv:NP3'  name='VGNF'>
+5.1	sOMpI	VM	<fs af='sOMpa,v,f,sg,any,,yA,yA' name='sOMpI'  posn='80'>
+5.2	gaI	VAUX	<fs af='jA,v,f,sg,any,,yA1,yA1' name='gaI'  posn='90'>
+	))
+6	((	NP	<fs af=',,,,,,,' drel='r6:NP4'  name='NP3'>
+6.1	viXAyakoM	NN	<fs af='viXAyaka,n,m,pl,3,o,0,0' name='viXAyakoM'  posn='100'>
+6.2	kI	PSP	<fs af='kA,psp,f,sg,,o,,' name='kI'  posn='110'>
+	))
+7	((	NP	<fs af=',,,,,,,' drel='k7:VGF'  name='NP4'>
+7.1	sUcI	NN	<fs af='sUcI,n,f,sg,3,o,0,0' name='sUcI'  posn='120'>
+7.2	meM	PSP	<fs af='meM,psp,,,,,,' name='meM'  posn='130'>
+	))
+8	((	NP	<fs af=',,,,,,,' drel='nmod:NP6'  name='NP5'>
+8.1	kyA	WQ	<fs af='kyA,pn,,,,,,' name='kyA'  posn='140'>
+	))
+9	((	NP	<fs af=',,,,,,,' drel='k1:VGF'  name='NP6'>
+9.1	gadZabadZI	NN	<fs af='gadabadI,n,f,sg,3,d,0,0' name='gadZabadZI'  posn='150'>
+	))
+10	((	VGF	<fs af=',,,,,,,' drel='ccof:CCP'  stype='declarative'  name='VGF'  voicetype='active'>
+10.1	WI	VM	<fs af='WA,v,f,sg,any,,WA,WA' name='WI'  posn='160'>
+10.2	,	SYM	<fs af=',punc,,,,,,' name=','  posn='170'>
+	))
+11	((	NP	<fs af=',,,,,,,' drel='k1:VGF2'  name='NP7'>
+11.1	unhoMne	PRP	<fs af='vaha,pn,any,sg,3h,o,ne,ne' name='unhoMne'  posn='180'>
+	))
+12	((	VGF	<fs af=',,,,,,,' stype='declarative'  name='VGF2'  voicetype='active'>
+12.1	kahA	VM	<fs af='kaha,v,m,sg,any,,yA,yA' name='kahA'  posn='190'>
+	))
+13	((	CCP	<fs af=',,,,,,,' drel='k2:VGF2'  name='CCP2'>
+13.1	ki	CC	<fs af='ki,avy,,,,,,' name='ki2'  posn='200'>
+	))
+14	((	CCP	<fs af=',,,,,,,' drel='vmod:VGF4'  name='CCP3'>
+14.1	yaxi	CC	<fs af='yaxi,avy,,,,,,' name='yaxi'  posn='210'>
+	))
+15	((	NP	<fs af=',,,,,,,' drel='r6:NP9'  name='NP8'>
+15.1	sirPa	RP	<fs af='sirPa,avy,,,,,,' name='sirPa'  posn='220'>
+15.2	AMkadZoM	NN	<fs af='AMkadZoM,n,m,pl,3,o,0,0' name='AMkadZoM'  posn='230'>
+15.3	kI	PSP	<fs af='kA,psp,f,sg,,d,,' name='kI2'  posn='240'>
+	))
+16	((	NP	<fs af=',,,,,,,' drel='k1:VGF3'  name='NP9'>
+16.1	bAwa	NN	<fs af='bAwa,n,f,sg,3,d,0,0' name='bAwa'  posn='250'>
+	))
+17	((	VGF	<fs af=',,,,,,,' drel='ccof:CCP3'  stype='declarative'  name='VGF3'  voicetype='active'>
+17.1	hE	VM	<fs af='hE,v,any,sg,3,,hE,hE' name='hE'  posn='260'>
+	))
+18	((	CCP	<fs af=',,,,,,,' drel='ccof:CCP2'  name='CCP4'>
+18.1	wo	CC	<fs af='wo,avy,,,,,,' name='wo'  posn='270'>
+	))
+19	((	RBP	<fs af=',,,,,,,' drel='adv:VGF4'  name='RBP'>
+19.1	Pira	RB	<fs af='Pira,adv,,,,,,' name='Pira'  posn='280'>
+	))
+20	((	NP	<fs af=',,,,,,,' drel='k4a:VGF4'  name='NP10'>
+20.1	rAjyapAla	NN	<fs af='rAjyapAla,n,m,sg,3,o,0,0' name='rAjyapAla'  posn='290'>
+20.2	ko	PSP	<fs af='ko,psp,,,,,,' name='ko'  posn='300'>
+	))
+21	((	NP	<fs af=',,,,,,,' drel='pof:VGNN2'  name='NP11'>
+21.1	PEsale	NN	<fs af='PEsalA,n,m,pl,3,d,0,0' name='PEsale'  posn='310'>
+	))
+22	((	VGNN	<fs af=',,,,,,,' drel='r6:NP12'  name='VGNN2'>
+22.1	lene	VM	<fs af='le,v,any,any,any,o,nA,nA' name='lene'  posn='320'>
+22.2	kI	PSP	<fs af='kA,psp,f,sg,,d,,' name='kI3'  posn='330'>
+	))
+23	((	NP	<fs af=',,,,,,,' drel='k1:VGF4'  name='NP12'>
+23.1	jarUrawa	NN	<fs af='jarUrawa,n,f,sg,3,d,0,0' name='jarUrawa'  posn='340'>
+23.2	hI	RP	<fs af='hI,avy,,,,,,' name='hI'  posn='350'>
+	))
+24	((	VGF	<fs af=',,,,,,,' drel='ccof:CCP4'  stype='declarative'  name='VGF4'  voicetype='active'>
+24.1	nahIM	NEG	<fs af='nahIM,avy,,,,,,' name='nahIM'  posn='360'>
+24.2	hE	VM	<fs af='hE,v,any,sg,3,,hE,hE' name='hE2'  posn='370'>
+24.3	.	SYM	<fs af='.,punc,,,,,,' name='.'  posn='380'>
+	))
+</Sentence>			
+			
+<Sentence id="5">			
+1	((	NP	<fs af=',,,,,,,' drel='k7:VGF'  name='NP'>
+1.1	rajZI	NNP	<fs af='rajZI,n,m,sg,3,o,0,0' name='rajZI'  posn='10'>
+1.2	ke	PSP	<fs af='ke,psp,,,,,,' name='ke'  posn='20'>
+1.3	muwAbika	PSP	<fs af='muwAbika,psp,,,,,,' name='muwAbika'  posn='30'>
+	))
+2	((	NP	<fs af=',,,,,,,' drel='r6:NP3'  name='NP2'>
+2.1	esa.	XC	<fs af='esa.,n,m,sg,3,d,0,0' name='esa.'  posn='40'>
+2.2	Ara.	XC	<fs af='Ara.,n,m,sg,3,d,0,0' name='Ara.'  posn='50'>
+2.3	bommaI	NNP	<fs af='bommaI,n,m,sg,3,o,0,0' name='bommaI'  posn='60'>
+2.4	ke	PSP	<fs af='kA,psp,m,sg,,o,,' name='ke2'  posn='70'>
+	))
+3	((	NP	<fs af=',,,,,,,' drel='k7:VGF'  name='NP3'>
+3.1	mAmale	NN	<fs af='mAmalA,n,m,sg,3,o,0,0' name='mAmale'  posn='80'>
+3.2	meM	PSP	<fs af='meM,psp,,,,,,' name='meM'  posn='90'>
+	))
+4	((	NP	<fs af=',,,,,,,' drel='k1:VGF'  name='NP4'>
+4.1	suprIma	XC	<fs af='suprIma,n,m,sg,3,d,0,0' name='suprIma'  posn='100'>
+4.2	korta	NNP	<fs af='korta,n,m,sg,3,o,0,0' name='korta'  posn='110'>
+4.3	ne	PSP	<fs af='ne,psp,,,,,,' name='ne'  posn='120'>
+	))
+5	((	NP	<fs af=',,,,,,,' drel='pof:VGF'  name='NP5'>
+5.1	vyavasWA	NN	<fs af='vyavasWA,n,f,sg,3,d,0,0' name='vyavasWA'  posn='130'>
+	))
+6	((	VGF	<fs af=',,,,,,,' stype='declarative'  name='VGF'  voicetype='active'>
+6.1	xI	VM	<fs af='xe,v,f,sg,any,,yA,yA' name='xI'  posn='140'>
+6.2	WI	VAUX	<fs af='WA,v,f,sg,any,,WA,WA' name='WI'  posn='150'>
+	))
+7	((	CCP	<fs af=',,,,,,,' drel='k2:VGF'  name='CCP'>
+7.1	ki	CC	<fs af='ki,avy,,,,,,' name='ki'  posn='160'>
+	))
+8	((	NP	<fs af=',,,,,,,' drel='k1:VGF2'  name='NP6'>
+8.1	rAjyapAla	NN	<fs af='rAjyapAla,n,m,sg,3,d,0,0' name='rAjyapAla'  posn='170'>
+	))
+9	((	NP	<fs af=',,,,,,,' drel='r6:NP8'  name='NP7'>
+9.1	apane	PRP	<fs af='apanA,pn,m,sg,any,o,0,0' name='apane'  posn='180'>
+	))
+10	((	NP	<fs af=',,,,,,,' drel='rh:VGF2'  name='NP8'>
+10.1	viveka	NN	<fs af='viveka,n,m,sg,3,o,0,0' name='viveka'  posn='190'>
+10.2	se	PSP	<fs af='se,psp,,,,,,' name='se'  posn='200'>
+	))
+11	((	NP	<fs af=',,,,,,,' drel='nmod:NP10'  name='NP9'>
+11.1	kisI	PRP	<fs af='koI,pn,any,sg,3,o,,' name='kisI'  posn='210'>
+11.2	BI	RP	<fs af='BI,avy,,,,,,' name='BI'  posn='220'>
+	))
+12	((	NP	<fs af=',,,,,,,' drel='k2:VGF2'  name='NP10'>
+12.1	EsI	DEM	<fs af='EsA,pn,f,sg,any,o,0,0' name='EsI'  posn='230'>
+12.2	pArtI	NN	<fs af='pArtI,n,f,sg,3,o,0,0' name='pArtI'  posn='240'>
+12.3	ko	PSP	<fs af='ko,psp,,,,,,' name='ko'  posn='250'>
+	))
+13	((	VGF	<fs af=',,,,,,,' drel='ccof:CCP'  stype='declarative'  name='VGF2'  voicetype='active'>
+13.1	bulA	VM	<fs af='bulA,v,any,any,any,,0,0' name='bulA'  posn='260'>
+13.2	sakawA	VAUX	<fs af='saka,v,m,sg,any,,wA,wA' name='sakawA'  posn='270'>
+13.3	hE	VAUX	<fs af='hE,v,any,sg,3,,hE,hE' name='hE'  posn='280'>
+	))
+14	((	NP	<fs af=',,,,,,,' drel='k7:VGF3'  name='NP11'  coref='NP10'>
+14.1	jisa	PRP	<fs af='jo,pn,any,sg,3,o,,' name='jisa'  posn='290'>
+14.2	para	PSP	<fs af='para,psp,,,,,,' name='para'  posn='300'>
+	))
+15	((	NP	<fs af=',,,,,,,' drel='k4a:VGF3'  name='NP12'>
+15.1	use	PRP	<fs af='vaha,pn,any,sg,3,o,ko,ko' name='use'  posn='310'>
+	))
+16	((	NULL__NP	<dmrel='k1:VGF3'  mtype='gap'  name='NULL__NP'  troot='यह'>
+16.1	NULL	NN	<fs af=',,,,,,,' name='NULL'>
+	))
+17	((	NP	<fs af=',,,,,,,' drel='pof:VGF3'  name='NP13'>
+17.1	BarosA	NN	<fs af='BarosA,n,m,sg,3,d,0,0' name='BarosA'  posn='320'>
+	))
+18	((	VGF	<fs af=',,,,,,,' drel='nmod__relc:NP10'  stype='declarative'  name='VGF3'  voicetype='active'>
+18.1	ho	VM	<fs af='ho,v,any,any,any,,0,0' name='ho'  posn='330'>
+	))
+19	((	CCP	<fs af=',,,,,,,' drel='rs:NULL__NP'  name='CCP2'>
+19.1	ki	CC	<fs af='ki,avy,,,,,,' name='ki2'  posn='340'>
+	))
+20	((	NP	<fs af=',,,,,,,' drel='k1:VGF4'  name='NP14'>
+20.1	vaha	PRP	<fs af='vaha,pn,any,sg,3,d,,' name='vaha'  posn='350'>
+	))
+21	((	NP	<fs af=',,,,,,,' drel='k2:VGF4'  name='NP15'>
+21.1	sWAyI	JJ	<fs af='sWAyI,adj,any,any,,d,,' name='sWAyI'  posn='360'>
+21.2	sarakAra	NN	<fs af='sarakAra,n,f,sg,3,d,0,0' name='sarakAra'  posn='370'>
+	))
+22	((	VGF	<fs af=',,,,,,,' drel='ccof:CCP2'  stype='declarative'  name='VGF4'  voicetype='active'>
+22.1	xe	VM	<fs af='xe,v,any,any,any,,0,0' name='xe'  posn='380'>
+22.2	sakawI	VAUX	<fs af='saka,v,f,sg,any,,wA,wA' name='sakawI'  posn='390'>
+22.3	hE	VAUX	<fs af='hE,v,any,sg,3,,hE,hE' name='hE2'  posn='400'>
+22.4	.	SYM	<fs af='.,punc,,,,,,' name='.'  posn='410'>
+	))
+</Sentence>			
+			
+</text>			
+</tb>			
+</body>			
+</document>			

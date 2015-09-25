@@ -1,0 +1,24 @@
+-path option for path of the program
+-lang option for language font
+-stype option for source type
+for example 
+	language is Hindi then --lang hin
+	for Malayalam --lang mal
+	for Telugu --lang tel
+	for Tamil --lang tam
+        for kannada --lang kan
+        for Panjabi --lang pan
+        for Bengali --lang ben
+        for Urdu --lang urd
+
+-s option for source font
+-t option for target font
+
+To run:
+
+perl run-convertor.pl --path=$PWD --lang= sourcelanguage -stype sourcelanguagetype(SSF/ssf or TEXT/text) -s wx -t utf <inputfile in wx >out for wx to UTF-8.
+
+for example
+
+perl run-convertor.pl --path=$PWD --lang=hin -stype text -s wx -t utf < test_data/hin/hin.wx >output.utf
+
