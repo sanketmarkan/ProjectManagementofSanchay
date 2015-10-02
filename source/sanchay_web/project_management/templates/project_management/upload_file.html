@@ -1,0 +1,9 @@
+<h3> Hi {{user.first_name}} </h3>
+
+<h2> Upload a new file </h2>
+
+<form action="/project_management/upload_file/" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_ul }}
+    <input type="submit" value="Submit" />
+</form>

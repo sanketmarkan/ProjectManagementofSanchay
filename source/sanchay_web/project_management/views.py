@@ -2,8 +2,8 @@ from django.shortcuts import render
 from django.http import HttpResponse, HttpResponseRedirect
 from django.utils import timezone
 from django.contrib.auth.models import User
-from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm
-from .models import Annotator, Batch
+from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm
+from .models import Annotator, Batch, Document
 from django.contrib.auth.decorators import login_required
 
 # Create your views here.
@@ -101,11 +101,21 @@ def allot_batch(request):
 
 @login_required
 def upload_file(request):
+	if request.method == 'POST':
+		form = NewDocumentForm(request.POST, request.FILES)
+		if form.is_valid():
+			batch_id_entry = form.cleaned_data['batch_id']
+			try:
+			    batch_obj = Batch.objects.get(pk = batch_id_entry)
+			except Exception:
+				form.add_error('batch_id', 'A batch of given id does not exist')
+			else:
+				doc_obj = Document(docfile = request.FILES['docfile'], date_created = timezone.now(), batch = batch_obj)
+				doc_obj.save()
+				return HttpResponse('File uploaded.')
+	else:
+		form = NewDocumentForm()
+	return render(request, 'project_management/upload_file.html', {'form': form, 'user': request.user})
+
+
 	
-
-
-
-
-
-
-

@@ -17,6 +17,8 @@ class AllotBatchForm(forms.Form):
 	username = forms.CharField(label='Username of the annotator whom you want to allot', max_length=100)
 
 class NewDocumentForm(forms.Form):
-	docfile = forms.FileField(label='Select a file', help_text='max. 50 megabytes')
+    batch_id = forms.DecimalField(label = 'Batch ID')
+    docfile = forms.FileField(label='Select a file', help_text='max. 50 megabytes')
+	
 
 

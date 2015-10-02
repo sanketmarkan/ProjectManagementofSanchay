@@ -19,7 +19,6 @@ def get_doc_path(instance, filename):
 		"Batch_%d" % instance.batch.id, filename)
 
 class Document(models.Model):
-	name = models.CharField(max_length=200)
 	docfile = models.FileField(upload_to = get_doc_path)
 	batch = models.ForeignKey(Batch)
 	date_created = models.DateTimeField('date created')
