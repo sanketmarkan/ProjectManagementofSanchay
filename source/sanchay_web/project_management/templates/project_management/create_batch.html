@@ -1,0 +1,9 @@
+<h3> Hi {{user.first_name}} </h3>
+
+<h2> Create a new batch </h2>
+
+<form action="/project_management/create_batch/" method="post">
+    {% csrf_token %}
+    {{ form.as_ul }}
+    <input type="submit" value="Submit" />
+</form>

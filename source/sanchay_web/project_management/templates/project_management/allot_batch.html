@@ -1,0 +1,9 @@
+<h3> Hi {{user.first_name}} </h3>
+
+<h2> Allot a batch to a user </h2>
+
+<form action="/project_management/allot_batch/" method="post">
+    {% csrf_token %}
+    {{ form.as_ul }}
+    <input type="submit" value="Submit" />
+</form>
