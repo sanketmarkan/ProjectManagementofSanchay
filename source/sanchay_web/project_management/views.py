@@ -1,8 +1,8 @@
-from django.shortcuts import render
-from django.http import HttpResponse, HttpResponseRedirect
+from django.shortcuts import render, get_object_or_404
+from django.http import HttpResponse, HttpResponseRedirect, Http404
 from django.utils import timezone
 from django.contrib.auth.models import User
-from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm
+from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm
 from .models import Annotator, Batch, Document
 from django.contrib.auth.decorators import login_required
 
@@ -70,7 +70,7 @@ def create_batch(request):
 			name_entry = form.cleaned_data['name']
 			batch_obj = Batch(name = name_entry, date_created = timezone.now())
 			batch_obj.save()
-			return HttpResponse('New batch created')
+			return render(request, 'project_management/view_batches.html', {'user': request.user})
 	else:
 		form = NewBatchForm()
 	return render(request, 'project_management/create_batch.html', {'form': form, 'user': request.user})
@@ -94,6 +94,8 @@ def allot_batch(request):
 				else:
 					allot_annotator = allot_user.annotator
 					allot_annotator.batches.add(allot_batch)
+					allot_annotator.save()
+					allot_user.save()
 					return HttpResponse('Batch allotted to the specified user.')
 	else:
 		form = AllotBatchForm()
@@ -116,6 +118,33 @@ def upload_file(request):
 	else:
 		form = NewDocumentForm()
 	return render(request, 'project_management/upload_file.html', {'form': form, 'user': request.user})
+
+@login_required
+def view_batches(request):
+	batches = request.user.annotator.batches.all()
+	return render(request, 'project_management/view_batches.html', {'user': request.user, 'batches':batches})
+
+@login_required
+def view_batch_files(request, batch_id):
+	batch = get_object_or_404(Batch, pk=batch_id)
+	documents = batch.document_set.all()
+	print documents.all()
+	return render(request, 'project_management/view_batch_files.html', {'user': request.user, 'documents':documents, 'batch_id':batch_id})
+
+@login_required
+def upload_file_within_batch(request, batch_id):
+	if request.method == 'POST':
+		form = NewDocBatchForm(request.POST, request.FILES)
+		batch_obj = get_object_or_404(Batch, pk=batch_id)
+		if form.is_valid():
+			doc_obj = Document(docfile = request.FILES['docfile'], date_created = timezone.now(), batch = batch_obj)
+			doc_obj.save()
+			return HttpResponse('File uploaded.')
+	else:
+		form = NewDocBatchForm()
+	return render(request, 'project_management/upload_file_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id})
+
+
 
 
 	

@@ -1,0 +1,19 @@
+<h3> Hi {{user.first_name}} </h3>
+
+{% if documents %}
+<h4> This batch contains the following files </h4>
+<ul>
+	{% for document in documents %}
+	<li><a href="{{ document.docfile.url }}">{{ document.docfile.name }}</a></li>
+	{% endfor %}
+</ul>
+{% else %}
+<p> This batch does not have any documents </p>
+{% endif %}
+
+<li><a href="/project_management/{{batch_id}}/upload_file/">Upload a new file</a></li>
+
+
+
+
+

@@ -1,0 +1,11 @@
+<h3> Hi {{user.first_name}} </h3>
+
+<h2> Upload a new file </h2>
+
+<form action="/project_management/{{batch_id}}/upload_file/" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Submit" />
+</form>
+
+

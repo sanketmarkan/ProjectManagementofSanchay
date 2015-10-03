@@ -19,6 +19,10 @@ class AllotBatchForm(forms.Form):
 class NewDocumentForm(forms.Form):
     batch_id = forms.DecimalField(label = 'Batch ID')
     docfile = forms.FileField(label='Select a file', help_text='max. 50 megabytes')
+
+class NewDocBatchForm(forms.Form):
+    docfile = forms.FileField(label='Select a file', help_text='max. 50 megabytes')
+
 	
 
 

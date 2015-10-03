@@ -6,6 +6,9 @@ class Batch(models.Model):
 	name = models.CharField(max_length=200)
 	date_created = models.DateTimeField('date created')
 
+	def __unicode__(self):
+		return self.name
+
 class Annotator(models.Model):
 	user = models.OneToOneField(User)
 	batches = models.ManyToManyField(Batch)
@@ -24,5 +27,5 @@ class Document(models.Model):
 	date_created = models.DateTimeField('date created')
 
 	def __unicode__(self):
-		return self.name
+		return self.docfile.name
  

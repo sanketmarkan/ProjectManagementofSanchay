@@ -1,0 +1,12 @@
+<h3> Hi {{user.first_name}} </h3>
+
+{% if batches %}
+<ul>
+	{% for batch in batches %}
+	<li><a href="/project_management/{{batch.id}}/batch/">{{ batch.name }}</a> </li>
+	{% endfor %}
+</ul>
+{% else %}
+<p> You have not been alotted any batches </p>
+{% endif %}
+

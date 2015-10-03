@@ -1,0 +1,249 @@
+Functionality
+If we press w key while standing in front of a ladder and then release the key instantaneouslt the player falls from the ladder.
+
+Functionality
+A player may get killed instantaneously at the beginning of the level due to collision with a fireball.This happens because next level is displayed at a delay of 2-3 whereas the game starts functionaing instaneously in the background.
+
+Functionality
+A fireball does not fall down the entire ladder but jumps to the platfrom after covering half of its distance on the ladder.
+
+Pythonic
+Use of super on an old styled class.
+Like -> super(Player,self).__init__(0,0,50,70,'p2_stand.png')
+
+Pythonic
+An attribute defined in Player class hides a method
+__check_princess
+
+-----------------------
+Code Smell
+Lazy class / Freeloader: a class that does too little.
+Person,BrokenLadder,LadderBlock,RopeBlock,Coin classes,Cage are too small.
+
+Cyclomatic Complexity
+Too much use of if/else/for loops in update() in Player class.
+In the main game loop in main.py
+
+Large class
+Player,Landforms classes have grown too large must be refactored.
+
+Inappropriate Intimacy
+Player,Landform,Item,Board classes have too much dependency on implementation details of other classes.
+
+Feature Envy
+Board class uses methods of other classes excessively.
+
+Too many parameters
+init function of Person,Item,Donkey and extract_graphic(...) of Graphics class have too many parameters.
+
+Long method
+main() in main.py
+init of Board class
+
+Code duplication
+Identical code 
+for LevelOne, LevelTwo, LevelThree classes.
+for class ZeroPlatform, FirstPlatform, SecondPlatform, ThirdPlatform.
+for Ladder and BrokenLadder
+-------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
+Anuj Rathore
+
+Bugs
+
+Anuj Rathore
+Functionality
+Game screen not interactive.Depends on user input and characters move only when you keep a key pressed.
+
+Anuj Rathore
+Functionality
+Game screen flickers badly.Things become blurry when you more your payer very fast.
+
+Anuj Rathore
+Functionality
+When you only press 'spacebar' instead of moving up and then returning to the same spot, the player moves up and moves right to a different spot.
+
+Anuj Rathore
+Memory Related
+After playing the game for a few minutes when the user gets hit by a fireball the game abruptly ends showing IndexError: list index out of range.
+
+Anuj Rathore
+Input/Output Related
+When we press 'spacebar' to jump ,player moves to a new position in the left.If we again press a 'spacebar' the player does not jump this time.It remains static on its position.
+
+Anuj Rathore
+Display
+Some coins float in midair instead of being on a platform.
+
+Anuj Rathore
+Display
+Coins are getting regenerated in the same level,whenever the player is dying.
+
+-------------------------------------------------------------------------------------------
+Bugs 
+
+Aagam Shah
+
+Aagam Shah
+Functional
+Fireballs sometimes remain afloat in air even after crossing the edge of the platform, instead of falling down , and reach the other platform.
+
+Aagam Shah
+Functional
+Some coins float in the air instead of being on the platform.
+
+------------------------------------------------------------------------------------------------
+Bugs
+
+Aman Rai
+
+Aman Rai
+Functional
+On pressing 'spacebar' key only ,instead of jumping up and returning back to the same position it jumps and moves right to a different position.
+
+Aman Rai
+Functional
+The game screen flickers when we keep a movement key pressed for a long time.
+
+Aman Rai
+Memory Related
+When we reach Queens chamber and press the jump key the player jumps out of the chamber.Now the player is able to move thorugh walls and tiles.Eventually the game crashes. Error - IndexError: list index out of range.
+
+Aman Rai
+Memory Related
+While moving up the ladder if we press the jump key then the player jumps from the ladder hitting the tiles and crashing the game.We get - IndexError: list index out of range.
+
+Requirements
+checkCollision() not implemented.
+
+Requirements
+getPosition() not implemented.
+
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Code Smell
+
+Anuj Rathore
+
+Anuj Rathore
+Lazy class - 
+Person,Queen class has very little functionality.
+
+Anuj Rathore
+Large Class
+Player class has become too large
+
+Anuj Rathore
+Cyclomatic Complexity - 
+Too many loops and branches in print_board() in :-
+gen.py,in main method 
+create_coins() of Coins class
+
+Anuj Rathore
+Excessive use of literals: 
+literals in Queen class,these should be coded as named constants
+\n\n\n\n\n\n\n should be made a constant.
+In Player class
+In create_coins() of Coins class
+In board.py
+
+Anuj Rathore
+Long function
+main method,create_coins()
+
+Anuj Rathore
+Inappropriate intimacy: 
+game.py has dependencies on implementation details of another class.
+
+Anuj Rathore
+Feature envy
+game.py,Player class uses methods of another class excessively.
+
+Anuj Rathore
+Code duplication 
+In create_coins() of Coins class
+In board.py
+
+-------------------------------------------------------------------------------------------
+
+Code Smell
+
+Aagam Shah
+
+Aagam Shah
+Cyclomatic Complexity
+too many branches or loops; function needs to be broken up into smaller functions, or that it has potential for simplification.
+(Lines 46 - 147) - main method
+Fireball class
+
+Aagam Shah
+Long method- main
+method has grown too large.Can be re-factored into smaller units.
+checkWin()
+
+Aagam Shah
+Excessive use of literals: 
+Literals in main,death(), method, draw.py module;these should be coded as named constants, to improve readability and to avoid programming errors.
+
+Aagam Shah
+Inappropriate intimacy: 
+This class/module has dependencies on implementation details of another class.
+main method of temp.py
+functions.py
+
+Aagam Shah
+Feature envy: 
+This class/module uses methods of another class excessively.
+main method of temp.py
+functions.py
+
+Aagam Shah
+Large class: 
+This class/module has grown too large.
+temp.py
+
+Aagam Shah
+Lazy class / Freeloader: 
+Donkey,Board,Coin,Block class do too little.
+
+Aagam Shah
+Excessively short identifiers: 
+In object.py,checkWin(),generate() method
+The name of a variable should reflect its function unless the function is obvious.
+
+-------------------------------------------------------------------------------------------
+
+Code Smell
+
+Aman Rai
+
+Excessive use of literals 
+Values like 1,25 can be made as constants for better code readability in donkeykong.py
+
+Duplicated Code
+in donkeykong.py
+
+Long method
+main(),move() of Fireball methods
+
+Feature envy: 
+This class/module uses methods of another class excessively.
+donkeykong.py
+
+Inappropriate intimacy
+This class/module has dependencies on implementation details of another class.
+donkeykong.py
+
+Cyclomatic complexity
+Too many branches or loops in printplspace(),printscreen() of Screen class.
+move() of Fireball
+
+Excessive use of literals
+These should be coded as named constants, to improve readability 
+Donkey.py
+
+Lazy class
+Person class
+
+Identical Code
+In Fireball class
