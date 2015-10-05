@@ -1,8 +1,11 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h3> Hi {{user.first_name}} </h3>
 
+<h3> Hi {{user.first_name}} </h3>
+{% if new_obj %}
+    <div class="alert alert-success" role="alert">New batch created. </div>
+{% endif %}
 <h2> Create a new batch </h2>
 
 <form action="/project_management/create_batch/" method="post">

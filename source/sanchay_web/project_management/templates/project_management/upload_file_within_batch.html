@@ -2,6 +2,9 @@
 
 {% block content %}
 <h3> Hi {{user.first_name}} </h3>
+{% if new_file %}
+    <div class="alert alert-success" role="alert">New file uploaded to the system. </div>
+{% endif %}
 
 <h2> Upload a new file </h2>
 

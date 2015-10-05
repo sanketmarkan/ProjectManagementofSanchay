@@ -7,6 +7,7 @@ class CreateAnnotatorForm(forms.Form):
     email = forms.EmailField()
     first_name = forms.CharField(label='First Name', max_length=100)
     last_name = forms.CharField(label='Last Name', max_length=100)
+    moderator_id = forms.CharField(label='Moderator Id(for moderator account)', max_length=100, initial = 'NORMAL')
 
 
 class NewBatchForm(forms.Form):
@@ -29,6 +30,7 @@ class HomeLoginForm(forms.Form):
 
 class AllotUserWithinBatch(forms.Form):
     username = forms.CharField(label='Username', max_length=100)
+
 
 	
 

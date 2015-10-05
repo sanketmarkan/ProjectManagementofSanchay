@@ -7,6 +7,11 @@
 {% block content %}
 <h3> Hi {{user.first_name}} </h3>
 
+{% if new_file %}
+    <div class="alert alert-success" role="alert">New file uploaded to the system. </div>
+{% endif %}
+
+
 {% if documents %}
 <h4> This batch contains the following files </h4>
 <table class="table table-hover">

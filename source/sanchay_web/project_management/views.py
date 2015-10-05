@@ -1,4 +1,4 @@
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import render, get_object_or_404, redirect
 from django.http import HttpResponse, HttpResponseRedirect, Http404
 from django.utils import timezone
 from django.contrib.auth.models import User
@@ -8,12 +8,14 @@ from .models import Annotator, Batch, Document
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import authenticate, login
 
+
 # Create your views here.
 
 def index(request):
 	return HttpResponse("Hello, You are at Sanchay Web home page.Site is under construction.")
 
 def create_annotator(request):
+	new_obj = False
 	password_mismatch = False
 	email_exists = False
 	username_exists = False
@@ -26,6 +28,7 @@ def create_annotator(request):
 			email_entry = form.cleaned_data['email']
 			first_name_entry = form.cleaned_data['first_name']
 			last_name_entry = form.cleaned_data['last_name']
+			moderator_id_entry = form.cleaned_data['moderator_id']
 			try:# Checks if the username already exists or not
 				username_exists = True
 				user_obj = User.objects.get(username = username_entry)
@@ -47,7 +50,8 @@ def create_annotator(request):
 						user_obj.save()
 						annotator_obj = Annotator(user = user_obj, date_created = timezone.now())
 						annotator_obj.save()
-						return HttpResponse('New annotator created')
+						new_obj = True
+						return render(request, 'project_management/create_annotator.html', {'form': form, 'new_obj':new_obj})
 					else:
 						form.add_error('password', 'Both the passwords do not match.Enter again.')
 			if(email_exists):
@@ -56,26 +60,29 @@ def create_annotator(request):
 				form.add_error('username' ,'This username already exists, choose another')
 	else:
 		form = CreateAnnotatorForm()
-	return render(request, 'project_management/create_annotator.html', {'form': form})
+	return render(request, 'project_management/create_annotator.html', {'form': form, 'new_obj':new_obj})
 
 
 @login_required
 def user_home(request):
 	context = {'user': request.user}
 	return render(request, 'project_management/user_home.html', context)
- 
+
+
 @login_required
 def create_batch(request):
+	new_obj = False
 	if request.method == 'POST':
 		form = NewBatchForm(request.POST)
 		if form.is_valid():
 			name_entry = form.cleaned_data['name']
 			batch_obj = Batch(name = name_entry, date_created = timezone.now())
 			batch_obj.save()
-			return HttpResponse('New batch created')
+			new_obj = True
+			return render(request, 'project_management/create_batch.html', {'form': form, 'user': request.user, 'new_obj':new_obj})
 	else:
 		form = NewBatchForm()
-	return render(request, 'project_management/create_batch.html', {'form': form, 'user': request.user})
+	return render(request, 'project_management/create_batch.html', {'form': form, 'user': request.user, 'new_obj':new_obj})
 
 def home(request):
 	if request.method == 'POST':
@@ -96,7 +103,6 @@ def home(request):
 	else:
 		form = HomeLoginForm()
 	return render(request, 'project_management/home.html', {'form': form})
-
 
 
 @login_required
@@ -150,23 +156,26 @@ def view_batches(request):
 
 @login_required
 def view_batch_files(request, batch_id):
+	new_file = False
 	batch = get_object_or_404(Batch, pk=batch_id)
 	documents = batch.document_set.all()
 	print documents.all()
-	return render(request, 'project_management/view_batch_files.html', {'user': request.user, 'documents':documents, 'batch_id':batch_id})
+	return render(request, 'project_management/view_batch_files.html', {'user': request.user, 'documents':documents, 'batch_id':batch_id, 'new_file': new_file})
 
 @login_required
 def upload_file_within_batch(request, batch_id):
+	new_file = False
 	if request.method == 'POST':
 		form = NewDocBatchForm(request.POST, request.FILES)
 		batch_obj = get_object_or_404(Batch, pk=batch_id)
 		if form.is_valid():
 			doc_obj = Document(docfile = request.FILES['docfile'], date_created = timezone.now(), batch = batch_obj)
 			doc_obj.save()
-			return HttpResponse('File uploaded.')
+			new_file = True
+			return render(request, 'project_management/upload_file_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id, 'new_file':new_file})
 	else:
 		form = NewDocBatchForm()
-	return render(request, 'project_management/upload_file_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id})
+	return render(request, 'project_management/upload_file_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id, 'new_file':new_file})
 
 
 @login_required
