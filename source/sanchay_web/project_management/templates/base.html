@@ -17,7 +17,7 @@
 		<link rel="stylesheet" type="text/css" href="{% static 'project_management/assets/css/main.css' %}" />
 		{% block scripts %}
 		{% endblock %}
-		
+
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
 	<body class="homepage">
@@ -27,18 +27,32 @@
 				<div id="header-wrapper">
 					<div id="header">
 						<!-- Logo -->
+<<<<<<< HEAD
 							<h1><a href="{%url 'project_management:user_home' %}">Sanchay ⇔ संचय</a></h1>
+=======
+							<h1><a href="{%url 'project_management:home'%}">Sanchay ⇔ संचय</a></h1>
+>>>>>>> 8b83585b69f81b48acfe766d7a514520b19cab07
 
 						<!-- Nav -->
 							<nav id="nav">
 								<ul>
+<<<<<<< HEAD
 									<li class="current"><a href="{%url 'project_management:user_home' %}">Home</a></li>
+=======
+									<li class="current"><a href="{%url 'project_management:home'%}">Home</a></li>
+>>>>>>> 8b83585b69f81b48acfe766d7a514520b19cab07
 									<li>
-										<a href="#">Batch</a>
+										<a href="{%url 'project_management:view_all_batches'%}">Batch</a>
 										<ul>
+<<<<<<< HEAD
 											<li><a href="#">Allot a batch</a></li>
 											<li><a href="{%url 'project_management:create_batch' %}">Create a new batch</a></li>
 											<li><a href="#">Remove a batch</a></li>
+=======
+											<li><a href="{%url 'project_management:allot_batch'%}">Allot a batch</a></li>
+											<li><a href="{%url 'project_management:create_batch'%}">Create a new batch</a></li>
+											<li><a href="{%url 'project_management:home'%}">Remove a batch</a></li>
+>>>>>>> 8b83585b69f81b48acfe766d7a514520b19cab07
 											<li>
 												<a href="#">Phasellus consequat</a>
 												<ul>
@@ -54,7 +68,7 @@
 									</li>
 									<li><a href="left-sidebar.html">Left Sidebar</a></li>
 									<li><a href="right-sidebar.html">Right Sidebar</a></li>
-									<li><a href="no-sidebar.html">Logout</a></li>
+									<li><a href="{%url 'project_management:home'%}">Logout</a></li>
 								</ul>
 							</nav>
 					</div>
@@ -63,7 +77,7 @@
 			<!-- Main -->
 				<div id="main-wrapper">
 					<div class="container">
-						
+
 						<div class="row">
 							<div class="12u">
 								{% block content %}
