@@ -1,3 +1,7 @@
+{% extends "base.html" %}
+
+
+{% block content %}
 <h3> Hi {{user.first_name}} </h3>
 
 {% if documents %}
@@ -12,6 +16,7 @@
 {% endif %}
 
 <li><a href="/project_management/{{batch_id}}/upload_file/">Upload a new file</a></li>
+{% endblock %}
 
 
 

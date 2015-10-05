@@ -1,3 +1,6 @@
+{% extends "base.html" %}
+
+{% block content %}
 <h3> Hi {{user.first_name}} </h3>
 
 <h2> Create a new batch </h2>
@@ -7,3 +10,4 @@
     {{ form.as_ul }}
     <input type="submit" value="Submit" />
 </form>
+{% endblock %}
