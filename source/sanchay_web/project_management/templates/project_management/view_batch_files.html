@@ -12,7 +12,7 @@
 	{% endfor %}
 </ul>
 {% else %}
-<p> This batch does not have any documents </p>
+ <div class="alert alert-danger" role="alert">This system contains no batches. </div>
 {% endif %}
 
 <li><a href="/project_management/{{batch_id}}/upload_file/">Upload a new file</a></li>

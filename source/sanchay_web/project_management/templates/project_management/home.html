@@ -1,0 +1,65 @@
+{% extends "base_home.html" %}
+{% block login %}
+<header>
+	<h3>Login</h3>
+</header>
+{% if form.errors %}
+<p>Your username and password didn't match. Please try again.</p>
+{% endif %}
+<form action="/project_management/home/" method="post">
+{% csrf_token %}
+	<table>
+		<tr>
+		    <td>{{ form.username.label_tag }}</td>
+		    <td>{{ form.username }}</td>
+		</tr>
+		<tr>
+		    <td>{{ form.password.label_tag }}</td>
+		    <td>{{ form.password }}</td>
+		</tr>
+	</table>
+	<input type="submit" value="Login" />
+</form>
+{% endblock %}
+
+{% block content %}
+<article class="box post">
+	<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+	<header>
+		<h2>Project Management for Sanchay</h2>
+		<p>Portal for managing language annotation projects </p>
+	</header>
+	<h3>What is Project Management for Sanchay </h3>
+	<p>
+		This portal is a web interface for managing language annotation projects which are to be annotated through Sanchay tool.Using this portal a project can be broken into small components
+		and each such component can be assigned to different members of a team.Individual team members
+		can annonate their portion of the work and upload the resulting annotated files back to the server.
+
+	</p>
+	
+	<section>
+		<header>
+			<h3>Ok, but What is Sanchay ?</h3>
+		</header>
+		<p>
+			Sanchay is an open source platform for working on languages, especially South Asian languages, using computers and also for developing Natural Language Processing (NLP) or other text processing applications. It consists of various tools and APIs for this purpose.
+		</p>
+		<p>
+			Some of the components in the released version are: Syntactic annotation interface, generalised table and tree components, SSF (Shakti Standard Format) API, feature structure API, parallel corpus markup interface, customizable language and encoding support, Sanchay text editor, language and encoding identification, file splitter and format converter, task setup generator (only for syntactic annotation), a simple but powerful data structure called Properties Manager along with a GUI for purposes like customization of applications, a find/replace/extract tool, a CRF based automatic annotation tool, and a tree visualizer for phrase structure and dependency relations. Some recent additions include Sanchay Corpus Query Language (SCQL) and the Sanchay Shell. User documentation has been provided for some of these components. 
+		</p>
+	</section>
+	<section>
+		<header>
+			<h3>But why do I need this portal then ?</h3>
+		</header>
+		<p>
+			Annotating a large piece of text for a language processing project requires proper team
+			work, collaboration and planning.This portal helps in simplifying the above three aspects.
+			It allows a team-leader/moderator to divide the documents to be annotated among its team members who in turn do the annotation work on their computer systems and keep their work updated on the cloud.
+		</p>
+		<p>
+			
+		</p>
+	</section>
+</article>
+{% endblock %}

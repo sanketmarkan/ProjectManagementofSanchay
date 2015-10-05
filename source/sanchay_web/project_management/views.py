@@ -2,9 +2,11 @@ from django.shortcuts import render, get_object_or_404
 from django.http import HttpResponse, HttpResponseRedirect, Http404
 from django.utils import timezone
 from django.contrib.auth.models import User
-from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm
+from django.contrib.auth.forms import AuthenticationForm
+from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm, HomeLoginForm
 from .models import Annotator, Batch, Document
 from django.contrib.auth.decorators import login_required
+from django.contrib.auth import authenticate, login
 
 # Create your views here.
 
@@ -61,7 +63,7 @@ def create_annotator(request):
 def user_home(request):
 	context = {'user': request.user}
 	return render(request, 'project_management/user_home.html', context)
-
+ 
 @login_required
 def create_batch(request):
 	if request.method == 'POST':
@@ -74,6 +76,28 @@ def create_batch(request):
 	else:
 		form = NewBatchForm()
 	return render(request, 'project_management/create_batch.html', {'form': form, 'user': request.user})
+
+def home(request):
+	if request.method == 'POST':
+		form = HomeLoginForm(request.POST)
+		if form.is_valid():
+			username_entry = form.cleaned_data['username']
+			password_entry = form.cleaned_data['password']
+			user = authenticate(username=username_entry, password=password_entry)
+			if user is not None:
+				if user.is_active:
+					login(request, user)
+					context = {'user': request.user}
+					return render(request, 'project_management/user_home.html', context)
+				else:
+					form.add_error('username', 'User is not active')
+			else:
+				form.add_error(None, 'The username/password do not match.')	
+	else:
+		form = HomeLoginForm()
+	return render(request, 'project_management/home.html', {'form': form})
+
+
 
 @login_required
 def allot_batch(request):
@@ -143,6 +167,15 @@ def upload_file_within_batch(request, batch_id):
 	else:
 		form = NewDocBatchForm()
 	return render(request, 'project_management/upload_file_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id})
+
+
+@login_required
+def view_all_batches(request):
+	if request.method == 'POST':
+		batches = Batch.objects.all()
+	else:
+		batches = Batch.objects.all()
+	return render(request, 'project_management/view_all_batches.html', {'batches':batches})
 
 
 

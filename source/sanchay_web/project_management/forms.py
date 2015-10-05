@@ -23,6 +23,10 @@ class NewDocumentForm(forms.Form):
 class NewDocBatchForm(forms.Form):
     docfile = forms.FileField(label='Select a file', help_text='max. 50 megabytes')
 
+class HomeLoginForm(forms.Form):
+    username = forms.CharField(label='Username', max_length=100)
+    password = forms.CharField(label='Password', max_length=100,widget = forms.PasswordInput)
+
 	
 
 
