@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h3> Hi {{user.first_name}} </h3>
+
+<h2> Allot user to batch {{batch_id}} </h2>
+
+<form action="/project_management/allot_batch/" method="post">
+    {% csrf_token %}
+    {{ form.as_ul }}
+    <br>
+    <input type="submit" value="Submit" />
+</form>
+{% endblock %}

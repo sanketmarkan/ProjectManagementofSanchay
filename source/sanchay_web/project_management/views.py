@@ -3,7 +3,7 @@ from django.http import HttpResponse, HttpResponseRedirect, Http404
 from django.utils import timezone
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import AuthenticationForm
-from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm, HomeLoginForm
+from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm, HomeLoginForm, AllotUserWithinBatch
 from .models import Annotator, Batch, Document
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import authenticate, login
@@ -177,7 +177,28 @@ def view_all_batches(request):
 		batches = Batch.objects.all()
 	return render(request, 'project_management/view_all_batches.html', {'batches':batches})
 
-
-
-
-	
+@login_required
+def allot_user_within_batch(request, batch_id):
+	if request.method == 'POST':
+		form = AllotUserWithinBatch(request.POST)
+		batch_obj = get_object_or_404(Batch, pk=batch_id)
+		if form.is_valid():
+			username_entry = form.cleaned_data['username']
+			try:
+			    allot_batch = Batch.objects.get(pk=batch_id)
+			except Exception:
+				form.add_error(None, 'Given batch id does not exist')
+			else:
+				try:
+					allot_user = User.objects.get(username = username_entry)
+				except Exception:
+					form.add_error('username', 'Given user does not exist')
+				else:
+					allot_annotator = allot_user.annotator
+					allot_annotator.batches.add(allot_batch)
+					allot_annotator.save()
+					allot_user.save()
+					return HttpResponse('Batch allotted to the specified user.')
+	else:
+		form = AllotUserWithinBatch()
+	return render(request, 'project_management/allot_user_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id})

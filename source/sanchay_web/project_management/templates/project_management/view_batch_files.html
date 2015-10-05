@@ -1,21 +1,51 @@
 {% extends "base.html" %}
 
+{% block scripts %}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+{% endblock %}
 
 {% block content %}
 <h3> Hi {{user.first_name}} </h3>
 
 {% if documents %}
 <h4> This batch contains the following files </h4>
-<ul>
-	{% for document in documents %}
-	<li><a href="{{ document.docfile.url }}">{{ document.docfile.name }}</a></li>
-	{% endfor %}
-</ul>
+<table class="table table-hover">
+    <thead>
+      <tr>
+        <th><h3>ID</h3></th>
+        <th><h3>Name</h3></th>
+        <th>Download</th>
+        <th>Remove</th>
+      </tr>
+    </thead>
+    <tbody>
+	    {% for document in documents %}
+	    <tr>
+		    <td>{{document.id}}</td>
+	        <td>{{document.docfile.name }}</td>
+	        <td>
+	        	<a href="{{ document.docfile.url }}" class="btn btn-success btn-sm">
+					<span class="glyphicon glyphicon-download-alt"></span> 
+				</a>
+			</td>
+			<td>
+	        	<a href="#" class="btn btn-danger btn-sm">
+					<span class="glyphicon glyphicon-remove"></span> 
+				</a>
+			</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>
+
 {% else %}
- <div class="alert alert-danger" role="alert">This system contains no batches. </div>
+ <div class="alert alert-danger" role="alert">This system contains no files. </div>
 {% endif %}
 
-<li><a href="/project_management/{{batch_id}}/upload_file/">Upload a new file</a></li>
+<h3>Upload a file to this batch</h4>
+<a href="/project_management/{{batch_id}}/upload_file/" class="btn btn-primary ">
+	Upload <span class="glyphicon glyphicon-upload"></span>
+</a>
 {% endblock %}
 
 
