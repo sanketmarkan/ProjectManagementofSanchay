@@ -8,6 +8,7 @@
 	<h4> Hello , {{ user.first_name }} ! </h4>
 	{% if is_moderator %}
 		<div class="btn-group-vertical" role="group" aria-label="...">
+			<a href="/project_management/edit_profile/" class="btn btn-default">Edit Your Profile <span class="glyphicon glyphicon-edit"></span></a>	
 			<a href="/project_management/create_batch/" class="btn btn-default">Create a new batch <span class="glyphicon glyphicon-file"></span> </a>
 			<a href="/project_management/upload_file/" class="btn btn-default">Upload a new file <span class="glyphicon glyphicon-upload"></span></a>
 			<a href="/project_management/allot_batch/" class="btn btn-default">Allot a batch <span class="glyphicon glyphicon-user"></span> </a>
@@ -17,6 +18,7 @@
 	{% else %}
 	<h4> You don't have moderator privelages </h4>
 	<div class="btn-group-vertical" role="group" aria-label="...">
+			<a href="/project_management/edit_profile/" class="btn btn-default">Edit Your Profile <span class="glyphicon glyphicon-edit"></span></a>	
 		<a href="/logout/" class="btn btn-default">Logout</a>
 	</div>
 
@@ -79,6 +81,7 @@
 	{% endif %}
 
 	<p>
+
 
 		This portal is a web interface for managing language annotation projects which are to be annotated through Sanchay tool.Using this portal a project can be broken into small components
 		and each such component can be assigned to different members of a team.Individual team members

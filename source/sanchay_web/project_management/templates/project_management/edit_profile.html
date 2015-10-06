@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+<h2>Change Your Passoword</h2>
+<form action="/project_management/update_profile/" method="post">
+   {% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="Change Password" />
+</form>
+{% endblock %}
