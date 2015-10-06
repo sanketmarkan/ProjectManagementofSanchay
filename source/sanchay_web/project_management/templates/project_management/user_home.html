@@ -25,12 +25,59 @@
 
 {% block content %}
 <article class="box post">
-	<a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+	
 	<header>
 		<h2>Dashboard</h2>
-		<p>Portal for managing language annotation projects </p>
 	</header>
 	<h3></h3>
+	<a href="/project_management/new_message/" class="btn btn-default">Send Message</a>
+	<h3>Messages</h3>
+	{% if messages %}
+		
+		<table class="table table-hover">
+	    <thead>
+	      <tr>
+	        <th><h3>From</h3></th>
+	        <th><h3>Subject</h3></th>
+	        <th>Date</th>
+	        <th>View</th>
+	        <th>Delete</th>
+	      </tr>
+	    </thead>
+	    {% for message in messages %}
+		    <tbody>
+		      <tr>
+		      	<td>
+		      		<span class="glyphicon glyphicon-user"></span> {{message.sender.user.username}}
+		      	</td>
+		        <td>
+		        	<span class="glyphicon glyphicon-envelope"></span> 
+      				<h5>{{message.subject}}</h5>
+      			</td>		        
+		        <td>
+		        	{{ message.date_created }}
+      				<span class="glyphicon glyphicon-time"></span>      
+      			</td>
+      			<td>
+		        	<a href="#" class="btn btn-success btn-sm">
+      				<span class="glyphicon glyphicon-folder-open"></span> 
+      				</a>
+      			</td>
+      			<td>
+		        	<a href="#" class="btn btn-danger btn-sm">
+      				<span class="glyphicon glyphicon-trash"></span> 
+      				</a>
+      			</td>
+		      </tr>
+		{% endfor %}
+			</tbody>
+	</table>
+	{% else %}
+	<br>
+	    <span class="glyphicon glyphicon-envelope"></span> 
+	    <h3>You have no messages.</h3>
+	{% endif %}
+
 	<p>
 
 		This portal is a web interface for managing language annotation projects which are to be annotated through Sanchay tool.Using this portal a project can be broken into small components

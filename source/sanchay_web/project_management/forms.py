@@ -31,6 +31,12 @@ class HomeLoginForm(forms.Form):
 class AllotUserWithinBatch(forms.Form):
     username = forms.CharField(label='Username', max_length=100)
 
+class NewMessageForm(forms.Form):
+    receiver = forms.CharField(label='To:', max_length=100)
+    subject = forms.CharField(label='Subject:', max_length=100)
+    msgtext = forms.CharField(label='Message:', max_length=1000)
+
+
 
 	
 
