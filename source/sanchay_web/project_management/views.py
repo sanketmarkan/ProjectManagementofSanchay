@@ -1,9 +1,11 @@
 from django.shortcuts import render, get_object_or_404, redirect
 from django.http import HttpResponse, HttpResponseRedirect, Http404
+from django.core.urlresolvers import reverse
 from django.utils import timezone
 from django.contrib.auth.models import User
 from django.contrib.auth.forms import AuthenticationForm
 from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm, HomeLoginForm, AllotUserWithinBatch
+from .forms import EditProfileform
 from .models import Annotator, Batch, Document
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import authenticate, login
@@ -61,6 +63,30 @@ def create_annotator(request):
 	else:
 		form = CreateAnnotatorForm()
 	return render(request, 'project_management/create_annotator.html', {'form': form, 'new_obj':new_obj})
+
+@login_required
+def edit_profile(request):
+	user = User.objects.get(pk=request.user.id)
+	print user.username
+	form = EditProfileform(request.POST)
+	return render(request, 'project_management/edit_profile.html',{'form' : form })
+@login_required
+def update_profile(request):
+	user = User.objects.get(pk=request.user.id)
+	print user.username	
+	if request.method=='POST':		
+		form = EditProfileform(request.POST)
+		if form.is_valid():
+			oldpassword = form.cleaned_data['old']
+			newpassword = form.cleaned_data['new']
+			if user.check_password(oldpassword):
+				user.set_password(newpassword)
+				user.save()
+				return HttpResponseRedirect(reverse('project_management:home'))
+			else:
+				return render(request,'project_management/edit_profile.html',{'form' : form , 'error_message' : "Oldpassword is not same as the original"})
+		else:
+			return render(request,'project_management/edit_profile.html',{'form' : form , 'error_message': "Form can't be left empty"})
 
 
 @login_required

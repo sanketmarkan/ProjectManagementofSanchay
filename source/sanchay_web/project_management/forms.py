@@ -30,6 +30,10 @@ class HomeLoginForm(forms.Form):
 
 class AllotUserWithinBatch(forms.Form):
     username = forms.CharField(label='Username', max_length=100)
+class EditProfileform(forms.Form):
+    old = forms.CharField(label='Oldpassword', max_length=100,widget = forms.PasswordInput)
+    new = forms.CharField(label='Newpassword', max_length=100,widget = forms.PasswordInput)
+
 
 
 	
