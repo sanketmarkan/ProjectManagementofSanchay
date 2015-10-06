@@ -18,6 +18,8 @@
 	        <th>View</th>
 	        <th>Add</th>
 	        <th>Allot</th>
+	        <th>Status</th>
+	        <th>Time</th>
 	        <th>Remove</th>
 	      </tr>
 	    </thead>
@@ -40,6 +42,14 @@
 		        	<a href="/project_management/{{batch.id}}/allot_user_within_batch/" class="btn btn-success btn-sm">
       				<span class="glyphicon glyphicon-user"></span> 
       				</a>
+      			</td>
+      			<td>
+      				
+      				<span class="glyphicon glyphicon-ban-circle"></span>      				
+      			</td>
+      			<td>
+      				{{ batch.date_created }}
+      				<span class="glyphicon glyphicon-time"></span>      				
       			</td>
       			<td>
 		        	<a href="#" class="btn btn-danger btn-sm">

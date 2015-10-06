@@ -1,15 +1,27 @@
-{% extends "base.html" %}
+{% extends "base_home.html" %}
+
+{% block scripts %}
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+{% endblock %}
+
+{% block login %}
+	<h4> Hello , {{ user.first_name }} ! </h4>
+	{% if is_moderator %}
+		<div class="btn-group-vertical" role="group" aria-label="...">
+			<a href="/project_management/create_batch/" class="btn btn-default">Create a new batch <span class="glyphicon glyphicon-file"></span> </a>
+			<a href="/project_management/upload_file/" class="btn btn-default">Upload a new file <span class="glyphicon glyphicon-upload"></span></a>
+			<a href="/project_management/allot_batch/" class="btn btn-default">Allot a batch <span class="glyphicon glyphicon-user"></span> </a>
+			<a href="/project_management/view_all_batches/" class="btn btn-default">View all batches <span class="glyphicon glyphicon-eye-open"></span></a>
+			<a href="/logout/" class="btn btn-default">Logout</a>
+		</div>
+	{% else %}
+	<h4> You don't have moderator privelages </h4>
+
+	{% endif %}
+{% endblock %}
 
 {% block content %}
-<h3> Hello , {{ user.first_name }} ! </h3>
-<ul>
-	<li><a href="/project_management/create_batch/">Create a new batch</a></li>
-	<li><a href="/project_management/upload_file/">Upload a new file</a></li>
-	<li><a href="/project_management/allot_batch/">Allot a batch of files to an annotator</a></li>
-	<li><a href="/project_management/view_batches/">View batches alotted to you</a></li>
-	<li><a href="/project_management/view_all_batches/">View all batches in the system.</a></li>
-	<li><a href="/logout/">Logout</a></li>
-</ul>
-
+	<a href="/project_management/view_batches/" <a href="/project_management/view_batches/" >View batches alotted to you</a>
+	
 {% endblock %}
 
