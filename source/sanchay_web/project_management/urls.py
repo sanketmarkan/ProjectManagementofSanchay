@@ -1,4 +1,4 @@
-from django.conf.urls import url
+from django.conf.urls import url, include
 
 from . import views
 
@@ -17,4 +17,5 @@ urlpatterns = [
 	url(r'^(?P<batch_id>[0-9]+)/batch/$', views.view_batch_files, name='view_batch_files'),
 	url(r'^(?P<batch_id>[0-9]+)/upload_file/$', views.upload_file_within_batch, name='upload_file_within_batch'),
 	url(r'^(?P<batch_id>[0-9]+)/allot_user_within_batch/$', views.allot_user_within_batch, name='allot_user_within_batch'),
+
 ]

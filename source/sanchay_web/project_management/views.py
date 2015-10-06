@@ -2,13 +2,15 @@ from django.shortcuts import render, get_object_or_404, redirect
 from django.http import HttpResponse, HttpResponseRedirect, Http404
 from django.core.urlresolvers import reverse
 from django.utils import timezone
-from django.contrib.auth.models import User
+from django.contrib.auth.models import User, Group, Permission
 from django.contrib.auth.forms import AuthenticationForm
 from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm, HomeLoginForm, AllotUserWithinBatch
 from .forms import EditProfileform
 from .models import Annotator, Batch, Document
-from django.contrib.auth.decorators import login_required
+from django.contrib.auth.decorators import login_required, permission_required
 from django.contrib.auth import authenticate, login
+from django.contrib.auth.backends import ModelBackend
+
 
 
 # Create your views here.
@@ -17,6 +19,7 @@ def index(request):
 	return HttpResponse("Hello, You are at Sanchay Web home page.Site is under construction.")
 
 def create_annotator(request):
+    # If a moderators groups does not exist ,create it and add required permissions
 	new_obj = False
 	password_mismatch = False
 	email_exists = False
@@ -49,6 +52,11 @@ def create_annotator(request):
 						user_obj = User.objects.create_user(username_entry, email_entry, password_entry)
 						user_obj.last_name = last_name_entry
 						user_obj.first_name = first_name_entry
+						if moderator_id_entry == 'MODERATOR':
+						    print 'Getting moderator'
+						    moderator_group = Group.objects.get(name='moderator')
+						    print ' Added to moderator group -----<><>-----'
+						    user_obj.groups.add(moderator_group)
 						user_obj.save()
 						annotator_obj = Annotator(user = user_obj, date_created = timezone.now())
 						annotator_obj.save()
@@ -91,10 +99,15 @@ def update_profile(request):
 
 @login_required
 def user_home(request):
-	context = {'user': request.user}
+	is_moderator = False
+	if request.user.has_perm('project_management.can_mod') == True:
+		print '------Moderator set-----'
+		is_moderator = True
+	context = {'user': request.user, 'is_moderator': is_moderator}
 	return render(request, 'project_management/user_home.html', context)
 
 
+@permission_required('project_management.can_mod')
 @login_required
 def create_batch(request):
 	new_obj = False
@@ -113,6 +126,7 @@ def create_batch(request):
 def home(request):
 	if request.method == 'POST':
 		form = HomeLoginForm(request.POST)
+		is_moderator = False
 		if form.is_valid():
 			username_entry = form.cleaned_data['username']
 			password_entry = form.cleaned_data['password']
@@ -120,7 +134,10 @@ def home(request):
 			if user is not None:
 				if user.is_active:
 					login(request, user)
-					context = {'user': request.user}
+					if request.user.has_perm('project_management.can_mod') == True:
+						print '------Moderator set-----'
+						is_moderator = True
+					context = {'user': request.user, 'is_moderator':is_moderator}
 					return render(request, 'project_management/user_home.html', context)
 				else:
 					form.add_error('username', 'User is not active')
@@ -130,7 +147,7 @@ def home(request):
 		form = HomeLoginForm()
 	return render(request, 'project_management/home.html', {'form': form})
 
-
+@permission_required('project_management.can_mod')
 @login_required
 def allot_batch(request):
 	if request.method == 'POST':
@@ -157,6 +174,7 @@ def allot_batch(request):
 		form = AllotBatchForm()
 	return render(request, 'project_management/allot_batch.html', {'form': form, 'user': request.user})
 
+@permission_required('project_management.can_mod')
 @login_required
 def upload_file(request):
 	if request.method == 'POST':
@@ -175,6 +193,7 @@ def upload_file(request):
 		form = NewDocumentForm()
 	return render(request, 'project_management/upload_file.html', {'form': form, 'user': request.user})
 
+
 @login_required
 def view_batches(request):
 	batches = request.user.annotator.batches.all()
@@ -188,6 +207,7 @@ def view_batch_files(request, batch_id):
 	print documents.all()
 	return render(request, 'project_management/view_batch_files.html', {'user': request.user, 'documents':documents, 'batch_id':batch_id, 'new_file': new_file})
 
+@permission_required('project_management.can_mod')
 @login_required
 def upload_file_within_batch(request, batch_id):
 	new_file = False
@@ -203,7 +223,7 @@ def upload_file_within_batch(request, batch_id):
 		form = NewDocBatchForm()
 	return render(request, 'project_management/upload_file_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id, 'new_file':new_file})
 
-
+@permission_required('project_management.can_mod')
 @login_required
 def view_all_batches(request):
 	if request.method == 'POST':
@@ -212,6 +232,7 @@ def view_all_batches(request):
 		batches = Batch.objects.all()
 	return render(request, 'project_management/view_all_batches.html', {'batches':batches})
 
+@permission_required('project_management.can_mod')
 @login_required
 def allot_user_within_batch(request, batch_id):
 	if request.method == 'POST':

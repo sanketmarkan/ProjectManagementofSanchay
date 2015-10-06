@@ -23,5 +23,4 @@ urlpatterns = [
 	url(r'^', include('django.contrib.auth.urls')),
 	url(r'^project_management/', include('project_management.urls', namespace = "project_management")),
     url(r'^admin/', include(admin.site.urls)),
-    #url(r'^tinymce/', include('tinymce.urls')),
-]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+]+  static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
