@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h3> Hi {{user.first_name}} </h3>
+{% if new_obj %}
+    <div class="alert alert-success" role="alert">Message sent. </div>
+{% endif %}
+<h2> Send a new message </h2>
+
+<form action="/project_management/new_message/" method="post">
+    {% csrf_token %}
+    {{ form.as_ul }}
+    <input type="submit" value="Submit" />
+</form>
+{% endblock %}

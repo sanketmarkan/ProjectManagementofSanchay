@@ -4,9 +4,8 @@ from django.core.urlresolvers import reverse
 from django.utils import timezone
 from django.contrib.auth.models import User, Group, Permission
 from django.contrib.auth.forms import AuthenticationForm
-from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm, HomeLoginForm, AllotUserWithinBatch
-from .forms import EditProfileform
-from .models import Annotator, Batch, Document
+from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm, HomeLoginForm, AllotUserWithinBatch, NewMessageForm, EditProfileform
+from .models import Annotator, Batch, Document, Message
 from django.contrib.auth.decorators import login_required, permission_required
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.backends import ModelBackend
@@ -112,7 +111,8 @@ def user_home(request):
 	if request.user.has_perm('project_management.can_mod') == True:
 		print '------Moderator set-----'
 		is_moderator = True
-	context = {'user': request.user, 'is_moderator': is_moderator}
+	messages = Message.objects.filter(receiver=request.user.annotator)
+	context = {'user': request.user, 'is_moderator': is_moderator, 'messages':messages}
 	return render(request, 'project_management/user_home.html', context)
 
 
@@ -146,7 +146,8 @@ def home(request):
 					if request.user.has_perm('project_management.can_mod') == True:
 						print '------Moderator set-----'
 						is_moderator = True
-					context = {'user': request.user, 'is_moderator':is_moderator}
+					messages = Message.objects.filter(receiver=request.user.annotator)
+					context = {'user': request.user, 'is_moderator':is_moderator, 'messages':messages}
 					return render(request, 'project_management/user_home.html', context)
 				else:
 					form.add_error('username', 'User is not active')
@@ -267,3 +268,30 @@ def allot_user_within_batch(request, batch_id):
 	else:
 		form = AllotUserWithinBatch()
 	return render(request, 'project_management/allot_user_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id})
+
+
+@login_required
+def new_message(request):
+	new_obj = False
+	if request.method == 'POST':
+		form = NewMessageForm(request.POST)
+		if form.is_valid():
+			subject_entry = form.cleaned_data['subject']
+			msgtext_entry = form.cleaned_data['msgtext']
+			receiver_entry = form.cleaned_data['receiver']
+			try:
+			    receiver_obj = User.objects.get(username=receiver_entry)
+			except Exception:
+				form.add_error('receiver', 'Given receiver does not exist')
+			else:
+				receiver_obj = receiver_obj.annotator
+				sender_obj = request.user.annotator 	
+				message_obj = Message(subject=subject_entry, msgtext=msgtext_entry, date_created = timezone.now(), sender= sender_obj, receiver= receiver_obj )
+				message_obj.save()
+				new_obj = True
+				render(request, 'project_management/new_message.html', {'form': form, 'user': request.user, 'new_obj':new_obj})
+	else:
+		form = NewMessageForm()
+	return render(request, 'project_management/new_message.html', {'form': form, 'user': request.user, 'new_obj':new_obj})
+
+

@@ -44,6 +44,12 @@ class EditProfileform(forms.Form):
     new = forms.CharField(label='Newpassword', max_length=100,widget = forms.PasswordInput)
 
 
+class NewMessageForm(forms.Form):
+    receiver = forms.CharField(label='To:', max_length=100)
+    subject = forms.CharField(label='Subject:', max_length=100)
+    msgtext = forms.CharField(label='Message:', max_length=1000)
+
+
 
 	
 

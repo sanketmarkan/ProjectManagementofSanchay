@@ -36,4 +36,14 @@ class Document(models.Model):
 
 	def __unicode__(self):
 		return self.docfile.name
+
+class Message(models.Model):
+    subject = models.CharField(max_length=100)
+    msgtext = models.CharField(max_length=1000)
+    date_created = models.DateTimeField('date created')
+    sender = models.ForeignKey(Annotator, related_name='sender')
+    receiver = models.ForeignKey(Annotator, related_name='receiver')
+
+    def __unicode__(self):
+        return self.subject
  
