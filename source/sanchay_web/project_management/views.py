@@ -5,7 +5,7 @@ from django.utils import timezone
 from django.contrib.auth.models import User, Group, Permission
 from django.contrib.auth.forms import AuthenticationForm
 from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm, HomeLoginForm, AllotUserWithinBatch, NewMessageForm, EditProfileform
-from .models import Annotator, Batch, Document, Message
+from .models import Annotator, Batch, Document, Message, Deadline
 from django.contrib.auth.decorators import login_required, permission_required
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.backends import ModelBackend
@@ -75,6 +75,7 @@ def edit_profile(request):
 	print user.username
 	form = EditProfileform(request.POST)
 	return render(request, 'project_management/edit_profile.html',{'form' : form })
+
 @login_required
 def update_profile(request):
 	user = User.objects.get(pk=request.user.id)
@@ -101,7 +102,14 @@ def user_home(request):
 		print '------Moderator set-----'
 		is_moderator = True
 	messages = Message.objects.filter(receiver=request.user.annotator)
-	context = {'user': request.user, 'is_moderator': is_moderator, 'messages':messages}
+	num_messages = messages.count()
+	batches = []
+	all_deadlines = Deadline.objects.all()
+	for deadline in all_deadlines:
+		if deadline.approaching_final_date():
+			batches.append(deadline)
+	num_batches = len(batches)
+	context = {'user': request.user, 'is_moderator': is_moderator, 'messages':messages, 'num_messages':num_messages, 'batches':batches, 'num_batches':num_batches}
 	return render(request, 'project_management/user_home.html', context)
 
 
@@ -136,7 +144,14 @@ def home(request):
 						print '------Moderator set-----'
 						is_moderator = True
 					messages = Message.objects.filter(receiver=request.user.annotator)
-					context = {'user': request.user, 'is_moderator':is_moderator, 'messages':messages}
+					num_messages = messages.count()
+					batches = []
+					all_deadlines = Deadline.objects.all()
+					for deadline in all_deadlines:
+						if deadline.approaching_final_date():
+							batches.append(deadline)
+					num_batches = len(batches)
+					context = {'user': request.user, 'is_moderator':is_moderator, 'messages':messages, 'num_messages':num_messages, 'batches':batches, 'num_batches':num_batches}
 					return render(request, 'project_management/user_home.html', context)
 				else:
 					form.add_error('username', 'User is not active')
@@ -154,6 +169,7 @@ def allot_batch(request):
 		if form.is_valid():
 			batch_id_entry = form.cleaned_data['batch_id']
 			username_entry = form.cleaned_data['username']
+			deadline_entry = form.cleaned_data['deadline']
 			try:
 			    allot_batch = Batch.objects.get(pk=batch_id_entry)
 			except Exception:
@@ -166,6 +182,8 @@ def allot_batch(request):
 				else:
 					allot_annotator = allot_user.annotator
 					allot_annotator.batches.add(allot_batch)
+					deadline_obj = Deadline(final_date=deadline_entry, annotator=allot_annotator, batch=allot_batch)
+					deadline_obj.save()
 					allot_annotator.save()
 					allot_user.save()
 					return HttpResponse('Batch allotted to the specified user.')
@@ -239,6 +257,7 @@ def allot_user_within_batch(request, batch_id):
 		batch_obj = get_object_or_404(Batch, pk=batch_id)
 		if form.is_valid():
 			username_entry = form.cleaned_data['username']
+			deadline_entry = form.cleaned_data['deadline']
 			try:
 			    allot_batch = Batch.objects.get(pk=batch_id)
 			except Exception:
@@ -251,6 +270,8 @@ def allot_user_within_batch(request, batch_id):
 				else:
 					allot_annotator = allot_user.annotator
 					allot_annotator.batches.add(allot_batch)
+					deadline_obj = Deadline(final_date=deadline_entry, annotator=allot_annotator, batch=allot_batch)
+					deadline_obj.save()
 					allot_annotator.save()
 					allot_user.save()
 					return HttpResponse('Batch allotted to the specified user.')

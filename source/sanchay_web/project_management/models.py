@@ -1,6 +1,8 @@
 import os
 from django.db import models
 from django.contrib.auth.models import User
+from django.utils import timezone
+import datetime
 
 class Batch(models.Model):
     name = models.CharField(max_length=200)
@@ -10,7 +12,6 @@ class Batch(models.Model):
         permissions = (("can_mod", " Can moderate"),)
     def __unicode__(self):
         return self.name
-
 
 class Annotator(models.Model):
     user = models.OneToOneField(User)
@@ -42,4 +43,13 @@ class Message(models.Model):
 
     def __unicode__(self):
         return self.subject
+
+
+class Deadline(models.Model):
+    final_date = models.DateField('date created')
+    annotator = models.ForeignKey(Annotator)
+    batch = models.ForeignKey(Batch)
+
+    def approaching_final_date(self):
+        return self.final_date <= datetime.date.today() + datetime.timedelta(days=5)
  

@@ -1,4 +1,5 @@
 from django import forms
+from django.forms.extras.widgets import SelectDateWidget
 
 class CreateAnnotatorForm(forms.Form):
     username = forms.CharField(label='Username', max_length=100)
@@ -11,11 +12,13 @@ class CreateAnnotatorForm(forms.Form):
 
 
 class NewBatchForm(forms.Form):
-	name = forms.CharField(label='Name', max_length=100)
+    name = forms.CharField(label='Name', max_length=100)
 
 class AllotBatchForm(forms.Form):
-	batch_id = forms.DecimalField(label = 'Batch ID')
-	username = forms.CharField(label='Username of the annotator whom you want to allot', max_length=100)
+    batch_id = forms.DecimalField(label = 'Batch ID')
+    username = forms.CharField(label='Username of the annotator whom you want to allot', max_length=100)
+    deadline = forms.DateField(label='Deadline', widget=SelectDateWidget)
+   
 
 class NewDocumentForm(forms.Form):
     batch_id = forms.DecimalField(label = 'Batch ID')
@@ -30,6 +33,8 @@ class HomeLoginForm(forms.Form):
 
 class AllotUserWithinBatch(forms.Form):
     username = forms.CharField(label='Username', max_length=100)
+    deadline = forms.DateField(label='Deadline', widget=SelectDateWidget)
+
 class EditProfileform(forms.Form):
     old = forms.CharField(label='Oldpassword', max_length=100,widget = forms.PasswordInput)
     new = forms.CharField(label='Newpassword', max_length=100,widget = forms.PasswordInput)
@@ -38,10 +43,6 @@ class EditProfileform(forms.Form):
 class NewMessageForm(forms.Form):
     receiver = forms.CharField(label='To:', max_length=100)
     subject = forms.CharField(label='Subject:', max_length=100)
-    msgtext = forms.CharField(label='Message:', max_length=1000)
-
-
-
-	
+    msgtext = forms.CharField(label='Message:', max_length=1000, widget=forms.Textarea)
 
 
