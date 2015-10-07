@@ -1,5 +1,8 @@
 from django import forms
 from django.forms.extras.widgets import SelectDateWidget
+import datetime
+from .models import Annotator
+
 
 class CreateAnnotatorForm(forms.Form):
     username = forms.CharField(label='Username', max_length=100)
@@ -9,6 +12,12 @@ class CreateAnnotatorForm(forms.Form):
     first_name = forms.CharField(label='First Name', max_length=100)
     last_name = forms.CharField(label='Last Name', max_length=100)
     moderator_id = forms.CharField(label='Moderator Id(for moderator account)', max_length=100, initial = 'NORMAL')
+    #mobile        = forms.IntegerField(label=(u'Mobile'))
+    #last_login    =datetime.datetime.now()
+    date_joined   = datetime.datetime.now()
+
+
+
 
 
 class NewBatchForm(forms.Form):
@@ -34,6 +43,7 @@ class HomeLoginForm(forms.Form):
 class AllotUserWithinBatch(forms.Form):
     username = forms.CharField(label='Username', max_length=100)
     deadline = forms.DateField(label='Deadline', widget=SelectDateWidget)
+
 
 class EditProfileform(forms.Form):
     old = forms.CharField(label='Oldpassword', max_length=100,widget = forms.PasswordInput)

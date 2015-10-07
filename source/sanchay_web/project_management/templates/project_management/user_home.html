@@ -8,7 +8,8 @@
 	<h4> Hello , {{ user.first_name }} ! </h4>
 	{% if is_moderator %}
 		<div class="btn-group-vertical" role="group" aria-label="...">
-			<a href="/project_management/edit_profile/" class="btn btn-default">Edit Your Profile <span class="glyphicon glyphicon-edit"></span></a>	
+			<a href="/project_management/edit_profile/" class="btn btn-default">Edit Your Profile <span class="glyphicon glyphicon-edit"></span></a>
+			<a href="/project_management/view_profile/" class="btn btn-default">View Your Profile <span class="glyphicon glyphicon-user"></span></a>	
 			<a href="/project_management/create_batch/" class="btn btn-default">Create a new batch <span class="glyphicon glyphicon-file"></span> </a>
 			<a href="/project_management/upload_file/" class="btn btn-default">Upload a new file <span class="glyphicon glyphicon-upload"></span></a>
 			<a href="/project_management/allot_batch/" class="btn btn-default">Allot a batch <span class="glyphicon glyphicon-user"></span> </a>
@@ -18,7 +19,8 @@
 	{% else %}
 	<h4> You don't have moderator privelages </h4>
 	<div class="btn-group-vertical" role="group" aria-label="...">
-			<a href="/project_management/edit_profile/" class="btn btn-default">Edit Your Profile <span class="glyphicon glyphicon-edit"></span></a>	
+			<a href="/project_management/edit_profile/" class="btn btn-default">Edit Your Profile <span class="glyphicon glyphicon-edit"></span></a>
+			<a href="/project_management/view_profile/" class="btn btn-default">View Your Profile <span class="glyphicon glyphicon-users"></span></a>
 		<a href="/logout/" class="btn btn-default">Logout</a>
 	</div>
 

@@ -1,0 +1,31 @@
+{% extends "base_home.html" %}
+
+{% block login %}
+	<h4> Hello , {{ user.first_name }} ! </h4>
+	{% if is_moderator %}
+		<div class="btn-group-vertical" role="group" aria-label="...">
+			<a href="/project_management/edit_profile/" class="btn btn-default">Edit Your Profile <span class="glyphicon glyphicon-edit"></span></a>
+			<a href="/project_management/view_profile/" class="btn btn-default">View Your Profile <span class="glyphicon glyphicon-user"></span></a>	
+			<a href="/project_management/create_batch/" class="btn btn-default">Create a new batch <span class="glyphicon glyphicon-file"></span> </a>
+			<a href="/project_management/upload_file/" class="btn btn-default">Upload a new file <span class="glyphicon glyphicon-upload"></span></a>
+			<a href="/project_management/allot_batch/" class="btn btn-default">Allot a batch <span class="glyphicon glyphicon-user"></span> </a>
+			<a href="/project_management/view_all_batches/" class="btn btn-default">View all batches <span class="glyphicon glyphicon-eye-open"></span></a>
+			<a href="/logout/" class="btn btn-default">Logout</a>
+		</div>
+	{% else %}
+	<h4> You don't have moderator privelages </h4>
+	<div class="btn-group-vertical" role="group" aria-label="...">
+			<a href="/project_management/edit_profile/" class="btn btn-default">Edit Your Profile <span class="glyphicon glyphicon-edit"></span></a>
+			<a href="/project_management/view_profile/" class="btn btn-default">View Your Profile <span class="glyphicon glyphicon-user"></span></a>
+		<a href="/logout/" class="btn btn-default">Logout</a>
+	</div>
+
+	{% endif %}
+{% endblock %}
+
+
+{% block content %}
+<h3>Name: {{user.first_name}} {{user.last_name}}</h3>
+</br>
+<h1>Registered On: {{user.date_joined}}</h1>
+{% endblock %}

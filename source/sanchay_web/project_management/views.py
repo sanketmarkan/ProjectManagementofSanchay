@@ -9,6 +9,8 @@ from .models import Annotator, Batch, Document, Message, Deadline
 from django.contrib.auth.decorators import login_required, permission_required
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.backends import ModelBackend
+import datetime
+
 
 # Create your views here.
 
@@ -49,7 +51,8 @@ def create_annotator(request):
 						user_obj = User.objects.create_user(username_entry, email_entry, password_entry)
 						user_obj.last_name = last_name_entry
 						user_obj.first_name = first_name_entry
-						if moderator_id_entry == 'MODERATOR':
+						user_obj.date_joined = datetime.datetime.now()
+ 						if moderator_id_entry == 'MODERATOR':
 						    print 'Getting moderator'
 						    moderator_group = Group.objects.get(name='moderator')
 						    print ' Added to moderator group -----<><>-----'
@@ -72,14 +75,18 @@ def create_annotator(request):
 @login_required
 def edit_profile(request):
 	user = User.objects.get(pk=request.user.id)
-	print user.username
 	form = EditProfileform(request.POST)
 	return render(request, 'project_management/edit_profile.html',{'form' : form })
 
 @login_required
-def update_profile(request):
+def view_profile(request):
 	user = User.objects.get(pk=request.user.id)
-	print user.username	
+	cutime =datetime.datetime.now()
+	return render(request, 'project_management/view_profile.html',{'user':user})
+
+@login_required
+def update_profile(request):
+	user = User.objects.get(pk=request.user.id)	
 	if request.method=='POST':		
 		form = EditProfileform(request.POST)
 		if form.is_valid():
