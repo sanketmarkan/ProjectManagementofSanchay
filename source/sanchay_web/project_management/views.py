@@ -131,7 +131,8 @@ def create_batch(request):
 			batch_obj = Batch(name = name_entry, date_created = timezone.now())
 			batch_obj.save()
 			new_obj = True
-			return render(request, 'project_management/create_batch.html', {'form': form, 'user': request.user, 'new_obj':new_obj})
+			return HttpResponseRedirect(reverse('project_management:view_all_batches'))
+			#return render(request, 'project_management/create_batch.html', {'form': form, 'user': request.user, 'new_obj':new_obj})
 	else:
 		form = NewBatchForm()
 	return render(request, 'project_management/create_batch.html', {'form': form, 'user': request.user, 'new_obj':new_obj})
