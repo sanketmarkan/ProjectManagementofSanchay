@@ -213,7 +213,8 @@ def upload_file(request):
 			else:
 				doc_obj = Document(docfile = request.FILES['docfile'], date_created = timezone.now(), batch = batch_obj)
 				doc_obj.save()
-				return HttpResponse('File uploaded.')
+				return HttpResponseRedirect(reverse('project_management:view_all_batches'))	
+				#return HttpResponse('File uploaded.')
 	else:
 		form = NewDocumentForm()
 	return render(request, 'project_management/upload_file.html', {'form': form, 'user': request.user})
@@ -243,7 +244,8 @@ def upload_file_within_batch(request, batch_id):
 			doc_obj = Document(docfile = request.FILES['docfile'], date_created = timezone.now(), batch = batch_obj)
 			doc_obj.save()
 			new_file = True
-			return render(request, 'project_management/upload_file_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id, 'new_file':new_file})
+			return HttpResponseRedirect(reverse('project_management:view_all_batches'))	
+			#return render(request, 'project_management/upload_file_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id, 'new_file':new_file})
 	else:
 		form = NewDocBatchForm()
 	return render(request, 'project_management/upload_file_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id, 'new_file':new_file})
@@ -282,7 +284,8 @@ def allot_user_within_batch(request, batch_id):
 					deadline_obj.save()
 					allot_annotator.save()
 					allot_user.save()
-					return HttpResponse('Batch allotted to the specified user.')
+					return HttpResponseRedirect(reverse('project_management:view_all_batches'))	
+					#return HttpResponse('Batch allotted to the specified user.')
 	else:
 		form = AllotUserWithinBatch()
 	return render(request, 'project_management/allot_user_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id})
