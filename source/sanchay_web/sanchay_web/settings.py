@@ -77,14 +77,30 @@ WSGI_APPLICATION = 'sanchay_web.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/1.8/ref/settings/#databases
-
+'''
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
+'''
 
+DATABASES = {
+    'default': {
+        'ENGINE': 'doj.db.backends.postgresql',
+        'NAME': 'sproject',
+        'USER': 'sprojectuser',
+        'PASSWORD': 'sanchaypwd',
+        #'HOST': 'localhost',
+        #'PORT': '',
+    }
+}
+
+DATABASE_ENGINE = 'doj.backends.zxjdbc.postgresql'
+DATABASE_NAME = '<the name of the empty database you created>'
+DATABASE_USER = '<the name of the user with R/W access to that database>'
+DATABASE_PASSWORD = '<the password of that user>'
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/

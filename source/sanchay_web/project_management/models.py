@@ -4,7 +4,6 @@ from django.contrib.auth.models import User
 from django.utils import timezone
 import datetime
 
-
 class Batch(models.Model):
     name = models.CharField(max_length=200)
     date_created = models.DateTimeField('date created')
