@@ -97,10 +97,10 @@ DATABASES = {
     }
 }
 
-DATABASE_ENGINE = 'doj.backends.zxjdbc.postgresql'
-DATABASE_NAME = '<the name of the empty database you created>'
-DATABASE_USER = '<the name of the user with R/W access to that database>'
-DATABASE_PASSWORD = '<the password of that user>'
+#DATABASE_ENGINE = 'doj.backends.zxjdbc.postgresql'
+#DATABASE_NAME = '<the name of the empty database you created>'
+#DATABASE_USER = '<the name of the user with R/W access to that database>'
+#DATABASE_PASSWORD = '<the password of that user>'
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
@@ -126,7 +126,6 @@ LOGIN_URL = '/login'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
-
 
 
 
