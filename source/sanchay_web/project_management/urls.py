@@ -2,7 +2,7 @@ from django.conf.urls import url, include
 from . import views
 
 urlpatterns = [
-	url(r'^$', views.index, name='index'),
+	url(r'^$', views.home, name='home'),
 	url(r'^create_annotator/$', views.create_annotator , name = 'create_annotator'),
 	url(r'^home/$', views.home, name = 'home'),
 	url(r'^user_home/$', views.user_home, name = 'user_home'),
