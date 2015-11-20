@@ -129,6 +129,7 @@ def create_batch(request):
 		if form.is_valid():
 			name_entry = form.cleaned_data['name']
 			batch_obj = Batch(name = name_entry, date_created = timezone.now())
+			batch_obj.status = u'NOT_DONE'
 			batch_obj.save()
 			new_obj = True
 			return HttpResponseRedirect(reverse('project_management:view_all_batches'))

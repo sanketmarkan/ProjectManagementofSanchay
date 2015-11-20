@@ -7,7 +7,7 @@ import datetime
 class Batch(models.Model):
     name = models.CharField(max_length=200)
     date_created = models.DateTimeField('date created')
-    status = models.BooleanField
+    status = models.CharField(max_length=25)
     class Meta:
         permissions = (("can_mod", " Can moderate"),)
     def __unicode__(self):
@@ -32,7 +32,7 @@ class Document(models.Model):
 	docfile = models.FileField(upload_to = get_doc_path)
 	batch = models.ForeignKey(Batch)
 	date_created = models.DateTimeField('date created')
-	status = models.BooleanField
+	status = models.CharField(max_length=25)
 
 	def __unicode__(self):
 		return self.docfile.name
