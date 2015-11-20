@@ -25,14 +25,23 @@
 					<div id="header">
 
 						<!-- Logo -->
-							<h1><a href="{%url 'project_management:user_home'%}">Sanchay ⇔ संचय</a></h1>
+							{% if user.is_authenticated %}
+
+							<h1><a href="{% url 'project_management:user_home' %}">Sanchay ⇔ संचय</a></h1>
+							{% else %}
+							<h1><a href="{% url 'project_management:home' %}">Sanchay ⇔ संचय</a></h1>
+							{% endif %}
 
 						<!-- Nav -->
 							<!-- Nav -->
 							<nav id="nav">
 								<ul>
 
+									{% if user.is_authenticated %}
 									<li class="current"><a href="{%url 'project_management:user_home'%}">Home</a></li>
+									{% else %}
+									<li class="current"><a href="{%url 'project_management:home'%}">Home</a></li>
+									{% endif %}
 
 									<li>
 										<a href="#">Batch</a>
