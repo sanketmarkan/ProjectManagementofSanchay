@@ -39,7 +39,7 @@ def create_annotator(request):
 			except Exception:
 				user_obj = None
 				username_exists = False
-				try:#Checks if the email already exists or not 
+				try:#Checks if the email already exists or not
 					email_exists = True
 					user_obj = User.objects.get(email = email_entry)
 				except Exception:
@@ -86,8 +86,8 @@ def view_profile(request):
 
 @login_required
 def update_profile(request):
-	user = User.objects.get(pk=request.user.id)	
-	if request.method=='POST':		
+	user = User.objects.get(pk=request.user.id)
+	if request.method=='POST':
 		form = EditProfileform(request.POST)
 		if form.is_valid():
 			oldpassword = form.cleaned_data['old']
@@ -165,7 +165,7 @@ def home(request):
 				else:
 					form.add_error('username', 'User is not active')
 			else:
-				form.add_error(None, 'The username/password do not match.')	
+				form.add_error(None, 'The username/password do not match.')
 	else:
 		form = HomeLoginForm()
 	return render(request, 'project_management/home.html', {'form': form})
@@ -214,7 +214,7 @@ def upload_file(request):
 			else:
 				doc_obj = Document(docfile = request.FILES['docfile'], date_created = timezone.now(), batch = batch_obj)
 				doc_obj.save()
-				return HttpResponseRedirect(reverse('project_management:view_all_batches'))	
+				return HttpResponseRedirect(reverse('project_management:view_all_batches'))
 				#return HttpResponse('File uploaded.')
 	else:
 		form = NewDocumentForm()
@@ -245,7 +245,7 @@ def upload_file_within_batch(request, batch_id):
 			doc_obj = Document(docfile = request.FILES['docfile'], date_created = timezone.now(), batch = batch_obj)
 			doc_obj.save()
 			new_file = True
-			return HttpResponseRedirect(reverse('project_management:view_all_batches'))	
+			return HttpResponseRedirect(reverse('project_management:view_all_batches'))
 			#return render(request, 'project_management/upload_file_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id, 'new_file':new_file})
 	else:
 		form = NewDocBatchForm()
@@ -285,7 +285,7 @@ def allot_user_within_batch(request, batch_id):
 					deadline_obj.save()
 					allot_annotator.save()
 					allot_user.save()
-					return HttpResponseRedirect(reverse('project_management:view_all_batches'))	
+					return HttpResponseRedirect(reverse('project_management:view_all_batches'))
 					#return HttpResponse('Batch allotted to the specified user.')
 	else:
 		form = AllotUserWithinBatch()
@@ -307,7 +307,7 @@ def new_message(request):
 				form.add_error('receiver', 'Given receiver does not exist')
 			else:
 				receiver_obj = receiver_obj.annotator
-				sender_obj = request.user.annotator 	
+				sender_obj = request.user.annotator
 				message_obj = Message(subject=subject_entry, msgtext=msgtext_entry, date_created = timezone.now(), sender= sender_obj, receiver= receiver_obj )
 				message_obj.save()
 				new_obj = True
