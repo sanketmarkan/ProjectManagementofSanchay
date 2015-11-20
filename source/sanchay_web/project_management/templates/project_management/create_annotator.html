@@ -5,7 +5,7 @@
 {% if new_obj %}
     <div class="alert alert-success" role="alert">New account created. </div>
 {% endif %}
-<form action="/project_management/create_annotator/" method="post">
+<form action="/project_management/user_home/" method="post">
     {% csrf_token %}
     {{ form.as_p }}
     <input type="submit" value="Submit" />
