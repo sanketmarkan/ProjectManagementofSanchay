@@ -2,7 +2,7 @@ from django.conf.urls import url, include
 from . import views
 
 urlpatterns = [
-	url(r'^$', views.index, name='index'),
+	url(r'^$', views.home, name='home'),
 	url(r'^create_annotator/$', views.create_annotator , name = 'create_annotator'),
 	url(r'^home/$', views.home, name = 'home'),
 	url(r'^user_home/$', views.user_home, name = 'user_home'),
@@ -22,4 +22,5 @@ urlpatterns = [
 	url(r'^(?P<batch_id>[0-9]+)/upload_file/$', views.upload_file_within_batch, name='upload_file_within_batch'),
 	url(r'^(?P<batch_id>[0-9]+)/allot_user_within_batch/$', views.allot_user_within_batch, name='allot_user_within_batch'),
 	url(r'^view_profile/$', views.view_profile, name = 'view_profile'),
+	url(r'^logout_view/$',views.logout_view,name = 'logout_view'),
 ]

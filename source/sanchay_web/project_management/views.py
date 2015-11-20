@@ -10,9 +10,11 @@ from django.contrib.auth.decorators import login_required, permission_required
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.backends import ModelBackend
 import datetime
-
-
-# Create your views here.
+from django.contrib.auth import logout
+@login_required
+def logout_view(request):
+    logout(request)
+    return HttpResponseRedirect(reverse('project_management:home'))
 
 def index(request):
 	return HttpResponse("Hello, You are at Sanchay Web home page.Site is under construction.")

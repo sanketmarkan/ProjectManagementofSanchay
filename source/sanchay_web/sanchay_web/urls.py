@@ -17,12 +17,14 @@ from django.conf.urls import include, url
 from django.contrib import admin
 from django.conf import settings
 from django.conf.urls.static import static
-
-
+from django.conf.urls import patterns
+from django.contrib.auth.views import logout_then_login
 urlpatterns = [
 	url(r'^', include('django.contrib.auth.urls')),
-#url(r'^logout/$', 'django.contriib.auth.views.logout',
-#	     {'next_page': '/project_management/home'}),
 	url(r'^project_management/', include('project_management.urls', namespace = "project_management")),
     url(r'^admin/', include(admin.site.urls)),
 ]+  static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+	
+#urlpatterns+= [ url(r'^logout/$', 'django.contriib.auth.views.logout',
+#	     {'next_page': '/project_management/home'}),
+#	]
