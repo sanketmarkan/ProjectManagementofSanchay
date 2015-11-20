@@ -5,6 +5,7 @@ from django.utils import timezone
 from django.contrib.auth.models import User, Group, Permission
 from django.contrib.auth.forms import AuthenticationForm
 from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm, HomeLoginForm, AllotUserWithinBatch, NewMessageForm, EditProfileform
+from .forms import ImageUploadForm
 from .models import Annotator, Batch, Document, Message, Deadline
 from django.contrib.auth.decorators import login_required, permission_required
 from django.contrib.auth import authenticate, login
@@ -15,6 +16,18 @@ from django.contrib.auth import logout
 def logout_view(request):
     logout(request)
     return HttpResponseRedirect(reverse('project_management:home'))
+
+def upload_pic(request):
+    if request.method == 'POST':
+        form = ImageUploadForm(request.POST, request.FILES)
+        if form.is_valid():
+            m = Annotator.objects.get(user=request.user)
+            m.model_pic = form.cleaned_data['image']
+            m.save()
+            return render(request, 'project_management/upload_pic.html', {'form': form})
+    else:
+    	form = ImageUploadForm(request.POST, request.FILES)
+    return render(request, 'project_management/upload_pic.html', {'form': form,})
 
 def index(request):
 	return HttpResponse("Hello, You are at Sanchay Web home page.Site is under construction.")
@@ -83,8 +96,9 @@ def edit_profile(request):
 @login_required
 def view_profile(request):
 	user = User.objects.get(pk=request.user.id)
+	anno = Annotator.objects.get(user=user)
 	cutime =datetime.datetime.now()
-	return render(request, 'project_management/view_profile.html',{'user':user})
+	return render(request, 'project_management/view_profile.html',{'user':user,'anno':anno})
 
 @login_required
 def update_profile(request):
