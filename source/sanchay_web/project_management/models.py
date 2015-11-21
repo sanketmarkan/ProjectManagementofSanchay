@@ -18,9 +18,6 @@ class Annotator(models.Model):
     user = models.OneToOneField(User)
     batches = models.ManyToManyField(Batch)
     date_created = models.DateTimeField('date joined')
-    #profilepic = models.ImageField(upload_to="profilepics/", default="blabla.jpg")
-    #avatar = AvatarField(upload_to='avatars', width=100, height=100, default="https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.co.in/")
-    
 
     def __unicode__(self):
         return self.user.username
@@ -56,4 +53,4 @@ class Deadline(models.Model):
 
     def approaching_final_date(self):
         return self.final_date <= datetime.date.today() + datetime.timedelta(days=5)
- 
+

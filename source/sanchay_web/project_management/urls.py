@@ -17,6 +17,7 @@ urlpatterns = [
 	url(r'^view_all_batches/$', views.view_all_batches, name = 'view_all_batches'),
 
 	url(r'^(?P<batch_id>[0-9]+)/delete_batch/$', views.delete_batch, name = 'delete_batch'),
+	url(r'^(?P<message_id>[0-9]+)/delete_message/$', views.delete_message, name = 'delete_message'),
 
 	url(r'^(?P<batch_id>[0-9]+)/batch/$', views.view_batch_files, name='view_batch_files'),
 	url(r'^(?P<batch_id>[0-9]+)/upload_file/$', views.upload_file_within_batch, name='upload_file_within_batch'),

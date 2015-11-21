@@ -119,6 +119,13 @@ def user_home(request):
 	context = {'user': request.user, 'is_moderator': is_moderator, 'messages':messages, 'num_messages':num_messages, 'batches':batches, 'num_batches':num_batches}
 	return render(request, 'project_management/user_home.html', context)
 
+@login_required
+def delete_message(request,message_id):
+	Message.objects.get(pk=message_id).delete()
+	# This will delete the Blog and all of its Entry objects.
+	messages = Message.objects.all()
+	return HttpResponseRedirect(reverse('project_management:user_home'))
+
 
 @permission_required('project_management.can_mod')
 @login_required
@@ -249,7 +256,7 @@ def upload_file_within_batch(request, batch_id):
 	else:
 		form = NewDocBatchForm()
 	return render(request, 'project_management/upload_file_within_batch.html', {'form': form, 'user': request.user, 'batch_id':batch_id, 'new_file':new_file})
-###################################################################
+
 @permission_required('project_management.can_mod')
 @login_required
 def delete_batch(request,batch_id):
@@ -257,7 +264,10 @@ def delete_batch(request,batch_id):
 	# This will delete the Blog and all of its Entry objects.
 	batches = Batch.objects.all()
 	return HttpResponseRedirect(reverse('project_management:view_all_batches'))
-######################################################################
+
+
+
+
 
 @permission_required('project_management.can_mod')
 @login_required

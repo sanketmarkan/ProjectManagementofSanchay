@@ -9,7 +9,7 @@
 	{% if is_moderator %}
 		<div class="btn-group-vertical" role="group" aria-label="...">
 			<a href="/project_management/edit_profile/" class="btn btn-default">Edit Your Profile <span class="glyphicon glyphicon-edit"></span></a>
-			<a href="/project_management/view_profile/" class="btn btn-default">View Your Profile <span class="glyphicon glyphicon-user"></span></a>	
+			<a href="/project_management/view_profile/" class="btn btn-default">View Your Profile <span class="glyphicon glyphicon-user"></span></a>
 			<a href="/project_management/create_batch/" class="btn btn-default">Create a new batch <span class="glyphicon glyphicon-file"></span> </a>
 			<a href="/project_management/upload_file/" class="btn btn-default">Upload a new file <span class="glyphicon glyphicon-upload"></span></a>
 			<a href="/project_management/allot_batch/" class="btn btn-default">Allot a batch <span class="glyphicon glyphicon-user"></span> </a>
@@ -29,14 +29,14 @@
 
 {% block content %}
 <article class="box post">
-	
+
 	<header>
 		<h2>Dashboard <span class="glyphicon glyphicon-dashboard"></span></h2>
 	</header>
 	<h3>Messages <span class="badge">{{num_messages}}</span></a> </h3>
 	<a href="/project_management/new_message/" class="btn btn-primary">New <span class="glyphicon glyphicon-envelope"></span></a>
 	{% if messages %}
-		
+
 		<table class="table table-hover">
 	    <thead>
 	      <tr>
@@ -51,24 +51,27 @@
 		    <tbody>
 		      <tr>
 		      	<td>
+		      		<span class="glyphicon glyphicon-user"></span> {{message.id}}
+		      	</td>
+		      	<td>
 		      		<span class="glyphicon glyphicon-user"></span> {{message.sender.user.username}}
 		      	</td>
 		        <td>
-		        	<span class="glyphicon glyphicon-envelope"></span> 
+		        	<span class="glyphicon glyphicon-envelope"></span>
       				<h5>{{message.subject}}</h5>
-      			</td>		        
+      			</td>
 		        <td>
 		        	{{ message.date_created }}
-      				<span class="glyphicon glyphicon-time"></span>      
+      				<span class="glyphicon glyphicon-time"></span>
       			</td>
       			<td>
 		        	<a href="#" class="btn btn-success btn-sm">
-      				<span class="glyphicon glyphicon-folder-open"></span> 
+      				<span class="glyphicon glyphicon-folder-open"></span>
       				</a>
       			</td>
       			<td>
-		        	<a href="#" class="btn btn-danger btn-sm">
-      				<span class="glyphicon glyphicon-trash"></span> 
+		        	<a href="/project_management/{{message.id}}/delete_message/" class="btn btn-danger btn-sm">
+      				<span class="glyphicon glyphicon-trash"></span>
       				</a>
       			</td>
 		      </tr>
@@ -77,10 +80,10 @@
 	</table>
 	{% else %}
 	<br>
-	    <span class="glyphicon glyphicon-envelope"></span> 
+	    <span class="glyphicon glyphicon-envelope"></span>
 	    <h3>You have no messages.</h3>
 	{% endif %}
-	
+
 
 	{% if is_moderator %}
 	<section>
@@ -114,9 +117,9 @@
 		{% endfor %}
 			</tbody>
 	</table>
-		
+
 	</section>
 	{% endif %}
-	
+
 {% endblock %}
 
