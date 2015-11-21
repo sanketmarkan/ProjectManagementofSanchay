@@ -51,19 +51,17 @@
 		    <tbody>
 		      <tr>
 		      	<td>
-		      		<span class="glyphicon glyphicon-user"></span> {{message.id}}
+		      		<span class="glyphicon glyphicon-user"></span>
+		      		{{message.sender.user.username}}
 		      	</td>
 		      	<td>
-		      		<span class="glyphicon glyphicon-user"></span> {{message.sender.user.username}}
+		      		<span class="glyphicon glyphicon-user"></span>{{message.subject}}
 		      	</td>
 		        <td>
 		        	<span class="glyphicon glyphicon-envelope"></span>
-      				<h5>{{message.subject}}</h5>
+      				<h5>{{ message.date_created }}</h5>
       			</td>
-		        <td>
-		        	{{ message.date_created }}
-      				<span class="glyphicon glyphicon-time"></span>
-      			</td>
+
       			<td>
 		        	<a href="#" class="btn btn-success btn-sm">
       				<span class="glyphicon glyphicon-folder-open"></span>
