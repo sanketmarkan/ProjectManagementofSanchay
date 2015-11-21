@@ -26,10 +26,10 @@ def upload_pic(request):
             m = Annotator.objects.get(user=request.user)
             m.model_pic = form.cleaned_data['image']
             m.save()
-            return render(request, 'project_management/upload_pic.html', {'form': form})
+            return HttpResponseRedirect(reverse('project_management:view_profile'))
     else:
     	form = ImageUploadForm(request.POST, request.FILES)
-    return render(request, 'project_management/upload_pic.html', {'form': form,})
+    return render(request, 'project_management/upload_pic.html', {'form': form})
 
 def index(request):
 	return HttpResponse("Hello, You are at Sanchay Web home page.Site is under construction.")
