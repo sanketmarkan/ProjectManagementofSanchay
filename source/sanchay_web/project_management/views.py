@@ -333,3 +333,8 @@ def new_message(request):
 	else:
 		form = NewMessageForm()
 	return render(request, 'project_management/new_message.html', {'form': form, 'user': request.user, 'new_obj':new_obj})
+
+@login_required
+def view_message(request,message_id):
+	message = Message.objects.get(pk=message_id)
+	return render(request, 'project_management/view_message.html', {'message':message})
