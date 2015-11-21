@@ -100,15 +100,35 @@ public class FileMenu extends javax.swing.JFrame {
                 int len2 = temp2.length();
                 String temp3 = temp2.substring(1, len2 - 1);
                 deadlineLabel[i].setText("Deadline: " + obj.getBatchDeadline(temp3));
-                
+
                 String temp4 = new String();
-                if(obj.getBatchStatus(temp3))temp4 = "Done\t";
-                else temp4 = "Not Done\t";
+                if (obj.getBatchStatus(temp3)) {
+                    temp4 = "Done\t";
+                } else {
+                    temp4 = "Not Done\t";
+                }
                 statusLabel[i].setText("Status: " + temp4 + "\t");
 
                 statusComboBox[i].setModel(new javax.swing.DefaultComboBoxModel(new String[]{"Done", "Not Done"}));
+ 
                 
-                //statusComboBox[i].addActionListener(new javax.swing);
+                //javax.swing.JComboBox statusComboBoxTemp = statusComboBox[i];
+                javax.swing.JLabel statusLabelTemp = statusLabel[i];
+                statusComboBox[i].addActionListener(new java.awt.event.ActionListener() {
+                    public void actionPerformed(java.awt.event.ActionEvent evt) {
+                        javax.swing.JComboBox cb = (javax.swing.JComboBox)evt.getSource();
+                        String stName = (String)cb.getSelectedItem();
+                        boolean fg;
+                        if(stName.equalsIgnoreCase("Done"))fg = true;
+                        else fg = false;
+                        try {
+                            obj.setBatchStatus(temp3,fg);
+                            statusLabelTemp.setText("Status: " + stName + "\t");
+                        } catch (RemoteException ex) {
+                            Logger.getLogger(FileMenu.class.getName()).log(Level.SEVERE, null, ex);
+                        }
+                    }
+                });
                 filesLabel[i].setText("Files");
                 ArrayList<String> temp;
                 temp = obj.getBatchFilesName(batchIds.get(i));
@@ -129,7 +149,7 @@ public class FileMenu extends javax.swing.JFrame {
                 javax.swing.JList filesListTemp = filesList[i];
                 filesList[i].addListSelectionListener(new javax.swing.event.ListSelectionListener() {
                     public void valueChanged(javax.swing.event.ListSelectionEvent evt) {
-                        if(!evt.getValueIsAdjusting()){
+                        if (!evt.getValueIsAdjusting()) {
                             String selection = (String) filesListTemp.getSelectedValue();
                             //System.out.println("Object -- * "+selection);
                             fileNameLabelTemp.setText("Name:" + selection);
