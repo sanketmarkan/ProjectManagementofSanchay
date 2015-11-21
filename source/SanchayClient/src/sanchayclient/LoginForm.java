@@ -4,19 +4,27 @@
  * and open the template in the editor.
  */
 package sanchayclient;
+
 import access.AccessInterface;
+import java.awt.Component;
+import java.awt.event.WindowEvent;
 import java.net.MalformedURLException;
 import java.rmi.Naming;
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.JFrame;
+import javax.swing.SwingUtilities;
+
 /**
  *
  * @author droftware
  */
 public class LoginForm extends javax.swing.JPanel {
+
     AccessInterface obj;
+    boolean auth_token;
 
     /**
      * Creates new form LoginForm
@@ -25,6 +33,7 @@ public class LoginForm extends javax.swing.JPanel {
         initComponents();
         try {
             obj = (AccessInterface) Naming.lookup("//localhost/Access");
+            auth_token = false;
         } catch (NotBoundException ex) {
             Logger.getLogger(LoginForm.class.getName()).log(Level.SEVERE, null, ex);
         } catch (MalformedURLException ex) {
@@ -117,23 +126,35 @@ public class LoginForm extends javax.swing.JPanel {
 
     private void loginButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_loginButtonActionPerformed
         String username = userField.getText();
-      
+
         String password = new String(passwordField.getPassword());
         boolean flag;
-        if(username.equals(""))
+        if (username.equals("")) {
             errorLabel.setText("Enter Username !");
-        if(password.equals("") )
+        }
+        if (password.equals("")) {
             errorLabel.setText("Enter Password !");
+        }
         try {
-            if(obj.authenticate(username, password) )
+            if (obj.authenticate(username, password)) {
                 errorLabel.setText("Login Successful!");
-            else 
+                JFrame topFrame = (JFrame) SwingUtilities.getWindowAncestor(this);
+                //topFrame.dispatchEvent(new WindowEvent(topFrame, WindowEvent.WINDOW_CLOSING));
+                topFrame.dispose();
+                java.awt.EventQueue.invokeLater(new Runnable() {
+                    public void run() {
+                        new FileMenu().setVisible(true);
+                    }
+                });
+                this.auth_token = true;
+            } else {
                 errorLabel.setText("Username/Password do not match.");
-            
+            }
+
         } catch (RemoteException ex) {
             Logger.getLogger(LoginForm.class.getName()).log(Level.SEVERE, null, ex);
         }
-        
+
     }//GEN-LAST:event_loginButtonActionPerformed
 
 
