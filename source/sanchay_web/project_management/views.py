@@ -78,7 +78,7 @@ def create_annotator(request):
 						annotator_obj = Annotator(user = user_obj, date_created = timezone.now())
 						annotator_obj.save()
 						new_obj = True
-						return render(request, 'project_management/create_annotator.html', {'form': form, 'new_obj':new_obj})
+						return render(request, 'project_management/home.html', {'form': form, 'new_obj':new_obj})
 					else:
 						form.add_error('password', 'Both the passwords do not match.Enter again.')
 			if(email_exists):
