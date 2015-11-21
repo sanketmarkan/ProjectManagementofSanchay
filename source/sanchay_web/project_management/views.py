@@ -12,6 +12,8 @@ from django.contrib.auth import authenticate, login
 from django.contrib.auth.backends import ModelBackend
 import datetime
 from django.contrib.auth import logout
+
+from PIL import Image
 @login_required
 def logout_view(request):
     logout(request)
