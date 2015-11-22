@@ -39,6 +39,6 @@ public interface AccessInterface extends Remote{
     
     public void writeToFile(InputStream stream, String fileName, int batchId)throws RemoteException,FileNotFoundException, IOException ;
     
-    
+    public RemoteInputStream getFile(String fileName, int batchId)throws RemoteException, FileNotFoundException, IOException;
     
 }

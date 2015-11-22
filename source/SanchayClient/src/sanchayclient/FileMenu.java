@@ -6,11 +6,17 @@
 package sanchayclient;
 
 import access.AccessInterface;
+import com.healthmarketscience.rmiio.GZIPRemoteInputStream;
+import com.healthmarketscience.rmiio.RemoteInputStream;
+import com.healthmarketscience.rmiio.RemoteInputStreamClient;
 import com.healthmarketscience.rmiio.RemoteInputStreamServer;
 import com.healthmarketscience.rmiio.SimpleRemoteInputStream;
 import java.io.ByteArrayInputStream;
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.nio.file.Files;
 import java.rmi.Naming;
@@ -168,11 +174,40 @@ public class FileMenu extends javax.swing.JFrame {
                 filesScrollPane[i].setViewportView(filesList[i]);
 
                 fileNameLabel[i].setText("Name:");
-
+                int iTemp = batchIds.get(i);
                 downloadButton[i].setText("Download");
+                downloadButton[i].addActionListener(new java.awt.event.ActionListener() {
+                    public void actionPerformed(java.awt.event.ActionEvent evt) {
+                        try {
+                            InputStream stream = null;
+                            String downloadedFileName = (String) filesListTemp.getSelectedValue();
+                            int downloadedBatchId = iTemp;
+                            RemoteInputStream data = obj.getFile(downloadedFileName, downloadedBatchId);
+                            stream = RemoteInputStreamClient.wrap(data);
+                            String pathName = "/home/droftware/Desktop/SanchayDownloads/" + downloadedFileName;
+                            File tf = new File(pathName);
+                            FileOutputStream output = new FileOutputStream(tf);
+                            int chunk = 4096;
+                            byte[] result = new byte[chunk];
+                            int readBytes = 0;
+                            do {
+                                readBytes = stream.read(result);
+                                if (readBytes != -1) {
+                                    output.write(result, 0, readBytes);
+                                }
+                            } while (readBytes != -1);
+                            System.out.println("File downloaded - "+ downloadedFileName);
+                        } catch (FileNotFoundException ex) {
+                            Logger.getLogger(FileMenu.class.getName()).log(Level.SEVERE, null, ex);
+                        } catch (IOException ex) {
+                            Logger.getLogger(FileMenu.class.getName()).log(Level.SEVERE, null, ex);
+                        }
+
+                    }
+                });
 
                 uploadButton[i].setText("Upload");
-                int iTemp = batchIds.get(i);
+                
                 uploadButton[i].addActionListener(new java.awt.event.ActionListener() {
                     public void actionPerformed(java.awt.event.ActionEvent evt) {
                         JFileChooser fc = new JFileChooser();
@@ -190,8 +225,8 @@ public class FileMenu extends javax.swing.JFrame {
                                 int uploadedBatchId = iTemp;
                                 ByteArrayInputStream stream;
                                 stream = new ByteArrayInputStream(Files.readAllBytes(f.toPath()));
-                                RemoteInputStreamServer data = new SimpleRemoteInputStream(stream);
-                                obj.publish(data.export(),uploadedFileName,uploadedBatchId);
+                                RemoteInputStreamServer data = new GZIPRemoteInputStream(stream);
+                                obj.publish(data.export(), uploadedFileName, uploadedBatchId);
                                 System.out.println("File transferred File Name -" + uploadedFileName + "Batch id " + uploadedBatchId);
                             } catch (IOException ex) {
                                 Logger.getLogger(FileMenu.class.getName()).log(Level.SEVERE, null, ex);
@@ -305,7 +340,7 @@ public class FileMenu extends javax.swing.JFrame {
     AccessInterface obj;
     ArrayList<String> batchNames;
     ArrayList<Integer> batchIds;
-   
+
     int numBatches;
     // End of variables declaration                   
 }
