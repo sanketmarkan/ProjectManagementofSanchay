@@ -6,8 +6,21 @@
 package sanchayclient;
 
 import access.AccessInterface;
+import com.healthmarketscience.rmiio.RemoteInputStreamServer;
+import com.healthmarketscience.rmiio.SimpleRemoteInputStream;
+
+import java.io.ByteArrayInputStream;
+import java.io.File;
+import java.io.IOException;
+import java.net.MalformedURLException;
+import java.nio.file.Files;
 import java.rmi.Naming;
+import java.rmi.NotBoundException;
+import java.rmi.RemoteException;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import javax.swing.JFrame;
+import javax.swing.text.Document;
 
 /**
  *
@@ -24,34 +37,8 @@ public class SanchayClient {
         window.setTitle("Login");
         window.setSize(300, 150);
         window.setVisible(true);
-        
-    }
 
+    }
 }
 
-/*
- try {
- AccessInterface obj = (AccessInterface) Naming.lookup("//localhost/Access");
- JFrame window = new JFrame();
- LoginForm form = new LoginForm();
- window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
- window.add(form);
- int height = (int) form.getBounds().getHeight();
- int width = (int) form.getBounds().getWidth();
- //System.out.println("Height " + height);
- //System.out.println("");
- window.setSize(300,400);
-        
- window.setVisible(true);
-                       
- /*if(obj.authenticate("akshat","asd")){
- System.out.println("User authenticated");
- }
- else System.out.println("NOT authenticated");*/
-                        //System.out.println(hello.say());
-/*
- } catch (Exception e) {
- System.out.println("HelloClient exception: " + e);
- }
- }
- */
+

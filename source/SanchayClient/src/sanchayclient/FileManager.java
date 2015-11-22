@@ -41,6 +41,7 @@ public class FileManager extends javax.swing.JFrame {
         downloadButton = new javax.swing.JButton();
         uploadButton = new javax.swing.JButton();
         jPanel2 = new javax.swing.JPanel();
+        jFileChooser1 = new javax.swing.JFileChooser();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Remote File Manager");
@@ -75,6 +76,11 @@ public class FileManager extends javax.swing.JFrame {
         fileNameLabel.setText("Name:");
 
         downloadButton.setText("Download");
+        downloadButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                downloadButtonActionPerformed(evt);
+            }
+        });
 
         uploadButton.setText("Upload");
 
@@ -100,7 +106,7 @@ public class FileManager extends javax.swing.JFrame {
                             .addComponent(fileNameLabel)
                             .addComponent(downloadButton)
                             .addComponent(uploadButton))))
-                .addContainerGap(108, Short.MAX_VALUE))
+                .addContainerGap(224, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -128,7 +134,7 @@ public class FileManager extends javax.swing.JFrame {
                         .addComponent(downloadButton)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(uploadButton)))
-                .addContainerGap(24, Short.MAX_VALUE))
+                .addContainerGap(170, Short.MAX_VALUE))
         );
 
         jTabbedPane1.addTab("Batch 1", jPanel1);
@@ -137,11 +143,16 @@ public class FileManager extends javax.swing.JFrame {
         jPanel2.setLayout(jPanel2Layout);
         jPanel2Layout.setHorizontalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 343, Short.MAX_VALUE)
+            .addGroup(jPanel2Layout.createSequentialGroup()
+                .addContainerGap()
+                .addComponent(jFileChooser1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 286, Short.MAX_VALUE)
+            .addGroup(jPanel2Layout.createSequentialGroup()
+                .addComponent(jFileChooser1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 24, Short.MAX_VALUE))
         );
 
         jTabbedPane1.addTab("Batch 2", jPanel2);
@@ -169,6 +180,15 @@ public class FileManager extends javax.swing.JFrame {
     private void statusComboBoxActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_statusComboBoxActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_statusComboBoxActionPerformed
+
+    private void downloadButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_downloadButtonActionPerformed
+        // TODO add your handling code here:
+        javax.swing.SwingUtilities.invokeLater(new Runnable() {
+            public void run() {
+                SwingFileChooserDemo.createAndShowGUI();
+            }
+        });
+    }//GEN-LAST:event_downloadButtonActionPerformed
 
     /**
      * @param args the command line arguments
@@ -213,6 +233,7 @@ public class FileManager extends javax.swing.JFrame {
     private javax.swing.JLabel filesLabel;
     private javax.swing.JList filesList;
     private javax.swing.JScrollPane filesScrollPane;
+    private javax.swing.JFileChooser jFileChooser1;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JPanel jPanel2;
     private javax.swing.JSeparator jSeparator1;

@@ -6,13 +6,20 @@
 package sanchayclient;
 
 import access.AccessInterface;
+import com.healthmarketscience.rmiio.RemoteInputStreamServer;
+import com.healthmarketscience.rmiio.SimpleRemoteInputStream;
+import java.io.ByteArrayInputStream;
+import java.io.File;
+import java.io.IOException;
 import java.net.MalformedURLException;
+import java.nio.file.Files;
 import java.rmi.Naming;
 import java.rmi.NotBoundException;
 import java.rmi.RemoteException;
 import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import javax.swing.JFileChooser;
 import javax.swing.ListSelectionModel;
 
 /**
@@ -110,19 +117,21 @@ public class FileMenu extends javax.swing.JFrame {
                 statusLabel[i].setText("Status: " + temp4 + "\t");
 
                 statusComboBox[i].setModel(new javax.swing.DefaultComboBoxModel(new String[]{"Done", "Not Done"}));
- 
-                
+
                 //javax.swing.JComboBox statusComboBoxTemp = statusComboBox[i];
                 javax.swing.JLabel statusLabelTemp = statusLabel[i];
                 statusComboBox[i].addActionListener(new java.awt.event.ActionListener() {
                     public void actionPerformed(java.awt.event.ActionEvent evt) {
-                        javax.swing.JComboBox cb = (javax.swing.JComboBox)evt.getSource();
-                        String stName = (String)cb.getSelectedItem();
+                        javax.swing.JComboBox cb = (javax.swing.JComboBox) evt.getSource();
+                        String stName = (String) cb.getSelectedItem();
                         boolean fg;
-                        if(stName.equalsIgnoreCase("Done"))fg = true;
-                        else fg = false;
+                        if (stName.equalsIgnoreCase("Done")) {
+                            fg = true;
+                        } else {
+                            fg = false;
+                        }
                         try {
-                            obj.setBatchStatus(temp3,fg);
+                            obj.setBatchStatus(temp3, fg);
                             statusLabelTemp.setText("Status: " + stName + "\t");
                         } catch (RemoteException ex) {
                             Logger.getLogger(FileMenu.class.getName()).log(Level.SEVERE, null, ex);
@@ -163,6 +172,33 @@ public class FileMenu extends javax.swing.JFrame {
                 downloadButton[i].setText("Download");
 
                 uploadButton[i].setText("Upload");
+                int iTemp = batchIds.get(i);
+                uploadButton[i].addActionListener(new java.awt.event.ActionListener() {
+                    public void actionPerformed(java.awt.event.ActionEvent evt) {
+                        JFileChooser fc = new JFileChooser();
+                        int returnVal = fc.showOpenDialog(null);
+                        if (returnVal == JFileChooser.APPROVE_OPTION) {
+                            try {
+                                File f = fc.getSelectedFile();
+                                //File f = new File("/home/droftware/SSAD_2015_Team15/source/sanchay_web/README.md");
+                                if (f.exists()) {
+                                    System.out.println("File exists");
+                                } else {
+                                    System.out.println("File does not exist");
+                                }
+                                String uploadedFileName = (String) filesListTemp.getSelectedValue();
+                                int uploadedBatchId = iTemp;
+                                ByteArrayInputStream stream;
+                                stream = new ByteArrayInputStream(Files.readAllBytes(f.toPath()));
+                                RemoteInputStreamServer data = new SimpleRemoteInputStream(stream);
+                                obj.publish(data.export(),uploadedFileName,uploadedBatchId);
+                                System.out.println("File transferred File Name -" + uploadedFileName + "Batch id " + uploadedBatchId);
+                            } catch (IOException ex) {
+                                Logger.getLogger(FileMenu.class.getName()).log(Level.SEVERE, null, ex);
+                            }
+                        }
+                    }
+                });
 
                 //
                 jPanel1Layout[i] = new javax.swing.GroupLayout(jPanel1[i]);
@@ -269,6 +305,7 @@ public class FileMenu extends javax.swing.JFrame {
     AccessInterface obj;
     ArrayList<String> batchNames;
     ArrayList<Integer> batchIds;
+   
     int numBatches;
     // End of variables declaration                   
 }
