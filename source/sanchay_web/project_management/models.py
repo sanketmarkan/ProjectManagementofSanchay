@@ -46,6 +46,7 @@ class Message(models.Model):
         return self.subject
 
 
+
 class Deadline(models.Model):
     final_date = models.DateField('date created')
     annotator = models.ForeignKey(Annotator)
