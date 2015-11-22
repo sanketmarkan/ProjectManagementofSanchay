@@ -17,7 +17,9 @@ class CreateAnnotatorForm(forms.Form):
     date_joined   = datetime.datetime.now()
 
 
-
+class ImageUploadForm(forms.Form):
+    """Image upload form."""
+    image = forms.ImageField()
 
 
 class NewBatchForm(forms.Form):
