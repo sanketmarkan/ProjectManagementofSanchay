@@ -7,13 +7,17 @@ package sanchayserver;
 
 import access.AccessInterface;
 import adapter.AdapterInterface;
+import com.healthmarketscience.rmiio.GZIPRemoteInputStream;
 import com.healthmarketscience.rmiio.RemoteInputStream;
 import com.healthmarketscience.rmiio.RemoteInputStreamClient;
+import com.healthmarketscience.rmiio.RemoteInputStreamServer;
+import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
+import java.nio.file.Files;
 import java.rmi.*;
 import java.rmi.server.*;
 import java.util.ArrayList;
@@ -83,7 +87,7 @@ public class ConcreteAccess extends UnicastRemoteObject implements AccessInterfa
     public void writeToFile(InputStream stream, String fileName, int batchId) throws FileNotFoundException, IOException {
         String batchFolder = "Batch_" + Integer.toString(batchId) + "/";
         String pathName = "/home/droftware/SSAD_2015_Team15/source/sanchay_web/media/" + batchFolder + fileName;
-        File tf= new File(pathName);
+        File tf = new File(pathName);
         FileOutputStream output = new FileOutputStream(tf);
         int chunk = 4096;
         byte[] result = new byte[chunk];
@@ -95,6 +99,26 @@ public class ConcreteAccess extends UnicastRemoteObject implements AccessInterfa
             }
         } while (readBytes != -1);
         System.out.println("File transferred");
+    }
+
+    public RemoteInputStream getFile(String fileName, int batchId) throws FileNotFoundException, IOException{
+       
+        //istream = new GZIPRemoteInputStream(new BufferedInputStream(new FileInputStream(fileName)));
+        String pathName = "/home/droftware/SSAD_2015_Team15/source/sanchay_web/media/";
+        pathName = pathName + "Batch_" + Integer.toString(batchId);
+        pathName = pathName + "/" + fileName;
+        File f = new File(pathName);
+        if (f.exists()) {
+            System.out.println("File exists");
+        } else {
+            System.out.println("File does not exist");
+        }
+        ByteArrayInputStream stream;
+        stream = new ByteArrayInputStream(Files.readAllBytes(f.toPath()));
+        RemoteInputStreamServer istream = new GZIPRemoteInputStream(stream);
+        RemoteInputStream result = istream.export();
+        istream = null;
+        return result;
     }
 
 }
