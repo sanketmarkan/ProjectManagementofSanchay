@@ -1,41 +1,22 @@
-#include<stdio.h>
+#include <stdio.h>
+#define MAX 1000
+main()
+{
+    int prime[MAX],i,n,j;
+    printf("Enter n: ");
+    scanf("%d",&n);
+    for(i=0;i<n;++i){
+        prime[i] = 1;
+    }
+    prime[0] = 0;
+    prime[1] = 0;
+    for(i=2;i<n;++i){
+        if(prime[i])
+            for(j=i*i;j<n;j+=i)
+                prime[j] = 0;
+    }
+    printf("Prime numbers within 1 and %d are: \n",n);
+    for(i=0;i<n;++i)
+        if(prime[i] == 1)printf("%d\n",i);
 
-typedef struct adjnode{
-	int nbr;
-	struct adjnode *next;
-}adjnode;
-
-typedef struct graphnode{
-	int value;
-	struct adjnode* ptr;
-}graphnode;
-
-void add_edge(int a,int b){
-	struct adjnode* j;
-	j = graph[a].ptr;
-	if()*
-	while(j != NULL){
-		j = j->next;
-	}
-	j = malloc(sizeof(adjnode));
-	j->nbr = b;
-	j->next = NULL;
 }
-
-graphnode graph[50000];
-main(){
-	int n,m,a,b;
-	scanf("%d %d",&n,&m);
-	for(i=0;i<n;++i){
-		graph[i].ptr = NULL;
-	}
-	for(i=0;i<n;++i){
-		scanf("%d",&graph[i].value); 
-	}
-	for(i=0;i<m;++i){
-		scanf("%d %d",&a,&b);
-	}
-	add_edge(a,b);
-	add_edge(b,a);
-}
-

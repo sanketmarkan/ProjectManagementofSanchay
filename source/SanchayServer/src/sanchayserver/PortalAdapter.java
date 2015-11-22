@@ -11,10 +11,12 @@ import adapter.AdapterInterface;
 import java.util.ArrayList;
 import org.python.util.PythonInterpreter;
 import org.python.core.*;
+
 /**
  *
  * @author Akshat Tandon
  */
+
 public class PortalAdapter implements AdapterInterface{
     private PythonInterpreter pi;
     boolean auth_token;
@@ -132,7 +134,6 @@ public class PortalAdapter implements AdapterInterface{
         } 
        return arr;
     }
-    
     
     
     public ArrayList<Integer> getAllottedBatchesId(){

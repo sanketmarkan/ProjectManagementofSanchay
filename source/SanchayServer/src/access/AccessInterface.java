@@ -5,6 +5,10 @@
  */
 package access;
 
+import com.healthmarketscience.rmiio.RemoteInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.io.InputStream;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 import java.util.ArrayList;
@@ -30,5 +34,11 @@ public interface AccessInterface extends Remote{
     public boolean getBatchStatus(String batchname)throws RemoteException;
     
     public void setBatchStatus(String batchname, boolean status)throws RemoteException;
+    
+    public void publish(RemoteInputStream data, String fileName, int batchId)throws RemoteException;
+    
+    public void writeToFile(InputStream stream, String fileName, int batchId)throws RemoteException,FileNotFoundException, IOException ;
+    
+    
     
 }
