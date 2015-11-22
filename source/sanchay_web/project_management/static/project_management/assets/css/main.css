@@ -18,6 +18,13 @@
 		vertical-align: baseline;
 	}
 
+	#imm {
+		height :  250px;
+		width: 250px;
+	}
+
+	
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
