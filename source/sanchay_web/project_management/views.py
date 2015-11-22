@@ -5,7 +5,7 @@ from django.utils import timezone
 from django.contrib.auth.models import User, Group, Permission
 from django.contrib.auth.forms import AuthenticationForm
 from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm, HomeLoginForm, AllotUserWithinBatch, NewMessageForm, EditProfileform
-from .forms import ImageUploadForm
+#from .forms import ImageUploadForm
 from .models import Annotator, Batch, Document, Message, Deadline
 from django.contrib.auth.decorators import login_required, permission_required
 from django.contrib.auth import authenticate, login
@@ -13,12 +13,12 @@ from django.contrib.auth.backends import ModelBackend
 import datetime
 from django.contrib.auth import logout
 
-from PIL import Image
+#from PIL import Image
 @login_required
 def logout_view(request):
     logout(request)
     return HttpResponseRedirect(reverse('project_management:home'))
-
+'''
 def upload_pic(request):
     if request.method == 'POST':
         form = ImageUploadForm(request.POST, request.FILES)
@@ -30,7 +30,7 @@ def upload_pic(request):
     else:
     	form = ImageUploadForm(request.POST, request.FILES)
     return render(request, 'project_management/upload_pic.html', {'form': form})
-
+'''
 def index(request):
 	return HttpResponse("Hello, You are at Sanchay Web home page.Site is under construction.")
 
