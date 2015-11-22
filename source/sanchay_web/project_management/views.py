@@ -5,14 +5,31 @@ from django.utils import timezone
 from django.contrib.auth.models import User, Group, Permission
 from django.contrib.auth.forms import AuthenticationForm
 from .forms import CreateAnnotatorForm, NewBatchForm, AllotBatchForm, NewDocumentForm, NewDocBatchForm, HomeLoginForm, AllotUserWithinBatch, NewMessageForm, EditProfileform
+from .forms import ImageUploadForm
 from .models import Annotator, Batch, Document, Message, Deadline
 from django.contrib.auth.decorators import login_required, permission_required
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.backends import ModelBackend
 import datetime
+from django.contrib.auth import logout
 
+from PIL import Image
+@login_required
+def logout_view(request):
+    logout(request)
+    return HttpResponseRedirect(reverse('project_management:home'))
 
-# Create your views here.
+def upload_pic(request):
+    if request.method == 'POST':
+        form = ImageUploadForm(request.POST, request.FILES)
+        if form.is_valid():
+            m = Annotator.objects.get(user=request.user)
+            m.model_pic = form.cleaned_data['image']
+            m.save()
+            return HttpResponseRedirect(reverse('project_management:view_profile'))
+    else:
+    	form = ImageUploadForm(request.POST, request.FILES)
+    return render(request, 'project_management/upload_pic.html', {'form': form})
 
 def index(request):
 	return HttpResponse("Hello, You are at Sanchay Web home page.Site is under construction.")
@@ -61,7 +78,7 @@ def create_annotator(request):
 						annotator_obj = Annotator(user = user_obj, date_created = timezone.now())
 						annotator_obj.save()
 						new_obj = True
-						return render(request, 'project_management/create_annotator.html', {'form': form, 'new_obj':new_obj})
+						return render(request, 'project_management/home.html', {'form': form, 'new_obj':new_obj})
 					else:
 						form.add_error('password', 'Both the passwords do not match.Enter again.')
 			if(email_exists):
@@ -81,8 +98,9 @@ def edit_profile(request):
 @login_required
 def view_profile(request):
 	user = User.objects.get(pk=request.user.id)
+	anno = Annotator.objects.get(user=user)
 	cutime =datetime.datetime.now()
-	return render(request, 'project_management/view_profile.html',{'user':user})
+	return render(request, 'project_management/view_profile.html',{'user':user,'anno':anno})
 
 @login_required
 def update_profile(request):
@@ -118,6 +136,13 @@ def user_home(request):
 	num_batches = len(batches)
 	context = {'user': request.user, 'is_moderator': is_moderator, 'messages':messages, 'num_messages':num_messages, 'batches':batches, 'num_batches':num_batches}
 	return render(request, 'project_management/user_home.html', context)
+
+@login_required
+def delete_message(request,message_id):
+	Message.objects.get(pk=message_id).delete()
+	# This will delete the Blog and all of its Entry objects.
+	messages = Message.objects.all()
+	return HttpResponseRedirect(reverse('project_management:user_home'))
 
 
 @permission_required('project_management.can_mod')
@@ -253,6 +278,18 @@ def upload_file_within_batch(request, batch_id):
 
 @permission_required('project_management.can_mod')
 @login_required
+def delete_batch(request,batch_id):
+	Batch.objects.get(pk=batch_id).delete()
+	# This will delete the Blog and all of its Entry objects.
+	batches = Batch.objects.all()
+	return HttpResponseRedirect(reverse('project_management:view_all_batches'))
+
+
+
+
+
+@permission_required('project_management.can_mod')
+@login_required
 def view_all_batches(request):
 	if request.method == 'POST':
 		batches = Batch.objects.all()
@@ -316,4 +353,7 @@ def new_message(request):
 		form = NewMessageForm()
 	return render(request, 'project_management/new_message.html', {'form': form, 'user': request.user, 'new_obj':new_obj})
 
-
+@login_required
+def view_message(request,message_id):
+	message = Message.objects.get(pk=message_id)
+	return render(request, 'project_management/view_message.html', {'message':message})

@@ -13,6 +13,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="{% static 'project_management/assets/css/main.css' %}" />
+		<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/css/materialize.min.css"> -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+
 		{% block scripts %}
 		{% endblock %}
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
@@ -25,21 +28,35 @@
 					<div id="header">
 
 						<!-- Logo -->
-							<h1><a href="{%url 'project_management:user_home'%}">Sanchay ⇔ संचय</a></h1>
+							{% if user.is_authenticated %}
+
+							<h1><a href="{% url 'project_management:user_home' %}">Sanchay ⇔ संचय</a></h1>
+							{% else %}
+							<h1><a href="{% url 'project_management:home' %}">Sanchay ⇔ संचय</a></h1>
+							{% endif %}
 
 						<!-- Nav -->
 							<!-- Nav -->
 							<nav id="nav">
 								<ul>
 
+									{% if user.is_authenticated %}
 									<li class="current"><a href="{%url 'project_management:user_home'%}">Home</a></li>
+									{% else %}
+									<li class="current"><a href="{%url 'project_management:home'%}">Home</a></li>
+									{% endif %}
 
 									<li>
 										<a href="#">Batch</a>
 										<ul>
 											<li><a href="{%url 'project_management:view_batches'%}">Alloted batches</a></li>
 										</ul>
-									
+									</li>
+
+									<li>
+										<a href="http://www.sanchay.co.in">Sanchay</a>
+									</li>
+
 								</ul>
 							</nav>
 
@@ -73,7 +90,9 @@
 
 			<!-- Footer -->
 				<div id="footer-wrapper">
-					Test footer
+					<p align = center> Project Management of Sanchay</p>
+					<p align = center> LTRC Labs</p>
+					<p align = center> IIIT Hyderabad</p>
 				</div>
 
 		</div>

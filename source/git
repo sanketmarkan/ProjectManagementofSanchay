@@ -1,0 +1,31 @@
+droftware@droftware:~/SSAD_2015_Team15/source$ git pull origin webportal
+Password for 'https://akshat_tandon@bitbucket.org': 
+remote: Counting objects: 398, done.
+remote: Compressing objects: 100% (304/304), done.
+remote: Total 398 (delta 343), reused 101 (delta 92)
+Receiving objects: 100% (398/398), 6.04 MiB | 947.00 KiB/s, done.
+Resolving deltas: 100% (343/343), completed with 41 local objects.
+From https://bitbucket.org/IIITSERC/ssad_2015_team15
+ * branch            webportal  -> FETCH_HEAD
+ * [new branch]      webportal  -> origin/webportal
+warning: Cannot merge binary files: source/sanchay_web/sanchay_web/settings.pyc (HEAD vs. 9d65d3ce6818dc40245ad1edb3dab58edb1dc59d)
+warning: Cannot merge binary files: source/sanchay_web/sanchay_web/__init__.pyc (HEAD vs. 9d65d3ce6818dc40245ad1edb3dab58edb1dc59d)
+warning: Cannot merge binary files: source/sanchay_web/project_management/models.pyc (HEAD vs. 9d65d3ce6818dc40245ad1edb3dab58edb1dc59d)
+warning: Cannot merge binary files: source/sanchay_web/project_management/__init__.pyc (HEAD vs. 9d65d3ce6818dc40245ad1edb3dab58edb1dc59d)
+Auto-merging source/sanchay_web/sanchay_web/settings.pyc
+CONFLICT (content): Merge conflict in source/sanchay_web/sanchay_web/settings.pyc
+Auto-merging source/sanchay_web/sanchay_web/__init__.pyc
+CONFLICT (content): Merge conflict in source/sanchay_web/sanchay_web/__init__.pyc
+Auto-merging source/sanchay_web/project_management/views.py
+Auto-merging source/sanchay_web/project_management/templates/project_management/view_all_batches.html
+CONFLICT (content): Merge conflict in source/sanchay_web/project_management/templates/project_management/view_all_batches.html
+Auto-merging source/sanchay_web/project_management/templates/project_management/user_home.html
+CONFLICT (content): Merge conflict in source/sanchay_web/project_management/templates/project_management/user_home.html
+Auto-merging source/sanchay_web/project_management/models.pyc
+CONFLICT (content): Merge conflict in source/sanchay_web/project_management/models.pyc
+Auto-merging source/sanchay_web/project_management/models.py
+Auto-merging source/sanchay_web/project_management/__init__.pyc
+CONFLICT (content): Merge conflict in source/sanchay_web/project_management/__init__.pyc
+CONFLICT (modify/delete): source/sanchay_web/db.sqlite3 deleted in HEAD and modified in 9d65d3ce6818dc40245ad1edb3dab58edb1dc59d. Version 9d65d3ce6818dc40245ad1edb3dab58edb1dc59d of source/sanchay_web/db.sqlite3 left in tree.
+Automatic merge failed; fix conflicts and then commit the result.
+droftware@droftware:~/SSAD_2015_Team15/source$ git branch

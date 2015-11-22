@@ -11,62 +11,68 @@
 <br>
 
 <a href="/project_management/create_batch/" class="btn btn-primary ">
-	 New <span class="glyphicon glyphicon-book"></span>
+     New <span class="glyphicon glyphicon-book"></span>
 </a>
 
 {% if batches %}
 <h4> This system contains the following batches </h4>
 
-	<table class="table table-hover">
-	    <thead>
-	      <tr>
-	        <th><h3>ID</h3></th>
-	        <th><h3>Name</h3></th>
-	        <th>View</th>
-	        <th>Add</th>
-	        <th>Allot</th>
-	        <th>Status</th>
-	        <th>Time</th>
-	        <th>Remove</th>
-	      </tr>
-	    </thead>
-	    {% for batch in batches %}
-		    <tbody>
-		      <tr>
-		        <td>{{batch.id}}</td>
-		        <td><span class="glyphicon glyphicon-book"></span> {{batch.name}}</td>
-		        <td>
-		        	<a href="/project_management/{{batch.id}}/batch/" class="btn btn-success btn-sm">
-      				<span class="glyphicon glyphicon-folder-open"></span>
-      				</a>
-      			</td>
-      			<td>
-		        	<a href="/project_management/{{batch.id}}/upload_file/" class="btn btn-success btn-sm">
-      				<span class="glyphicon glyphicon-plus-sign"></span>
-      				</a>
-      			</td>
-      			<td>
-		        	<a href="/project_management/{{batch.id}}/allot_user_within_batch/" class="btn btn-success btn-sm">
-      				<span class="glyphicon glyphicon-user"></span>
-      				</a>
-      			</td>
-      			<td>
 
-      				<span class="glyphicon glyphicon-ban-circle"></span>
-      			</td>
-      			<td>
-      				{{ batch.date_created }}
-      				<span class="glyphicon glyphicon-time"></span>
-      			</td>
-      			<td>
-		        	<a href="#" class="btn btn-danger btn-sm">
-      				<span class="glyphicon glyphicon-remove-sign"></span>
-      				</a>
-      			</td>
-		      </tr>
-		{% endfor %}
-			</tbody>
-	</table>
+    <table class="table table-hover">
+        <thead>
+          <tr>
+            <th><h3>ID</h3></th>
+            <th><h3>Batch Name</h3></th>
+            <th>View</th>
+            <th>Add</th>
+            <th>Allot</th>
+            <th>Status</th>
+            <th>Time</th>
+            <th>Remove</th>
+          </tr>
+        </thead>
+        {% for batch in batches %}
+            <tbody>
+              <tr>
+                <td>{{batch.id}}</td>
+                <td><span class="glyphicon glyphicon-book"></span> {{batch.name}}</td>
+
+                <td>
+                    <a href="/project_management/{{batch.id}}/batch/" class="btn btn-success btn-sm">
+                    <span class="glyphicon glyphicon-folder-open"></span>
+                    </a>
+                </td>
+
+                <td>
+                    <a href="/project_management/{{batch.id}}/upload_file/" class="btn btn-success btn-sm">
+                    <span class="glyphicon glyphicon-plus-sign"></span>
+                    </a>
+                </td>
+
+                <td>
+                    <a href="/project_management/{{batch.id}}/allot_user_within_batch/" class="btn btn-success btn-sm">
+                    <span class="glyphicon glyphicon-user"></span>
+                    </a>
+                </td>
+
+                <td>
+
+                    <span class="glyphicon glyphicon-ban-circle"></span>
+                </td>
+                <td>
+                    {{ batch.date_created }}
+                    <span class="glyphicon glyphicon-time"></span>
+                </td>
+                <td>
+                    <a href="/project_management/{{batch.id}}/delete_batch/" class="btn btn-danger btn-sm">
+                    <span class="glyphicon glyphicon-remove-sign"></span>
+                    </a>
+                </td>
+              </tr>
+        {% endfor %}
+            </tbody>
+    </table>
+
 
 {% else %}
 <p> This system does not have any batch. </p>

@@ -1,3 +1,4 @@
+
 {% extends "base_home.html" %}
 
 {% block login %}
@@ -24,11 +25,11 @@
 {% endblock %}
 
 
+
 {% block content %}
-<h3>Name: {{user.first_name}} {{user.last_name}}</h3>
-</br>
-<h1>Registered On: {{user.date_joined}}</h1>
-<img id='imm' src="{{ anno.model_pic.url }}"  />
-</br>
-<a href="/project_management/upload_pic"><button>Change Profile Pic</button></a>
+<form action='/project_management/upload_pic' method="post" enctype="multipart/form-data">
+	{% csrf_token %}
+	 {{ form.as_p }}
+    <input type="submit" value="Submit" />
+</form>
 {% endblock %}
