@@ -1,0 +1,45 @@
+Sanchay Installation:
+
+Dependencies Required:
+jython
+postgres 
+jdk
+django
+
+JAR Files required:
+jython.jar
+postgres java driver
+rmiio
+Apache commons logging
+
+Installation Procedure:
+SERVER side installations:
+Install jython interpreter.
+(http://www.jython.org/downloads.html)
+
+Setup django to work on Jython interpreter.
+(http://www.jython.org/jythonbook/en/1.0/JythonDjango.html)
+
+Install postgres
+(https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-django-application-on-ubuntu-14-04)
+
+Download postgres driver and set the classpath of the environment in which the server is running to that of the above driver.
+
+Change database settings in settings.py file in sanchay_web directory so that 
+username and password points to the server computers postgres username/password.
+
+Always run django via the jython interpreter and not using the python interpreter.
+
+Change the file paths in SanchayServer java program to the path where your servers media folder is there.
+
+CLIENT side installations:
+
+Download the following jar files 
+*rmiio
+*Apache commons logging
+and and make your Sanchay version point to these jar files.
+
+
+Change the file paths in SanchayClient java package inside Sanchay to the path where you want the downloads to go.
+
+
