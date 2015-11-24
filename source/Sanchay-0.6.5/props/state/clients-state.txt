@@ -36,7 +36,7 @@ Column Names::Property	Value
 KVPropertiesEnd
 KVPropertiesBegin::Sanchay Editor
 Column Names::Property	Value
-CurrentDir	/home/droftware/sanchay/Sanchay-0.6.5/workspace/syn-annotation/Premchand
+CurrentDir	/sanchay/sanchay-release/Sanchay/props/spell-checker
 fontSize	12
 KVPropertiesEnd
 KVPropertiesBegin::Sanchay HTML Browser
@@ -57,7 +57,7 @@ KVPropertiesEnd
 KVPropertiesBegin::Syntactic Annotation
 Column Names::Property	Value
 LangEnc	hin::utf8
-CurrentDir	/home/droftware/sanchay/Sanchay-0.6.5/workspace/syn-annotation/Premchand
+CurrentDir	/work1/anil/sanchay-debug-data
 CurrentFontSize	14
 CurrentTreeEditTab	Tags
 KVPropertiesEnd

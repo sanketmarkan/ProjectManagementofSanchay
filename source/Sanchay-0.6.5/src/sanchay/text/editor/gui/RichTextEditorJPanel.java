@@ -108,6 +108,7 @@ import sanchay.table.gui.DisplayEvent;
 import sanchay.text.SanchayBatchDocument;
 import sanchay.util.DocumentRenderer;
 import sanchay.common.types.ClientType;
+import sanchayclient.LoginForm;
 
 /**
  *

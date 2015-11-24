@@ -847,7 +847,6 @@ public class SyntacticAnnotationWorkJPanel extends javax.swing.JPanel
     
     private void openJButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_openJButtonActionPerformed
 // TODO add your handling code here:
-        System.out.println("------------------=Akshat=-----------");
         if(propbankMode)
         {
             if(GlobalProperties.getClientModes().getPropertyValue("PROPBANK_ANNOTATION").equals("FILE_MODE"))

@@ -63,6 +63,7 @@ import sanchay.gui.common.SanchayLanguages;
 import sanchay.help.HelpApp;
 import sanchay.servers.UserManagerServerRI;
 import sanchay.util.UtilityFunctions;
+import sanchayclient.LoginForm;
 
 /**
  *
@@ -1246,6 +1247,14 @@ private void proxyJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GE
 
     public void connectRemote(ActionEvent e)
     {
+        JFrame window = new JFrame();
+        LoginForm form = new LoginForm();
+        window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        window.add(form);
+        window.setTitle("Login");
+        window.setSize(300, 150);
+        window.setVisible(true);
+        /*
 	if(loggedIn)
 	    sanchayLogout(null);
 //	else
@@ -1294,7 +1303,7 @@ private void proxyJMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GE
 	    disconnectRemote(null);
             statusJLabel.setText(result);
             ex.printStackTrace();
-	}
+	}*/
     }
 
     public void disconnectRemote(ActionEvent e)

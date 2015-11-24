@@ -877,7 +877,6 @@ public class TextEditorJPanel extends javax.swing.JPanel implements WindowListen
     }
     
     public void open(EventObject e) {
-        System.out.println("Hello Akshat");
 //        Cursor cursor = null;
 //        
 //        if(owner != null)
@@ -929,13 +928,10 @@ public class TextEditorJPanel extends javax.swing.JPanel implements WindowListen
     }
 
     public void displayFileInBackground(File file, String charset, EventObject e) {
-        System.out.println("--1--");
         (displayFileTask = new DisplayFileTask(this, file, charset, e)).execute();
     }
     
     public void displayFile(File file, String charset, EventObject e) {
-         System.out.println("--2--");
-         System.out.println("--2--" + charset);
         if(file.isFile() == false || file.exists() == false)
             return;
 

@@ -991,7 +991,6 @@ public class SyntacticAnnotationTaskSetupJPanel extends javax.swing.JPanel
     {//GEN-HEADEREND:event_moreOptionsJButtonActionPerformed
         // TODO add your handling code here:
         showMoreOptions(evt);
-       
     }//GEN-LAST:event_moreOptionsJButtonActionPerformed
 
     private void encodingJComboBoxActionPerformed(java.awt.event.ActionEvent evt)//GEN-FIRST:event_encodingJComboBoxActionPerformed
@@ -1343,7 +1342,6 @@ public class SyntacticAnnotationTaskSetupJPanel extends javax.swing.JPanel
      * event-dispatching thread.
      */
     private static void createAndShowGUI() {
-        System.out.println("Akshat");
 	
         JFrame.setDefaultLookAndFeelDecorated(true);
 
